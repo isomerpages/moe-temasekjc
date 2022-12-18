@@ -4,3 +4,12 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Academic
+    url: /academic/integrated-programme/enriched-curriculum
+    sublinks:
+      - title: Integrated Programme
+        url: /academic/integrated-programme/enriched-curriculum
+      - title: Junior College
+        url: /academic/junior-college/curriculum-overview
+      - title: Special Programmes
+        url: /academic/special-programmes/chinese-language-elective-programme
