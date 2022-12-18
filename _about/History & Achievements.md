@@ -4,3 +4,16 @@ permalink: /about/history-n-achievements/
 description: ""
 ---
 # HISTORY & ACHIEVEMENTS
+'Established in 1977, the College took on the name ‘Temasek’, meaning ‘Sea Town’, the old name for Singapore. Our College was aptly named after the nation in the hope of preserving the spirit of old Singapore in a rapidly modernising age. In addition, the name was chosen to honour our nation’s forefathers whose resilience and fortitude had seen Singapore through its early days.
+
+  
+
+Led by our founding Principal Mr Wee Heng Tin, the pioneer batch of teachers crafted TJC’s motto – _For College, For Nation_ – to be the clarion call for all TJCians to contribute to our college, our community and our nation. As the College continues to groom and nurture the thinkers, leaders and trailblazers of tomorrow, we take pride in celebrating its rich and illustrious past, as well as reinventing ourselves to continue providing quality learning experiences for our students through _Temasek Excellence_.
+
+  
+
+Under the dynamic leadership of our past and present principals, together with a capable and enthusiastic staff fraternity who pursue professional excellence, the College has grown from strength to strength. Today, TJC is a Centre of Excellence for Research and an established Centre for the MOE Humanities Scholarship Programme, the Music Elective Programme and the Chinese Language Elective Programme.
+
+![](/images/About/HISTORY%20&%20ACHIEVEMENTS/Temasek%20JC%20Timeline%202023.jpg)
+
+<center>Key milestones in our history</center>
