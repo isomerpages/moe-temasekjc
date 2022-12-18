@@ -45,9 +45,9 @@ description: ""
 			<table>
 <tbody>
 <tr>
-<td width="166"><strong>NAME</strong></td>
-<td width="246"><strong>AWARDING AGENCY</strong></td>
-<td width="196"><strong>SCHOLARSHIP</strong></td>
+<td width="166" style="text-align: center;"><strong>NAME</strong></td>
+<td width="246" style="text-align: center;"><strong>AWARDING AGENCY</strong></td>
+<td width="196" style="text-align: center;"><strong>SCHOLARSHIP</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3" width="608"><strong>2021</strong></td>
