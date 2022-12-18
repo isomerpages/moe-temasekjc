@@ -41,10 +41,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">STUDENT ACHIEVEMENTS (SCHOLARSHIPS)</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+			<p><b>UNDERGRADUATE SCHOLARSHIPS</b></p>
     </div>
   </li>
   <li>
