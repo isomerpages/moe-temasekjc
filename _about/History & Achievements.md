@@ -39,7 +39,7 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">STUDENT ACHIEVEMENTS (SCHOLARSHIPS)</label>
     <div>
       <p>
         This is all going
