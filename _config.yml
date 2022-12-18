@@ -1,6 +1,6 @@
 title: Temasek Junior College
 url: https://www.temasekjc.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/faveicon.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1r3g902t2cxhp.amplifyapp.com
 prod: https://master.d1r3g902t2cxhp.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/tjc_logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
