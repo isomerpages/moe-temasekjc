@@ -20,7 +20,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">COLLEGE CREST</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p style="text-align: justify;">Our College crest, designed by Mr Seah Lye Huat, a pioneering staff of the PE Department, depicts the letters TJC in bold form, set against a green background which represents a clean and green environment. The letter T in yellow reflects the iconic architecture of our College lecture theatres. The divisions in the cross-bar of the T stand for the five national ideals of justice, equality, happiness, prosperity and progress. The segments in the trunk of that letter symbolise the four major races working in unison towards these ideals.</p>
     </div>
 	</li>  
   <li>
