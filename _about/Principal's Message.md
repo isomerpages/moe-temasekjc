@@ -9,11 +9,11 @@ Warmest greetings: we are very happy to share the TJ story with you!
 
   
 
-“Success is a journey, not a destination. The doing is often more important than the outcome.” (quote attributed to Arthur Ashe). Do walk our ‘journeys’ with us through our social media pages: [Instagram](https://www.instagram.com/temasekjc/?hl=en) and [Facebook](https://www.facebook.com/Temasek.Junior.College/).
+“Success is a journey, not a destination. The doing is often more important than the outcome.” (quote attributed to Arthur Ashe). Do walk our ‘journeys’ with us through our social media pages: [Instagram]<a href="" target="_blank"></a>(https://www.instagram.com/temasekjc/?hl=en) and [Facebook]<a href="" target="_blank"></a>(https://www.facebook.com/Temasek.Junior.College/).
 
   
 
-To read about our ‘destinations’, view our [Achievements](https://www.temasekjc.moe.edu.sg/about/history-n-achievements) and our [2020 Yearbook](https://www.temasekjc.moe.edu.sg/temasek-experience/college-yearbooks).
+To read about our ‘destinations’, view our <a href="/about/history-n-achievements" target="_blank">Achievements</a> and our <a href="/temasek-experience/college-yearbooks" target="_blank">2020 Yearbook</a>.
 
   
 
