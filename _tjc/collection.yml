@@ -1,4 +1,5 @@
 collections:
   tjc:
     output: true
-    order: []
+    order:
+      - CONTACT US.md
