@@ -28,10 +28,10 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">COLLEGE ACHIEVEMENTS</label>
     <div>
-      <p>SCHOOL DISTINCTION AWARD</p>
+      <p><b>SCHOOL DISTINCTION AWARD</b></p>
 			<img src="/images/About/HISTORY%20&%20ACHIEVEMENTS/School%20Distinction%20Award.jpg" style="width:40%">
 			<p style="text-align: justify;">In 2015, TJC was awarded the School Distinction Award (SDA) which recognises high-achieving schools with exemplary school processes and practices. On top of the SDA, TJC also clinched Best Practices awards in Teaching and Learning, Student All-Round Development, Staff Well-Being and Development, Character and Citizenship Education and Partnership.</p>
-      <p>This is line 2<br>
+			<p><b>SCHOOL EXCELLENCE AWARD</b><br>
         This is line 3</p>
     </div>
   </li>
