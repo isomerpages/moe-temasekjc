@@ -21,7 +21,7 @@ Warmest greetings: we are very happy to share the TJ story with you!
 
   
 
-<p style="text-align: justify;">Finally: a word about myself. I joined Education Service in 1997 and have held various appointments, including Vice-Principal at TJ (2005-2007). I was also Principal of two secondary schools and Director, Pre-school Education Branch, MOE, where I set up the MOE Kindergartens. These were invaluable experiences which have honed my mantra _**Dare to Try**_: simply put, **_Dare to Try_** means that if you think something is worthwhile doing, and there is no known reason to not do it, then you should give it a try. If there are unforeseen outcomes, then we smile, learn from it and try again (and do not blame anyone!).</p>
+<p style="text-align: justify;">Finally: a word about myself. I joined Education Service in 1997 and have held various appointments, including Vice-Principal at TJ (2005-2007). I was also Principal of two secondary schools and Director, Pre-school Education Branch, MOE, where I set up the MOE Kindergartens. These were invaluable experiences which have honed my mantra <i><b>Dare to Try</b></i>: simply put, <i><b>Dare to Try</b></i> means that if you think something is worthwhile doing, and there is no known reason to not do it, then you should give it a try. If there are unforeseen outcomes, then we smile, learn from it and try again (and do not blame anyone!).</p>
 
   
 
