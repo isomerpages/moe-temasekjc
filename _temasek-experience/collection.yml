@@ -1,4 +1,5 @@
 collections:
   temasek-experience:
     output: true
-    order: []
+    order:
+      - College Yearbooks.md
