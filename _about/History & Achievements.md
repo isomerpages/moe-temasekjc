@@ -157,7 +157,145 @@ description: ""
 </tr>
 </tbody>
 </table>
-			<p></p>
+			<p><b>PRE-UNIVERSITY SCHOLARSHIPS</b></p>
+			<table style="height: 864px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px; text-align: center;"><strong>NAME</strong></td>
+<td style="text-align: center; height: 18px; width: 246.646px;"><strong>SCHOLARSHIP/AWARD</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="text-align: center; height: 18px; width: 452.667px;" colspan="2"><strong>2021</strong></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">JOHNASIR SHWETA JOSALYN</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">PHOEBE TAN YAN ZHEN</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">SEAN NATHANIEL TAN</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">ANGELINE TOH</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">FAITH NEO KAH SWAN</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">JADYN CHIN RUI YI</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">KOH KIM XUAN</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">LOONG JIA YEE RACHEL</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">MUHAMMAD NOR ISAAC BIN RAFINYI</td>
+<td style="height: 36px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">TEE ZHONG EN ERNST</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">TENG JIE YING FAITH</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">TEO YI ZHUAN</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">BRINA LAI MIN XUAN</td>
+<td style="height: 18px; width: 246.646px;">MOE HUMANITIES SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">GOH HAN SHENG</td>
+<td style="height: 18px; width: 246.646px;">CSIT SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">GOH SIAU TAN</td>
+<td style="height: 18px; width: 246.646px;">DSTA (JC) SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">ELIAS ALJOOFRI</td>
+<td style="height: 18px; width: 246.646px;">SAF YOUNG LEADERS AWARD</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">SHEAK HOY YIP</td>
+<td style="height: 18px; width: 246.646px;">SAF YOUNG LEADERS AWARD</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">TAN YUE WEN, EUNICE</td>
+<td style="height: 18px; width: 246.646px;">YDSP SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="text-align: center; height: 18px; width: 452.667px;" colspan="2"><strong>2020</strong></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">SHEAK HOY YIP</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">TAN KAI TING</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">TAN YING XUN, MEGAN</td>
+<td style="height: 36px; width: 246.646px;">MOE PRE-UNIVERSITY SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">KEVAN LIM</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">LI XINYAO</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">LIU ZHI QI</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">MICHELLE NG XUE YING</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">SIM QIN YI</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">TANG WEI MIN</td>
+<td style="height: 36px; width: 246.646px;">MOE LANGUAGE ELECTIVE SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">PHANG POH HUI</td>
+<td style="height: 18px; width: 246.646px;">A*STAR SCIENCE AWARD (JC)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">SHEAK HOY YIP</td>
+<td style="height: 18px; width: 246.646px;">A*STAR SCIENCE AWARD (JC)</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 200.021px;">ESS ALEXANDER JONES SHIJIE</td>
+<td style="height: 36px; width: 246.646px;">DSTA (JC) SCHOLARSHIP</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 200.021px;">TOH EE SEN, IZEN</td>
+<td style="height: 18px; width: 246.646px;">DSTA (JC) SCHOLARSHIP</td>
+</tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
