@@ -1,5 +1,7 @@
 logo: /images/tjc_logo.png
 links:
+  - title: About
+    collection: about
   - title: Academic
     url: /academic/integrated-programme/enriched-curriculum
     sublinks:
@@ -9,5 +11,3 @@ links:
         url: /academic/junior-college/curriculum-overview
       - title: Special Programmes
         url: /academic/special-programmes/chinese-language-elective-programme
-  - title: About
-    collection: about
