@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - History & Achievements.md
       - Principal's Message.md
