@@ -31,8 +31,10 @@ description: ""
       <p><b>SCHOOL DISTINCTION AWARD</b></p>
 			<img src="/images/About/HISTORY%20&%20ACHIEVEMENTS/School%20Distinction%20Award.jpg" style="width:40%">
 			<p style="text-align: justify;">In 2015, TJC was awarded the School Distinction Award (SDA) which recognises high-achieving schools with exemplary school processes and practices. On top of the SDA, TJC also clinched Best Practices awards in Teaching and Learning, Student All-Round Development, Staff Well-Being and Development, Character and Citizenship Education and Partnership.</p>
-			<p><b>SCHOOL EXCELLENCE AWARD</b><br>
-        This is line 3</p>
+			<p><b>SCHOOL EXCELLENCE AWARD</b></p>
+			<img src="/images/About/HISTORY%20&%20ACHIEVEMENTS/School%20Excellence%20Award.jpg" style="width:40%">
+        <p style="text-align: justify;">In 2008, TJC received the prestigious School Excellence Award (SEA) from the Ministry of Education. The SEA recognizes schools for their excellence in both education processes and outcomes. It serves as a mark of distinction for schools that have achieved sustained achievements in a wide spectrum of student development processes.
+</p>
     </div>
   </li>
   <li>
