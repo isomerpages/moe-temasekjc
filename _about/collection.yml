@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Values & Mission.md
       - Principal's Message.md
+      - Values & Mission.md
       - History & Achievements.md
