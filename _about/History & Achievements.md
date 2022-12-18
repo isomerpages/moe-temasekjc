@@ -42,6 +42,122 @@ description: ""
     <label for="accordion3">STUDENT ACHIEVEMENTS (SCHOLARSHIPS)</label>
     <div>
 			<p><b>UNDERGRADUATE SCHOLARSHIPS</b></p>
+			<table>
+<tbody>
+<tr>
+<td width="166"><strong>NAME</strong></td>
+<td width="246"><strong>AWARDING AGENCY</strong></td>
+<td width="196"><strong>SCHOLARSHIP</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3" width="608"><strong>2021</strong></td>
+</tr>
+<tr>
+<td width="166">BETHANY CHONG YU LIN</td>
+<td width="246">PUBLIC SERVICE COMMISSION</td>
+<td width="196">PSC SCHOLARSHIP (ENGINEERING)</td>
+</tr>
+<tr>
+<td width="166">TANG YU HAN, BRANDON</td>
+<td width="246">PUBLIC SERVICE COMMISSION</td>
+<td width="196">PSC SCHOLARSHIP (ENGINEERING)</td>
+</tr>
+<tr>
+<td width="166">MARIE ANNE-LISE TAN</td>
+<td width="246">PUBLIC SERVICE COMMISSION</td>
+<td width="196">PSC SCHOLARSHIP (OPEN)</td>
+</tr>
+<tr>
+<td width="166">MUHAMMAD ARSYAD BIN MOHAMED SHAHRIL</td>
+<td width="246">PUBLIC SERVICE COMMISSION</td>
+<td width="196">PSC SCHOLARSHIP (TEACHING)</td>
+</tr>
+<tr>
+<td width="166">ANG SHI YUN</td>
+<td width="246">MINISTRY OF NATIONAL DEVELOPMENT / BUILDING AND CONSTRUCTION AUTHORITY</td>
+<td width="196">BCA LOCAL UNDERGRADUATE SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">DOMINIC SONG JUN JIE</td>
+<td width="246">MINISTRY OF NATIONAL DEVELOPMENT / HOUSING DEVELOPMENT BOARD</td>
+<td width="196">HDB SPECIALIST SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">TEO XU YUAN NICHOLAS</td>
+<td width="246">MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT / NATIONAL ENVIRONMENT AGENCY</td>
+<td width="196">SINGAPORE SUSTAINABILITY SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">MUHAMMAD HAATIM BIN JA'AFAR</td>
+<td width="246">SINGAPORE CIVIL DEFENCE FORCE</td>
+<td width="196">LOCAL MERIT SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">AWAIS ABDULLAH AKRAM</td>
+<td width="246">SINGAPORE POLICE FORCE</td>
+<td width="196">LOCAL MERIT SCHOLARSHIP</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3" width="608"><strong>2020</strong></td>
+</tr>
+<tr>
+<td width="166">LAO JING HUI</td>
+<td width="246">PUBLIC SERVICE COMMISSION</td>
+<td width="196">PSC SCHOLARSHIP (PUBLIC ADMINISTRATION)</td>
+</tr>
+<tr>
+<td width="166">LEONG ZI YU</td>
+<td width="246">MINISTRY OF EDUCATION</td>
+<td width="196">TEACHING SCHOLARSHIP (LOCAL)</td>
+</tr>
+<tr>
+<td width="166">SIEW TUNG DAWN</td>
+<td width="246">MINISTRY OF EDUCATION</td>
+<td width="196">TEACHING SCHOLARSHIP (LOCAL)</td>
+</tr>
+<tr>
+<td width="166">TAN YAN CHONG</td>
+<td width="246">MINISTRY OF EDUCATION</td>
+<td width="196">TEACHING SCHOLARSHIP (LOCAL)</td>
+</tr>
+<tr>
+<td width="166">THIN LAE YI ZAW</td>
+<td width="246">MINISTRY OF EDUCATION</td>
+<td width="196">TEACHING SCHOLARSHIP (LOCAL)</td>
+</tr>
+<tr>
+<td width="166">CHAN JIA HUI, BERNICE</td>
+<td width="246">MINISTRY OF NATIONAL DEVELOPMENT / BUILDING AND CONSTRUCTION AUTHORITY</td>
+<td width="196">BCA-iBUILDSG UNDERGRADUATE SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">ZHAO CAIHENG</td>
+<td width="246">MINISTRY OF NATIONAL DEVELOPMENT / BUILDING AND CONSTRUCTION AUTHORITY</td>
+<td width="196">BCA-iBUILDSG UNDERGRADUATE SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">NEESHA CHEONG</td>
+<td width="246">MINISTRY OF LAW</td>
+<td width="196">SINGAPORE LAND AUTHORITY UNDERGRADUATE SCHOLARSHIPS</td>
+</tr>
+<tr>
+<td width="166">TAN GUAN YU</td>
+<td width="246">MINISTRY OF LAW</td>
+<td width="196">SINGAPORE LAND AUTHORITY UNDERGRADUATE SCHOLARSHIPS</td>
+</tr>
+<tr>
+<td width="166">FOO TZE EN LINUS</td>
+<td width="246">DEFENCE SCIENCE AND TECHNOLOGY (DSTA)</td>
+<td width="196">DSTA SCHOLARSHIP</td>
+</tr>
+<tr>
+<td width="166">TAN LE YI</td>
+<td width="246">DEFENCE SCIENCE AND TECHNOLOGY (DSTA)</td>
+<td width="196">DSTA SCHOLARSHIP</td>
+</tr>
+</tbody>
+</table>
+			<p></p>
     </div>
   </li>
   <li>
