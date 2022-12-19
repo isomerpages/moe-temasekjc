@@ -393,13 +393,74 @@ description: ""
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">STUDENT ACHIEVEMENTS (CCAS – SPORTS)</label>
     <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+			<p><b>INTEGRATED PROGRAMME – NATIONAL SCHOOL GAMES*</b></p>
+			<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>CCA</strong></th>
+<th style="text-align: center;"><strong>2019</strong></th>
+<th style="text-align: center;"><strong>2018</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>BASKETBALL</strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong>&lsquo;C&rsquo; DIV (BOYS):</strong><br /><strong>2ND (East Zone)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>SWIMMING</strong></td>
+<td style="text-align: center;"><strong>&lsquo;B&rsquo; DIV (BOYS): 6th</strong></td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>TAEKWONDO</strong></td>
+<td style="text-align: center;"><strong>&lsquo;C&rsquo; DIV (GIRLS): 3rd</strong></td>
+<td style="text-align: center;"><strong>&lsquo;C&rsquo; DIV (GIRLS): 3rd</strong></td>
+</tr>
+</tbody>
+</table>
+			<p><i>*The National School Games were not held in 2020 and 2021 in light of the COVID-19 pandemic.</i></p>
+			<p><b>JUNIOR COLLEGE – NATIONAL SCHOOL GAMES*</b></p>
+			<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>CCA</strong></th>
+<th style="text-align: center;"><strong>2021</strong></th>
+<th style="text-align: center;"><strong>2019</strong></th>
+<th style="text-align: center;"><strong>2018</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>BOWLING</strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong>BOYS: 5th</strong><br /><strong>GIRLS: 3rd</strong></td>
+<td style="text-align: center;"><strong>BOYS: 3rd</strong><br /><strong>GIRLS: 4th</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>SHOOTING</strong></td>
+<td style="text-align: center;"><strong>BOYS &ndash; AIR RIFLE: 4th</strong><br /><strong>GIRLS &ndash; AIR RIFLE: 5th</strong><br /><br /><strong>BOYS &ndash; AIR PISTOL: 6th</strong><br /><strong>GIRLS &ndash; AIR PISTOL: 6th</strong></td>
+<td style="text-align: center;"><strong>BOYS &ndash; AIR RIFLE: 3rd</strong></td>
+<td style="text-align: center;"><strong>BOYS &ndash; AIR RIFLE: 2nd</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>SWIMMING</strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong>BOYS &ndash; FREESTYLE RELAY: 5th</strong><br /><strong>GIRLS &ndash; FREESTYLE RELAY: 4th</strong></td>
+<td style="text-align: center;"><strong>GIRLS: 4th</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>TAEKWONDO</strong></td>
+<td style="text-align: center;"><strong>BOYS - POMSAE: 2nd</strong><br /><strong>GIRLS - POMSAE: 3rd</strong></td>
+<td style="text-align: center;"><strong>BOYS: 2nd</strong><br /><strong>GIRLS: 3rd</strong></td>
+<td style="text-align: center;"><strong>BOYS: 2nd</strong></td>
+</tr>
+</tbody>
+</table>
+			<p><i>*The National School Games for most sports were not held in 2020 and 2021 in light of the COVID-19 pandemic.</i></p>
     </div>
   </li>
 </ul>
