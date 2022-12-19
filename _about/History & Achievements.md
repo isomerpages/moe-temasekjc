@@ -303,6 +303,37 @@ description: ""
     <label for="accordion4">STUDENT ACHIEVEMENTS (CCAS – PERFORMING ARTS)</label>
     <div>
 			<p><b>INTEGRATED PROGRAMME – SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION AWARDS</b></p>
+			<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>CCA</strong></th>
+<th style="text-align: center;"><strong>2021</strong></th>
+<th style="text-align: center;"><strong>2019</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>CHOIR#</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>GUITAR ENSEMBLE</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>ACCOMPLISHMENT</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>MODERN DANCE</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>SYMPHONIC BAND</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>ACCOMPLISHMENT</strong></td>
+</tr>
+</tbody>
+</table>
     </div>
   </li>
     
