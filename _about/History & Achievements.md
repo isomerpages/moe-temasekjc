@@ -335,7 +335,61 @@ description: ""
 </tbody>
 </table>
 			<p><i> #The 2021 Choir Arts Presentation (AP) was reformatted into an audio recording submission. Benchmarking and awarding of SYF AP certification was removed in 2021 in view of the reformatted mode.</i></p>
-    </div>
+			<p><b>JUNIOR COLLEGE – SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION AWARDS</b></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>CCA</strong></th>
+<th style="text-align: center;"><strong>2021</strong></th>
+<th style="text-align: center;"><strong>2019</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>CHINESE DRAMA*</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ACCOMPLISHMENT</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>CHINESE ORCHESTRA</strong></td>
+<td style="text-align: center;"><strong>ACCOMPLISHMENT</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>CHOIR#</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>ENGLISH DRAMA*</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION &amp; ACCOMPLISHMENT</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>GUITAR ENSEMBLE</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>MODERN DANCE</strong></td>
+<td style="text-align: center;"><strong>ACCOMPLISHMENT</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>STRINGS ENSEMBLE</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>SYMPHONIC BAND</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+<td style="text-align: center;"><strong>DISTINCTION</strong></td>
+</tr>
+</tbody>
+</table>
+			<p><i>*Chinese Drama and English Drama's SYF Central Judging were held a year earlier (even years). The 2020 SYF Central Judging for Chinese and English Drama was not held in light of the COVID-19 pandemic.
+#The 2021 Choir Arts Presentation (AP) was reformatted into an audio recording submission. Benchmarking and awarding of SYF AP certification was removed in 2021 in view of the reformatted mode.</i></p>
+   </div>
   </li>
     
   <li>
