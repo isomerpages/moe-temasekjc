@@ -300,12 +300,9 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">STUDENT ACHIEVEMENTS (CCAS – PERFORMING ARTS)</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
+			<p><b>INTEGRATED PROGRAMME – SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION AWARDS</b></p>
     </div>
   </li>
     
