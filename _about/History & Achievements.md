@@ -334,6 +334,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+			<p><i> #The 2021 Choir Arts Presentation (AP) was reformatted into an audio recording submission. Benchmarking and awarding of SYF AP certification was removed in 2021 in view of the reformatted mode.</i></p>
     </div>
   </li>
     
