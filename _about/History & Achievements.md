@@ -387,8 +387,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-			<p><i>*Chinese Drama and English Drama's SYF Central Judging were held a year earlier (even years). The 2020 SYF Central Judging for Chinese and English Drama was not held in light of the COVID-19 pandemic.
-#The 2021 Choir Arts Presentation (AP) was reformatted into an audio recording submission. Benchmarking and awarding of SYF AP certification was removed in 2021 in view of the reformatted mode.</i></p>
+			<p><i>*Chinese Drama and English Drama's SYF Central Judging were held a year earlier (even years). The 2020 SYF Central Judging for Chinese and English Drama was not held in light of the COVID-19 pandemic.<br>#The 2021 Choir Arts Presentation (AP) was reformatted into an audio recording submission. Benchmarking and awarding of SYF AP certification was removed in 2021 in view of the reformatted mode.</i></p>
    </div>
   </li>
     
