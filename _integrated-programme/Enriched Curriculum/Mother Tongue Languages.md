@@ -37,6 +37,22 @@ third_nav_title: Enriched Curriculum
 </tbody>
 </table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We organise a series of exciting activities to enrich our students’ language learning experience. We do this through a tiered approach throughout the year, during Sabbatical Week, MTL Fortnight, Cohort Programme and during the post-examination period. Firstly, we organise learning journeys, drama appreciation and talks by local authors to expose all students to the application of the languages in daily authentic situations. Secondly, students get the opportunities to participate in seminars and workshops, where they are guided by experts in the areas of speaking and writing. Their learning experience is further enhanced through external activities and competitions. Finally, outstanding students who show a proficiency in languages are invited to join our talent development programme, where they specialise in particular skills and content of the languages.</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Autograph session with local<br>author Mr John Wong</td>
+    <td>Enjoying a ML cultural<br>board game</td>
+    <td>Learning Journey for<br>TL students</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
