@@ -17,4 +17,14 @@ description: ""
 <p style="text-align: justify;">To deepen students’ learning and development, the CAC members have been generously offering their time and expertise to widen the resource base of the College, enabling the College to forge strategic partnerships to enrich its programmes such as the Temasek Internship Programme (TIP). They also provide mentorship for our students in the Talent Development Programme (TDP).</p>
 
 
-MEMBERS OF THE CAC
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">MEMBERS OF THE CAC</label>
+    <div>
+
+    </div>
+	</li> 
+	</ul>
