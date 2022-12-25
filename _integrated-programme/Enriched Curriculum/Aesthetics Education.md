@@ -63,7 +63,7 @@ third_nav_title: Enriched Curriculum
 </tr>
 </tbody>
 </table>
-    <p style="text-align: justify;">Designed within the framework of the <b>Renzulli Schoolwide Enrichment Model</b>, students in the Temasek Academy participate in Type II and Type III enrichment programmes which deepen their disciplinary knowledge, allow them to learn from practitioners and experts in the field, and enable them to develop research skills in their chosen field. Our Temasek Academy students are closely mentored and guided by our IP tutors to help them develop their talents to the fullest potential.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Experiencing the Aesthetics – viewing, listening, doing and expressing – is essential to the effective learning of the various aesthetic modules. Where relevant, students will embark on field trips to museums, watch performances that allow them to see practitioners at work and attend artist seminars or talks.</p>
     </div>
 	</li> 
   <li>
