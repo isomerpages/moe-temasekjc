@@ -31,8 +31,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;">A lively discussion during<br>Chinese Language lessons</td>
-    <td style="text-align: center;">Confident presenters during<br>Tamil Language lessons</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%202_T_L%20CL.jpg" style="width:90%">A lively discussion during<br>Chinese Language lessons</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%203_T_L%20ML.jpg" style="width:80%">Confident presenters during<br>Tamil Language lessons</td>
   </tr>
 </tbody>
 </table>
