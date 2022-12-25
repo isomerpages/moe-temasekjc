@@ -2,6 +2,6 @@ collections:
   integrated-programme:
     output: true
     order:
-      - Enriched Curriculum/Aesthetics Education.md
-      - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/.keep
+      - Enriched Curriculum/Enriched Curriculum.md
+      - Enriched Curriculum/Aesthetics Education.md
