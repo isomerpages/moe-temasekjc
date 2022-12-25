@@ -19,10 +19,72 @@ description: ""
     <label for="accordion1">PEERS PROJECT COMMITTEES</label>
     <div>
 			<img src="/images/About/TJC%20Alumni%20Exco%20Photo.jpg" style="width:50%">
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<table>
+<thead>
+  <tr>
+    <th>Name<br></th>
+    <th>Designation<br></th>
+    <th>Class of<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Marc Goh Kheng Kian<br></td>
+    <td>President<br></td>
+    <td>90/91<br></td>
+  </tr>
+  <tr>
+    <td>Francis Tong Chee Beng<br></td>
+    <td>Vice President<br></td>
+    <td>77/78<br></td>
+  </tr>
+  <tr>
+    <td>David Wong Wei Li<br></td>
+    <td>Hon. Secretary<br></td>
+    <td>78/79<br></td>
+  </tr>
+  <tr>
+    <td>Chu Cehan<br></td>
+    <td>Asst. Hon. Secretary<br></td>
+    <td>13/14<br></td>
+  </tr>
+  <tr>
+    <td>Goh Yong Seng<br></td>
+    <td>Hon. Treasurer<br></td>
+    <td>90/91<br></td>
+  </tr>
+  <tr>
+    <td>Patrick Fernandez<br></td>
+    <td>Asst. Hon. Treasurer<br></td>
+    <td>80/81<br></td>
+  </tr>
+  <tr>
+    <td>Nurhidayati Mohamed Suphan<br></td>
+    <td>Committee Member<br></td>
+    <td>89/90<br></td>
+  </tr>
+  <tr>
+    <td>Kursheed Banou<br></td>
+    <td>Committee Member<br></td>
+    <td>77/78<br></td>
+  </tr>
+  <tr>
+    <td>Serbrinder Singh Sidhu<br></td>
+    <td>Committee Member<br></td>
+    <td>88/89<br></td>
+  </tr>
+  <tr>
+    <td>Thomas Chong<br></td>
+    <td>Committee Member<br></td>
+    <td>80/81<br></td>
+  </tr>
+  <tr>
+    <td>Teo Li San Melissa<br></td>
+    <td>Liaison<br></td>
+    <td>06/07</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
