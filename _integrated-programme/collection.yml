@@ -2,9 +2,9 @@ collections:
   integrated-programme:
     output: true
     order:
-      - Enriched Curriculum/Mathematics.md
       - Enriched Curriculum/.keep
       - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/Aesthetics Education.md
       - Enriched Curriculum/Humanities.md
       - Enriched Curriculum/Language Arts.md
+      - Enriched Curriculum/Mathematics.md
