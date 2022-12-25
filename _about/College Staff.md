@@ -61,11 +61,132 @@ description: ""
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">ARTS DEPARTMENT: HUMANITIES – JC (ECONOMICS, GEOGRAPHY & HISTORY)</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+     <table>
+<thead>
+  <tr>
+    <th colspan="2">Name<br></th>
+    <th>Designation<br></th>
+    <th>Unit<br></th>
+    <th>Email<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr<br></td>
+    <td>Koh Weining<br></td>
+    <td>HOD / Economics<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:koh_weining@moe.edu.sg">koh_weining@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mrs<br></td>
+    <td>Lim Kai Teng<br></td>
+    <td>Dean / Junior College<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:fan_kai_teng@moe.edu.sg">fan_kai_teng@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Wong Ying Ying<br></td>
+    <td>HOD / CCE &amp; Student Well-Being<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Jared Wong<br></td>
+    <td>HOD / Humanities (JC)<br></td>
+    <td>Geography<br></td>
+    <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Melissa Teo<br></td>
+    <td>Deputy Head / Economics<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:teo_li_san_melissa@moe.edu.sg">teo_li_san_melissa@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Chua Cheng Ying<br></td>
+    <td>Deputy Head / Student Leadership<br></td>
+    <td>Geography<br></td>
+    <td><a href="mailto:cheng_ying_chua@moe.edu.sg">cheng_ying_chua@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Zeng Wenjie<br></td>
+    <td>Senior Teacher / Economics<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:zeng_wenjie@moe.edu.sg">zeng_wenjie@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mrs<br></td>
+    <td>Ang Siew Kwai<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:tong_siew_kwai@moe.edu.sg">tong_siew_kwai@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Gracia Lam<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:lam_pei_en_gracia@moe.edu.sg">lam_pei_en_gracia@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Koh Rui Yang<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mdm<br></td>
+    <td>Lim Li Lian<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:lim_li_lian_d@moe.edu.sg">lim_li_lian_d@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Yeo Kai Xiang<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:yeo_kai_xiang_a@moe.edu.sg">yeo_kai_xiang_a@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Julian Chang<br></td>
+    <td>Teacher<br></td>
+    <td>Geography<br></td>
+    <td><a href="mailto:chang_xiao_ping_julian@moe.edu.sg">chang_xiao_ping_julian@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Hasim Hasan<br></td>
+    <td>Teacher<br></td>
+    <td>History<br></td>
+    <td><a href="mailto:hasim_hasan@moe.edu.sg">hasim_hasan@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Janice Chan<br></td>
+    <td>Teacher<br></td>
+    <td>History<br></td>
+    <td><a href="mailto:chan_yan_ying_janice@moe.edu.sg">chan_yan_ying_janice@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Nicolette Teo<br></td>
+    <td>Teacher<br></td>
+    <td>History<br></td>
+    <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
