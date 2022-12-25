@@ -2,4 +2,5 @@ collections:
   integrated-programme:
     output: true
     order:
+      - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/.keep
