@@ -24,7 +24,36 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">MEMBERS OF THE CAC</label>
     <div>
-
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td  style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
 	</ul>
