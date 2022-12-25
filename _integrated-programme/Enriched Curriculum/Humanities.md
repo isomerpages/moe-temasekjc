@@ -116,8 +116,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Humanities/Infographic%20Sample%201.jpg" style="width:80%"></td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Humanities/Infographic%20Sample%202.jpg" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
