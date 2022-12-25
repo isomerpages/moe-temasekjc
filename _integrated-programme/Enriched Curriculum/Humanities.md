@@ -4,3 +4,8 @@ permalink: /academic/integrated-programme/enriched-curriculum/humanities/
 description: ""
 third_nav_title: Enriched Curriculum
 ---
+# HUMANITIES
+
+<p style="text-align: justify;">Our IP Humanities department takes an interdisciplinary and integrated approach to engage students and nurture their ability to take multiple perspectives. Using real-world tasks and case studies, students will hone vital skills and competencies, such as critical thinking and analytical skills, which are essential for success in a globalised world.</p>
+
+<p style="text-align: justify;">At IP Years 1 and 2, students are introduced to Fundamental Humanities, an integrated subject that employs the lenses of History, Geography and Social Studies to give them a broad understanding of societies around the world. As they move on to IP Years 3 and 4, under the umbrella of Core Humanities, they may choose to deepen their learning in History, Geography or English Literature, in addition to Singapore Studies. Programmes are strongly centred on an inquiry-based approach using authentic learning experiences.</p>
