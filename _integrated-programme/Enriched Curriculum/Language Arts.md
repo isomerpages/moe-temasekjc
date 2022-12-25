@@ -17,3 +17,13 @@ Our vision as a Language Arts department is to guide and empower our students to
 **CURRICULUM**
 
 <p style="text-align: justify;">Language Arts focuses on a detailed analysis of literary and non-literary texts as well as essential comprehension and essay-writing skills. Students also work on projects that emphasise inter-disciplinary learning as students adapt literary texts, work on independent research, and hone their language skills through a range of creative contexts.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
