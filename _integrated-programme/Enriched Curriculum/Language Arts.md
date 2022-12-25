@@ -30,6 +30,11 @@ Our vision as a Language Arts department is to guide and empower our students to
 | Essential Questions | • What shapes your identity?<br> <br> • Does your identity change / evolve in different contexts?<br><br>  • How does one's identity affect one's perspective of events? |  • Are all human beings equal?  <br> <br> • How are differences treated in your society? | • What are the factors which cause globalisation?  <br> <br> • How does globalisation affect our identity, culture, economy and environment? |  • Identity - Who am I? Identity as a social construct and marginalised identities  <br> <br> • Responsibility - What is owed to us and what do we owe to others? <br> <br> •  Possibility - How should we face the future? |
 |      Text Types     |  • Narrative writing <br> <br> • Expository writing <br> <br> • Novels <br> <br> • Poetry                                                                                                 |  • Narrative writing <br> <br> • Expository writing <br> <br> • Novels <br> <br> • Plays                         | • Expository writing <br> <br> • Argumentative writing <br> <br> • Poetry <br> <br> • Short Stories                                                                  |  • Argumentative writing <br> <br> • Short Stories<br> <br> •  Non-fiction writing                                |
 
+
+**ENRICHMENT**
+
+<p style="text-align: justify;">We organise enrichment programmes such as our Choral Speaking programme for IP1 students and Drama Adaptation workshops for our IP2 students. Students who are aspiring writers and who have a keen interest in writing can take part in creative writing competitions such as the Queen’s Commonwealth Essay Competition and Science Chronicles Competition. We also focus on developing students’ speaking and debating skills through encouraging them to take part in opportunities such as Plain English Speaking Award Competition and National Schools Literature Festival.</p>
+
 |   |   |
 |:-:|:-:|
 |   |   |
