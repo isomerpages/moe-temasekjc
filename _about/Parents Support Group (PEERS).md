@@ -15,4 +15,6 @@ description: ""
 
 
 <p style="text-align: justify;">The PEERS Committee invites all parents of TJCians to join them in their activities! For any enquiries about PEERS, please email them to: <a href="mailto:PEERS.temasekjc@gmail.com">PEERS.temasekjc@gmail.com</a></p>
- 
+
+
+<center><b>22/23 PEERS COMMITTEE MEMBERS</b></center>
