@@ -75,13 +75,13 @@ third_nav_title: Enriched Curriculum
 <tbody>
 <tr>
 <td>English Literature 1</td>
-<td>Practical Criticism</td>
-<td>Shakespeare</td>
+<td>• Practical Criticism</td>
+<td>• Shakespeare</td>
 </tr>
 <tr>
 <td>English Literature 2</td>
-<td>Practical Criticism<br />Of Myths and Fairytales: A Study of Intertexuality</td>
-<td>Shakespeare<br />Contemporary and World Literature</td>
+<td>• Practical Criticism<br>• Of Myths and Fairytales: A Study of Intertexuality</td>
+<td>• Shakespeare<br>• Contemporary and World Literature</td>
 </tr>
 </tbody>
 </table>
