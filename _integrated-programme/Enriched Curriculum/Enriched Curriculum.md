@@ -21,8 +21,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2">Core Curriculum:<br />Language Arts<br />(Higher) Chinese / Malay / Tamil<br />Fundamental Mathematics<br />Green Science<br />Fundamental Humanities<br />Aesthetic Education<br />Physical Education<br /><br />Special Programme:<br />Music Elective Programme</td>
-<td style="text-align: center;" colspan="2">Core Curriculum:<br />Language Arts<br />(Higher) Chinese / Malay / Tamil<br />Intermediate Mathematics<br />Advanced Mathematics<br />Biology<br />Chemistry<br />Physics<br />English Literature 2 / Geography 2 / History 2<br />Singapore Studies + English Literature 1 / Geography 1 / History 1<br />Physical Education<br /><br />Special Programmes:<br />Chinese Language Elective Programme<br />Music Elective Programme</td>
+<td style="text-align: center;" colspan="2">Core Curriculum:<br />Language Arts<br />(Higher) Chinese / Malay / Tamil<br />Fundamental Mathematics<br />Green Science<br />Fundamental Humanities<br />Aesthetic Education<br />Physical Education<br /><br /><b>Special Programme:</b><br>Music Elective Programme</td>
+<td style="text-align: center;" colspan="2">Core Curriculum:<br />Language Arts<br />(Higher) Chinese / Malay / Tamil<br />Intermediate Mathematics<br />Advanced Mathematics<br />Biology<br />Chemistry<br />Physics<br />English Literature 2 / Geography 2 / History 2<br />Singapore Studies + English Literature 1 / Geography 1 / History 1<br />Physical Education<br /><br /><b>Special Programmes:</b><br />Chinese Language Elective Programme<br />Music Elective Programme</td>
 </tr>
 </tbody>
 </table>
