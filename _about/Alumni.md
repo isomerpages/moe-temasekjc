@@ -21,68 +21,68 @@ description: ""
 			<img src="/images/About/TJC%20Alumni%20Exco%20Photo.jpg" style="width:50%">
 			<table>
 <thead>
-  <tr>
-    <th>Name<br></th>
-    <th>Designation<br></th>
-    <th>Class of<br></th>
-  </tr>
+<tr>
+<th style="text-align: center;">Name</th>
+<th style="text-align: center;">Designation</th>
+<th style="text-align: center;">Class of</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Marc Goh Kheng Kian<br></td>
-    <td>President<br></td>
-    <td>90/91<br></td>
-  </tr>
-  <tr>
-    <td>Francis Tong Chee Beng<br></td>
-    <td>Vice President<br></td>
-    <td>77/78<br></td>
-  </tr>
-  <tr>
-    <td>David Wong Wei Li<br></td>
-    <td>Hon. Secretary<br></td>
-    <td>78/79<br></td>
-  </tr>
-  <tr>
-    <td>Chu Cehan<br></td>
-    <td>Asst. Hon. Secretary<br></td>
-    <td>13/14<br></td>
-  </tr>
-  <tr>
-    <td>Goh Yong Seng<br></td>
-    <td>Hon. Treasurer<br></td>
-    <td>90/91<br></td>
-  </tr>
-  <tr>
-    <td>Patrick Fernandez<br></td>
-    <td>Asst. Hon. Treasurer<br></td>
-    <td>80/81<br></td>
-  </tr>
-  <tr>
-    <td>Nurhidayati Mohamed Suphan<br></td>
-    <td>Committee Member<br></td>
-    <td>89/90<br></td>
-  </tr>
-  <tr>
-    <td>Kursheed Banou<br></td>
-    <td>Committee Member<br></td>
-    <td>77/78<br></td>
-  </tr>
-  <tr>
-    <td>Serbrinder Singh Sidhu<br></td>
-    <td>Committee Member<br></td>
-    <td>88/89<br></td>
-  </tr>
-  <tr>
-    <td>Thomas Chong<br></td>
-    <td>Committee Member<br></td>
-    <td>80/81<br></td>
-  </tr>
-  <tr>
-    <td>Teo Li San Melissa<br></td>
-    <td>Liaison<br></td>
-    <td>06/07</td>
-  </tr>
+<tr>
+<td style="text-align: center;">Marc Goh Kheng Kian</td>
+<td style="text-align: center;">President</td>
+<td style="text-align: center;">90/91</td>
+</tr>
+<tr>
+<td style="text-align: center;">Francis Tong Chee Beng</td>
+<td style="text-align: center;">Vice President</td>
+<td style="text-align: center;">77/78</td>
+</tr>
+<tr>
+<td style="text-align: center;">David Wong Wei Li</td>
+<td style="text-align: center;">Hon. Secretary</td>
+<td style="text-align: center;">78/79</td>
+</tr>
+<tr>
+<td style="text-align: center;">Chu Cehan</td>
+<td style="text-align: center;">Asst. Hon. Secretary</td>
+<td style="text-align: center;">13/14</td>
+</tr>
+<tr>
+<td style="text-align: center;">Goh Yong Seng</td>
+<td style="text-align: center;">Hon. Treasurer</td>
+<td style="text-align: center;">90/91</td>
+</tr>
+<tr>
+<td style="text-align: center;">Patrick Fernandez</td>
+<td style="text-align: center;">Asst. Hon. Treasurer</td>
+<td style="text-align: center;">80/81</td>
+</tr>
+<tr>
+<td style="text-align: center;">Nurhidayati Mohamed Suphan</td>
+<td style="text-align: center;">Committee Member</td>
+<td style="text-align: center;">89/90</td>
+</tr>
+<tr>
+<td style="text-align: center;">Kursheed Banou</td>
+<td style="text-align: center;">Committee Member</td>
+<td style="text-align: center;">77/78</td>
+</tr>
+<tr>
+<td style="text-align: center;">Serbrinder Singh Sidhu</td>
+<td style="text-align: center;">Committee Member</td>
+<td style="text-align: center;">88/89</td>
+</tr>
+<tr>
+<td style="text-align: center;">Thomas Chong</td>
+<td style="text-align: center;">Committee Member</td>
+<td style="text-align: center;">80/81</td>
+</tr>
+<tr>
+<td style="text-align: center;">Teo Li San Melissa</td>
+<td style="text-align: center;">Liaison</td>
+<td style="text-align: center;">06/07</td>
+</tr>
 </tbody>
 </table>
     </div>
