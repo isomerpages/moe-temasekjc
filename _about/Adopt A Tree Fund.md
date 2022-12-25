@@ -21,10 +21,8 @@ If you would like to consider donating, please [**click here**](https://www.tem
 
   
 
-Temasek Junior College
-
-22 Bedok South Road
-
+Temasek Junior College   
+22 Bedok South Road   
 Singapore 469278
 
   
