@@ -191,12 +191,69 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">ARTS DEPARTMENT: HUMANITIES – IP (GEOGRAPHY, HISTORY & SINGAPORE STUDIES)</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <table>
+<thead>
+  <tr>
+    <th colspan="2">Name<br></th>
+    <th>Designation<br></th>
+    <th>Unit<br></th>
+    <th>Email<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr<br></td>
+    <td>Vincent Foo<br></td>
+    <td>HOD / Humanities (IP)<br></td>
+    <td>Singapore Studies<br></td>
+    <td><a href="mailto:foo_koon_tet@moe.edu.sg">foo_koon_tet@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr</td>
+    <td>Han Songguang </td>
+    <td>HOD / Student Development &amp; CCA</td>
+    <td> Geography</td>
+    <td><a href="mailto:han_song_guang@moe.edu.sg">han_song_guang@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mrs<br></td>
+    <td>Goh Wenhui<br></td>
+    <td>Deputy Head / Humanities (IP)<br></td>
+    <td>Geography<br></td>
+    <td><a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td> Ms</td>
+    <td>Esti Asmira </td>
+    <td>Deputy Head / Student Development </td>
+    <td>History</td>
+    <td><a href="mailto:sesilia_esti_asmira@moe.edu.sg">sesilia_esti_asmira@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms<br></td>
+    <td>Denise Kho<br></td>
+    <td>Teacher<br></td>
+    <td>History<br></td>
+    <td><a href="mailto:kho_suet_min_denise@moe.edu.sg">kho_suet_min_denise@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr</td>
+    <td>Leong Chou Keen Robin </td>
+    <td>Teacher</td>
+    <td>History</td>
+    <td><a href="mailto:leong_chou_keen@moe.edu.sg">leong_chou_keen@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms</td>
+    <td>Wu Xiuyun Rebecca </td>
+    <td>Teacher </td>
+    <td> Geography</td>
+    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
