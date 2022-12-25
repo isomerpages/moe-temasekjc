@@ -19,7 +19,8 @@ third_nav_title: Enriched Curriculum
 </p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>In addition to writing a comprehensive and engaging core curriculum, we have crafted additional teaching tools and experiences to further challenge students. For example, our award-winning Cities of Pangaea computer simulation gives our IP1 students the experience of building and maintaining a society. Through this, they can see how various geographical, economic and social factors work together to determine the outcomes of their society, and how these scenarios have played out in real-world societies over the course of history.
 </p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
+			<p style="text-align: justify;">We have also designed the V3 card game to give IP2 students a hands-on take on the factors that drive colonialism. This allows students to take on the role of a colonial power, and experience for themselves how certain factors may play a greater significance than previously assumed.
+</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
