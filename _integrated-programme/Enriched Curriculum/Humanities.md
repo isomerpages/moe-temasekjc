@@ -107,6 +107,21 @@ third_nav_title: Enriched Curriculum
 			<p style="text-align: justify;">We believe that the study of History is anchored on the examination of historical ideas that have changed the world today. The engagement with the historical discipline enables our students to gain a consciousness of humanity and clarify their individual roles and purpose in the world.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>We train our students to approach challenging historical concepts in a systematic and inquiry-driven manner. As a result, they are empowered to arrive at their own understanding of significant ideas in human history. They will apply these ideas through various exciting tasks that allow them to demonstrate knowledge and understanding, construct their own explanations and critically evaluate sources.</p>
 				<p style="text-align: justify;"><b>ENRICHMENT</b><br>Reducing the focus on traditional examinations, our students embark on independent research projects that allow for an authentic exploration of what the students themselves are interested in. We will guide them through the research process, teach them how to source for and evaluate evidence. These group projects go beyond conventional tasks such as writing a research paper, where our students present their learning through historical fictions and creatively crafted infographics. Interested students may also be given a chance to take part in competitions such as the MOE History Challenge and be part of the MOE History Talent Development Programme.</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+		<p style="text-align: center;">An innovative infographic by our IP4 students on a Cold War conflict</p>
     </div>
 	</li> 
 </ul>
