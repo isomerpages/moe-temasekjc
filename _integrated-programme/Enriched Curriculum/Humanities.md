@@ -15,6 +15,7 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion1">
     <label for="accordion1">FUNDAMENTAL HUMANITIES (IP YEARS 1-2)</label>
     <div>
+			<img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_banner.jpg">
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>In designing our customised Fundamental Humanities curriculum, tutors start with the big picture in mind with lessons structured to enable students to work towards an enduring understanding for each topic. In IP Year 1, students explore the factors for the rise and fall of societies, and examine political systems such as democracy; while in IP Year 2, they examine the various ways that societies can change over time. Students also work towards the mastery of skills common to Humanities disciplines, such as inference, cross-referencing, data literacy and the use of well-defined criteria for comparison and evaluation.
 </p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>In addition to writing a comprehensive and engaging core curriculum, we have crafted additional teaching tools and experiences to further challenge students. For example, our award-winning Cities of Pangaea computer simulation gives our IP1 students the experience of building and maintaining a society. Through this, they can see how various geographical, economic and social factors work together to determine the outcomes of their society, and how these scenarios have played out in real-world societies over the course of history.
