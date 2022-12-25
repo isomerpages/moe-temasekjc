@@ -20,6 +20,20 @@ third_nav_title: Enriched Curriculum
 </p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>In addition to writing a comprehensive and engaging core curriculum, we have crafted additional teaching tools and experiences to further challenge students. For example, our award-winning Cities of Pangaea computer simulation gives our IP1 students the experience of building and maintaining a society. Through this, they can see how various geographical, economic and social factors work together to determine the outcomes of their society, and how these scenarios have played out in real-world societies over the course of history.
 </p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 			<p style="text-align: justify;">We have also designed the V3 card game to give IP2 students a hands-on take on the factors that drive colonialism. This allows students to take on the role of a colonial power, and experience for themselves how certain factors may play a greater significance than previously assumed.
 </p>
 			<p style="text-align: justify;">One of the main features is the IP2 Fundamental Humanities Trip, which is designed for students to apply and extend what they have learnt in the classroom through authentic learning tasks framed as investigative mysteries that they have to solve throughout the journey from Ipoh to Penang. From peeking into the lives of tin miners to learning about the use of architecture as a tool for projection of power, the activities give the students greater insights into colonial legacies as well as the rationale and controversies behind the bicentennial commemoration back home.</p>
