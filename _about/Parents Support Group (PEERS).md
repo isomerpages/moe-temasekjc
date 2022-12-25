@@ -18,3 +18,16 @@ description: ""
 
 
 <center><b>22/23 PEERS COMMITTEE MEMBERS</b></center>
+
+|          Name         |                   Role                   |
+|:---------------------:|:------------:|
+|    Ms Gayatri Bhat    |   PEERS Executive Committee <br>Chairperson  |
+|   Mrs Jennifer Kwok   | PEERS Executive Committee<br> Co-Chairperson |
+|    Mrs Sophia Tang    | PEERS Executive Committee<br> Co-Chairperson |
+|   Mrs Aparna Govind   |     PEERS Executive Committee <br>Member     |
+|     Ms Serene Liew    |     PEERS Executive Committee <br>Member     |
+|        Ms Nishi       |     PEERS Executive Committee<br> Member     |
+| Mdm Sharbari Sengupta |     PEERS Executive <br>Committee Member     |
+|   Mrs Chong Yen Yen   |          PEERS Committee <br>Member          |
+|     Ms Grace Chua     |          PEERS Committee<br> Member          |
+|     Ms Serene Lai     |       PEERS Alumni Wing<br>Chairperson      |
