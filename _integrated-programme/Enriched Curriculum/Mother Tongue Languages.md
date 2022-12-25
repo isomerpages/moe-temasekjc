@@ -47,9 +47,9 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td>Autograph session with local<br>author Mr John Wong</td>
-    <td>Enjoying a ML cultural<br>board game</td>
-    <td>Learning Journey for<br>TL students</td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%204_CL%20Enrichment.jpg" style="width:150px">Autograph session with local<br>author Mr John Wong</td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%205_ML%20Enrichment.jpeg" style="width:150px">Enjoying a ML cultural<br>board game</td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%206_TL%20enrichment.jpg" style="width:150px">Learning Journey for<br>TL students</td>
   </tr>
 </tbody>
 </table>
