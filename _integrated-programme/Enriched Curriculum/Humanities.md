@@ -64,6 +64,27 @@ third_nav_title: Enriched Curriculum
 				<img src="/images/Academic/Enriched%20Curriculum/Humanities/IP4%20Shakesp%20Drama%202.jpg" style="width:80%">
 <p style="text-align: center;">A roving theatre coming alive with our Literature students</p>
 				<p style="text-align: justify;">The syllabus is designed on a modular basis where students who choose to study English Literature 2 will study 2 modules a year while students who choose to study English Literature 1 will study 1 module a year. Please see the table below for a brief description of the modules</p>
+			<table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th style="text-align: center;">IP3</th>
+<th style="text-align: center;">IP4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>English Literature 1</td>
+<td>Practical Criticism</td>
+<td>Shakespeare</td>
+</tr>
+<tr>
+<td>English Literature 2</td>
+<td>Practical Criticism<br />Of Myths and Fairytales: A Study of Intertexuality</td>
+<td>Shakespeare<br />Contemporary and World Literature</td>
+</tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Our students are given opportunities to learn from local and international writers through workshops, talks and seminars. We also organise learning journeys to watch theatre productions in order to enhance their understanding and appreciation of literature and the arts. Furthermore, we provide our students with various platforms to express themselves creatively. Students who are aspiring writers and who have a keen interest in Literature can take part in creative writing workshops and the Creative Arts Programme. We also focus on developing students’ research skills and encourage their participation in the Literature Seminar and the Humanities and Social Sciences Research Programme.</p>
 			<p style="text-align: justify;">To see more of what the IP Literature syllabus has to offer, check out the department website <a href="https://www.tjclangarts.com/" target="_blank">here</a>.</p>
     </div>
