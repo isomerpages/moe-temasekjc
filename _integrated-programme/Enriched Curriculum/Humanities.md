@@ -30,7 +30,7 @@ third_nav_title: Enriched Curriculum
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_1.png" style ="width:300px">Explore the factors that cause the rise and fall of societies through the custom-designed Cities of Pangaea browser-based game</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_2.jpeg" style ="width:300px">Learn about the factors that drive colonialism through the V3 card game</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_2.jpeg" style ="width:200px">Learn about the factors that drive colonialism through the V3 card game</td>
   </tr>
 </tbody>
 </table>
