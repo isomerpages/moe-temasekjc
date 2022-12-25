@@ -66,8 +66,8 @@ third_nav_title: Enriched Curriculum
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">LITERATURE IN CHINESE (IP YEARs 3 & 4)</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">SPECIAL PROGRAMMES</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
