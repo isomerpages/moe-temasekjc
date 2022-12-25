@@ -18,3 +18,5 @@ Our department’s vision is to:
 *   <p style="text-align: justify;">enable students to see connections in ideas between mathematics and other subjects through application and creating rules for naturally occurring patterns.</p>
 
 <p style="text-align: justify;">In their first 2 years, our IP students will study Fundamental Mathematics, which aims to develop mathematical competency in algebraic and symbolic manipulation. As they progress to IP Years 3 and 4, students will have many opportunities and platforms to explore mathematical topics in greater depth as they offer Intermediate and Advanced Mathematics.</p>
+
+![](/images/Academic/Enriched%20Curriculum/Mathematics/Learning%20Probability.jpg)
