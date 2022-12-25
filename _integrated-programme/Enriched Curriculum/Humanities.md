@@ -57,7 +57,7 @@ third_nav_title: Enriched Curriculum
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">ENGLISH LITERATURE (IP YEARS 3-4)</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
