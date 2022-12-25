@@ -39,4 +39,4 @@ Our vision as a Language Arts department is to guide and empower our students to
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  2021 TEDxYouth@TJC featuring an IP3 student | 2021 Shark Tank presentations by our IP4 students  |
