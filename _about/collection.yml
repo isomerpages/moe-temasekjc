@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - College Rejuvenation Programme.md
       - Principal's Message.md
       - Values & Mission.md
       - History & Achievements.md
@@ -11,3 +10,4 @@ collections:
       - College Advisory Committee.md
       - Parents Support Group (PEERS).md
       - Alumni.md
+      - College Rejuvenation Programme.md
