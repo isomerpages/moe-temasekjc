@@ -91,9 +91,13 @@ third_nav_title: Enriched Curriculum
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">GEOGRAPHY (IP YEARS 3-4)</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">In order to understand the world we live in, Geography is essential as it allows students to see the links and relationships in the world around them. Our IP Geography is a multi-faceted subject that is grounded on a view of the world through a spatial lens. We aim to guide our students to expand their understanding of the world by looking at issues that go beyond Singapore’s geographical boundaries.</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>Geography at TJC IP places an emphasis on diverse pedagogies. From poster presentations to mapping exercises, students are engaged in learning through investigative work that is rigorous and engaging.</p>
+    <img src="/images/Academic/Enriched%20Curriculum/Humanities/Geog_picture_1.jpeg" style="width:80%">
+<p style="text-align: center;">Geog fieldwork at East Coast Park</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>An education in Geography is not complete without venturing into the world around us, and we strive to create opportunities for students to participate in talks, exhibitions and fieldwork investigations. Our learning activities beyond the classroom have taken us to places like the NEA Central Forecast Office, Gardens by the Bay and East Coast Park, as well as virtual fieldwork that allows students to venture to places that they are otherwise unable to access. Each year, we also field a team of students to participate in the NUS Geography Challenge, with commendable results over the years.</p>
     </div>
 	</li> 
   <li>
