@@ -25,7 +25,7 @@ third_nav_title: Enriched Curriculum
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP1%20Aesthetics%20Drama%202.jpeg" style="width: 300px">IP Year 1 Aesthetics: Drama</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP1%20Aesthetics%20Visual%20Arts%201.jpg" style="width: 200px">IP Year 1 Aesthetics: Visual Arts</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP1%20Aesthetics%20Visual%20Arts%201.jpg" style="width: 250px">IP Year 1 Aesthetics: Visual Arts</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP2%20Aesthetics%20Dance%201.jpg" style="width: 300px">IP Year 2 Aesthetics: Dance</td>
