@@ -40,7 +40,7 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion2">
     <label for="accordion2">MUSIC ELECTIVE PROGRAMME</label>
     <div>
-			<p style="text-align: justify;"><a href=""></a> Innovative in its interdisciplinary approach, the TJC [**Music Elective Programme (MEP)**](https://www.temasekjc.moe.edu.sg/academic/special-programmes/music-elective-programme) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. Students are exposed to music repertoire of both the Western traditions and non-Western traditions. This emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to be a musician skilled in analysis, composition, performing and research. <br><br>Refer to this page for more information: <a href="/academic/special-programmes/music-elective-programme">Music Elective Programme (MEP)</a></p>
+			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC <a href="/academic/special-programmes/music-elective-programme"><b>Music Elective Programme (MEP)</b></a>  for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. Students are exposed to music repertoire of both the Western traditions and non-Western traditions. This emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to be a musician skilled in analysis, composition, performing and research. <br><br>Refer to this page for more information: <a href="/academic/special-programmes/music-elective-programme">Music Elective Programme (MEP)</a></p>
     </div>
 	</li> 
 	</ul>
