@@ -33,23 +33,24 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td  style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td  style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Bernard%20Thong.png" style="width:50%">Dr Bernard Thong<br>
+Chairman</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Liu%20Earnler%20Honorary%20Secretary%20Principal%20Temasek%20Junior%20College.jpg" style="width:50%">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="" style="width:50%"></td>
     <td style="text-align: center;"></td>
   </tr>
 </tbody>
