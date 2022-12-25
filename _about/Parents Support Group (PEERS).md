@@ -48,7 +48,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">PEERS IN ACTION</label>
     <div>
-
+			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
 	</ul>
