@@ -56,7 +56,6 @@ third_nav_title: Enriched Curriculum
 </table>
     
 <p><b>EXAMINATION SYLLABUSES</b><br><a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021" target="_blank">2021 O-Level Syllabus (Mother Tongue Languages)</a><br><a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2022" target="_blank">2022 O-Level Syllabus (Mother Tongue Languages)</a></p>
-
     </div>
 	</li> 
   <li>
