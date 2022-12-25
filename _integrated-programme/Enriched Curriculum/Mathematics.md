@@ -23,17 +23,15 @@ Our department’s vision is to:
 
 <center>Learning probability through UNO!</center>
 
-We start training our students in problem-solving skills from IP1, where we harness Schoenfeld's Problem-Solving Framework and Polya’s Problem-Solving Strategy to guide them in a systematic approach to problem-solving. In addition, we adapt ideas from Computational Thinking in collaboration with Master Teachers from the Academy of Singapore Teachers (AST) to further sharpen their skillset. Our students also apply their problem-solving skills in programming, where our tutors take them to a higher level of abstract thinking through coding and exploring real-world applications. Through our innovative curriculum, students get to explore natural phenomena occurring around them as well as examining and devising mathematical models to arrive at mathematical solutions to the identified problem.
+<p style="text-align: justify;">We start training our students in problem-solving skills from IP1, where we harness Schoenfeld's Problem-Solving Framework and Polya’s Problem-Solving Strategy to guide them in a systematic approach to problem-solving. In addition, we adapt ideas from Computational Thinking in collaboration with Master Teachers from the Academy of Singapore Teachers (AST) to further sharpen their skillset. Our students also apply their problem-solving skills in programming, where our tutors take them to a higher level of abstract thinking through coding and exploring real-world applications. Through our innovative curriculum, students get to explore natural phenomena occurring around them as well as examining and devising mathematical models to arrive at mathematical solutions to the identified problem.</p>
 
-  
-
-Our tutors also leverage selected mathematical software and the use of the graphing calculator in IP Year 4 to enhance the learning experience of our students. By the time they enter JC Year 1, our students can confidently explore how outcomes can be altered by varying specific conditions, honing their ability to identify patterns and interpret data.
+<p style="text-align: justify;">Our tutors also leverage selected mathematical software and the use of the graphing calculator in IP Year 4 to enhance the learning experience of our students. By the time they enter JC Year 1, our students can confidently explore how outcomes can be altered by varying specific conditions, honing their ability to identify patterns and interpret data.</p>
 
   
 
 **ENRICHMENT**
 
-Our department seeks out various opportunities such as competitions, seminars and learning journeys to Institutes of Higher Learning for students of all abilities to participate. Higher-ability students who demonstrate an exceptional talent in Mathematics will be enrolled in the [**Temasek Academy (Mathematics) Programme**](https://www.temasekjc.moe.edu.sg/academic/integrated-programme/enriched-curriculum/temasek-academy#_ptoo_100121). This programme further enhances their problem-solving, computational thinking and research abilities as they pursue their passion and achieve their potential.
+<p style="text-align: justify;">Our department seeks out various opportunities such as competitions, seminars and learning journeys to Institutes of Higher Learning for students of all abilities to participate. Higher-ability students who demonstrate an exceptional talent in Mathematics will be enrolled in the [**Temasek Academy (Mathematics) Programme**](https://www.temasekjc.moe.edu.sg/academic/integrated-programme/enriched-curriculum/temasek-academy#_ptoo_100121). This programme further enhances their problem-solving, computational thinking and research abilities as they pursue their passion and achieve their potential.</p>
 
 <img src="/images/Academic/Enriched%20Curriculum/Mathematics/Blender%20Course.jpg" style="width:70%">
 
