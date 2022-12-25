@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - College Advisory Committee.md
       - Principal's Message.md
       - Values & Mission.md
       - History & Achievements.md
       - College Leadership.md
       - College Staff.md
+      - College Advisory Committee.md
