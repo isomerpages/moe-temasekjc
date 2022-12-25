@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Adopt A Tree Fund.md
       - Principal's Message.md
       - Values & Mission.md
       - History & Achievements.md
@@ -12,3 +11,4 @@ collections:
       - Parents Support Group (PEERS).md
       - Alumni.md
       - College Rejuvenation Programme.md
+      - Adopt A Tree Fund.md
