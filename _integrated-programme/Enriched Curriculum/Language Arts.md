@@ -20,7 +20,8 @@ Our vision as a Language Arts department is to guide and empower our students to
 
 |   |   |
 |:-:|:-:|
-| <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP1_Blackout%20poem.png" style="width:200px">  |  <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP2_MOV%20adaptation.jpeg" style="width:120px">  |
+| <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP1_Blackout%20poem.png" style="width:200px">Digital art work and blackout poem created by an IP1 student  |  <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP2_MOV%20adaptation.jpeg" style="width:110px">An adaptation of The Merchant of Venice by our IP2 students in 2019  |
+
 
 
 
