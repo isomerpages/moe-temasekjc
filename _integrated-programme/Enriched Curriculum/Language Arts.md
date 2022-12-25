@@ -20,7 +20,7 @@ Our vision as a Language Arts department is to guide and empower our students to
 
 |   |   |
 |:-:|:-:|
-|   |   |
+| <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP1_Blackout%20poem.png" style="width:200px">  |  <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP2_MOV%20adaptation.jpeg" style="width:100px">  |
 
 
 
