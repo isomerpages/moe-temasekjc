@@ -1,4 +1,5 @@
 collections:
   integrated-programme:
     output: true
-    order: []
+    order:
+      - Enriched Curriculum/.keep
