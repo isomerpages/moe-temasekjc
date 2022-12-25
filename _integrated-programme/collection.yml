@@ -2,6 +2,7 @@ collections:
   integrated-programme:
     output: true
     order:
+      - Enriched Curriculum/Mother Tongue Languages.md
       - Enriched Curriculum/.keep
       - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/Aesthetics Education.md
