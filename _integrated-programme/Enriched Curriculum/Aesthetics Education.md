@@ -15,52 +15,22 @@ third_nav_title: Enriched Curriculum
     <div>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>The key pedagogies used to realize our students’ potential and expressiveness include the Understanding by Design (UbD) framework, experiential learning, collaborative learning and Inquiry-based learning (IBL). Each module that our students experience will enable them to chart their learning through a process that involves constant and deep self-reflection, exchanging and negotiating of ideas with their peers, and working with the feedback and guidance provided by our tutors and mentors. This process is vital for them to understand that every art form requires a rigorous process before meaning is effectively created for viewers. Each module would then culminate in a performance or showcase of their ideas and artistic product through the relevant Aesthetics mode and media (Visual Arts, Drama, Music or Dance).
 </p>
-			<table>
+<table>
 <thead>
-<tr>
-<th style="text-align: center;">&nbsp;</th>
-<th style="text-align: center;">IP Year 1</th>
-<th style="text-align: center;">IP Year 2</th>
-<th style="text-align: center;">IP Year 3</th>
-<th style="text-align: center;">IP Year 4</th>
-</tr>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Language Arts</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Chinese Language</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mathematics</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-</tr>
-<tr>
-<td style="text-align: center;">Science</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-</tr>
-<tr>
-<td style="text-align: center;">Humanities</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">●</td>
-<td style="text-align: center;">●</td>
-</tr>
+  <tr>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP1%20Aesthetics%20Drama%202.jpeg" style="width: 300px">IP Year 1 Aesthetics: Drama</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP1%20Aesthetics%20Visual%20Arts%201.jpg" style="width: 140px">IP Year 1 Aesthetics: Visual Arts</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP2%20Aesthetics%20Dance%201.jpg" style="width: 300px">IP Year 2 Aesthetics: Dance</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Aesthetics%20Education/IP2%20Aesthetics%20Music%202.jpg" style="width: 275px">IP Year 2 Aesthetics: Music</td>
+  </tr>
 </tbody>
 </table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Experiencing the Aesthetics – viewing, listening, doing and expressing – is essential to the effective learning of the various aesthetic modules. Where relevant, students will embark on field trips to museums, watch performances that allow them to see practitioners at work and attend artist seminars or talks.</p>
