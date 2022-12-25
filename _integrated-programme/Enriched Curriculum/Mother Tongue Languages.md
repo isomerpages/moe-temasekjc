@@ -4,6 +4,7 @@ permalink: /academic/integrated-programme/enriched-curriculum/mother-tongue-lang
 description: ""
 third_nav_title: Enriched Curriculum
 ---
+# link broken: 2021 O-Level Syllabus (Mother Tongue Languages)
 # MOTHER TONGUE LANGUAGES
 
 <p style="text-align: justify;">Our department celebrates the diversity of languages and their intertwined rich cultures. We are committed to developing our students’ bilingualism and broadening their horizons in the study of these languages. By helping them grow in depth of thought and eloquence in oracy skills, we guide our students to be global citizens of the 21st Century world.</p>
