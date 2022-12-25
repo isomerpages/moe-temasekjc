@@ -104,7 +104,7 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion5">
     <label for="accordion5">HISTORY (IP YEARS 3-4)</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">We believe that the study of History is anchored on the examination of historical ideas that have changed the world today. The engagement with the historical discipline enables our students to gain a consciousness of humanity and clarify their individual roles and purpose in the world.</p>
     </div>
 	</li> 
 </ul>
