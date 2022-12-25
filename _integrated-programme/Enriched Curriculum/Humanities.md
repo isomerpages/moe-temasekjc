@@ -36,6 +36,9 @@ third_nav_title: Enriched Curriculum
 </table>
 			<p style="text-align: justify;">We have also designed the V3 card game to give IP2 students a hands-on take on the factors that drive colonialism. This allows students to take on the role of a colonial power, and experience for themselves how certain factors may play a greater significance than previously assumed.
 </p>
+<img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_3.jpg"
+     style="width:50%">
+			<p style="text-align: center;">IP2 students learning in the field, in Ipoh, Malaysia</p>
 			<p style="text-align: justify;">One of the main features is the IP2 Fundamental Humanities Trip, which is designed for students to apply and extend what they have learnt in the classroom through authentic learning tasks framed as investigative mysteries that they have to solve throughout the journey from Ipoh to Penang. From peeking into the lives of tin miners to learning about the use of architecture as a tool for projection of power, the activities give the students greater insights into colonial legacies as well as the rationale and controversies behind the bicentennial commemoration back home.</p>
     </div>
 	</li> 
