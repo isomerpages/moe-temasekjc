@@ -22,6 +22,20 @@ third_nav_title: Enriched Curriculum
 			<p style="text-align: justify;">In recent years, our IP4 cohorts have achieved excellent results in the O-Level Mother Tongue Language and Higher Mother Tongue Language examination, with more than 1 in 2 students achieving Distinction in both 2019 and 2018, and 3 in 5 students obtaining Distinction in 2020. The excellent results have further earned our students bonuses to their University Admission Score, which gave them greater choices in university course selection as well as scholarship applications.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>While guiding students towards academic excellence, we also seek to provide rich learning experiences to sustain their interest in the language. Through student-oriented teaching pedagogies and the harnessing of ICT, we cultivate their application skills, allowing them to use their power of imagination and critical thinking to analyse and solve problems.</p>
 			<p style="text-align: justify;">We also place emphasis on the nurturing of values and cultural appreciation. Through regular classroom discussions of social topics and scenario analysis, we aim to cultivate the value of empathy in our students as they navigate this complex modern world.</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">A lively discussion during<br>Chinese Language lessons</td>
+    <td style="text-align: center;">Confident presenters during<br>Tamil Language lessons</td>
+  </tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We organise a series of exciting activities to enrich our students’ language learning experience. We do this through a tiered approach throughout the year, during Sabbatical Week, MTL Fortnight, Cohort Programme and during the post-examination period. Firstly, we organise learning journeys, drama appreciation and talks by local authors to expose all students to the application of the languages in daily authentic situations. Secondly, students get the opportunities to participate in seminars and workshops, where they are guided by experts in the areas of speaking and writing. Their learning experience is further enhanced through external activities and competitions. Finally, outstanding students who show a proficiency in languages are invited to join our talent development programme, where they specialise in particular skills and content of the languages.</p>
     </div>
 	</li> 
