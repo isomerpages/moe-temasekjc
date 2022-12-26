@@ -56,7 +56,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
+			<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8823_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9757_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9809_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/8823_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9757_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9809_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Economics)</a></p>
     </div>
 	</li> 
   <li>
@@ -71,6 +71,7 @@ third_nav_title: Curriculum Overview
     <label for="accordion3">PEERS IN ACTION</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
     </div>
 	</li> 
   <li>
