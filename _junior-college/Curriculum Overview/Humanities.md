@@ -65,7 +65,7 @@ third_nav_title: Curriculum Overview
 </label>
     <div>
 			<center>“I know nothing in the world that has as much power as a word. Sometimes I write one, and I look at it, until it begins to shine,” said Emily Dickinson.</center>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Our vision as a Literature department is to develop students’ critical and analytical thinking skills, sensitivity to language, and passion for reading. In the process, we aim to foster the value of empathy because we believe that at the heart of English Literature is an important lesson of humanity and the human condition.</p>
     </div>
 	</li> 
   <li>
