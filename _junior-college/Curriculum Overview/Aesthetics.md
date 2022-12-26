@@ -23,8 +23,8 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Announcements/3241389-200.png" style="width:50%">Student Work: Shannon Fong CG03/19</td>
-    <td style="text-align: center;"><img src="/images/Announcements/3241389-200.png"
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20work_%20Shannon%20Fong.jpg" style="width:70%">Student Work: Shannon Fong CG03/19</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20Work_%20Julius%20Sng.jpg"
      style="width:50%">Student work: Julius Sng CG03/19</td>
   </tr>
 </tbody>
