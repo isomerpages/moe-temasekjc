@@ -25,6 +25,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>“All men desire to know,” said Aristotle. In this spirit, Knowledge and Inquiry (KI) is a subject that focuses on the nature of knowledge and its construction in areas such as the sciences, the social sciences, mathematics and aesthetics. In the course of KI, students will acquire an awareness of the ethical dimensions of knowledge construction, develop critical thinking skills, a capacity for independent learning and the ability to communicate clearly and convincingly.</p>
 			<img src="/images/Academic/Curriculum%20Overview/English/Learning%20KI%20at%20TJC.jpg" style="width:70%">
 			<p style="text-align: center;"> Learning KI at TJC</p>
+			<p style="text-align: justify;">KI is conceptually distinct from traditional subjects. It emphasises learner-centredness, negotiated learning and spiral progression. The teaching of this subject hinges on the principle that the learning must meet the needs and abilities of the students and they are given opportunities to confront new information and experiences in the search for meaning. It also encourages teachers and students to work together to decide on the areas of exploration. Finally, the syllabus explores and applies concepts and process skills at increasing levels of difficulty.</p>
 			<a href="" target="_blank"></a><a href="" target="_blank"></a>
     </div>
 	</li> 
