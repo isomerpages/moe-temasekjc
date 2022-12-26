@@ -129,7 +129,7 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/History%201.jpg" style="width:1000px">Screenshot from a J1 History online essay review discussion</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/History%201.jpg" style="width:100%">Screenshot from a J1 History online essay review discussion</td>
     <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/History%202.jpg" style="width:200px">History students attempting a pre-lecture quiz on google classroom</td>
   </tr>
 </tbody>
