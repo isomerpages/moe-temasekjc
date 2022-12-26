@@ -47,23 +47,26 @@ third_nav_title: Enriched Curriculum
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">WORLD WITHOUT BORDERS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/IP%20Year%202%20students%20investigate%20study%20in%20neighourhoods.png" style="width:80%">
+			<p style="text-align: justify;">In WwB, IP Year 2 students investigate communities and neighbourhoods in Singapore using a combination of a thematic approach, design thinking and ethnographic methodologies. They ultimately arrive at a deep and insightful understanding of the factors which make up the community: its tensions, why it has evolved in this manner, and how the community continues to adapt to the changing times. Through this programme, students acquire tools and dispositions that allow them to understand the world around them with empathy, insight and perceptiveness. This will stand them in good stead as global citizens in a complex and ever-changing world.</p>
     </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">INNOVATION & RESEARCH PROJECT</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/IRP%20design%20thinking%20programme.png" style="width:80%">
+			<p style="text-align: justify;">The Innovation and Research Project (IRP) is a cutting-edge design thinking programme inspired by Stanford University's Hasso Plattner Institute of Design or more popularly known as d.school, and the award-winning design firm IDEO. The Design Thinking approach seeks to solve problems by first understanding users' needs, followed by the development of insights to meet those needs. In IRP, our students unlock their inner creativity and take an interdisciplinary approach that is empathy-driven and end-user centric to address the most complex problems. Through the IRP, our IP Year 3 students will understand the basics of design thinking and engage in actual innovation that meet users' needs, wants and desires.</p>
     </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">WONDER.OBSERVE.WEAVE!</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/WOW%20programme%20-%20IP%20Year%204%20students.png" style="width:80%">
+			<p style="text-align: justify;"> The TJC Wonder.Observe.Weave! (W.O.W!) programme is one of TJC's niche programmes for our Year 4 students. Through collaboration with partners who are leaders in their fields of study or industry professionals in more than 40 projects, IP Year 4 students are provided with opportunities to embark on interdisciplinary projects which enable them to assimilate and apply knowledge gained in the classroom to real-world contexts. In the process, they hone soft and hard skills, gain invaluable insight into the demands of a particular industry and develop a higher level of metacognition when attempting to solve a given problem.</p>
     </div>
 	</li> 
 	</ul>
