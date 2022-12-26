@@ -37,6 +37,9 @@ third_nav_title: Curriculum Overview
 **Singapore Math Olympiads (Open)**   
 **(2020)** 1 Gold, 3 Silver, 17 Bronze
 
-  
-
 **SYLLABUSES**
+
+<a href="/files/Academic/Curriculum/Mathematics/8865_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Mathematics)</a>   
+<a href="/files/Academic/Curriculum/Mathematics/9758_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Mathematics)</a>   
+<a href="/files/Academic/Curriculum/Mathematics/9649_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Further Mathematics)</a>   
+<a href="/files/Academic/Curriculum/Mathematics/9820_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Mathematics)</a>
