@@ -88,8 +88,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%209_CH%20LIT%20enrichment.jpeg" style="width:180px"></td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%2010_CH%20Lit%20Enrichment.jpg" style="width:180px"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%209_CH%20LIT%20enrichment.jpeg" style="width:180px">Lianhe Zaobao student correspondent<br>interviewing Mr Royston Tan</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%2010_CH%20Lit%20Enrichment.jpg" style="width:180px">Our ambassadors hosting teachers and<br>students from Taiwan</td>
   </tr>
 </tbody>
 </table>
