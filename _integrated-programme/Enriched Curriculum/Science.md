@@ -66,7 +66,7 @@ We develop our curriculum based on two main guiding principles:
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP2%20STEM%20Programme%20Vertical%20Farming.jpeg" style="width:100%">IP2 students working on their vertical farming project as part of the STEM Programme</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP4%20Mitosis%20Diagram%20activity.jpg" style="width:70%">Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works</td>
+    <td style="text-align: center;">Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works</td>
   </tr>
 </tbody>
 </table>
