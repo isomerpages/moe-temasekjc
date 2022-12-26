@@ -79,7 +79,7 @@ third_nav_title: Enriched Curriculum
   </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Students who offer Literature in Chinese are invited to join our two talent development programmes: <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy" target="_blank">IP Temasek Academy (Chinese Language)</a> and <a href="/academic/special-programmes/chinese-language-elective-programme" target="_blank">MOE-Secondary Chinese Language Elective Programme</a>. In these programmes, they are given opportunities to take on greater challenges and leadership roles, to apply the knowledge and skills in Chinese Language as student correspondents and student ambassadors and to share their passion for the language with their peers.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Students who offer Literature in Chinese are invited to join our two talent development programmes: <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy">IP Temasek Academy (Chinese Language)</a> and <a href="/academic/special-programmes/chinese-language-elective-programme">MOE-Secondary Chinese Language Elective Programme</a>. In these programmes, they are given opportunities to take on greater challenges and leadership roles, to apply the knowledge and skills in Chinese Language as student correspondents and student ambassadors and to share their passion for the language with their peers.</p>
 			<table>
 <thead>
   <tr>
@@ -104,8 +104,8 @@ third_nav_title: Enriched Curriculum
 			<p style="text-align: justify;">We use a tiered approach to develop students’ language proficiency and their passion for the language.</p>
 			<img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%2011_Talent%20Framework.jpg">
 			<p>To nurture students in the top tier, we offer the following special programmes:</p>
-			<ul><li>[**IP Temasek Academy (Chinese Language)**](https://www.temasekjc.moe.edu.sg/academic/integrated-programme/enriched-curriculum/temasek-academy#_ptoo_100120)</li>
-<li>[**MOE-Secondary and MOE-Junior College Chinese Language Elective Programme (CLEP)**](https://www.temasekjc.moe.edu.sg/academic/special-programmes/chinese-language-elective-programme)</li></ul>
+			<ul><li>[**IP Temasek Academy (Chinese Language)**]<a href="" target="_blank"></a>(https://www.temasekjc.moe.edu.sg/academic/integrated-programme/enriched-curriculum/temasek-academy#_ptoo_100120)</li>
+<li>[**MOE-Secondary and MOE-Junior College Chinese Language Elective Programme (CLEP)**]<a href="" target="_blank"></a>(https://www.temasekjc.moe.edu.sg/academic/special-programmes/chinese-language-elective-programme)</li></ul>
 
   
 
