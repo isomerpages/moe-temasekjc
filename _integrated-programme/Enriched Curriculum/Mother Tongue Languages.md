@@ -48,9 +48,9 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%204_CL%20Enrichment.jpg" style="width:150px">Autograph session with local<br>author Mr John Wong</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%205_ML%20Enrichment.jpeg" style="width:150px">Enjoying a ML cultural<br>board game</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%206_TL%20enrichment.jpg" style="width:150px">Learning Journey for<br>TL students</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%204_CL%20Enrichment.jpg" style="width:180px">Autograph session with local<br>author Mr John Wong</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%205_ML%20Enrichment.jpeg" style="width:165px">Enjoying a ML cultural<br>board game</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%206_TL%20enrichment.jpg" style="width:200px">Learning Journey for<br>TL students</td>
   </tr>
 </tbody>
 </table>
