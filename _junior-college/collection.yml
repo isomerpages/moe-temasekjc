@@ -2,4 +2,5 @@ collections:
   junior-college:
     output: true
     order:
+      - Curriculum Overview/Curriculum Overview.md
       - Curriculum Overview/.keep
