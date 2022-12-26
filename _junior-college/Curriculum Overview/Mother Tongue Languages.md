@@ -37,9 +37,7 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>For language, students have to read widely. Written texts pertaining to the individual, family, school, community, country and world provide them the opportunity to develop the skill of inferring the implicit. Students cultivate their ability to analyse the content of a variety of text forms like literature books, philosophical essays, newspaper reviews, magazine columns, blog posts etc, and synthesise works of their own. For literature, students are exposed to a wide variety of literary classics across numerous genres, and this allows them to develop their ability to understand, analyse, critique and create.</p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The rich learning in curriculum is enriched further through Learning Journeys, tea culture as well as movie and drama appreciation.</p>
 			
-					<p><b>EXAMINATION SYLLABUS</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9575_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Chinese Language & Literature)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/" target="_blank">2022 A-Level Syllabus (H3 Chinese Language & Literature)</a></p>
-
-[2022 A-Level Syllabus (H3 Chinese Language & Literature)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9901_y22_sy.pdf)
+					<p><b>EXAMINATION SYLLABUS</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9575_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Chinese Language & Literature)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9901_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Chinese Language & Literature)</a></p>
     </div>
 	</li> 
 		</li> 
