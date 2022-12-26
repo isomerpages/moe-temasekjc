@@ -14,9 +14,6 @@ third_nav_title: Curriculum Overview
     <label for="accordion1">ART</label>
     <div>
 			<p style="text-align: justify;">The Art Programme at TJC is an artistic journey for passionate explorations, discoveries and sharing of artistic concepts and ideas. Art students will find their own artistic and creative inclinations, styles and techniques to express themselves in the most powerful way. Students will also discover and traverse through a journey of self-discovery, time management as well as creative and critical thinking.</p>
-			<p style="text-align: justify;"><b>CURRICULUM</b><br>Art students will be exposed to various forms of representations, artists and artworks in the Study of Visual Arts (SOVA) and explore a wide range of artistic media during studio and coursework sessions in 2-dimensional and 3-dimensional praxis. The SOVA component addresses and challenges students’ visual literacy skills, studio, and coursework sessions reflect students’ artistic journey, documenting the process that leads up to a final work of art.</p>
-			<p style="text-align: justify;"><b>ENRICHMENT
-				</b></p>
 			<table>
 <thead>
   <tr>
@@ -26,11 +23,16 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
+    <td style="text-align: center;"><img src="/images/Announcements/3241389-200.png" style="width:50%">Student Work: Shannon Fong CG03/19</td>
+    <td style="text-align: center;"><img src="/images/Announcements/3241389-200.png"
+     style="width:50%">Student work: Julius Sng CG03/19</td>
   </tr>
 </tbody>
 </table>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>Art students will be exposed to various forms of representations, artists and artworks in the Study of Visual Arts (SOVA) and explore a wide range of artistic media during studio and coursework sessions in 2-dimensional and 3-dimensional praxis. The SOVA component addresses and challenges students’ visual literacy skills, studio, and coursework sessions reflect students’ artistic journey, documenting the process that leads up to a final work of art.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT
+				</b></p>
+			
 			<p style="text-align: justify;">This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
 			<p style="text-align: justify;"><b>SYLLABUS</b><br><a href="/files/Academic/Curriculum/9750_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Art)</a></p>
     </div>
