@@ -61,8 +61,10 @@ third_nav_title: Curriculum Overview
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">ENGLISH LITERATURE
+</label>
     <div>
+			<center>“I know nothing in the world that has as much power as a word. Sometimes I write one, and I look at it, until it begins to shine,” said Emily Dickinson.</center>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
