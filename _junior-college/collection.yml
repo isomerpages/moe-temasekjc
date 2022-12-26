@@ -2,7 +2,6 @@ collections:
   junior-college:
     output: true
     order:
-      - Curriculum Overview/Mother Tongue Languages.md
       - Curriculum Overview/.keep
       - Curriculum Overview/Curriculum Overview.md
       - Curriculum Overview/Aesthetics.md
@@ -10,3 +9,4 @@ collections:
       - Curriculum Overview/English.md
       - Curriculum Overview/Humanities.md
       - Curriculum Overview/Mathematics.md
+      - Curriculum Overview/Mother Tongue Languages.md
