@@ -74,8 +74,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TAHU_picture_1.jpg" style="width:80%;">Our IP1 students working on their voice dubbing task</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TAHU_picture_2.jpeg" style="width:90%;">Our IP2 students at a radio script writing and recording workshop</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Voice%20Dubbing%20Activity.jpeg" style="width:95%;">Our IP1 students working on their voice dubbing task</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Radio%20Script%20Writing.jpeg" style="width:90%;">Our IP2 students at a radio script writing and recording workshop</td>
   </tr>
 </tbody>
 </table>
