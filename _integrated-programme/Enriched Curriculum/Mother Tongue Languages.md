@@ -4,6 +4,7 @@ permalink: /academic/integrated-programme/enriched-curriculum/mother-tongue-lang
 description: ""
 third_nav_title: Enriched Curriculum
 ---
+# 2019 Literature in Chinese Syllabus >5mb
 # link broken: 2021 O-Level Syllabus (Mother Tongue Languages)
 # MOTHER TONGUE LANGUAGES
 
