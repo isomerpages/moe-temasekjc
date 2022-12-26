@@ -104,9 +104,9 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="" style="width:100%"></td>
-    <td style="text-align: center;"></td>
-		<td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://www.facebook.com/geographyattjc/videos/670146486986190/" target="_blank"><img src="" style="width:100%"></a></td>
+    <td style="text-align: center;"><a href="https://www.facebook.com/geographyattjc/videos/123498859534976/" target="_blank"><img src="" style="width:100%"></a></td>
+		<td style="text-align: center;"><a href="https://www.facebook.com/geographyattjc/videos/395122534916132/" target="_blank"><img src="" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
