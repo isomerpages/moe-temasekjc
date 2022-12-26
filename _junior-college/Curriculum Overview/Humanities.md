@@ -104,9 +104,9 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-		<td></td>
+    <td style="text-align: center;"><img src="" style="width:100%"></td>
+    <td style="text-align: center;"></td>
+		<td style="text-align: center;"></td>
   </tr>
 </tbody>
 </table>
