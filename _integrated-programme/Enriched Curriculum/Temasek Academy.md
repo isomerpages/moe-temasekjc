@@ -20,7 +20,7 @@ third_nav_title: Enriched Curriculum
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">LANGUAGE ARTS</label><a id="LA"></a>
+    <label for="accordion1">LANGUAGE ARTS</label>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Language Arts) is an enrichment programme that develops academically talented IP1 and IP2 students in English language and literary skills. We aim to nurture students’ ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
 			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in literary analysis, creative writing, speaking, drama and journalism. Students will also have the opportunity to be mentored by established writers, journalists and relevant industry practitioners. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios.</p>
@@ -84,7 +84,7 @@ third_nav_title: Enriched Curriculum
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">MATHEMATICS</label>
+    <label for="accordion4">MATHEMATICS</label><a id="math"></a>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Mathematics) aims to expose students to Mathematical ideas, skills and competencies beyond the curriculum. In Year 1, we develop students’ ability to perceive patterns by finding patterns and developing strategies through games. In Year 2, students learn Computational Thinking and programming in different languages to help construct models to test their hypotheses. In Years 3 and 4, students learn applications of mathematics, in particular, probability through Games of Chance.</p>
 			<p style="text-align: justify;">We also progressively guide students to develop the ability to integrate Mathematics with other disciplines. Here, they are exposed to literature such as Operant Conditioning ideas from BF Skinner as well as research skills through Independent Study Modules (ISM). These will stand them in good stead as they take part in Olympiads and other competitions. In all, TA (Mathematics) enables our students to become part of a community of like-minded mathematics researchers sharing and building upon one another's questions, conjectures and theorems.</p>
