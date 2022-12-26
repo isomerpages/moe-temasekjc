@@ -2,7 +2,6 @@ collections:
   integrated-programme:
     output: true
     order:
-      - Enriched Curriculum/Temasek Academy.md
       - Enriched Curriculum/.keep
       - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/Aesthetics Education.md
@@ -13,3 +12,4 @@ collections:
       - Enriched Curriculum/Physical Education.md
       - Enriched Curriculum/Science.md
       - Enriched Curriculum/Cohort Programmes.md
+      - Enriched Curriculum/Temasek Academy.md
