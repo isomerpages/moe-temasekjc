@@ -63,6 +63,7 @@ third_nav_title: Enriched Curriculum
     <label for="accordion2">LITERATURE IN CHINESE (IP YEARs 3 & 4)</label>
     <div>
 			<p style="text-align: justify;"> For students who show an aptitude in and passion for Chinese Language, we offer Literature in Chinese as a Humanities subject from IP3. We seek to develop students’ interest and foundation in appreciating literary works of various genres, and equip them with the necessary literary techniques required for literary analysis. We aim to enhance students’ mastery of the language and provide them with the capacity and confidence to continue learning literature at the JC level.</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>Literature in Chinese is a school-based subject which is non-examinable at the O-Level. Hence while we adapted the MOE syllabus as the foundation of our curriculum, we have also created time and space to expose students to literary genres beyond the syllabus, such as classical prose, poetry, novels and drama. Through analyzing texts from various genres, students sharpen their argumentative and analytical skills. We also provide students with opportunities for creative writing, to further sharpen their flair for the language.</p>
     </div>
 	</li> 
 	  <li>
