@@ -186,7 +186,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><i>‘History in TJC definitely involves the typical JC grind, but tutors here spiced lectures up with videos and group work at tutorials. Towards the actual A’s, we got a lot of help in many timed practices, extra consults and food ‘encouragement’ from the tutors, which helped us push through despite the tiredness.</i></p>
 						<p style="text-align: justify;"><i>And it’s not all studies, we have a fun annual party called History Evening! There’s a different theme every year, with Fascist Feast and Eastern Bloc snacks and Cold War movies, but most importantly a fun experience to enjoy History with your classmates!</i></p>
 			<p style="text-align: right;"><i>Jeremy Fong, 2019/2020<br>Attained 90 UAS at A Levels, applying to read History at Cambridge University</i></p>
-					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
+					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8821_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9752_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9823_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
     </div>
 	</li> 
 	</ul>
