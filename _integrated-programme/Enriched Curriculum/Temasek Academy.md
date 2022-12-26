@@ -93,7 +93,7 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion5">
     <label for="accordion5">SCIENCE</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Temasek Academy (Science) develops academically talented students to investigate, reflect and problem-solve using the Design-based Inquiry approach and Borton’s model of reflection. We design our activities based on the 4E Instructional Model: Engage, Explore, Explain and Extend. Here, students learn to (i) _**E**_ngage though developmental workshops, talks, reading and discussion; (ii) **_E_**xplore through research and experimentation; (iii) **_E_**xplain through presentation and competition platforms; and (iv) **_E_**xtend by learning from peers and experts on authentic hands-on research work through Overseas Science Expedition, organising Science competitions and contributing back to the community.</p>
     </div>
 	</li> 
 	</ul>
