@@ -15,3 +15,7 @@ third_nav_title: Enriched Curriculum
 |     Sports & Games      |    Outdoor Education       |    Physical Fitness    |
 |:----------------:|:---------:|:---------------:|
 | Badminton<br>Basketball<br>Floorball<br>Football<br>Netball<br>Softball<br>Table Tennis<br>Tennis<br>Touch Rugby<br>Volleyball<br>Weights training | Outdoor Cooking<br>Orienteering<br>Structure-Building<br>Low Elements<br>High Elements<br>(Belay School, Abseiling<br>and Zipline)\*<br> | NAPFA Challenge / Test |
+
+_\*Subject to MOE’s latest guidelines on high-elements adventure activities._
+
+Our IP students enjoying their outdoor education experiences
