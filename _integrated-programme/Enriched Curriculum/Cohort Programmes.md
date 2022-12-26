@@ -15,6 +15,7 @@ third_nav_title: Enriched Curriculum
     <label for="accordion1">IP SABBATICAL WEEK</label>
     <div>
 			<p style="text-align: justify;">Sabbatical Week gives students the time and space to discover their interests through a range of enrichment activities, programmes, workshops and talks. Through these, students are exposed to new topics and skills, thereby stretching them beyond what they learn in the classroom. Sabbatical activities are designed to be hands-on, thought-provoking and to inspire students to continue exploring a wide range of topics and ideas.</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/IP%20Sabbatical%20Week%20Activities.png" style="width:100%">
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
 			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
