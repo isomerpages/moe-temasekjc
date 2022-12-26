@@ -78,7 +78,7 @@ third_nav_title: Curriculum Overview
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Lit%20Night.jpeg" style="width:220px">Literature students’ dramatic performance at Literature Night</td>
-    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/VVIP%20Visit%20Blackbox.jpg" style="width:300px">Poet, Mr Alvin Pang visiting the Black Box for a poetry reading</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/VVIP%20Visit%20Blackbox.jpg" style="width:275px">Poet, Mr Alvin Pang visiting the Black Box for a poetry reading</td>
   </tr>
 </tbody>
 </table>
