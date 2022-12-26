@@ -17,7 +17,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Art students will be exposed to various forms of representations, artists and artworks in the Study of Visual Arts (SOVA) and explore a wide range of artistic media during studio and coursework sessions in 2-dimensional and 3-dimensional praxis. The SOVA component addresses and challenges students’ visual literacy skills, studio, and coursework sessions reflect students’ artistic journey, documenting the process that leads up to a final work of art.</p>
 			<p style="text-align: justify;"><b>ENRICHMENT
 </b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>SYLLABUS</b><br><a href="" target="_blank">2021 A-Level Syllabus (H2 Art)</a></p>
+			<p style="text-align: justify;"><b>SYLLABUS</b><br><a href="/files/Academic/Curriculum/9750_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Art)</a></p>
     </div>
 	</li> 
   <li>
