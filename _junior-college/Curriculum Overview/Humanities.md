@@ -82,7 +82,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8832_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9509_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9805_y21_sy_SchoolCandidates.pdf" target="_blank">2021 A-Level Syllabus (H3 English Literature)</a></p>
+						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8832_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9509_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9805_y21_sy_schoolcandidates.pdf" target="_blank">2021 A-Level Syllabus (H3 English Literature)</a></p>
     </div>
 	</li> 
   <li>
