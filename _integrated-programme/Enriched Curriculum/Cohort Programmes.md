@@ -27,19 +27,19 @@ third_nav_title: Enriched Curriculum
 <tbody>
   <tr>
     <td><b>IP Year 1</b></td>
-    <td><p style="text-align: justify;">Students participated in hands-on modules which showed them how key concepts for the core subjects could be applied in authentic situations. The modules, designed by TJC teachers, included: learning Biology, Physics and Chemistry concepts through making ice cream; learning to draw and perform graphic notational scores for Music; creating podcasts of book and film reviews for Language Arts; going on a virtual learning journey to the Singapore River for Fundamental Humanities; and learning about mathematical concepts and probability through playing UNO.</p></td>
+    <td><p style="text-align: justify;">Students participated in <b>hands-on modules which showed them how key concepts for the core subjects could be applied in authentic situations</b>. The modules, designed by TJC teachers, included: learning Biology, Physics and Chemistry concepts through making ice cream; learning to draw and perform graphic notational scores for Music; creating podcasts of book and film reviews for Language Arts; going on a virtual learning journey to the Singapore River for Fundamental Humanities; and learning about mathematical concepts and probability through playing UNO.</p></td>
   </tr>
   <tr>
     <td><b>IP Year 2</b></td>
-    <td><p style="text-align: justify;">Students engaged in a 4-day Debate Skills Training Workshop run by The Julia Gabriel Centre. This intensive and lively workshop trained students in critical thinking, argumentation and speaking skills – an excellent complement to the skills that students are learning in subjects such as Fundamental Humanities and Language Arts. Students had many opportunities to showcase their persuasive speaking skills through participating in hands-on debates.</p></td>
+    <td><p style="text-align: justify;">Students engaged in a <b>4-day Debate Skills Training Workshop run by The Julia Gabriel Centre</b>. This intensive and lively workshop trained students in critical thinking, argumentation and speaking skills – an excellent complement to the skills that students are learning in subjects such as Fundamental Humanities and Language Arts. Students had many opportunities to showcase their persuasive speaking skills through participating in hands-on debates.</p></td>
   </tr>
   <tr>
     <td><b>IP Year 3</b></td>
-    <td><p style="text-align: justify;">Students participated in a Critical Thinking and Philosophy Programme specially designed by teachers from TJC’s A-Level Knowledge &amp; Inquiry team. This programme introduced students to key philosophical concepts and ideas, such as scepticism, deontology, consequentialism and virtue ethics. Students explored these ideas through lectures, film screenings, and mini-projects.</p></td>
+    <td><p style="text-align: justify;">Students participated in a <b>Critical Thinking and Philosophy Programme</b> specially designed by teachers from TJC’s A-Level Knowledge &amp; Inquiry team. This programme introduced students to key philosophical concepts and ideas, such as scepticism, deontology, consequentialism and virtue ethics. Students explored these ideas through lectures, film screenings, and mini-projects.</p></td>
   </tr>
   <tr>
     <td><b>IP Year 4</b></td>
-    <td><p style="text-align: justify;">Guided by the philosophy of “learning languages for life”, students developed their passion for their Mother Tongue languages and cultures through a range of exciting activities, such as a drama workshop by the Young People’s Performing Arts Ensemble. They also learned about the getai culture in Singapore through a film screening of the movie “881” and a thought-provoking talk and Q&amp;A session with lead actress, Lau Leng Leng.</p></td>
+    <td><p style="text-align: justify;">Guided by the philosophy of “learning languages for life”, students <b>developed their passion for their Mother Tongue languages and cultures</b> through a range of exciting activities, such as a drama workshop by the Young People’s Performing Arts Ensemble. They also learned about the getai culture in Singapore through a film screening of the movie “881” and a thought-provoking talk and Q&amp;A session with lead actress, Lau Leng Leng.</p></td>
   </tr>
 </tbody>
 </table>
