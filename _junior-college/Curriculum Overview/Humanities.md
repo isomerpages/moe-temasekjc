@@ -30,8 +30,8 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="" style="width:50%">Students answering questions on Nearpod</td>
-    <td style="text-align: center;"><img src="" style="width:50%">TJC Economics on Channel News Asia</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%203.jpg" style="width:300px">Students answering questions on Nearpod</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%204.gif" style="width:300px">TJC Economics on Channel News Asia</td>
   </tr>
 </tbody>
 </table>
