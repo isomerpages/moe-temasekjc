@@ -149,8 +149,8 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			
-						<table>
+			<center>‘Draw your own political cartoon!’ activity as part of JC1 History curriculum</center>
+				<table>
 <thead>
   <tr>
     <th></th>
