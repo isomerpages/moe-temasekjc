@@ -83,14 +83,15 @@ third_nav_title: Enriched Curriculum
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">MATHEMATICS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Temasek Academy (Mathematics) aims to expose students to Mathematical ideas, skills and competencies beyond the curriculum. In Year 1, we develop students’ ability to perceive patterns by finding patterns and developing strategies through games. In Year 2, students learn Computational Thinking and programming in different languages to help construct models to test their hypotheses. In Years 3 and 4, students learn applications of mathematics, in particular, probability through Games of Chance.</p>
+			<p style="text-align: justify;">We also progressively guide students to develop the ability to integrate Mathematics with other disciplines. Here, they are exposed to literature such as Operant Conditioning ideas from BF Skinner as well as research skills through Independent Study Modules (ISM). These will stand them in good stead as they take part in Olympiads and other competitions. In all, TA (Mathematics) enables our students to become part of a community of like-minded mathematics researchers sharing and building upon one another's questions, conjectures and theorems.</p>
     </div>
 	</li> 
 	<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">PEERS IN ACTION</label>
+    <label for="accordion5">SCIENCE</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
