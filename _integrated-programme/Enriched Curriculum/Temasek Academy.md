@@ -43,6 +43,20 @@ third_nav_title: Enriched Curriculum
 					<li><p style="text-align: justify;">Philosophy research via our internal Philosophy of Thought Programme where students are taught critical thinking and dialoguing skills, culminating in a joint symposium with Nanyang Girls' High School and Raffles Institution; and</p></li>
 				<li><p style="text-align: justify;">Humanities fieldwork via planning and participation in an Overseas Humanities Trip.</p></li>
 			</ul>
+		<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
