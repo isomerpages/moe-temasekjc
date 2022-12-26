@@ -20,3 +20,23 @@ third_nav_title: Curriculum Overview
 <p style="text-align: justify;">Students can also opt to take part in research programmes, such as the Research Mentoring Programme organised by SUTD and Research Attachment Programme by A*STAR.</p>  
 
 **ACHIEVEMENTS IN 2020/2021**
+
+![](/images/Academic/Curriculum%20Overview/Mathematics/Math%20Pic%202.jpg)
+
+**International Math Modeling Competition (Singapore)**   
+**(2021)** 1 Team Distinction, 1 Team Merit   
+**(2020)** 1 Team Distinction, 1 Team Merit
+
+**American Math Competition (AMC 12)**   
+**(2021)** 1 Distinction   
+**(2020)** 1 Honour Roll, 8 Distinctions
+
+**Australian Math Competition (Senior)**   
+**(2020)** 2 High Distinction, 17 Distinctions
+
+**Singapore Math Olympiads (Open)**   
+**(2020)** 1 Gold, 3 Silver, 17 Bronze
+
+  
+
+**SYLLABUSES**
