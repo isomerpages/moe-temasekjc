@@ -94,6 +94,22 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We are committed to providing our students with opportunities for geographical investigations, collaborative learning and stretch programmes to help them achieve their potential. With field trip opportunities to West Malaysia and many other locations in Singapore, students immerse in enriching learning experiences to identify, collect and communicate data. Our top geographers have excelled in competitions such as the URA’s Challenge of the Urban and Built Environment (CUBE) Competition.</p>
 			<img src="/images/Academic/Curriculum%20Overview/Humanities/Geog%20Collage%201.png" style="width:100%">
 			<p><b>TALK GEOG@TJC</b></p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+		<th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+		<td></td>
+  </tr>
+</tbody>
+</table>
 			<center>Listen to what our TJC Geographers have to say!</center>
 						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
     </div>
