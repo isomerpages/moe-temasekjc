@@ -51,7 +51,6 @@ Be Sparkled by the Wonders of our Cultures</b></center>
 </table>
 					<p><b>EXAMINATION SYLLABUS</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9575_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Chinese Language & Literature)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9901_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Chinese Language & Literature)</a></p>
     </div>
-	</li> 
 		</li> 
   <li>
     <input type="checkbox" id="accordion3">
