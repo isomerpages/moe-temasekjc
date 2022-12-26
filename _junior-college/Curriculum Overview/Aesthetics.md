@@ -52,7 +52,7 @@ third_nav_title: Curriculum Overview
 			<center>MEP Visiting Artists Series 2020: MEP Alumni Emily Koh (2019 NAC Young Artist Award) with our JC MEP students</center>
 				<p style="text-align: justify;">The TJC MEP Visiting Artists Series connects students with eminent professors and illustrious alumni from prestigious music institutions and music practitioners active in the contemporary musical landscape. It aims to develop our students' skills in the areas of musicology, composition, performance and Asian music, while nurturing MEP students to become ambassadors of the arts by deepening their insights into arts management, tertiary music education and potential career pathways related to the arts.</p>
 					<p style="text-align: justify;">In addition, students are provided with regular performance opportunities on various musical platforms: lecture recitals, the annual MEP MOTIF concert series, competitions and the biennial MEP combined concert.</p>
-			<p style="text-align: justify;"><b>SYLLABUSES</b></p>
+			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/9753_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Music)</a><br><a href="/files/Academic/Curriculum/9819_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Music)</a></p>
     </div>
 	</li> 
 	</ul>
