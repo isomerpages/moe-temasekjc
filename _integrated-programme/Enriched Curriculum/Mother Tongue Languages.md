@@ -93,6 +93,7 @@ third_nav_title: Enriched Curriculum
   </tr>
 </tbody>
 </table>
+			<p><b>SYLLABUS</b><br><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/mtl/2019-literature-in-chinese-syllabus-secondary.pdf" target="_blank">2019 Literature in Chinese Syllabus</a>
     </div>
 	</li> 
 	  <li>
