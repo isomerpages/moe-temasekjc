@@ -4,6 +4,7 @@ permalink: /academic/integrated-programme/enriched-curriculum/temasek-academy/
 description: ""
 third_nav_title: Enriched Curriculum
 ---
+# upload video by TA (Science) students documenting their Science Expedition to Japan to youtube
 # TEMASEK ACADEMY
 
 <p style="text-align: justify;">Outstanding IP students who display a strong aptitude for and talent in a particular academic discipline are invited to stretch themselves through the Temasek Academy Programme, which has five strands:</p>
