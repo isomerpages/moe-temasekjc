@@ -20,7 +20,7 @@ third_nav_title: Enriched Curriculum
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">LANGUAGE ARTS</label>
+    <label for="accordion1">LANGUAGE ARTS</label><a id="LA"></a>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Language Arts) is an enrichment programme that develops academically talented IP1 and IP2 students in English language and literary skills. We aim to nurture students’ ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
 			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in literary analysis, creative writing, speaking, drama and journalism. Students will also have the opportunity to be mentored by established writers, journalists and relevant industry practitioners. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios.</p>
