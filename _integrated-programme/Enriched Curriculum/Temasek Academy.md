@@ -36,7 +36,13 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion2">
     <label for="accordion2">HUMANITIES</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">All students enrolled in our Temasek Academy (Language Arts) programme will advance to Temasek Academy (Humanities) when they enter Year 3. TA (Humanities) aims to develop talented students who are passionate about the Humanities. The programme nurtures students who think clearly, feel deeply and speak confidently.</p>
+			<p>Here, students participate in these core learning experiences:</p>
+			<ul>
+				<li><p style="text-align: justify;">Humanities research via the Humanities and Social Science Research Programme (HSSRP), Moot Parliament Programme or internal Capstone papers;</p></li>
+					<li><p style="text-align: justify;">Philosophy research via our internal Philosophy of Thought Programme where students are taught critical thinking and dialoguing skills, culminating in a joint symposium with Nanyang Girls' High School and Raffles Institution; and</p></li>
+				<li><p style="text-align: justify;">Humanities fieldwork via planning and participation in an Overseas Humanities Trip.</p></li>
+			</ul>
     </div>
 	</li> 
   <li>
