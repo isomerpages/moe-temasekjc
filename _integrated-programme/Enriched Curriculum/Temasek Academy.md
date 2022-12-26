@@ -62,7 +62,7 @@ third_nav_title: Enriched Curriculum
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">CHINESE LANGUAGE</label><a id="cl">
+		<label for="accordion3">CHINESE LANGUAGE</label><a id="cl"></a>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Chinese Language) is a talent development programme for students who have the interest in and aptitude for the language. It develops these talented students in Chinese Language by honing their ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
 			<p style="text-align: justify;">Through workshops and seminars, students sharpen their skills in creative writing, speaking, literary analysis, drama and journalism. They will also have the opportunity to go on learning journeys as well as engage with local and overseas writers, journalists and relevant industry practitioners. All TA (Chinese Language) students will have the opportunity to join the MOE Chinese Language Elective Programme (CLEP) from Year 3, where they learn literary analysis in depth, attain a higher level of proficiency and a better understanding of Chinese Language & Literature. Outstanding students may then go on to offer CLEP at the JC level.</p>
@@ -92,7 +92,7 @@ third_nav_title: Enriched Curriculum
 	</li> 
 	<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">SCIENCE</label>
+    <label for="accordion5">SCIENCE</label><a id="sci"></a>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Science) develops academically talented students to investigate, reflect and problem-solve using the Design-based Inquiry approach and Borton’s model of reflection. We design our activities based on the 4E Instructional Model: Engage, Explore, Explain and Extend. Here, students learn to (i)<b><i>E</i></b>ngage though developmental workshops, talks, reading and discussion; (ii) <b><i>E</i></b>xplore through research and experimentation; (iii) <b><i>E</i></b>xplain through presentation and competition platforms; and (iv) <b><i>E</i></b>xtend by learning from peers and experts on authentic hands-on research work through Overseas Science Expedition, organising Science competitions and contributing back to the community.</p>
 			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Tier%203%20Ip%20Science%20Enrichment.png" style="width:80%;">
