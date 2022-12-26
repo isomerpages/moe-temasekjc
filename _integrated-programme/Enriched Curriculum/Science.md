@@ -23,3 +23,5 @@ We develop our curriculum based on two main guiding principles:
 **OUR SIGNATURE PEDAGOGY**
 
 <p style="text-align: justify;">In nurturing students’ intellectual traits and passion in learning of Science for Life and Community, our signature curriculum has been designed based on our in-house THINK© Cycle and the Critical Thinking Framework (by Paul and Elder): (a) Scope of Thinking: 8 Elements of Thought (Paul’s Wheel of Reasoning) and (b) Quality of Thinking: 9 Intellectual Standards.</p>
+
+<img src="/images/Academic/Enriched%20Curriculum/Science/THINK.png" style="width:60%">
