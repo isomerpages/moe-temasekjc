@@ -117,9 +117,9 @@ third_nav_title: Curriculum Overview
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">HISTORY</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">At TJC History, we believe in nurturing authentic and independent learners who appreciate the multifaceted nature of the world today. To this end, we actively challenge our students to examine the world we live in, by creating an environment that leverages on technology to empower students to seize ownership of their learning and engage in important discussions.</p>
     </div>
 	</li> 
 	</ul>
