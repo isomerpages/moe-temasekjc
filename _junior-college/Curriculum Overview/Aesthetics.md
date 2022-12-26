@@ -46,7 +46,13 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;">The <a href="/academic/special-programmes/music-elective-programme">Music Elective Programme (MEP)</a> at Temasek Junior College nurtures each student in their musical inclinations while developing them to be critical and creative thinkers, performers and composers of music. Enriching and extensive learning experiences in the study and application of Music are provided to enable students to attain advanced levels of musicianship, and to deepen their passion and understanding. Each student will become a musician in the truest sense of the word – as an analyst, composer, performer, critic, and researcher.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our syllabus approaches the study of Music through Music Studies and Music Making. Students will learn different components of the paper, namely Asian Music, Western Music, Composition (Stylistic imitation and Free composition), and will also have lecture recitals and personal consultations for their performing component. They will acquire essential 21st Century music skills in music technology, such as music notation software and sound recording, in the process of creating their individual composition portfolios.</p>
 			<p style="text-align: justify;">TJC’s MEP also offers H3 Music, an intellectually challenging course which exposes students to a wider scope of music as a discipline, and taught via a multi-dimensional approach to elicit discussion and critical thinking.</p>
-			<p style="text-align: justify;"><b>ENRICHMENT</b>
+			<p style="text-align: justify;"><b>ENRICHMENT</b></p>
+						<img src="/images/Academic/Curriculum%20Overview/Aesthetics/Emily%20Koh%20Visiting%20Artist%20Talk.jpg"
+     style="width:70%">
+			<center>MEP Visiting Artists Series 2020: MEP Alumni Emily Koh (2019 NAC Young Artist Award) with our JC MEP students</center>
+				<p style="text-align: justify;">The TJC MEP Visiting Artists Series connects students with eminent professors and illustrious alumni from prestigious music institutions and music practitioners active in the contemporary musical landscape. It aims to develop our students' skills in the areas of musicology, composition, performance and Asian music, while nurturing MEP students to become ambassadors of the arts by deepening their insights into arts management, tertiary music education and potential career pathways related to the arts.</p>
+					<p style="text-align: justify;">In addition, students are provided with regular performance opportunities on various musical platforms: lecture recitals, the annual MEP MOTIF concert series, competitions and the biennial MEP combined concert.</p>
+			<p style="text-align: justify;"><b>SYLLABUSES</b></p>
     </div>
 	</li> 
 	</ul>
