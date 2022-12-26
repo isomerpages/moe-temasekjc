@@ -56,7 +56,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			<p><b>SYLLABUSES</b><br></p>
+			<p><b>SYLLABUSES</b><br><a href="" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
     </div>
 	</li> 
   <li>
