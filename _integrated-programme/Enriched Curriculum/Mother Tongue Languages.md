@@ -88,8 +88,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%208_Lit%20work.jpg" style="width:180px"></td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%208_Lit%20work.jpg" style="width:180px"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%209_CH%20LIT%20enrichment.jpeg" style="width:180px"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%2010_CH%20Lit%20Enrichment.jpg" style="width:180px"></td>
   </tr>
 </tbody>
 </table>
