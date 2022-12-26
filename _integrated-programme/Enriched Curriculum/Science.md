@@ -81,9 +81,9 @@ We develop our curriculum based on two main guiding principles:
 			<img src="/images/Academic/Enriched%20Curriculum/Science/STEP.png" style="width:80%">
 			<p style="text-align: justify;">Based on Renzulli’s Enrichment Triad Model, all students are exposed to myriad opportunities:</p>
 			<ul>
-				<li>Type I Enrichment experiences involve discovering, stimulating and inspiring interest;</li>
-   <li>Type II Enrichment experiences come in two varieties – thinking skills, and ‘working’ skills, which are critical when embarking on Independent Investigation under Type III; and</li>
-   <li>Type III Enrichment experiences are academic investigations and projects focusing on a topic or problem of personal interest, while pursuing ‘self-selected’ areas (within guideline topics) for advanced content acquisition and process training in which students assume the role of first-hand inquirers.</li>
+				<li><p style="text-align: justify;">Type I Enrichment experiences involve discovering, stimulating and inspiring interest;</p></li>
+   <li><p style="text-align: justify;">Type II Enrichment experiences come in two varieties – thinking skills, and ‘working’ skills, which are critical when embarking on Independent Investigation under Type III; and</p></li>
+   <li><p style="text-align: justify;">Type III Enrichment experiences are academic investigations and projects focusing on a topic or problem of personal interest, while pursuing ‘self-selected’ areas (within guideline topics) for advanced content acquisition and process training in which students assume the role of first-hand inquirers.</p></li>
 			</ul>
     </div>
 	</li> 
