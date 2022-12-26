@@ -31,7 +31,7 @@ Our department’s vision is to:
 
 **ENRICHMENT**
 
-<p style="text-align: justify;">Our department seeks out various opportunities such as competitions, seminars and learning journeys to Institutes of Higher Learning for students of all abilities to participate. Higher-ability students who demonstrate an exceptional talent in Mathematics will be enrolled in the <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#LA"><b>Temasek Academy (Mathematics) Programme</b></a>. This programme further enhances their problem-solving, computational thinking and research abilities as they pursue their passion and achieve their potential.</p>
+<p style="text-align: justify;">Our department seeks out various opportunities such as competitions, seminars and learning journeys to Institutes of Higher Learning for students of all abilities to participate. Higher-ability students who demonstrate an exceptional talent in Mathematics will be enrolled in the <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#math"><b>Temasek Academy (Mathematics) Programme</b></a>. This programme further enhances their problem-solving, computational thinking and research abilities as they pursue their passion and achieve their potential.</p>
 
 <img src="/images/Academic/Enriched%20Curriculum/Mathematics/Blender%20Course.jpg" style="width:70%">
 
