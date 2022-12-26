@@ -15,3 +15,5 @@ third_nav_title: Enriched Curriculum
 | Chinese Language |     ●     |     ●     |     ●     |     ●     |
 |    Mathematics   |     ●     |     ●     |     ●     |     ●     |
 |      Science     |     ●     |     ●     |     ●     |     ●     |
+
+LANGUAGE ARTS
