@@ -44,6 +44,7 @@ third_nav_title: Curriculum Overview
     <label for="accordion2">MUSIC</label>
     <div>
 			<p style="text-align: justify;">The <a href="/academic/special-programmes/music-elective-programme">Music Elective Programme (MEP)</a> at Temasek Junior College nurtures each student in their musical inclinations while developing them to be critical and creative thinkers, performers and composers of music. Enriching and extensive learning experiences in the study and application of Music are provided to enable students to attain advanced levels of musicianship, and to deepen their passion and understanding. Each student will become a musician in the truest sense of the word – as an analyst, composer, performer, critic, and researcher.</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our syllabus approaches the study of Music through Music Studies and Music Making. Students will learn different components of the paper, namely Asian Music, Western Music, Composition (Stylistic imitation and Free composition), and will also have lecture recitals and personal consultations for their performing component. They will acquire essential 21st Century music skills in music technology, such as music notation software and sound recording, in the process of creating their individual composition portfolios.</p>
     </div>
 	</li> 
 	</ul>
