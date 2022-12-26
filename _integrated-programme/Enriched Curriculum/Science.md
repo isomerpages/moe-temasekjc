@@ -77,7 +77,7 @@ We develop our curriculum based on two main guiding principles:
     <input type="checkbox" id="accordion2">
     <label for="accordion2">SCIENCE THROUGH ENRICHMENT PROGRAMME (STEP)</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">The IP Science Through Enrichment Programme (STEP) comprises three tiers where Tier 1 involves the entire cohort, Tier 2 focuses on selected students with aptitude and interest and finally Tier 3 which caters to our science talents through <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy" target="_blank">Temasek Academy (Science)</a>.</p>
     </div>
 	</li> 
 	</ul>
