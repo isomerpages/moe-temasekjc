@@ -15,7 +15,7 @@ third_nav_title: Curriculum Overview
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PEERS PROJECT COMMITTEES</label>
+    <label for="accordion1">ECONOMICS</label>
     <div>
 			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
@@ -26,6 +26,20 @@ third_nav_title: Curriculum Overview
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PEERS IN ACTION</label>
+    <div>
+			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+    </div>
+	</li> 
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">PEERS IN ACTION</label>
+    <div>
+			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+    </div>
+	</li> 
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">PEERS IN ACTION</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
