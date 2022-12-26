@@ -36,6 +36,8 @@ third_nav_title: Curriculum Overview
 </tbody>
 </table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>To bring the learning of Economics beyond the classroom, our students are exposed to a range of externally organised lectures, workshops and seminars to expand their horizons on contemporary economic debates and to learn more about possible careers in Economics.</p>
+			<img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%205.png" style="width:80%">
+			<center>Economics Alive! 2020: Career exploration of Economics in the Public Service with TJC Alumni Mr Denis Tan Wei Han</center>
     </div>
 	</li> 
   <li>
