@@ -20,7 +20,7 @@ _\*Subject to MOE’s latest guidelines on high-elements adventure activities._
 
 |   |   |
 |:-:|:-:|
-|  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20PE_Outdoor%20Cooking.jpg" style="width:200px">     |  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP4_Zipline.jpg" style="width:200px"> |
+|  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20PE_Outdoor%20Cooking.jpg" style="width:300px">     |  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP4_Zipline.jpg" style="width:300px"> |
 
 <center>Our IP students enjoying their outdoor education experiences</center>
 
@@ -32,4 +32,3 @@ _\*Subject to MOE’s latest guidelines on high-elements adventure activities._
 ![](/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20SEP%20-%20Cycling.jpg)
 
 <center>Our IP students learning how to cycle</center>
-
