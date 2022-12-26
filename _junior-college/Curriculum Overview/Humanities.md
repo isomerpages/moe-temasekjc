@@ -87,9 +87,9 @@ third_nav_title: Curriculum Overview
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">GEOGRAPHY</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"> Have you ever wondered how sand dunes are formed? Or where and how an iPhone is made? In a world confounded with polarising views on climate change, how can we make sense of the different evidences and explore pathways towards a sustainable future? The TJC Geography Department invites you to explore and make sense of the Blue Marble from a geographical perspective!</p>
 						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
     </div>
 	</li> 
