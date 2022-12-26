@@ -85,6 +85,7 @@ We develop our curriculum based on two main guiding principles:
    <li><p style="text-align: justify;">Type II Enrichment experiences come in two varieties – thinking skills, and ‘working’ skills, which are critical when embarking on Independent Investigation under Type III; and</p></li>
    <li><p style="text-align: justify;">Type III Enrichment experiences are academic investigations and projects focusing on a topic or problem of personal interest, while pursuing ‘self-selected’ areas (within guideline topics) for advanced content acquisition and process training in which students assume the role of first-hand inquirers.</p></li>
 			</ul>
+			<p style="text-align: justify;">IP Year 1 to Year 4 students can participate in many enrichment programmes ranging from internally designed programmes to external programmes offered at national and international levels. Students are closely mentored by our teachers as they prepare for these competitions.</p>
     </div>
 	</li> 
 	</ul>
