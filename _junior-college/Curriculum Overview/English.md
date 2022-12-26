@@ -26,7 +26,7 @@ third_nav_title: Curriculum Overview
 			<img src="/images/Academic/Curriculum%20Overview/English/Learning%20KI%20at%20TJC.jpg" style="width:70%">
 			<p style="text-align: center;"> Learning KI at TJC</p>
 			<p style="text-align: justify;">KI is conceptually distinct from traditional subjects. It emphasises learner-centredness, negotiated learning and spiral progression. The teaching of this subject hinges on the principle that the learning must meet the needs and abilities of the students and they are given opportunities to confront new information and experiences in the search for meaning. It also encourages teachers and students to work together to decide on the areas of exploration. Finally, the syllabus explores and applies concepts and process skills at increasing levels of difficulty.</p>
-			<p><b>SYLLABUSES</b><br><a href="" target="_blank">2021 A-Level Syllabus (H2 Knowledge & Inquiry)</a><br><a href="" target="_blank">2022 A-Level Syllabus (H2 Knowledge & Inquiry)</a></p>
+			<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/9759_y21_sy_schoolcandidates.pdf" target="_blank">2021 A-Level Syllabus (H2 Knowledge & Inquiry)</a><br><a href="/files/Academic/Curriculum/9759_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Knowledge & Inquiry)</a></p>
     </div>
 	</li> 
 	</ul>
