@@ -111,6 +111,7 @@ third_nav_title: Curriculum Overview
 </tbody>
 </table>
 			<center>Listen to what our TJC Geographers have to say!</center>
+			<p><b>CONNECT WITH US</b><br>Our Geography@TJC <a href="https://www.facebook.com/geographyattjc/" target="_blank">FaceBook</a> and <a href="https://www.instagram.com/geogattjc/" target="_blank">Instagram</a> pages are our way to keep you and our proud TJC Geography alumni in the loop with all matters Geography-related.</p>
 						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
     </div>
 	</li> 
