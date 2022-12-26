@@ -23,3 +23,13 @@ _\*Subject to MOE’s latest guidelines on high-elements adventure activities._
 |  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20PE_Outdoor%20Cooking.jpg" style="width:200px">     |  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP4_Zipline.jpg" style="width:200px"> |
 
 <center>Our IP students enjoying their outdoor education experiences</center>
+
+
+**ENRICHMENT**
+
+<p style="text-align: justify;">As part of the Sports Education Programme (SEP), we organise special sports modules such as safe cycling for IP students to broaden their learning and pick up useful lifeskills beyond the curriculum. Our students can also look forward to Inter-Class or Intra-Class Sports Tournaments where they pit their skills against their peers in friendly competitions and learn sportsmanship. In a normal year, students can also step up as leaders to organise, plan and manage games and activities during Games Day. Even so, despite the pandemic, our students continue to immerse in healthy living, as they take part in a Virtual Marathon and maintain their virtual workouts to keep themselves physically and mentally fit.</p>
+
+![](/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20SEP%20-%20Cycling.jpg)
+
+<center>Our IP students learning how to cycle</center>
+
