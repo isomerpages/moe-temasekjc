@@ -62,7 +62,7 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 			<img src="/images/Academic/Curriculum%20Overview/Mother%20Tongue%20Languages/Talent%20Framework.jpg" style="width:80%">
 			<p style="text-align: justify;">To nurture students at the top of the tier, and who have the aptitude for Chinese Language to achieve a high level of proficiency, we have the following special programmes to further support students with the potential to do so:</p>
 			<ul>
-				<li></li>
+				<li><a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#cl" target="_blank">IP Temasek Academy (Chinese Language)</a></li>
 				<li></li>
 			</ul>
 			<p style="text-align: justify;">More information can be found on the respective pages for the different programmes. Please click on the programme titles to find out more.</p>
