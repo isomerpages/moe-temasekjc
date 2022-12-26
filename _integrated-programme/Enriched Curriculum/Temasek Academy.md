@@ -104,7 +104,7 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2%20TA%20SC%203D%20Printing.jpeg" style="width:80%;">Our IP2 students working with a 3D printer as part of their Flight Programme project</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2%20TA%20SC%203D%20Printing.jpeg" style="width:85%;">Our IP2 students working with a 3D printer as part of their Flight Programme project</td>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP4%20TA%20SC%20Science%20Mentorship%20Programme%20with%20Science%20Centre.jpg" style="width:85%;">Our IP4 students under the guidance of their Research Mentor from Science Centre Singapore</td>
   </tr>
 </tbody>
