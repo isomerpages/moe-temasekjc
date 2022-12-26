@@ -35,7 +35,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>To bring the learning of Economics beyond the classroom, our students are exposed to a range of externally organised lectures, workshops and seminars to expand their horizons on contemporary economic debates and to learn more about possible careers in Economics.</p>
     </div>
 	</li> 
   <li>
