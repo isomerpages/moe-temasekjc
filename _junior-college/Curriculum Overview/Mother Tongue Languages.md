@@ -45,8 +45,8 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;">Learning Journey (Drama Appreciation)</td>
-    <td style="text-align: center;">Learning Journey (Nanyang Coffee Shop)</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Mother%20Tongue%20Languages/Learning%20Journey%20Drama%20Appreciation.png" style="width:100%">Learning Journey (Drama Appreciation)</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Mother%20Tongue%20Languages/Learning%20Journey%20Nanyang%20Coffee%20Shop.png" style="width:100%">Learning Journey (Nanyang Coffee Shop)</td>
   </tr>
 </tbody>
 </table>
