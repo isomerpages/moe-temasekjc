@@ -74,8 +74,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%207_CH%20Lit%20T_L.jpeg" style="width:150px"></td>
-    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%208_Lit%20work.jpg" style="width:180px"></td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%207_CH%20Lit%20T_L.jpeg" style="width:200px"></td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%208_Lit%20work.jpg" style="width:200px"></td>
   </tr>
 </tbody>
 </table>
