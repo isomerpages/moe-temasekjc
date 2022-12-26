@@ -56,6 +56,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
+			<p><b>SYLLABUSES</b><br></p>
     </div>
 	</li> 
   <li>
