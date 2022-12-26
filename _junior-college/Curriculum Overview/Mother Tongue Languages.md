@@ -31,9 +31,11 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">H2 CHINESE LANGUAGE & LITERATURE</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">It is our vision to develop students’ maturity of thought, critical thinking skills, and their evaluation of arguments and opinions. In so doing, we aim to foster a passion for reading a wide variety of Chinese literary works, and to have a sensitivity to the Chinese language. This will broaden the global outlook of our students, and equip them with an additional set of wings to soar when they take off into the world.</p>
+			<p style="text-align: justify;">For the past few years, our JC2 cohorts have achieved excellent results in the A Level Chinese Language and Literature examination, with more than 80% of the students achieving A and B grades. The good results have helped our students to achieve a good University Admission Score, and gave them greater choices in university course selection, as well as scholarship applications.</p>
+			
     </div>
 	</li> 
 		</li> 
