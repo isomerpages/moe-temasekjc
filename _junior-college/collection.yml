@@ -2,7 +2,7 @@ collections:
   junior-college:
     output: true
     order:
-      - Curriculum Overview/Computing.md
       - Curriculum Overview/.keep
       - Curriculum Overview/Curriculum Overview.md
       - Curriculum Overview/Aesthetics.md
+      - Curriculum Overview/Computing.md
