@@ -17,9 +17,10 @@ third_nav_title: Curriculum Overview
     <input type="checkbox" id="accordion1">
     <label for="accordion1">ECONOMICS</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
+			<p style="text-align: justify;">Have you ever wondered why a packet of Hello Panda can cost a dollar in the canteen but over $4 at MBS? What about the economic fallout from COVID-19? The TJC Economics Department invites you to explore and make sense of the real world from the lens of an economist!</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>In our Economics curriculum, students can look forward to embark on an investigation into how different economic agents – consumers, producers and governments – make decisions to achieve their objectives. Armed with tools of economic analysis to understand real world issues, evaluate perspectives and understand policy decisions, the Economics curriculum at TJC provides students with a strong foundation to manage and navigate the complexities and ambiguities of our ever-changing world. This rigorous approach towards the content and skills of the subject has led to consistent top Value-Adding results for our students in recent A-Level results!</p>
+			<p style="text-align: justify;">Our department is at the forefront of MOE’s Blended Learning initiative, using a Flipped Learning approach to integrate online teaching resources and face-to-face interactions to ensure that economics concepts and skills are accessible for all students. This has been well received by students and has been recognised in the national media.
+</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
