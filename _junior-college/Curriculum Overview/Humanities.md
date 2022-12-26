@@ -120,7 +120,21 @@ third_nav_title: Curriculum Overview
     <label for="accordion4">HISTORY</label>
     <div>
 			<p style="text-align: justify;">At TJC History, we believe in nurturing authentic and independent learners who appreciate the multifaceted nature of the world today. To this end, we actively challenge our students to examine the world we live in, by creating an environment that leverages on technology to empower students to seize ownership of their learning and engage in important discussions.</p>
-									<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="" style="width:100%"></td>
+    <td style="text-align: center;"><img src="" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
     </div>
 	</li> 
 	</ul>
