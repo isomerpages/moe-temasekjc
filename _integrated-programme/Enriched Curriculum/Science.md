@@ -56,6 +56,20 @@ We develop our curriculum based on two main guiding principles:
 </table>
 			<p style="text-align: justify;"><b>SCIENCE CURRICULUM RESEARCH PROJECTS</b><br>In the lower IP years, students are exposed to one Green Science Curriculum Research Project each year; and in upper IP, students are tasked to complete one Curriculum Research Project per science subject.</p>
 			<p style="text-align: justify;">All Science Curriculum Research Projects involve integrated Science, Technology, Engineering and Mathematics (STEM) activities with various learning deliverables such as maintaining a logbook, PowerPoint presentation, poster presentation, infographics, video-making, prototype building and 3D printing. These projects provide students the opportunity to experience productive failure, which builds courage and a growth mindset in our students, as they ‘dare to explore, dare to challenge, dare to insist, dare to keep pushing, and dare to have the determination’ to succeed. Students are also given time and space for reflective learning. Through these experiences, students will realise that the joy of learning may entail occasional failures, but that the satisfaction in overcoming difficulties is even more enriching and meaningful! This will definitely instil in our students a lifelong interest in Science.</p>
+						<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP2%20STEM%20Programme%20Vertical%20Farming.jpeg" style="width:100%">IP2 students working on their vertical farming project as part of the STEM Programme</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP4%20Mitosis%20Diagram%20activity.jpg" style="width:70%">Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
