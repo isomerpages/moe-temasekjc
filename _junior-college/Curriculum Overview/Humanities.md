@@ -180,6 +180,10 @@ third_nav_title: Curriculum Overview
 </tbody>
 </table>
 			<center>Learning journeys to the 2019 Bicentennial Experience and Alfian Sa’at’s play Merdeka</center>
+			<p style="text-align: justify;">In their two years with us, our students develop a critical mind and an empathetic heart, which ready them to take on new adventures post-Junior College. Hear what they have to say about their journey in TJC History:</p>
+			<p style="text-align: justify;"><i>‘While History was daunting at first because I hadn’t taken it before and didn’t know what to expect, in the end it was actually really refreshing to learn this new subject. The nature of its content is really enriching and it has broadened my perspective, allowing me to view our society/ world in a more in-depth way. I now have a richer understanding of our collective history, and the passion of history teachers who lecture and teach us is contagious!</i></p>
+			<p style="text-align: right;"><i>Deanna Lawther Lim, 2019/ 2020<br>Attained 88.75 UAS at A Levels, reading International Relations at Kings College London</i></p>
+
 					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
     </div>
 	</li> 
