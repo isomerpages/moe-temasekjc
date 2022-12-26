@@ -25,7 +25,7 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 </p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our programmes are intricately designed to cultivate the ability of our students to use the language to fluently communicate their ideas, opinions and feelings in daily conversation on life-related topics, and to be clear and structured when describing their views or situations around them. The curriculum is also imbued with elements to cultivate the person, in aspects of moral character and values, and to have care and love for family, society and country. The subject matter helps students to recognise and embrace the legacy of our rich cultures, and helps them become globally aware and personally concerned
 </p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The Mother Tongue Fortnight Programme is a key department event, which encompasses two weeks in the month of April, to nurture students to be active learners and proficient users of the language. Activities include Pledge taking in MTLs & sharing of MTL songs during morning assembly, cultural camp, talks by alumni and external speakers, competitions and quizzes etc.</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
