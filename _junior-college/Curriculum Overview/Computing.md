@@ -20,7 +20,7 @@ third_nav_title: Curriculum Overview
 
 <p style="text-align: justify;">We create the authentic learning settings you need to apply relevant computing concepts and computational thinking skills to create solutions, helping you to grow into critical thinkers and innovators adept in resolving complex problems. Our rigorous debugging and program refinement challenges will also give you the additional push to develop perseverance and resilience. Opportunities to collaborate and communicate effectively are also aplenty.</p>
 
-**ENRICHMENT**
+**ENRICHMENT**   
 
 <p style="text-align: justify;">We curate enrichment opportunities that are appropriate to your competencies and interest to provide you a holistic learning experience beyond the classroom. These include local and global competitions, opportunities to learn from AI Singapore + Data Camp, MongoDB University and to attend conferences and forums such as FOSSASIA, BuildingBloCS and PyConSG.</p>
 
