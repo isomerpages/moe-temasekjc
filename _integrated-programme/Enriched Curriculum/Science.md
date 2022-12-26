@@ -49,8 +49,8 @@ We develop our curriculum based on two main guiding principles:
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/THINK.png" style="width:60%">IP1 students learning scientific concepts through ice-cream making</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/THINK.png" style="width:60%">IP4 Biology students showcasing their Mitosis Diagram using common household items</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP1%20Green%20Science%20I%20Scream.jpeg" style="width:100%">IP1 students learning scientific concepts through ice-cream making</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP4%20Mitosis%20Diagram%20activity.jpg" style="width:70%">IP4 Biology students showcasing their Mitosis Diagram using common household items</td>
   </tr>
 </tbody>
 </table>
