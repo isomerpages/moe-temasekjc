@@ -2,7 +2,6 @@ collections:
   integrated-programme:
     output: true
     order:
-      - Enriched Curriculum/Physical Education.md
       - Enriched Curriculum/.keep
       - Enriched Curriculum/Enriched Curriculum.md
       - Enriched Curriculum/Aesthetics Education.md
@@ -10,3 +9,4 @@ collections:
       - Enriched Curriculum/Language Arts.md
       - Enriched Curriculum/Mathematics.md
       - Enriched Curriculum/Mother Tongue Languages.md
+      - Enriched Curriculum/Physical Education.md
