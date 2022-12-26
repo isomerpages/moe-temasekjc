@@ -52,8 +52,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TAHU_picture_1.jpg" style="width:80%;">Our IP Year 3 students sharpen their argumentative skills at PhiloJam</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TAHU_picture_2.jpeg" style="width:80%;">Our IP Year 4 students participating in the HSSRP, where they are mentored by various academics from our local universities</td>
   </tr>
 </tbody>
 </table>
