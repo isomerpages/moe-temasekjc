@@ -134,7 +134,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We also recognise our students’ desire for creative and diverse learning experiences, and actively include enrichment opportunities for students to stretch their learning and deepen their appreciation of History.</p>
 						<table>
 <thead>
   <tr>
