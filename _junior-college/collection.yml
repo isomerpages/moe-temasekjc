@@ -2,5 +2,6 @@ collections:
   junior-college:
     output: true
     order:
+      - Curriculum Overview/Aesthetics.md
       - Curriculum Overview/Curriculum Overview.md
       - Curriculum Overview/.keep
