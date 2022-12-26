@@ -14,9 +14,10 @@ third_nav_title: Curriculum Overview
     <label for="accordion1">ART</label>
     <div>
 			<p style="text-align: justify;">The Art Programme at TJC is an artistic journey for passionate explorations, discoveries and sharing of artistic concepts and ideas. Art students will find their own artistic and creative inclinations, styles and techniques to express themselves in the most powerful way. Students will also discover and traverse through a journey of self-discovery, time management as well as creative and critical thinking.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>Art students will be exposed to various forms of representations, artists and artworks in the Study of Visual Arts (SOVA) and explore a wide range of artistic media during studio and coursework sessions in 2-dimensional and 3-dimensional praxis. The SOVA component addresses and challenges students’ visual literacy skills, studio, and coursework sessions reflect students’ artistic journey, documenting the process that leads up to a final work of art.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT
+</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
+			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Students will get the opportunity to visit various museums and exhibitions in Singapore pertinent to the area of study. There are also opportunities for students to volunteer at various art events. In further enriching our students’ experience, they will also be engaged in competitions such as UOB Painting of the Year and the Singapore Youth Festival. Where relevant, students will also attend talks or seminars that expose them to local and foreign artists, so that they deepen their artistic skills and gain industry insights.</p>
     </div>
 	</li> 
   <li>
