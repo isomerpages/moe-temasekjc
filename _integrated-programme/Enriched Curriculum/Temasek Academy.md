@@ -109,6 +109,12 @@ third_nav_title: Enriched Curriculum
   </tr>
 </tbody>
 </table>
+				<p style="text-align: justify;">Students offer core and elective modules that equip them with the necessary skills and sharpen their competencies in research areas in Science, Technology, Engineering and Mathematics (STEM). We have designed these tiered modules based on Renzulli’s Enrichment Triad model and here are some selected highlights:</p>
+			<ul>
+				<li><p style="text-align: justify;">Type I enrichment activities such as workshops and learning journeys organised by Defence Science and Technology Agency (DSTA);</p></li>
+					<li><p style="text-align: justify;">Type II activities such as Science Olympiads, Young Defence Scientists Programme (YDSP), Science and Technology Camps; and</p></li>
+				<li><p style="text-align: justify;">Type III activities such as Youth Science Ambassador Programme by Science Centre Singapore, Science Mentorship Programme by MOE Gifted Education Branch and Nanyang Research Programme (Junior) by NTU, where students expand their horizons and benefit under the mentorship of an external researcher.</p></li>
+			</ul>
     </div>
 	</li> 
 	</ul>
