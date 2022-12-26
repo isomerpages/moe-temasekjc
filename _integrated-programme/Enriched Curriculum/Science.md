@@ -75,7 +75,7 @@ We develop our curriculum based on two main guiding principles:
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">SCIENCE THROUGH ENRICHMENT PROGRAMME (STEP)</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
