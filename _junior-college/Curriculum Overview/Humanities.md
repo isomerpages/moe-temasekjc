@@ -21,6 +21,20 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>In our Economics curriculum, students can look forward to embark on an investigation into how different economic agents – consumers, producers and governments – make decisions to achieve their objectives. Armed with tools of economic analysis to understand real world issues, evaluate perspectives and understand policy decisions, the Economics curriculum at TJC provides students with a strong foundation to manage and navigate the complexities and ambiguities of our ever-changing world. This rigorous approach towards the content and skills of the subject has led to consistent top Value-Adding results for our students in recent A-Level results!</p>
 			<p style="text-align: justify;">Our department is at the forefront of MOE’s Blended Learning initiative, using a Flipped Learning approach to integrate online teaching resources and face-to-face interactions to ensure that economics concepts and skills are accessible for all students. This has been well received by students and has been recognised in the national media.
 </p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="" style="width:50%">Students answering questions on Nearpod</td>
+    <td style="text-align: center;"><img src="" style="width:50%">TJC Economics on Channel News Asia</td>
+  </tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
