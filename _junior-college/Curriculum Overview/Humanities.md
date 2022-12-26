@@ -159,8 +159,8 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="" style="width:100%"></td>
-    <td style="text-align: center;"><img src="" style="width:100%"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/History%205.jpg" style="width:82%"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/History%206.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
