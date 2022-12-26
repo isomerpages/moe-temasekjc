@@ -19,7 +19,7 @@ third_nav_title: Curriculum Overview
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/Academic/Curriculum%20Overview/Physical%20Education/JC%20SEP%20-%20iFLY.jpg) | <img src="/images/Academic/Curriculum%20Overview/Physical%20Education/JC%20SEP%20-%20Windsurfing.jpg" style="width:68%">  |
 
 <center>Our JC students skydiving indoor (left) and windsurfing (right) as part of the Sports Education Programme</center>
 
