@@ -1,4 +1,5 @@
 collections:
   junior-college:
     output: true
-    order: []
+    order:
+      - Curriculum Overview/.keep
