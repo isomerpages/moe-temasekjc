@@ -95,6 +95,20 @@ third_nav_title: Enriched Curriculum
     <div>
 			<p style="text-align: justify;">Temasek Academy (Science) develops academically talented students to investigate, reflect and problem-solve using the Design-based Inquiry approach and Borton’s model of reflection. We design our activities based on the 4E Instructional Model: Engage, Explore, Explain and Extend. Here, students learn to (i)<b><i>E</i></b>ngage though developmental workshops, talks, reading and discussion; (ii) <b><i>E</i></b>xplore through research and experimentation; (iii) <b><i>E</i></b>xplain through presentation and competition platforms; and (iv) <b><i>E</i></b>xtend by learning from peers and experts on authentic hands-on research work through Overseas Science Expedition, organising Science competitions and contributing back to the community.</p>
 			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Tier%203%20Ip%20Science%20Enrichment.png" style="width:80%;">
+					<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2%20TA%20SC%203D%20Printing.jpeg" style="width:80%;">Our IP2 students working with a 3D printer as part of their Flight Programme project</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP4%20TA%20SC%20Science%20Mentorship%20Programme%20with%20Science%20Centre.jpg" style="width:85%;">Our IP4 students under the guidance of their Research Mentor from Science Centre Singapore</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
 	</ul>
