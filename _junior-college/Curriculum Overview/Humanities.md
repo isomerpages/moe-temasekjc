@@ -42,7 +42,20 @@ third_nav_title: Curriculum Overview
 			<img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%206.png" style="width:80%">
 			<center>Budget 2020 live viewing</center>
 			<p style="text-align: justify;">Our top and most passionate students are also actively identified and mentored to represent our college in various economics competitions, where they have excelled!</p>
-			
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%208.jpg" style="width:130px"></td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%209.jpg" style="width:200px"></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
