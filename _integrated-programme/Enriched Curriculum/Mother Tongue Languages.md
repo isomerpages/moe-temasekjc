@@ -78,6 +78,7 @@ third_nav_title: Enriched Curriculum
   </tr>
 </tbody>
 </table>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Students who offer Literature in Chinese are invited to join our two talent development programmes: <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy" target="_blank">IP Temasek Academy (Chinese Language)</a> and <a href="/academic/special-programmes/chinese-language-elective-programme" target="_blank">MOE-Secondary Chinese Language Elective Programme</a>. In these programmes, they are given opportunities to take on greater challenges and leadership roles, to apply the knowledge and skills in Chinese Language as student correspondents and student ambassadors and to share their passion for the language with their peers.</p>
     </div>
 	</li> 
 	  <li>
