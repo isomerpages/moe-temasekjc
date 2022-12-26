@@ -66,6 +66,9 @@ third_nav_title: Curriculum Overview
     <div>
 			<center>“I know nothing in the world that has as much power as a word. Sometimes I write one, and I look at it, until it begins to shine,” said Emily Dickinson.</center>
 			<p style="text-align: justify;">Our vision as a Literature department is to develop students’ critical and analytical thinking skills, sensitivity to language, and passion for reading. In the process, we aim to foster the value of empathy because we believe that at the heart of English Literature is an important lesson of humanity and the human condition.</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>English Literature focuses on a detailed, technical analysis of literary texts, as well as essay-writing skills. Our students attend lectures and tutorials where they engage in discussions and posit arguments through oral presentations and written work. We encourage discussion-based lessons where our students are responsible for their learning and where they open their minds to various perspectives.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Beyond the classroom, our students are given the opportunity to take their passion for the subject to another level by participating in Literature Night where they share their creative adaptations, as well as read and perform their original works in a celebration of poetry, prose and drama. The Creative Arts Programme is also another platform for our students to showcase their work and be mentored by prominent local writers.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>To bring the learning of Economics beyond the classroom, our students are exposed to a range of externally organised lectures, workshops and seminars to expand their horizons on contemporary economic debates and to learn more about possible careers in Economics.</p>
     </div>
 	</li> 
   <li>
