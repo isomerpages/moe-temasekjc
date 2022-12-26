@@ -23,3 +23,5 @@ third_nav_title: Curriculum Overview
 **ENRICHMENT**
 
 <p style="text-align: justify;">We curate enrichment opportunities that are appropriate to your competencies and interest to provide you a holistic learning experience beyond the classroom. These include local and global competitions, opportunities to learn from AI Singapore + Data Camp, MongoDB University and to attend conferences and forums such as FOSSASIA, BuildingBloCS and PyConSG.</p>
+
+<p style="text-align: justify;">Eligible Singapore Citizens who are students enrolled in H2 Computing can also apply for the <a href="https://www.csit.gov.sg/internships-scholarships/csit-computing-scholarship" target="_blank"><b>CSIT Computing Scholarship</b></a>, which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry.</p>
