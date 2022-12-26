@@ -51,7 +51,7 @@ third_nav_title: Curriculum Overview
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%208.jpg" style="width:300px">Aspiring Economist Challenge 2020 – 1st Place</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%208.jpg" style="width:380px">Aspiring Economist Challenge 2020 – 1st Place</td>
     <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%209.jpg" style="width:400px">Best Performance in Spontaneous Round at the ACS(I)-MOE Economics Short Film Competition</td>
   </tr>
 </tbody>
