@@ -56,9 +56,10 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
 		</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">SPECIAL PROGRAMMES</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">We use a tier approach to develop students’ language proficiency and their passion for the language.</p>
+			<img src="/images/Academic/Curriculum%20Overview/Mother%20Tongue%20Languages/Talent%20Framework.jpg" style="width:80%">
     </div>
 	</li> 
 	</ul>
