@@ -18,4 +18,8 @@ third_nav_title: Enriched Curriculum
 
 _\*Subject to MOE’s latest guidelines on high-elements adventure activities._
 
+|   |   |
+|:-:|:-:|
+|  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP%20PE_Outdoor%20Cooking.jpg" style="width:200px">     |  <img src="/images/Academic/Enriched%20Curriculum/Physical%20Education/IP4_Zipline.jpg" style="width:200px"> |
+
 Our IP students enjoying their outdoor education experiences
