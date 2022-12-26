@@ -32,4 +32,4 @@ We develop our curriculum based on two main guiding principles:
 
 <p style="text-align: justify;">Students learn and apply critical thinking skills (Elements of Thought and Intellectual Standards) in a spiral manner from IP Year 1 to Year 4. These critical thinking skills are not only infused into the core curriculum that focuses on both the theory and practical aspects, they are further honed during IP Sabbatical Week and the post End-of-year Exam Science curriculum workshops.</p>
 
-![](/images/Academic/Enriched%20Curriculum/Science/STEP.png)
+![](/images/Academic/Enriched%20Curriculum/Science/Critical%20Thinking%20Framework.png)
