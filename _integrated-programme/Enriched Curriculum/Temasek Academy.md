@@ -23,8 +23,13 @@ third_nav_title: Enriched Curriculum
     <div>
 			<p style="text-align: justify;">Temasek Academy (Language Arts) is an enrichment programme that develops academically talented IP1 and IP2 students in English language and literary skills. We aim to nurture students’ ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
 			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in literary analysis, creative writing, speaking, drama and journalism. Students will also have the opportunity to be mentored by established writers, journalists and relevant industry practitioners. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/2019%20Learning%20Journey%20to%20a%20PhotoJournalism%20Exhibition%20(World%20Press%20Photo).jpg" style="width:80%;">
+			<center>Our students on a learning journey to a PhotoJournalism Exhibition (World Press Photo)
+</center>
+	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/2019%20E-Journalism%20and%20broadcasting%20workshop%20by%20TJC%20Alumni,%20Ang%20Yiying.jpeg" style="width:80%;">
+			<center>Our students participating in an e-journalism and broadcasting workshop conducted by TJC alumna, Ms Ang Yiying</center>
+	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TJC%20School%20team%202019%20NSLF.jpeg" style="width:80%;">
+			<center>Our school team at the 2019 National Schools Literature Festival</center>
     </div>
 	</li> 
   <li>
