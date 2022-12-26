@@ -8,7 +8,7 @@ third_nav_title: Curriculum Overview
 
 
 <center><b>Ignite the Passion for our Mother Tongue Languages<br>
-Be Sparkled by the Wonders of our Cultures</b></centeR>
+Be Sparkled by the Wonders of our Cultures</b></center>
 
 <p style="text-align: justify;">We celebrate the diversity of the languages, and the rich cultures encapsulated within them. We are committed to developing our students’ bilingualism and broadening their horizons. By helping them grow in depth of thought and eloquence in communication, we prepare our students to be globally-ready individuals for the 21st Century world. We believe that the mastery of an additional language essentially bestows each one of our students with another set of wings to soar.</p>
 
@@ -21,8 +21,7 @@ Be Sparkled by the Wonders of our Cultures</b></centeR>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">H1 MOTHER TONGUE LANGUAGES & Mother Tongue ‘B’</label>
     <div>
-			<p style="text-align: justify;">With the objective of nurturing active learners and proficient users of the Mother Tongue Languages (MTL), we adopt entertaining yet meaningful student-oriented teaching pedagogies and employ engaging materials and activities to guide them to be self-directed and collaborative learners. We aim to nurture effectively bilingual, open-minded, analytical, vocal, passionate and responsible talents who are ready for current and future challenges.
-</p>
+			<p style="text-align: justify;">With the objective of nurturing active learners and proficient users of the Mother Tongue Languages (MTL), we adopt entertaining yet meaningful student-oriented teaching pedagogies and employ engaging materials and activities to guide them to be self-directed and collaborative learners. We aim to nurture effectively bilingual, open-minded, analytical, vocal, passionate and responsible talents who are ready for current and future challenges.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our programmes are intricately designed to cultivate the ability of our students to use the language to fluently communicate their ideas, opinions and feelings in daily conversation on life-related topics, and to be clear and structured when describing their views or situations around them. The curriculum is also imbued with elements to cultivate the person, in aspects of moral character and values, and to have care and love for family, society and country. The subject matter helps students to recognise and embrace the legacy of our rich cultures, and helps them become globally aware and personally concerned</p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The Mother Tongue Fortnight Programme is a key department event, which encompasses two weeks in the month of April, to nurture students to be active learners and proficient users of the language. Activities include Pledge taking in MTLs & sharing of MTL songs during morning assembly, cultural camp, talks by alumni and external speakers, competitions and quizzes etc.</p>
 					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8655_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Chinese Language)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8656_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Malay Language)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8657_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Tamil Language)</a></p>
