@@ -89,6 +89,20 @@ We develop our curriculum based on two main guiding principles:
 			<p style="text-align: center;"><b><U>Programmes & Platforms</u></b><br>*THINK© Challenge | Marine Debris (Microplastics) Programme | PET Rocket Programme |<br>Flight Programme | Microbial Fuel Cell Programme | Sustainability Investigative Research |<br>Crystal Growing Programme | National Crystal Growing Competition | National Science Challenge | Genetically Modified Advisory Committee Students’ Challenge | Chem.Comm Challenge|<br>Science Chronicles | Singapore Junior Biology Olympiad (SJBO) | Singapore Junior Chemistry Olympiad (SJChO) | Singapore Junior Physics Olympiad (SJPO) | Sembcorp Marine Green Wave Environmental Care Competition | Clean Tech Competition | Singapore Amazing Flying Machine Competition | Youth Science Ambassador Programme | Science Mentorship Programme (SMP) |<br>Nanyang Research Programme (NRP Junior) | Research and Development Experience Programme (R&DEP) |Youth Defence Scientist Programme (YDSP) World of Science | YDSP Research Programme | YDSP Science and Technology Camp | EZ\*ASTAR Science Fair Competition |<br>Youth Science Conference |Singapore Science and Engineering Fair (SSEF) |<br>International Science Youth Forum (ISYF) | International Biomedical Quiz |<br>International CB Paul Science Quiz | International Sci-Teens Challenge | Overseas Science Expedition</p>
 			<center><b>*THINK© Challenge is organised by Temasek Academy (Science) and sponsored by</b></center>
 			<img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%20Sponsors.png" style="width:80%">
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%20pic1.jpg" style="width:250px"></td>
+    <td><img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%202.jpg" style="width:300px"></td>
+  </tr>
+</tbody>
+</table>
 			<center>Our students facilitating the 2019 THINK© Challenge that saw participants from numerous primary schools across Singapore</center>
     </div>
 	</li> 
