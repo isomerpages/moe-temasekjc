@@ -104,8 +104,8 @@ third_nav_title: Enriched Curriculum
 			<p style="text-align: justify;">We use a tiered approach to develop students’ language proficiency and their passion for the language.</p>
 			<img src="/images/Academic/Enriched%20Curriculum/Mother%20Tongue%20Languages/Picture%2011_Talent%20Framework.jpg">
 			<p style="text-align: justify;">To nurture students in the top tier, we offer the following special programmes:</p>
-			<ul><li><a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#cl" target="_blank"><b>IP Temasek Academy (Chinese Language)</b></a></li>
-<li><a href="/academic/special-programmes/chinese-language-elective-programme" target="_blank"><b>MOE-Secondary and MOE-Junior College Chinese Language Elective Programme (CLEP)</b></a></li></ul>
+			<ul><li><a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#cl"><b>IP Temasek Academy (Chinese Language)</b></a></li>
+<li><a href="/academic/special-programmes/chinese-language-elective-programme"><b>MOE-Secondary and MOE-Junior College Chinese Language Elective Programme (CLEP)</b></a></li></ul>
 			<p style="text-align: justify;">More information can be found in the respective pages for the different programmes. Please click on the programme titles to find out more.</p>
     </div>
 	</li> 
