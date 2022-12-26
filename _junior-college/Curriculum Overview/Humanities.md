@@ -38,6 +38,11 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>To bring the learning of Economics beyond the classroom, our students are exposed to a range of externally organised lectures, workshops and seminars to expand their horizons on contemporary economic debates and to learn more about possible careers in Economics.</p>
 			<img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%205.png" style="width:80%">
 			<center>Economics Alive! 2020: Career exploration of Economics in the Public Service with TJC Alumni Mr Denis Tan Wei Han</center>
+			<p style="text-align: justify;">January – March are usually exciting times as students will be exposed to a live Budget viewing before an external guest is invited to engage students on Singapore’s Annual Budget.</p>
+			<img src="/images/Academic/Curriculum%20Overview/Humanities/Econs%206.png" style="width:80%">
+			<center>Budget 2020 live viewing</center>
+			<p style="text-align: justify;">Our top and most passionate students are also actively identified and mentored to represent our college in various economics competitions, where they have excelled!</p>
+			
     </div>
 	</li> 
   <li>
