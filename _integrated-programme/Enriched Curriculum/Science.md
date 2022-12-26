@@ -4,6 +4,7 @@ permalink: /academic/integrated-programme/enriched-curriculum/science/
 description: ""
 third_nav_title: Enriched Curriculum
 ---
+# upload video of IP4 Physics students explanation for DC motor boat to youtube
 # SCIENCE
 
 Aligned to TJC’s ACE outcomes, the IP Science Curriculum aims to nurture our students to become:
