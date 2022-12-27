@@ -90,6 +90,24 @@ third_nav_title: Curriculum Overview
     <label for="accordion5">STUDENTS ACHIEVEMENTS</label>
     <div>
 			<p style="text-align: justify;">We identify and mentor talented students to represent our college in the various competitions and Science Fairs. They have done our college proud by clinching numerous awards. Below are just some of the highlights of our students’ achievements.</p>
+			<p><b>Nanyang Research Programme (Symposium)</b><br><b>2020</b>: 1 Gold, 1 Silver</p>
+			<p><b>Singapore Chemistry Olympiad</b><br><b>2021</b>: 1 Gold* (Best Student), 1 Silver & 6 Bronze<br><b>2020</b>: 1 Gold, 1 Silver & 6 Bronze
+
+  
+
+**Singapore Physics Olympiad**
+
+**2021**: 2 Bronze
+
+**2020**: 2 Silver & 1 Bronze
+
+  
+
+**Singapore Science & Engineering Fair (SSEF)**
+
+**2021**: 1 Bronze & Special Award (SAAS)
+
+**2020**: 1 Bronze & Special Award (Yale-NUS)
     </div>
 	</li> 
 	</ul>
