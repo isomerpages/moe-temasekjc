@@ -81,7 +81,7 @@ description: ""
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
 			<p><b>The Arts Book Award</b></p>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Awardees must offer four H2 subjects of which three must comprise: Economics, Literature, History or Geography, Chinese Language and Literature, Music or Art. This award is valued at $300.</p>
     </div>
 	</li> 
 	</ul>
