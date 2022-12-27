@@ -51,6 +51,20 @@ description: ""
     <label for="accordion3">CAPSTONE PROJECTS</label>
     <div>
 			<p style="text-align: justify;">Our students’ THP journey culminates in the Capstone Project, which empowers our J2 students to conduct independent research on an area of their interest to produce an academic paper. They present their findings at the HumaniTEA@TJC, where they defend their research process and findings to their peers.</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">HumaniTEA 2020 Capstone presentation</td>
+    <td style="text-align: center;">Virtual sharing by TJC alumnus Dr. Heng Tang Tang for HumaniTEA 2021</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
 	  <li>
