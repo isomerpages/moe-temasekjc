@@ -15,7 +15,16 @@ description: ""
 			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our MEP is a 4-year programme offered to the 6-Year IP students from Year 1. In this subject, students are exposed to a diverse range of musical genres and cultures, and will be engaged in musical activities that integrate the three core skills of holistic musicianship: performing, composing and listening. Students will have an in-depth engagement with music by learning music in relation to its historical and cultural context, perform and compose in these different styles, and draw links across different traditions and the other arts.</p>
 			<p style="text-align: justify;"><b>ENTRY REQUIREMENTS</b><br>Students will indicate their interest in joining the TJC MEP during the IP1 Orientation. All interested applicants will undergo a written diagnostic test and an audition-cum-interview. </p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;">Written diagnostic test:<br><ul>
+			<li>Selection is based on a strong foundation of musical concepts and skills covered in the primary school Music syllabus</li>
+			<li>Students’ listening and analytical skills will be tested</li>
+			</ul>
+			</p>
+			<p style="text-align: justify;">Audition-cum-interview:<br><ul>
+			<li>Audition:</li>
+			<li></li>
+			</ul>
+			</p>
     </div>
 	</li> 
   <li>
