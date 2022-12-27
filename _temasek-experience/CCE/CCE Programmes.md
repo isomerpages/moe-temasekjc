@@ -21,16 +21,16 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">CITIZENSHIP EDUCATION</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">SEXUALITY EDUCATION</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Sexuality Education is delivered in a holistic manner through our Guidance curriculum. Find out more about our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-ip" target="_blank"><b>IP Sexuality Education curriculum</b></a> and our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-jc" target="_blank"><b>JC Sexuality Education curriculum</b></a>.</p>
     </div>
 	</li> 
 	</ul>
