@@ -9,11 +9,7 @@ description: ""
 
 <p style="text-align: justify;">TJC offers numerous opportunities for students to explore the infinite possibilities of what life can hold for them when they graduate. We conduct workshops and classes on how to write an effective Statement and how to sit for an interview. Students will also have the opportunity to hear from various agencies about the scholarships they offer and clarify questions they have about studying in the local autonomous universities. TJC also invites alumni and representatives from overseas universities to share with our students on what studying overseas is like.</p>
 
-  
-
-![Career Talk.jpeg](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Temasek%20Experience/ECG/Career%20Talk.jpeg)
-
-  
+![Career Talk.jpeg](/images/Temasek%20Experience/Career%20Talk.jpeg)
 
 <center>A career talk by Mr Khoo Peng Beng, Director of ARC Studio Architecture + Urbanism</center>  
 
