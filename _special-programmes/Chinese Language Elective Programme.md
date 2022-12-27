@@ -16,7 +16,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Image%201_CLEP%20logo.png" style="width:1000px"></td>
+    <td><img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Image%201_CLEP%20logo.png" style="width:1200px"></td>
     <td><p style="text-align: justify;">The Chinese Language Elective Programme (CLEP) was first introduced in 1990 at Junior College level, and Temasek Junior College was one of the first two colleges selected to offer this two-year programme to nurture the linguistic talent of students. The long history and rich experience of the College in offering the CLEP place us in good stead to help students attain a higher level of proficiency and develop a better understanding of Chinese Language and Literature. Since its inauguration, we have groomed countless outstanding bilingual talents who had since come through our gates.</p>
 </td>
   </tr>
