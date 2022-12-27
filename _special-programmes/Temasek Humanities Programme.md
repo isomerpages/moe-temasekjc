@@ -80,6 +80,7 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
+			<p><b>The Arts Book Award</b></p>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
