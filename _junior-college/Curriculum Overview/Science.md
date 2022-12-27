@@ -82,7 +82,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We conduct training programmes and provide strong support for students to participate in the Singapore Physics Olympiad and other physics-related competitions and fairs. Our students also benefit from a variety of enrichment programmes offered by the many partnerships that the Physics department has established over the years. Students take part in competitions, overseas experiential programmes and hands-on workshops and seminars, which deepen their interest and knowledge in the subject, sharpening their learning at an advanced level.</p>
 					<img src="/images/Academic/Curriculum%20Overview/Science/Exploring%20Physics%20Concepts.png" style="width:70%">
 			<center>Exploring physics concepts in a pleasant and encouraging environment</center>	
-								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/9729_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/8873_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/9813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Chemistry)</a></p>
+								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/9729_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Physics)</a><br><a href="/files/Academic/Curriculum/Science/8873_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Physics)</a><br><a href="/files/Academic/Curriculum/Science/9813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Physics)</a></p>
     </div>
 	</li> 
 	  <li>
