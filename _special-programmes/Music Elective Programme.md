@@ -104,10 +104,10 @@ description: ""
 				<li>Commissioned by Singapore Symphony Orchestra (2015)</li>
 				<li>Asian Composers League Yoshiro Irino Memorial Prize (Hong Kong, 2013)</li>
 				<li>Recipient, Paul Abisheganaden Grant for Artistic Excellence (2012)</li>
-				<li></li>
+				<li>Barlow Endowment General Commission (USA, 2012)</li>
 			</ul>
 				</p>
-
+	<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:88484dbc-66b6-4618-baca-7ba17685f6b4" target="_blank">National Arts Council </a></p>
     </div>
 	</li> 	
 	</ul>
