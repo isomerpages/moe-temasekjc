@@ -2,7 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
-      - College Day Reports.md
       - Students' Council.md
       - Student Leadership Development.md
+      - College Day Reports.md
       - College Yearbooks.md
