@@ -31,12 +31,6 @@ description: ""
 </tbody>
 </table>
 			<center>TDSS main conference goes virtual in 2020 (left) while the TDSS 2020 organising committee are hard at work (right)</center>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%202.jpg" style="width:80%">
-			<center>Learning journey to Geylang as part of the local HumaniTJourney 2020</center>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%203.jpg" style="width:80%">
-			<center>Virtual tour to a New Zealand farm in HumaniTJourney 2020</center>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%204.jpg" style="width:80%">
-			<center>THP students enjoying a bubble tea workshop in Taiwan, 2019</center>
     </div>
 	</li> 
   <li>
@@ -44,6 +38,12 @@ description: ""
     <label for="accordion2">HUMANITJOURNEY</label>
     <div>
 			<p style="text-align: justify;">The HumaniTJourney is an opportunity for our students to explore pertinent issues affecting our world by considering both foreign and local perspectives as they construct learning experiences, collect data, and learn to produce nuanced and well-reasoned analyses.</p>
+						<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%202.jpg" style="width:80%">
+			<center>Learning journey to Geylang as part of the local HumaniTJourney 2020</center>
+			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%203.jpg" style="width:80%">
+			<center>Virtual tour to a New Zealand farm in HumaniTJourney 2020</center>
+			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%204.jpg" style="width:80%">
+			<center>THP students enjoying a bubble tea workshop in Taiwan, 2019</center>			
     </div>
 	</li> 
 	  <li>
