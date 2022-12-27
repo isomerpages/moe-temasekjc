@@ -41,7 +41,24 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">CLEP-SEC PROGRAMME</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Picture1_CLEP-Sec%20Framework.jpg" style="width:70%">
+			<p style="text-align: justify;">CLEP-Sec is offered from IP Year 3. All IP students enrolled in CLEP-Sec must offer school-based Literature in Chinese. Students from the CLEP-Sec centres will also jointly attend two signature activities organised by MOE. A one to two-day camp will be held locally during the June holidays of IP Year 3 with a focus on PSEI MTL Pathways and MTL-related interests. A one to two-week overseas immersion programme will be organised towards the end of IP3.</p>
+			<p style="text-align: justify;">Beyond the programme organised by MOE, we also arrange a series of school-based activities for our students to enhance their learning experience. This includes overseas immersion trips, literary lectures, lyrics writing cum song composition workshops, Meet-the-Author sessions, journalism workshop, creative writing workshops and translation workshops etc.</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+			<center>Our students on their Overseas Immersion Trip to South Korea in 2019 (left) and attending Literature Camp at Chung Cheng High School (right).</center>
     </div>
 	</li> 
 	  <li>
