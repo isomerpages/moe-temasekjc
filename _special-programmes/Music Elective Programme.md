@@ -95,9 +95,10 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">DISTINGUISHED ALUMNI</label>
     <div>
-			<b>EMILY KOH</b>
-			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Emily%20Koh%20Distinguished%20Alumni.png" style="width:100%">
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<b>EMILY KOH</b><br><br>
+			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Emily%20Koh%20Distinguished%20Alumni.png" style="width:60%">
+			<center>2019 NAC Young Artist Award – Emily Koh (Class of 2004), Assistant Professor of Composition at the University of Georgia in Athens (UGA) in Georgia, USA.</center>
+			<p style="text-align: justify;"> Emily Koh is a composer of contemporary classical music whose work is characterised by inventive explorations of the smallest details of sound. She received a PhD in Music Composition and Theory from Brandeis University, Waltham in Massachusetts, USA (2017). Today, Emily is Assistant Professor of Composition at the University of Georgia (UGA) in Athens in Georgia, USA, and performs as a double bassist in the Atlanta contemporary music scene. Each time Emily returns to Singapore, she generously conducts workshops at various schools and makes it a point to do so especially at TJC.</p>
     </div>
 	</li> 	
 	</ul>
