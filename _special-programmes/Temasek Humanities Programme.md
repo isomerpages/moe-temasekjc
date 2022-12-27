@@ -82,9 +82,10 @@ description: ""
     <div>
 			<p><b>The Arts Book Award</b></p>
 			<p style="text-align: justify;">The Arts Book Award (JC1) is automatically awarded, on top of the <a href="https://www.temasekjc.moe.edu.sg/admissions-1/scholarships-n-awards" target="_blank">Temasek Merit Award</a> to students who:</p>
-
-*   attain L1R5 7 points or better at the GCE-O Level examination, and
-*   apply to the Arts stream.
+			<ul>
+				<li>attain L1R5 7 points or better at the GCE-O Level examination, and</li>
+				<li>apply to the Arts stream.</li>
+			</ul>
 			<p style="text-align: justify;">Awardees must offer four H2 subjects of which three must comprise: Economics, Literature, History or Geography, Chinese Language and Literature, Music or Art. This award is valued at $300.</p>
     </div>
 	</li> 
