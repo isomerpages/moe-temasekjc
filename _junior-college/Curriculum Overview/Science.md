@@ -87,9 +87,9 @@ third_nav_title: Curriculum Overview
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">PEERS IN ACTION</label>
+    <label for="accordion5">STUDENTS ACHIEVEMENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">We identify and mentor talented students to represent our college in the various competitions and Science Fairs. They have done our college proud by clinching numerous awards. Below are just some of the highlights of our students’ achievements.</p>
     </div>
 	</li> 
 	</ul>
