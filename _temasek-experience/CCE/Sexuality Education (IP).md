@@ -225,7 +225,7 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><strong>IP Year 4</strong></div>
+<div style="text-align: center; color: #00703C"><b>IP Year 4</b></div>
 <div>
 <table class="iveo_table ives_tab_simple3 ive_eobj_center">
 <tbody>
