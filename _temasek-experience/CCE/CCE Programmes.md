@@ -4,7 +4,7 @@ permalink: /temasek-experience/character-n-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-# CHARACTER & CITIZENSHIP EDUCATION
+3# CHARACTER & CITIZENSHIP EDUCATION
 
 <p style="text-align: justify;">TJC is committed to nurturing good citizens who uphold our motto, “For College, For Nation”. Our Character and Citizenship Education (CCE) programme comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing students to participate actively in community.</p> 
 
@@ -13,12 +13,10 @@ third_nav_title: CCE
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PEERS PROJECT COMMITTEES</label>
+    <label for="accordion1">FOSTERING A CARING ENVIRONMENT</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;">We have Peer Support Leaders who are trained in various life-skills such as understanding emotions to look out for distressed peers, and assisting the College in providing a caring environment.</p>
+			<p style="text-align: justify;">Additionally, every IP class has a Cyberwellness Ambassador. Cyberwellness Ambassadors deliver critical cyberwellness messages to their peers in class and at school, and help the College provide a safe environment by positively influencing their peers to navigate the cyberspace safely.</p>
     </div>
 	</li> 
   <li>
@@ -29,8 +27,8 @@ third_nav_title: CCE
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">PEERS IN ACTION</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
