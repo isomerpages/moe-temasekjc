@@ -306,6 +306,38 @@ third_nav_title: CCE
 			<p><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.  
 			<p>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 			<b>At Temasek Junior College, the eTeens programme will be implemented as follows in <u>2022</u>:</b>
+			<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="130"><strong>Topics/Lessons</strong></td>
+<td style="text-align: center;" width="276"><strong>Programme Learning Objectives</strong></td>
+<td style="text-align: center;" width="96"><strong>Time Period</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">Mass Talk by HPB appointed vendor</td>
+<td width="276">
+<div>
+<ul>
+<li>Awareness of the different STIs and HIV/AIDS</li>
+<li>Modes of transmission</li>
+<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;" width="96">Term 3 Week 7</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">Classroom-based Lesson</td>
+<td width="276">
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
+</td>
+<td style="text-align: center;" width="96">Term 4 Week 1</td>
+</tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
