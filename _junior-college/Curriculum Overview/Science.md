@@ -43,7 +43,9 @@ third_nav_title: Curriculum Overview
     <label for="accordion2">BIOLOGY</label>
     <div>
 			<center><i>Why do our fingers look different from our toes even though each one of us developed from one single fertilised egg? What are the uses of a molecule of DNA? How can climate change lead to the spread of ancient dormant disease-causing pathogens? How can humans overcome infections?</i></center>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">These are thought-provoking questions raised by our Biology students during the course of their study. Join us, the Fantastic TJC Biology Department, to unravel the mysteries of life around us!</p>
+			<p style="text-align: justify;"><b>CURRICULUM</b><br>The rapid and continuous progress in the field of life sciences demands the learner to have sound knowledge of the nature of science, acquire scientific inquiry skills, and being able to relate science to societal needs. To achieve these demands, we provide a nurturing environment for our students to be inquisitive and deepen their understanding of Biology. Our students will discover for themselves how life is sustained and how they can apply their knowledge to ensure sustainable living.</p>
+			<p style="text-align: justify;">Students will build a strong foundation in the understanding of life at cellular and molecular levels, and make connections between these micro-systems and the organism as a whole. This ability to draw links and make connections enables our students to relate to other systems they encounter in their daily lives, a skill critical for real-world problem solving.</p>
     </div>
 	</li> 
 	  <li>
