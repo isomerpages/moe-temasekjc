@@ -28,10 +28,10 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">ABOUT THE PROGRAMME</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;">CLEP aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop students to become effectively bilingual.</p>
+			<p style="text-align: justify;">CLEP-Sec and CLEP-JC are two separate 2-year programmes and the progression from CLEP-Sec to CLEP-JC is not mandatory. IP students would have to reapply for the programme after Year 4. Nevertheless, all CLEP-Sec students are encouraged to continue in the programme at the junior college (JC) level.</p>
+			<p style="text-align: justify;">CLEP students who are Singapore citizens and achieved outstanding performance will be considered for the CLES awarded by MOE. A certificate of recognition will be presented to students upon completion of CLEP-Sec and CLEP-JC respectively.</p>
+			<p style="text-align: justify;">Please refer to the following websites for more information about CLEP:<br>CLEP-Sec: [https://www.moe.gov.sg/programmes/clep-sec](https://www.moe.gov.sg/programmes/clep-sec)<br>CLEP-JC: [https://www.moe.gov.sg/programmes/clep-jc](https://www.moe.gov.sg/programmes/clep-jc) & [https://go.gov.sg/preuclep](https://go.gov.sg/preuclep)</p>
     </div>
 	</li> 
   <li>
