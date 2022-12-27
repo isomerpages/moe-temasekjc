@@ -126,6 +126,16 @@ description: ""
 			<p><b>DIANA SOH</b></p>
 	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Diana%20Soh%20Distinguished%20Alumni.jpg" style="width:60%">
 			<center>2015 NAC Young Artist Award – Diana Soh Li Ling (Class of 2002)</center>	
+			<p style="text-align: justify;">Diana Soh’s body of work demonstrates creativity and adventure in her artistic pursuits. A doctorate holder of Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Diana spent two years as Composer-in-residence at the National Center for Musical Creation (La Muse en Circuit) and the Conservatoire d'Ivry-sur-Seine, France. She has received commissions from, and has been presented by, major international festivals, radio broadcasts, and commissioning organisations such as the Singapore Youth Choir.</p>
+							<p>Selected Awards and Achievements
+			<ul>
+				<li>SACEM (France) Bourses Cursus 2 (2012)</li>
+				<li>Who’s Who Among Students in American Universities & Colleges (2011)</li>
+				<li>Nominee, Finalist for Gaudeamus Prize in Composition (2011)</li>
+				<li>Hedy King Robinson Award (ABRSM)</li>
+			</ul>
+				</p>
+			<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:a1d9e52f-9f1e-4263-9cfe-eb25f9010c4e" target="_blank">National Arts Council </a></p>
     </div>
 	</li> 	
 	</ul>
