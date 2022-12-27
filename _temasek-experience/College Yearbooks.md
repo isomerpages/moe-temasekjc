@@ -4,7 +4,7 @@ permalink: /temasek-experience/college-yearbooks/
 description: ""
 ---
 # 2021, 2020 yearbooks >5mb
-# Scribbed yearbook cannot be embedded in isomer.
+# Scribbed yearbooks, 2021,2020 cannot be embedded in isomer.
 # COLLEGE YEARBOOKS
 
 ## Annual Yearbook - 2021
