@@ -37,7 +37,7 @@ description: ""
     <label for="accordion2">'A' LEVEL MUSIC (JC)</label>
     <div>
 			<p style="text-align: justify;">The GCE 'A' Level Music syllabus approaches the study of Music through Music Studies and Music Making. In TJC, our students will learn from tutors specialising in the different components of the paper, namely Asian Music, Western Art Music and Jazz, Creating (Free composition and arrangement), and will also have lectures and personal consultations in their Performing component. As they assemble their individual portfolios in free composition and arrangement, our students will acquire essential 21st Century skills in music technology through the use of music notation and sound recording software. Beyond the curriculum, authentic learning experiences are provided to equip our students to be practitioners and advocates of the arts, and to apprise them of areas of study at tertiary music institutions and career opportunities in the music industry.</p>
-			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="" target="_blank"></a><br><a href="" target="_blank"></a></p>
+			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="" target="_blank">2023 A-Level Syllabus (H2 Music)</a><br><a href="" target="_blank">2023 A-Level Syllabus (H3 Music)</a></p>
     </div>
 	</li> 
   <li>
