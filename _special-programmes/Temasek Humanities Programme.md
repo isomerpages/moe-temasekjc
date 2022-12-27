@@ -78,7 +78,7 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">PEERS IN ACTION</label>
+    <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
