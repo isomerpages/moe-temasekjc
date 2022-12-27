@@ -25,8 +25,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%202.jpg" style="width:80%"></td>
-    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%203.jpg" style="width:80%"></td>
+    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%202.png" style="width:95%"></td>
+    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%203.png" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
