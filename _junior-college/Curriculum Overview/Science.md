@@ -16,9 +16,24 @@ third_nav_title: Curriculum Overview
     <label for="accordion1">HIGHLIGHTS</label>
     <div>
 			<p style="text-align: justify;"><b>Temasek STEM Academy (Talent and Enrichment Programmes)</b><br>Our students have achieved excellence in the various academic areas. We aim to groom outstanding Mathematics and Science students to be leaders with 21st Century Competencies. Students can look forward to various exploratory and experiential STEM-based learning opportunities within and beyond the classroom based on interests and aspirations, supported by a team of teacher mentors and external partnerships. These programmes stretch students who are passionate about sciences, technology, engineering and math, using an interdisciplinary and applied approach.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;">Our students have been regularly featured in the following key events:
+</p>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+		<th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>A*STAR Science Award (JC)<br><br>International Biomedical Quiz<br><br>LKC Neuroanatomy Challenge<br><br>MOE Local Student Attachment Programme</td>
+    <td>Nanyang Research Programme<br><br>Science Research Programme<br><br>Science Centre Board STEP STEM ALIVE!</td>
+		<td>Singapore Biology Olympiad<br><br>Singapore Chemistry Olympiad<br><br>Singapore Physics Olympiad<br><br>Singapore Science and Engineering Fair</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
