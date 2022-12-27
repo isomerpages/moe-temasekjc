@@ -2,6 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Student Well Being.md
       - Students' Council.md
       - Student Leadership Development.md
       - Education & Career Guidance.md
