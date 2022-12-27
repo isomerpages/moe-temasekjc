@@ -71,6 +71,8 @@ description: ""
 </table>
 			<center>Our MEP maestros in action</center>
 			<p style="text-align: justify;"><b>VIVACE PIANO ENSEMBLE COMPETITION</b><br>The JC1 MEP cohort took part in the 10th installment of Vivace in 2019, an inter-school piano ensemble competition organised by National Junior College. Of the five piano duos presented, two won the Silver award while one emerged with a Gold with Commendation award, placing among the top 6 duos from across the country. In preparation for the competition, the duos were coached by TJC MEP alumnus Bertram Wee, a graduate of the Royal College of Music. Through this experience, the participants gained a newfound appreciation for contemporary piano duet repertoire, while expanding their range of performing skills, particularly in a collaborative setting.</p>
+			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Vivace%202019%20pic.jpg" style="width:70%">
+			<center>Our award-winning piano duos</center>
     </div>
 	</li> 
 	  <li>
