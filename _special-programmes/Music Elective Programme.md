@@ -123,6 +123,9 @@ description: ""
 			</ul>
 				</p>
 			<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:4071b0d3-8248-49c8-8c4f-5e58ee7275a2" target="_blank">National Arts Council </a></p>
+			<p><b>DIANA SOH</b></p>
+	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Diana%20Soh%20Distinguished%20Alumni.jpg" style="width:60%">
+			<center>2015 NAC Young Artist Award – Diana Soh Li Ling (Class of 2002)</center>	
     </div>
 	</li> 	
 	</ul>
