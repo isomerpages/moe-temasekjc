@@ -2,6 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
+      - CCE/CCE Programmes.md
       - CCE/.keep
       - Students' Council.md
       - Student Leadership Development.md
