@@ -25,6 +25,17 @@ third_nav_title: CCE
     <div>
 			<p style="text-align: justify;">Our Citizenship Education program strives to help TJCians appreciate what it means to be a Singaporean. We leverage on our Citizenship programmes as platforms for students to demonstrate leadership qualities by customising activities for the entire cohort during National Education Commemorative Days. These experiences empower students to be active participants in community and national life both now and in the future.</p>
 			<p style="text-align: justify;">We also encourage our students to contribute meaningfully to the greater community, guided by our core College value of Compassion. Our students participate in Go Green Day, an annual event in which they collect used clothing and newspapers from residents in the Bedok and Chai Chee neighbourhoods. Every year, the collection raises more than $15,000 for the Lions' Home for the Elders and Assisi Hospice.</p>
+			 <img src="/images/Temasek%20Experience/CCE/2020%20Go%20Green%20Day.png" style="width:50%">
+			<center>Our students in action during the 2020 Go Green Day
+</center>
+      <img src="" style="width:50%">
+			<center></center>
+			 <img src="" style="width:50%">
+			<center></center>
+			 <img src="" style="width:50%">
+			<center></center>
+			 <img src="" style="width:50%">
+			<center></center>
     </div>
 	</li> 
 	  <li>
