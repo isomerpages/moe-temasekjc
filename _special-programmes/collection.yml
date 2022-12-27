@@ -1,4 +1,5 @@
 collections:
   special-programmes:
     output: true
-    order: []
+    order:
+      - Chinese Language Elective Programme.md
