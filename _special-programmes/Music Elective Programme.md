@@ -10,9 +10,9 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PEERS PROJECT COMMITTEES</label>
+    <label for="accordion1">MEP IN THE INTEGRATED PROGRAMME (IP)</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
+			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
 			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
