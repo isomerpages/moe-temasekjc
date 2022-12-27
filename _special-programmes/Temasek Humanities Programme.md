@@ -87,6 +87,7 @@ description: ""
 				<li>apply to the Arts stream.</li>
 			</ul>
 			<p style="text-align: justify;">Awardees must offer four H2 subjects of which three must comprise: Economics, Literature, History or Geography, Chinese Language and Literature, Music or Art. This award is valued at $300.</p>
+			<p><b>The MOE Humanities Scholarship</b><br>For more information on the MOE Humanities Scholarship, click <a href="https://www.moe.gov.sg/programmes/humanities-talent-development/humanities-scholarship-and-programme" target="_blank">here</a>.
     </div>
 	</li> 
 	</ul>
