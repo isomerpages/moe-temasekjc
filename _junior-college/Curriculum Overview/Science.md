@@ -54,6 +54,8 @@ third_nav_title: Curriculum Overview
 			<center>A snippet of a video created for JC1 Practical Magic Lesson Package on SLS</center>	
 			<p style="text-align: justify;">We aim to train our students to be critical learners through thinking routines to facilitate the development of their metacognition skills.</p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Exciting learning journeys to Pulau Semakau and Lee Kong Chian Natural History Museum serve as experiential learning opportunities for our students. Students learn beyond the classroom and laboratories, where they hear from professionals in niche areas and higher institutions of learning and research. We also engage local and overseas university professors and our very own TJC Alumni to give talks for our students to raise awareness on their career prospects, and enhance their scientific literacy.</p>
+			<img src="/images/Academic/Curriculum%20Overview/Science/TJC%20Bio_LKCNHM.jpg" style="width:60%">
+			<center>Learning journey to Lee Kong Chian Natural History Museum</center>	
     </div>
 	</li> 
 	  <li>
