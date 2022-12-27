@@ -50,7 +50,7 @@ description: ""
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/IP2%20Gamelan%20Workshop%202020.jpg" style="width:70%">
 			<center><b>Gamelan Workshop for our IP MEP students</b></center>
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Cadenza%20I%202020%20Picture%20filming.jpg" style="width:70%">
-			<center><b>Gamelan Workshop for our IP MEP students</b></center>
+			<center><b>TJC IP MEP Concert Cadenza I</b></center>
     </div>
 	</li> 
 	  <li>
