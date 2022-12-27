@@ -23,7 +23,7 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">OVERVIEW OF TJC’S 2022 SEXUALITY EDUCATION PROGRAMME (IP YEAR 1 TO IP YEAR 4)</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
