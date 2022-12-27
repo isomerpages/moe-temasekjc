@@ -96,6 +96,7 @@ description: ""
     <label for="accordion4">DISTINGUISHED ALUMNI</label>
     <div>
 			<b>EMILY KOH</b>
+			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Emily%20Koh%20Distinguished%20Alumni.png" style="width:100%">
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 	
