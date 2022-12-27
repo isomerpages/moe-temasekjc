@@ -27,15 +27,13 @@ third_nav_title: CCE
 			<p style="text-align: justify;">We also encourage our students to contribute meaningfully to the greater community, guided by our core College value of Compassion. Our students participate in Go Green Day, an annual event in which they collect used clothing and newspapers from residents in the Bedok and Chai Chee neighbourhoods. Every year, the collection raises more than $15,000 for the Lions' Home for the Elders and Assisi Hospice.</p>
 			 <img src="/images/Temasek%20Experience/CCE/2020%20Go%20Green%20Day.png" style="width:50%">
 			<center>Our students in action during the 2020 Go Green Day</center>
-			<p style="text-align: justify;">Aside from the various <a href="/temasek-experience/student-leadership-development" target="_blank"><b>IP ACE Initiatives</b></a>, our IP students also enjoy many other character development opportunities. These include participating in the Intergenerational Learning Programme and embarking on learning journeys that broaden their understanding of our community.</p>
+			<p style="text-align: justify;">Aside from the various <a href="/temasek-experience/student-leadership-development"><b>IP ACE Initiatives</b></a>, our IP students also enjoy many other character development opportunities. These include participating in the Intergenerational Learning Programme and embarking on learning journeys that broaden their understanding of our community.</p>
       <img src="/images/Temasek%20Experience/CCE/Intergenerational%20Learning%20Prog.png" style="width:50%">
 			<center>Our IP students guiding seniors from neighbouring residences to use mobile applications as part of our Intergenerational Learning Programme</center>
-			 <img src="" style="width:50%">
-			<center></center>
-			 <img src="" style="width:50%">
-			<center></center>
-			 <img src="" style="width:50%">
-			<center></center>
+			 <img src="/images/Temasek%20Experience/CCE/Tuas%20Dorm%20Visit.png" style="width:50%">
+			<center>Our IP4 students visiting a foreign workers’ dormitory to get a glimpse into the lives of migrant workers</center>
+			 <img src="/images/Temasek%20Experience/CCE/SG%20Perspectives.png" style="width:50%">
+			<center>Our students participating in our annual SG Perspectives series</center>
     </div>
 	</li> 
 	  <li>
