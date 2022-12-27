@@ -62,7 +62,7 @@ description: ""
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%201.jpg" style="width:100%">HumaniTEA 2020 Capstone presentation</td>
-    <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%202.jpg" style="width:75%">Virtual sharing by TJC alumnus Dr. Heng Tang Tang for HumaniTEA 2021</td>
+    <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%202.jpg" style="width:65%">Virtual sharing by TJC alumnus Dr. Heng Tang Tang for HumaniTEA 2021</td>
   </tr>
 </tbody>
 </table>
