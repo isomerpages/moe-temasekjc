@@ -112,6 +112,7 @@ description: ""
 	<p><b>CHEN ZHANGYI</b></p>
 	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Chen%20Zhangyi%20Distinguished%20Alumni.png" style="width:60%">
 			<center>2014 NAC Young Artist Award – Chen Zhangyi (Class of 2002), Assistant Professor of Composition, Conductor of New Music Ensemble, Yong Siew Toh Conservatory of Music</center>
+	   <p style="text-align: justify;">Chen Zhangyi is a composer whose works have been performed by world-renowned orchestras including the London Symphony Orchestra, Baltimore Symphony Orchestra and Tokyo Philharmonic Orchestra. His music composing versatility is evident from his acclaimed works across genres in opera, wind ensembles, chamber and choral music. He plays the role of mentor and educator through workshops and masterclasses he conducts at the School of the Arts (2010-2012) and Temasek Junior College (2010-12). He also tutored students at the Peabody Conservatory (2009-2013) and taught music theory and appreciation courses at the Baltimore City Community College (2013).</p>
     </div>
 	</li> 	
 	</ul>
