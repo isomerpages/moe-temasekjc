@@ -302,10 +302,7 @@ third_nav_title: CCE
 </tbody>
 </table>
 </div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<p>&nbsp;</p>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"><b>eTeens Programme (for IP Year 3)</b></p>
     </div>
 	</li> 
   <li>
