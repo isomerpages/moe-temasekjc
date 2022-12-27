@@ -41,9 +41,9 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">FOR OUR JUNIOR COLLEGE STUDENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"><b> Overseas Leadership Immersion Programme</b><br>This programme brings selected student leaders to a regional country to gain leadership insights through dialogue sessions with key industry leaders and to share leadership experiences through networking with student leaders from overseas.</p>
     </div>
 	</li> 
 	</ul>
