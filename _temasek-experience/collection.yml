@@ -2,8 +2,8 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Education & Career Guidance.md
       - Students' Council.md
       - Student Leadership Development.md
+      - Education & Career Guidance.md
       - College Day Reports.md
       - College Yearbooks.md
