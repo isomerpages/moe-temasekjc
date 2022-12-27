@@ -16,4 +16,8 @@ third_nav_title: Curriculum Overview
 
 <center>Design Thinking Framework</center>
 
+|   |   |
+|:-:|:-:|
+| ![](/images/Academic/Curriculum%20Overview/Project%20Work/PW%202.jpg)  |  ![](/images/Academic/Curriculum%20Overview/Project%20Work/PW%203.jpg)  |
+
 <center>Student conducting fieldwork to empathise with the user’s needs (left) and students working on a project together (right).</center>
