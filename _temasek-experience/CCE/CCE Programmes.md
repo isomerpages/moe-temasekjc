@@ -4,7 +4,7 @@ permalink: /temasek-experience/character-n-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-3# CHARACTER & CITIZENSHIP EDUCATION
+# CHARACTER & CITIZENSHIP EDUCATION
 
 <p style="text-align: justify;">TJC is committed to nurturing good citizens who uphold our motto, “For College, For Nation”. Our Character and Citizenship Education (CCE) programme comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing students to participate actively in community.</p> 
 
