@@ -14,7 +14,8 @@ description: ""
     <label for="accordion1">TEMASEK DISTINGUISHED SPEAKERS’ SERIES (TDSS)</label>
     <div>
 			<p style="text-align: justify;">The TDSS is an annual conference that the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, before culminating in a conference with a distinguished speaker in the field of interest.</p>
-
+			<img src="/images/Announcements/3241389-200.png" style="width:50%">
+			<center>TDSS main conference in 2019</center>
     </div>
 	</li> 
   <li>
