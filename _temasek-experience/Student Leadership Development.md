@@ -33,9 +33,10 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">FOR OUR INTEGRATED PROGRAMME STUDENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+						<p style="text-align: justify;"><b>ACE Initiatives</b><br>Our ACE Initiatives are important components in the holistic development of our IP students. The programme adopts an experiential approach to nurture in IP students the desired outcomes of an ACE TJCian. Through a confluence of Stewardship, Leadership and Citizenship activities, students will be able to experience and reflect as an Active learner, Caring and committed citizen, and Ethical leader.</p>
+			<p style="text-align: justify;"><b>IP3 MOE-OBS Challenge Programme</b><br>Every year, our IP3 students participate in the MOE-OBS Challenge Programme as part of MOE’s National Outdoor Adventure Education Masterplan. The programme seeks to develop ruggedness, resilience, and build cohesion amongst our students. The programme comprises a series of school-based PE and Character and Citizenship Education lessons facilitated by teachers as well as a 5-day expeditionary course at OBS on Pulau Ubin.</p>
     </div>
 	</li> 
   <li>
