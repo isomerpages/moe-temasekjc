@@ -27,18 +27,14 @@ description: ""
 			       <li>A series of short aural tests</li>
 			    </ul>
 		</li>
-			<li>A short interview to assess applicants’ level of interest and commitment to the 4-year programme, as the MEP is an additional subject on top of the students’ existing subject combination
-
-
-
-</li>
+			<li>A short interview to assess applicants’ level of interest and commitment to the 4-year programme, as the MEP is an additional subject on top of the students’ existing subject combination</li>
 			</ul>
 			</p>
     </div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">'A' LEVEL MUSIC (JC)</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
