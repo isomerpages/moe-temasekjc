@@ -49,10 +49,10 @@ third_nav_title: CCE
     <label for="accordion4">INFORMATION FOR PARENTS</label>
     <div>
 			<ol>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Parents may opt their children out of Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the **Sexuality Education** **lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also [downloadable here](https://www.temasekjc.moe.edu.sg/qql/slot/u550/Temasek%20Experience/Student%20Wellbeing/FORM%202022/SEd%20Letter%20IP.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18/02/2022.</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also [downloadable here](https://www.temasekjc.moe.edu.sg/qql/slot/u550/Temasek%20Experience/Student%20Wellbeing/FORM%202022/eTeens%20IP.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18/02/2022.</p></li>
+				<li><p style="text-align: justify;">Parents can contact the school at 6442 8066 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></li>
 				<li><p style="text-align: justify;">Parents, who wish to attend the College’s Sexuality Education programmes, should contact the school to make the necessary arrangements.</p></li>
 			</ol>
     </div>
