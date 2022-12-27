@@ -41,7 +41,7 @@ third_nav_title: CCE
     <input type="checkbox" id="accordion3">
     <label for="accordion3">LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</label>
     <div>
-			**At Temasek Junior College, the following Sexuality Education lessons will be taught in 2022:**
+			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2022</u>:</b>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
