@@ -48,7 +48,13 @@ third_nav_title: CCE
     <input type="checkbox" id="accordion4">
     <label for="accordion4">INFORMATION FOR PARENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<ol>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Parents, who wish to attend the College’s Sexuality Education programmes, should contact the school to make the necessary arrangements.</p></li>
+			</ol>
     </div>
 	</li> 
 	</ul>
