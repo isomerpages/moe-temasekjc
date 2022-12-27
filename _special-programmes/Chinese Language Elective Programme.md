@@ -67,7 +67,7 @@ description: ""
     <div>
 			<p style="text-align: justify;">CLEP at the junior college level spans a total of two years, and students who are enrolled will have to offer Chinese Language and Literature at the H2 level. The main focus areas of the curriculum include literary theory and creative writing, study of selected works of both classical and modern Chinese literature, and acquisition of knowledge of Chinese culture.</p>
 			<p style="text-align: justify;">Students participating in the CLEP will have the opportunity to participate in a variety of activities that not only train their writing skills but also deepen their understanding of Chinese culture. One key enrichment programme is the CLEP Camp, a three-day residential camp held in early June for JC Year 1 students. During the camp, invited well-known overseas writers will share their writing experience and guide students on how to write creatively.</p>
-			<img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Picture%206%20Author%20in%20residence%20programme.jpg" style="width:300px">
+			<img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Picture%206%20Author%20in%20residence%20programme.jpg" style="width:70%">
 			<center>Author in Residence Programme</center>
 			<p style="text-align: justify;">The programme also provides an opportunity for our CLEP students to enhance their appreciation of literary works and understanding of the Chinese culture. During their stay in Beijing and Taipei, the CLEP students will also visit schools, attend literary talks, and embark on educational tours, which aim to deepen their understanding and awareness of both traditional and contemporary Chinese culture through authentic experiences.</p>
     </div>
