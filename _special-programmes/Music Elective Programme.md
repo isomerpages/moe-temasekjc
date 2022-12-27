@@ -110,6 +110,8 @@ description: ""
 	<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:88484dbc-66b6-4618-baca-7ba17685f6b4" target="_blank">National Arts Council </a></p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/-8YgbM10GYI" title="2019 Young Artist Award Recipient: Emily Koh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<p><b>CHEN ZHANGYI</b></p>
+	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Chen%20Zhangyi%20Distinguished%20Alumni.png" style="width:60%">
+			<center>2014 NAC Young Artist Award – Chen Zhangyi (Class of 2002), Assistant Professor of Composition, Conductor of New Music Ensemble, Yong Siew Toh Conservatory of Music</center>
     </div>
 	</li> 	
 	</ul>
