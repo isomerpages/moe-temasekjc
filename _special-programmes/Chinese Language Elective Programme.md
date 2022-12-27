@@ -3,6 +3,7 @@ title: Chinese Language Elective Programme
 permalink: /academic/special-programmes/chinese-language-elective-programme/
 description: ""
 ---
+# upload CLEP video to youtube
 # MOE CLEP-sec and jc links broken
 # CHINESE LANGUAGE ELECTIVE PROGRAMME
 
@@ -32,6 +33,7 @@ description: ""
 			<p style="text-align: justify;">CLEP aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop students to become effectively bilingual.</p>
 			<p style="text-align: justify;">CLEP-Sec and CLEP-JC are two separate 2-year programmes and the progression from CLEP-Sec to CLEP-JC is not mandatory. IP students would have to reapply for the programme after Year 4. Nevertheless, all CLEP-Sec students are encouraged to continue in the programme at the junior college (JC) level.</p>
 			<p style="text-align: justify;">CLEP students who are Singapore citizens and achieved outstanding performance will be considered for the CLES awarded by MOE. A certificate of recognition will be presented to students upon completion of CLEP-Sec and CLEP-JC respectively.</p>
+			<p>UPLOAD TO video YOUTUBE</p>
 			<p style="text-align: justify;">Please refer to the following websites for more information about CLEP:<br>CLEP-Sec: <a href="https://www.moe.gov.sg/programmes/clep-sec" target="_blank">https://www.moe.gov.sg/programmes/clep-sec</a><br>CLEP-JC: <a href="https://www.moe.gov.sg/programmes/clep-jc" target="_blank">https://www.moe.gov.sg/programmes/clep-jc</a> & <a href="https://go.gov.sg/preuclep" target="_blank">https://go.gov.sg/preuclep</a></p>
     </div>
 	</li> 
