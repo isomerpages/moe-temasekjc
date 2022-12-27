@@ -64,11 +64,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Motif%20XII%202019%20Performance%20Peizhen.jpg" style="width:100%"></td>
     <td><img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Motif%20XII%202019%20full%20picture.jpg" style="width:100%"></td>
+		 <td><img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Motif%20XII%202019%20Performance%20Peizhen.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+			<center>Our MEP maestros in action</center>
     </div>
 	</li> 
 	  <li>
