@@ -46,7 +46,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">HIGHLIGHTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The authentic process of music-making is essential to the study of Music. Students will be provided with performance opportunities on various musical platforms such as school and national events, the IP MEP concert Cadenza, as well as competitions. Annual composition and instrumental masterclasses and lecture seminars by renowned local and foreign practitioners are organised for students to deepen their skills, learn about tertiary education options, and gain industry insights. Learning journeys such as concert outings will expose students to the vibrant local music and arts scene.</p>
     </div>
 	</li> 
 	  <li>
