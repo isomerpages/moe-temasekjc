@@ -2,9 +2,9 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Student Well Being.md
       - Students' Council.md
       - Student Leadership Development.md
+      - Student Well Being.md
       - Education & Career Guidance.md
       - College Day Reports.md
       - College Yearbooks.md
