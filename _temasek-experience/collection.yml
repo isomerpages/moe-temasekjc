@@ -2,5 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Student Leadership Development.md
       - Students' Council.md
       - College Yearbooks.md
