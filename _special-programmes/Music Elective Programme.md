@@ -21,8 +21,17 @@ description: ""
 			</ul>
 			</p>
 			<p style="text-align: justify;">Audition-cum-interview:<br><ul>
-			<li>Audition:</li>
-			<li></li>
+			<li>Audition:
+				   <ul>
+			       <li>Applicants should perform two contrasting pieces that display their competence in performance skills (e.g. basic fluency and sound fundamental techniques).</li>
+			       <li>A series of short aural tests</li>
+			    </ul>
+		</li>
+			<li>A short interview to assess applicants’ level of interest and commitment to the 4-year programme, as the MEP is an additional subject on top of the students’ existing subject combination
+
+
+
+</li>
 			</ul>
 			</p>
     </div>
