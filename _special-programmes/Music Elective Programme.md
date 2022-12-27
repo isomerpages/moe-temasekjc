@@ -47,6 +47,10 @@ description: ""
     <label for="accordion3">HIGHLIGHTS</label>
     <div>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The authentic process of music-making is essential to the study of Music. Students will be provided with performance opportunities on various musical platforms such as school and national events, the IP MEP concert Cadenza, as well as competitions. Annual composition and instrumental masterclasses and lecture seminars by renowned local and foreign practitioners are organised for students to deepen their skills, learn about tertiary education options, and gain industry insights. Learning journeys such as concert outings will expose students to the vibrant local music and arts scene.</p>
+			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/IP2%20Gamelan%20Workshop%202020.jpg" style="width:70%">
+			<center><b>Gamelan Workshop for our IP MEP students</b></center>
+			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Cadenza%20I%202020%20Picture%20filming.jpg" style="width:70%">
+			<center><b>Gamelan Workshop for our IP MEP students</b></center>
     </div>
 	</li> 
 	  <li>
