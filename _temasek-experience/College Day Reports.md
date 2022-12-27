@@ -4,7 +4,7 @@ permalink: /temasek-experience/college-day-reports/
 description: ""
 ---
 # COLLEGE DAY REPORT - 2022>5mb
-# Scribbed cannot be embedded in isomer.
+# Scribd cannot be embedded in isomer.
 # COLLEGE DAY REPORTS
 
 ## COLLEGE DAY REPORT - 2022
