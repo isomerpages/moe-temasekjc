@@ -74,6 +74,21 @@ description: ""
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Vivace%202019%20pic.jpg" style="width:70%">
 			<center>Our award-winning piano duos</center>
 			<p style="text-align: justify;"><b>TAIWAN CULTURAL IMMERSION TRIP 2019</b><br>One of the key highlights of our Music Elective Programme is the biennial overseas immersion trip for our students to learn about the impact of music in other parts of the world. In Taiwan, our IP3 to JC2 MEP students broadened their musical horizons through attending a series of workshops at the Taipei National University of the Arts. These focused on various aspects of musical study - traditional Taiwanese musical genres (Nanguan and Beiguan), contemporary music performance and creative composition. This was complemented by a visit to National Taiwan College of Performing Arts, where they observed the local students in action during rehearsals for Peking Opera and Hakka Opera. The students gained a fresh cultural perspective and deeper appreciation for the arts beyond the local context.</p>
+						<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/MEP%20Immersion%20Trip%202019%20Group%20photo.jpg" style="width:100%"></td>
+		 <td><img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/MEP%20Immersion%20Trip%202019.jpg" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+			<center>Our students deepening their learning in Taiwan</center>
     </div>
 	</li> 
 	  <li>
