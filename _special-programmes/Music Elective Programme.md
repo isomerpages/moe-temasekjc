@@ -51,7 +51,7 @@ description: ""
 			<center><b>Gamelan Workshop for our IP MEP students</b></center>
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Cadenza%20I%202020%20Picture%20filming.jpg" style="width:70%">
 			<center><b>TJC IP MEP Concert Cadenza I</b></center>
-			<p style="text-align: justify;"><b>MOTIF XIII to XV</b><br>Undaunted by restrictions on live performances caused by the COVID-19 pandemic, we premiered the 13th, 14th,and 15th installments of the TJC MEP MOTIF series virtually. In our most recent edition (2022), the JC2 MEP students put together an online concert featuring performances on the piano, viola, double bass and voice across an eclectic repertoire of works by composers such as Mozart, Schumann, Messiaen and Takemitsu. Our JC1s also performed their own arrangement of anime and video game music. Please view this concert on the following YouTube link.</p>
+			<p style="text-align: justify;"><b>MOTIF XIII to XV</b><br>Undaunted by restrictions on live performances caused by the COVID-19 pandemic, we premiered the 13th, 14th,and 15th installments of the TJC MEP MOTIF series virtually. In our most recent edition (2022), the JC2 MEP students put together an online concert featuring performances on the piano, viola, double bass and voice across an eclectic repertoire of works by composers such as Mozart, Schumann, Messiaen and Takemitsu. Our JC1s also performed their own arrangement of anime and video game music. Please view this concert on the following YouTube <a href="https://www.youtube.com/watch?v=tPlss_Zc_U0" target="_blank"> link</a>.</p>
     </div>
 	</li> 
 	  <li>
