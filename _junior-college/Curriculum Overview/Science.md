@@ -50,6 +50,10 @@ third_nav_title: Curriculum Overview
 			<center>A poster designed by our JC2 students explaining the science behind vaccination</center>			
 			<p style="text-align: justify;">We strive to deliver the curriculum with our students’ learning interests and readiness in mind. We engage our students through inquiry-based learning and provide many opportunities for collaboration with their peers and for them to communicate their ideas. We also utilise real-life examples for students to explore, keep updated with current affairs, while at the same time applying relevant scientific concepts to understand or solve problems.</p>
 			<p style="text-align: justify;">E-pedagogical approaches are employed to groom our students to be future-ready digital learners. We create resources on the Student Learning Space (SLS) and other e-learning platforms so that our students can learn at their own pace, and beyond the confines of a physical space such as a laboratory.</p>
+						<img src="/images/Academic/Curriculum%20Overview/Science/TJC%20Bio_SLS.jpg" style="width:70%">
+			<center>A snippet of a video created for JC1 Practical Magic Lesson Package on SLS</center>	
+			<p style="text-align: justify;">We aim to train our students to be critical learners through thinking routines to facilitate the development of their metacognition skills.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Exciting learning journeys to Pulau Semakau and Lee Kong Chian Natural History Museum serve as experiential learning opportunities for our students. Students learn beyond the classroom and laboratories, where they hear from professionals in niche areas and higher institutions of learning and research. We also engage local and overseas university professors and our very own TJC Alumni to give talks for our students to raise awareness on their career prospects, and enhance their scientific literacy.</p>
     </div>
 	</li> 
 	  <li>
