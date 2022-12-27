@@ -22,8 +22,6 @@ third_nav_title: CCE
 <li>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
 <li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</li>
 </ol></li>
-
-
 </ol>
 </div>
 <div>&nbsp;</div>
