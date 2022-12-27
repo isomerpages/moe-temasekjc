@@ -24,9 +24,11 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">BUILDING RESILIENCE IN OUR YOUNGER STUDENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<img src="/images/Temasek%20Experience/Student%20Well%20Being/Smiling%20Student.jpg" style="width:50%">
+			<p style="text-align: justify;"> Resilience building, particularly amongst our younger IP students, is based on the recognition that they are capable of developing resilience by tapping on their internal strengths and external resources. We therefore introduce our IP students to the strength-based approach of ‘I am’, ‘I can’ and ‘I have’ that will fortify them when they are going through challenges and personal crises:</p>
+						<img src="/images/Temasek%20Experience/Student%20Well%20Being/SW_Resilience%20Framework%20IP.jpg" style="width:50%">
     </div>
 	</li> 
 	</ul>
