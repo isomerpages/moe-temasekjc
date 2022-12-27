@@ -93,14 +93,7 @@ third_nav_title: Curriculum Overview
 			<p><b>Nanyang Research Programme (Symposium)</b><br><b>2020</b>: 1 Gold, 1 Silver</p>
 			<p><b>Singapore Chemistry Olympiad</b><br><b>2021</b>: 1 Gold* (Best Student), 1 Silver & 6 Bronze<br><b>2020</b>: 1 Gold, 1 Silver & 6 Bronze</p>
 			<p><b>Singapore Physics Olympiad</b><br><b>2021</b>: 2 Bronze<br><b>2020</b>: 2 Silver & 1 Bronze</p>
-
-  
-
-**Singapore Science & Engineering Fair (SSEF)**
-
-**2021**: 1 Bronze & Special Award (SAAS)
-
-**2020**: 1 Bronze & Special Award (Yale-NUS)
+			<p><b>Singapore Science & Engineering Fair (SSEF)</b><br><b>2021</b>: 1 Bronze & Special Award (SAAS)<br><b>2020</b>: 1 Bronze & Special Award (Yale-NUS)</p>
     </div>
 	</li> 
 	</ul>
