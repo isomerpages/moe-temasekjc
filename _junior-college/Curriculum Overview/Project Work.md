@@ -11,3 +11,9 @@ third_nav_title: Curriculum Overview
 **CURRICULUM**
 
 <p style="text-align: justify;">Anchored on the framework of Design Thinking, Project Work in Temasek Junior College offers students a range of authentic learning experiences to explore and address both local and global issues, imbues them with the designer mindset and equips them with design thinking tools to solve real-world problems. We seek to engage, educate and enlighten our students so that, together, we can build a better future.</p>
+
+![](/images/Academic/Curriculum%20Overview/Project%20Work/PW%201.jpg)
+
+<center>Design Thinking Framework</center>
+
+
