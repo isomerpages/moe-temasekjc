@@ -53,8 +53,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Overseas%20Immersion%20Trip.jpeg" style="width:300px"></td>
+		 <td><img src="/images/Academic/Special%20programmes/Chinese%20Language%20Elective/Attending%20Literature%20Camp.jpg" style="width:300px"></td>
   </tr>
 </tbody>
 </table>
