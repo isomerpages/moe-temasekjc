@@ -39,7 +39,7 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</label>
     <div>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
