@@ -75,9 +75,11 @@ third_nav_title: Curriculum Overview
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">PHYSICS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">“I think nature's imagination is so much greater than man's, she's never going to let us relax,” said Nobel Prize physicist Richard Feynman. Through our programme, students make a significant step in acquiring knowledge of nature and how the universe behaves. Students would be able to draw links between physics, mathematics and the other sciences, which enable them to relate to advances in scientific research and design solutions while utilising new technologies. They will build a strong foundation for their pursuit of a career in the areas of Science, Technology, Engineering and Mathematics (STEM).</p>
+					<p style="text-align: justify;"><b>CURRICULUM</b><br>TJCians are encouraged to think more broadly about the physical world through an exposure to rich learning experiences, both within and beyond the college. We aim to deliver a teaching and learning programme that inculcates problem-solving skills in every student, to be able to evaluate real-world problems and generate plausible solutions. Our teachers regularly engage students in in-depth discussions to develop their cognitive ability and to nurture an appreciation and love for the subject.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We conduct training programmes and provide strong support for students to participate in the Singapore Physics Olympiad and other physics-related competitions and fairs. Our students also benefit from a variety of enrichment programmes offered by the many partnerships that the Physics department has established over the years. Students take part in competitions, overseas experiential programmes and hands-on workshops and seminars, which deepen their interest and knowledge in the subject, sharpening their learning at an advanced level.</p>
     </div>
 	</li> 
 	  <li>
