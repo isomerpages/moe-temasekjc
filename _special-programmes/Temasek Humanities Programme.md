@@ -69,9 +69,11 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">MENTORSHIP OPPORTUNITIES</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">Signature programmes aside, the THP empowers our students to take on life after Junior College. We pair each THP student with a teacher-mentor who supports them in their tertiary aspirations, ensuring that they are well prepared for university and scholarship applications. Our rigourous programme has yielded very strong outcomes; THP students have consistently attained median UAS scores of at least 87.5 at the GCE ‘A’ Levels, and go on to take up highly renowned university and scholarship placements.</p>
+			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/THP%20students.jpg" style="width:80%">
+			<center>Kyla Teo (87.75 UAS), Kayzia Foo (85 UAS), Allyson Tutay (90 UAS), Samuel Ong (88.75 UAS) during the 2019 Humanities Trip</center>
     </div>
 	</li> 
 	  <li>
