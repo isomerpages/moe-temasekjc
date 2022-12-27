@@ -30,7 +30,7 @@ third_nav_title: CCE
     <input type="checkbox" id="accordion3">
     <label for="accordion3">SEXUALITY EDUCATION</label>
     <div>
-			<p style="text-align: justify;">Sexuality Education is delivered in a holistic manner through our Guidance curriculum. Find out more about our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-ip" target="_blank"><b>IP Sexuality Education curriculum</b></a> and our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-jc" target="_blank"><b>JC Sexuality Education curriculum</b></a>.</p>
+			<p style="text-align: justify;">Sexuality Education is delivered in a holistic manner through our Guidance curriculum. Find out more about our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-ip"><b>IP Sexuality Education curriculum</b></a> and our <a href="/temasek-experience/character-n-citizenship-education/sexuality-education-jc"><b>JC Sexuality Education curriculum</b></a>.</p>
     </div>
 	</li> 
 	</ul>
