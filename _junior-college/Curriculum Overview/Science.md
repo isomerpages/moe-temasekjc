@@ -56,6 +56,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Exciting learning journeys to Pulau Semakau and Lee Kong Chian Natural History Museum serve as experiential learning opportunities for our students. Students learn beyond the classroom and laboratories, where they hear from professionals in niche areas and higher institutions of learning and research. We also engage local and overseas university professors and our very own TJC Alumni to give talks for our students to raise awareness on their career prospects, and enhance their scientific literacy.</p>
 			<img src="/images/Academic/Curriculum%20Overview/Science/TJC%20Bio_LKCNHM.jpg" style="width:60%">
 			<center>Learning journey to Lee Kong Chian Natural History Museum</center>	
+								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/9744_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Biology)</a><br><a href="/files/Academic/Curriculum/Science/8876_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Biology)</a><br><a href="/files/Academic/Curriculum/Science/9744_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Biology)</a><br><a href="/files/Academic/Curriculum/Science/8876_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Biology)</a></p>
     </div>
 	</li> 
 	  <li>
