@@ -32,3 +32,7 @@ third_nav_title: Curriculum Overview
  ![](/images/Academic/Curriculum%20Overview/Project%20Work/PW%206.jpg) 
 
 <center>Creative prototypes from Design Thinking Workshop</center>
+
+
+**SYLLABUS**    
+<a href="/files/Academic/Curriculum/8808_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Project Work)</a>
