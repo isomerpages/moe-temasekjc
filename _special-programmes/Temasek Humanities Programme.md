@@ -16,6 +16,21 @@ description: ""
 			<p style="text-align: justify;">The TDSS is an annual conference that the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, before culminating in a conference with a distinguished speaker in the field of interest.</p>
 			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%201.jpg" style="width:80%">
 			<center>TDSS main conference in 2019</center>
+			<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%202.jpg" style="width:80%"></td>
+    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%203.jpg" style="width:80%"></td>
+  </tr>
+</tbody>
+</table>
+			<center>TDSS main conference goes virtual in 2020 (left) while the TDSS 2020 organising committee are hard at work (right)</center>
     </div>
 	</li> 
   <li>
