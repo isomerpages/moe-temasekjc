@@ -32,6 +32,7 @@ third_nav_title: CCE
 			<center>Our IP students guiding seniors from neighbouring residences to use mobile applications as part of our Intergenerational Learning Programme</center>
 			 <img src="/images/Temasek%20Experience/CCE/Tuas%20Dorm%20Visit.png" style="width:50%">
 			<center>Our IP4 students visiting a foreign workers’ dormitory to get a glimpse into the lives of migrant workers</center>
+			<p style="text-align: justify;">The SG Perspectives is a key event in our CCE curriculum for our JC students. An annual dialogue session with various office holders and senior civil servants, the SG Perspective seeks to provide TJCians a keener understanding of contemporary issues and the considerations that go into policymaking. Through their CCA, all JC students also have the opportunity to organise community outreach projects.</p>
 			 <img src="/images/Temasek%20Experience/CCE/SG%20Perspectives.png" style="width:50%">
 			<center>Our students participating in our annual SG Perspectives series</center>
     </div>
