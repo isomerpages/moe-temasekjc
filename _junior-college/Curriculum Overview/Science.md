@@ -34,6 +34,8 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
+			<img src="/images/Academic/Curriculum%20Overview/Science/SSEF%20competition.png" style="width:80%">
+			<center>Our students participating in the 19th Singapore Science and Engineering Fair</center>
     </div>
 	</li> 
   <li>
