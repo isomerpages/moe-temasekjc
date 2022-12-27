@@ -61,8 +61,9 @@ third_nav_title: Curriculum Overview
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">CHEMISTRY</label>
     <div>
+			<center><i>How do geckos stick to walls? Why does water expand as it freezes? How is coloured glass produced?</i></center>
 			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
     </div>
 	</li> 
