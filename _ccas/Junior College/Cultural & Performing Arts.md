@@ -29,7 +29,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"></label>
+    <label for="accordion2">CHINESE ORCHESTRA</label>
     <div>
 <table>
 <thead>
