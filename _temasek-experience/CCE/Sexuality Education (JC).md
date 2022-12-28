@@ -106,6 +106,66 @@ third_nav_title: CCE
 </table>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC2 <u>2022</u>:</b>
 			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 2</b></span><br>“Love Matters (2nd Edition)” Teaching & Learning resource package</p>
+			<div>&nbsp;</div>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>UNIT</strong></td>
+<td style="text-align: center;"><strong>LESSONS / DURATION</strong></td>
+<td style="text-align: center;"><strong>Lesson Objectives<br />At the end of the lesson, students will be able to:</strong></td>
+<td style="text-align: center;"><strong>TIME PERIOD</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2" width="112">Lessons about Love (Part 7)</td>
+<td style="text-align: center;" width="170">
+<div>1</div>
+<div>(50 mins)</div>
+</td>
+<td width="483">
+<div>
+<ul>
+<li>identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship</li>
+<li>appreciate that one can emerge stronger despite having gone through a breakup</li>
+<li>explore beliefs about marriage</li>
+<li>know the possible psychological impact on children experiencing parental separation or divorce</li>
+<li>recognise the importance of having family support for a relationship</li>
+<li>aspire to develop similar enduring character traits and qualities that one would consider in a life partner</li>
+<li>appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;" width="160">Term 1 Week 8</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<div>2</div>
+<div>(50 mins)</div>
+</td>
+<td width="483">
+<div>
+<ul>
+<li>recognise that personal decisions on how one displays own affections in public can affect others</li>
+<li>discern the impact of new media on relationship building</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;" width="160">Term 2 Week 6</td>
+</tr>
+<tr>
+<td style="text-align: center;">NA</td>
+<td style="text-align: center;">
+<div>3</div>
+<div>(50 mins)</div>
+</td>
+<td>
+<ul>
+<li>This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</li>
+</ul>
+</td>
+<td>Term 3 Week 7</td>
+</tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
 			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
