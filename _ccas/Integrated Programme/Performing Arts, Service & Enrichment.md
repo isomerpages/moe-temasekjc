@@ -71,7 +71,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">CHOIR</label>
+    <label for="accordion4">MODERN DANCE</label>
     <div>
 <table>
 <thead>
@@ -82,8 +82,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Modern%20Dance%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mdm Haslinda Ali
+</p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +92,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">CHOIR</label>
+    <label for="accordion5">STUDENTS’ COUNCIL</label>
     <div>
 <table>
 <thead>
@@ -102,8 +103,8 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Students%20Council%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -111,7 +112,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">CHOIR</label>
+    <label for="accordion6">SYMPHONIC BAND</label>
     <div>
 <table>
 <thead>
@@ -122,8 +123,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Band%20IP.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Seah Cheng Tat
+</p><p><b>Email</b><br>seah_cheng_tat@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
