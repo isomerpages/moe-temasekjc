@@ -33,7 +33,20 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion2">
     <label for="accordion2">JUNIOR COLLEGE</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="196"><a href="/temasek-experience/co-curricular-activities/junior-college/cultural-n-performing-arts"><strong>Cultural &amp; Performing Arts</strong></a></td>
+<td style="text-align: center;" width="198"><a href="/temasek-experience/co-curricular-activities/junior-college/sports-n-adventure"><strong>Sports &amp; Adventure</strong></a></td>
+<td style="text-align: center;" width="214"><a href="/temasek-experience/co-curricular-activities/junior-college/sports-n-adventure"><strong>Service &amp; Enrichment</strong></a></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="196">Chinese Drama<br />Chinese Orchestra<br />Choir<br />Drama Club<br />Guitar Ensemble<br />Indian Cultural Society<br />Malay Cultural Club<br />Modern Dance<br />String Ensemble<br />Symphonic Band</td>
+<td style="text-align: center;" width="198">Badminton<br />Basketball<br />Bowling<br />Floorball (Boys)<br />Football (Boys)<br />Netball<br />Outdoor Adventure Club<br />Shooting<br />Table Tennis<br />Taekwondo<br />Tennis<br />Volleyball</td>
+<td style="text-align: center;" width="214">Debate<br />Infocomm Club<br />Leo Club<br />Students&rsquo; Council</td>
+</tr>
+</tbody>
+</table>
     </div>
 	</li> 
 	</ul>
