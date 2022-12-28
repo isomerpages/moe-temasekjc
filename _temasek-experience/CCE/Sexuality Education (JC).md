@@ -43,35 +43,27 @@ third_nav_title: CCE
 			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 			<b>At Temasek Junior College, the eTeens programme will be implemented as follows in <u>2022</u>:</b>
-			<table>
+<table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="130"><strong>Topics/Lessons</strong></td>
-<td style="text-align: center;" width="276"><strong>Programme Learning Objectives</strong></td>
-<td style="text-align: center;" width="96"><strong>Time Period</strong></td>
+<td style="text-align: center;" width="114"><strong>Topics/Lessons</strong></td>
+<td style="text-align: center;" width="304"><strong>Programme Learning Objectives</strong></td>
+<td style="text-align: center;" width="90"><strong>Time Period</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="130">Mass Talk by HPB appointed vendor</td>
-<td width="276">
+<td style="text-align: center;" width="114">Mass Talk by HPB appointed vendor</td>
+<td width="304">
 <div>
 <ul>
-<li>Awareness of the different STIs and HIV/AIDS</li>
-<li>Modes of transmission</li>
-<li>Modes of protection, specifically on how the condom is used</li>
-<li>Consequences and impact of STIs/HIV</li>
+<li>Awareness of the different STI and HIV</li>
+<li>Modes of transmission for STI and HIV</li>
+<li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
+<li>Consequences and impact of STI/HIV</li>
+<li>State the ways of managing the impact</li>
 </ul>
 </div>
 </td>
-<td style="text-align: center;" width="96">Term 3 Week 7</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="130">Classroom-based Lesson</td>
-<td width="276">
-<ul>
-<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
-</ul>
-</td>
-<td style="text-align: center;" width="96">Term 4 Week 1</td>
+<td style="text-align: center;" width="90">Term 3 Week 8</td>
 </tr>
 </tbody>
 </table>
