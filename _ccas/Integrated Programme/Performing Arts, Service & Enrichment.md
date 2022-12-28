@@ -20,8 +20,8 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Choir%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
