@@ -39,6 +39,71 @@ third_nav_title: CCE
     <label for="accordion3">LESSON SCHEDULE (JC1 & JC2)</label>
     <div>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2022</u>:</b>
+			<p style="text-align: center;">
+			<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>LESSONS</strong></td>
+<td style="text-align: center;"><strong>DURATION</strong></td>
+<td style="text-align: center;"><strong>Lesson Objectives<br />At the end of the lesson, students will be able to:</strong></td>
+<td style="text-align: center;"><strong>TIME PERIOD</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<div>1</div>
+</td>
+<td style="text-align: center;" width="170">
+<div>50 mins</div>
+</td>
+<td width="483">
+<div>
+<ul>
+<li>navigate challenges in a dating relationship</li>
+<li>identify early indications of a breakdown in a relationship</li>
+<li>know when to seek help and who to turn to for support</li>
+<li>appreciate that one can emerge stronger and be better prepared for future relationships</li>
+<li>develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;" width="169">Term 3 Week 5</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">
+<div>50 mins</div>
+</td>
+<td>
+<div>
+<ul>
+<li>examine issues related to abstinence</li>
+<li>explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices</li>
+<li>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles</li>
+<li>understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;">Term 3 Week 6</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">3</td>
+<td style="text-align: center;" width="170">
+<div>50 mins</div>
+</td>
+<td width="483">
+<div>
+<ul>
+<li>examine issues related to abortion and the impact of sexually transmitted infections (STIs)</li>
+<li>understand that one has to make responsible decisions for both self and others</li>
+<li>understand that sexual abstinence is the only way to remove any risks that come with casual sex</li>
+<li>know how to support friends or others who may be pregnant or have STIs</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;" width="169">Term 3 Week 9</td>
+</tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
 			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
