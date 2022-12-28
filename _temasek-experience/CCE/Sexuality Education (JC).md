@@ -104,6 +104,8 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC2 <u>2022</u>:</b>
+			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 2</b></span><br>“Love Matters (2nd Edition)” Teaching & Learning resource package</p>
 			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
 			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
