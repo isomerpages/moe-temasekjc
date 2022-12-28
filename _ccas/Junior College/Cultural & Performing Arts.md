@@ -41,7 +41,7 @@ third_nav_title: Junior College
 <tbody>
   <tr>
     <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Tan Yi Jie</p><p><b>Email</b><br>tan_yi_jie@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
