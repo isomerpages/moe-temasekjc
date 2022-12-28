@@ -11,7 +11,7 @@ third_nav_title: CCE
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">MOE SEXUALITY EDUCATION IN SCHOOLS (SECONDARY)</label>
+    <label for="accordion1">MOE SEXUALITY EDUCATION IN SCHOOLS (JC)</label>
     <div>
 			<ol>
 				<li><p style="text-align: justify;">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p></li>
@@ -23,7 +23,7 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">OVERVIEW OF TJC’S 2022 SEXUALITY EDUCATION PROGRAMME (IP YEAR 1 TO IP YEAR 4)</label>
+    <label for="accordion2">OVERVIEW OF TJC’S 2022 SEXUALITY EDUCATION PROGRAMME (JC1 & JC2)</label>
     <div>
 						<ol>
 				<li><p style="text-align: justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p></li>
