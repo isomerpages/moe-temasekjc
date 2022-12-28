@@ -135,7 +135,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"></label>
+    <label for="accordion7">VOLLEYBALL (GIRLS)</label>
     <div>
 <table>
 <thead>
@@ -146,8 +146,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Volleyball%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Fung Chong Lin
+</p><p><b>Email</b><br>fung_chong_lin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
