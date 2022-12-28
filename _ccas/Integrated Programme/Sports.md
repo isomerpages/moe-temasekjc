@@ -9,7 +9,7 @@ third_nav_title: Integrated Programme
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <label for="accordion1">BADMINTON</label>
     <div>
 <table>
 <thead>
@@ -20,8 +20,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Badminton.png"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Kwok Zhen Yuan
+</p><p><b>Email</b><br>kwok_zhen_yuan@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
