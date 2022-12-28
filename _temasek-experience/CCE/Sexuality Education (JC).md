@@ -40,8 +40,8 @@ third_nav_title: CCE
     <div>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2022</u>:</b>
 			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
-			<p><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.  </p>
-			<p>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
+			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
+			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 			<b>At Temasek Junior College, the eTeens programme will be implemented as follows in <u>2022</u>:</b>
 			<table>
 <tbody>
