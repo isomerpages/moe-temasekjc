@@ -6,8 +6,6 @@ third_nav_title: Junior College
 ---
 # CULTURAL & PERFORMING ARTS
 
-# SPORTS
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
