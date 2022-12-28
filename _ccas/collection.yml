@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Integrated Programme/Sports.md
       - Integrated Programme/Performing Arts, Service & Enrichment.md
       - Integrated Programme/.keep
