@@ -9,7 +9,7 @@ third_nav_title: Integrated Programme
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PEERS PROJECT COMMITTEES</label>
+    <label for="accordion1">CHOIR</label>
     <div>
 <table>
 <thead>
