@@ -1,4 +1,5 @@
 collections:
   ccas:
     output: true
-    order: []
+    order:
+      - Performing Arts, Service & Enrichment.md
