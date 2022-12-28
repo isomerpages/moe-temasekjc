@@ -56,7 +56,7 @@ third_nav_title: CCE
 <td style="text-align: center;" width="13%"><strong>TIME PERIOD</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="3" width="15%">Respectful Relationships &amp; Safety</td>
+<td style="text-align: center;" rowspan="3" width="15%">Respectful Relationships &; Safety</td>
 <td style="text-align: center;" width="16%">
 <div>1</div>
 <div>(50 mins)</div>
