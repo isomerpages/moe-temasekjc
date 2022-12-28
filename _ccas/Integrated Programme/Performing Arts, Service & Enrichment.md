@@ -29,7 +29,7 @@ third_nav_title: Integrated Programme
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">CHOIR</label>
+    <label for="accordion2">GUITAR</label>
     <div>
 <table>
 <thead>
@@ -40,8 +40,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Guitar%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Miss Nicolette Teo
+</p><p><b>Email</b><br>teo_yen_ling_nicolette@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
