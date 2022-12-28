@@ -3,7 +3,6 @@ title: Co Curricular Activities
 permalink: /temasek-experience/co-curricular-activities/
 description: ""
 ---
-
 # CO-CURRICULAR ACTIVITIES
 
 <p style="text-align: justify;">Co-Curricular Activities (CCAs) are an important platform for our students to develop their personal and moral character. Our Personal Development, Character and Leadership, and Values-in-Action programmes help students discover and pursue their interests. We believe in holistic development that includes academic excellence, a love for community, creativity, adventure and entrepreneurship.</p>
@@ -18,7 +17,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="270"><a href="/temasek-experience/co-curricular-activities/integrated-programme/performing-arts-service-n-enrichment"><strong>Performing Arts, Service &amp; Enrichment</strong></a></td>
+<td style="text-align: center;" width="270"><a href="/temasek-experience/co-curricular-activities/integrated-programme/performing-arts-service-enrichment"><strong>Performing Arts, Service &amp; Enrichment</strong></a></td>
 <td style="text-align: center;" width="258"><a href="/temasek-experience/co-curricular-activities/integrated-programme/sports"><strong>Sports</strong></a></td>
 </tr>
 <tr>
