@@ -36,7 +36,7 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</label>
+    <label for="accordion3">LESSON SCHEDULE (JC1 & JC2)</label>
     <div>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2022</u>:</b>
 			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
