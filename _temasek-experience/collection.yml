@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Co Curricular Activities/.keep
       - Students' Council.md
       - Student Leadership Development.md
       - Student Well Being.md
