@@ -2,7 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Co Curricular Activities/Co Curricular Activities.md
       - Co Curricular Activities/.keep
       - Students' Council.md
       - Student Leadership Development.md
