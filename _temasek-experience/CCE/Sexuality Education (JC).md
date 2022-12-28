@@ -39,7 +39,7 @@ third_nav_title: CCE
     <label for="accordion3">LESSON SCHEDULE (JC1 & JC2)</label>
     <div>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2022</u>:</b>
-			<p style="text-align: center;"><span style="color:"> <b>JC 1</b></span><br>Theme 3B from Module: Developing Healthy Relationships</p>
+			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 1</b></span><br>Theme 3B from Module: Developing Healthy Relationships</p>
 			<table>
 <tbody>
 <tr>
