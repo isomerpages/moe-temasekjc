@@ -72,7 +72,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"></label>
+    <label for="accordion4">FOOTBALL (BOYS)</label>
     <div>
 <table>
 <thead>
@@ -83,8 +83,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Football.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Kenneth Lim
+</p><p><b>Email</b><br>lim_yuan_yi_kenneth@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
