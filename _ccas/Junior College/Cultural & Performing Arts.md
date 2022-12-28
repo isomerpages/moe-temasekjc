@@ -30,8 +30,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2"></label>
     <div>
 <table>
 <thead>
@@ -50,8 +50,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"></label>
     <div>
 <table>
 <thead>
@@ -70,8 +70,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"></label>
     <div>
 <table>
 <thead>
@@ -90,8 +90,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"></label>
     <div>
 <table>
 <thead>
@@ -110,8 +110,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"></label>
     <div>
 <table>
 <thead>
@@ -130,8 +130,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"></label>
     <div>
 <table>
 <thead>
@@ -150,8 +150,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"></label>
     <div>
 <table>
 <thead>
@@ -170,8 +170,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"></label>
     <div>
 <table>
 <thead>
@@ -190,8 +190,8 @@ third_nav_title: Junior College
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"></label>
     <div>
 <table>
 <thead>
