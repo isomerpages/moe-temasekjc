@@ -50,7 +50,7 @@ third_nav_title: Integrated Programme
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">CHOIR</label>
+    <label for="accordion3">INFOCOMM CLUB</label>
     <div>
 <table>
 <thead>
@@ -61,8 +61,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Infocomm%20IP.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Tan Seng Kwang
+</p><p><b>Email</b><br>tan_seng_kwang@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
