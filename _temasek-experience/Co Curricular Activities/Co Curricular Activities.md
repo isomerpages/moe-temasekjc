@@ -13,7 +13,7 @@ third_nav_title: Co Curricular Activities
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PEERS PROJECT COMMITTEES</label>
+    <label for="accordion1">INTEGRATED PROGRAMME</label>
     <div>
 			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
