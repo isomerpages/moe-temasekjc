@@ -200,11 +200,11 @@ description: ""
 				<li><p style="text-align: justify;">Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable).</li>
 				<li><p style="text-align: justify;">If you have them, provide the following for the talent area you are applying under:</p>
 					<ul>
-						<li><p style="text-align: justify;"></p></li>
-						<li><p style="text-align: justify;"></p></li>
-						<li><p style="text-align: justify;"></p></li>
-						<li><p style="text-align: justify;"></p></li>
-						<li><p style="text-align: justify;"></p></li>
+						<li><p style="text-align: justify;">English Language: Certificates of Participation or Achievement in language ability, writing and speaking (e.g., UNSW ICAS English, The Queen's Commonwealth Essay Competition, Plain English-Speaking Awards)</p></li>
+						<li><p style="text-align: justify;">Chinese Language: Certificates of Participation or Achievement in language ability, writing and speaking</p></li>
+						<li><p style="text-align: justify;">Mathematics: Certificates of Participation or Achievement (e.g., Singapore Mathematical Olympiad Junior Section, American Mathematics Competition 8, National Mathematics Olympiad of Singapore)</p></li>
+						<li><p style="text-align: justify;">Science: Certificates of Participation or Achievement (e.g., Tan Kah Kee Young Inventors’ Award, National Junior Robotics Competition, UNSW ICAS Science, medals, participation in International & National Science competitions)</p></li>
+						<li><p style="text-align: justify;">Music/Concert Band: Certificates of Participation or Achievement (e.g., most recent music examination certificate - instrumental and/or theory, competitions, festivals, masterclasses) Leadership: Letter from teacher-in-charge or School Leader</p></li>
 					</ul>
 					</p></li>
 			</ul>
