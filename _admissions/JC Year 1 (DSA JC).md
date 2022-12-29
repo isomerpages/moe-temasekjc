@@ -22,9 +22,9 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 20 May 2022 at 4pm. More details of the engagement session can be found <a href="/highlights/archive/events/jc-dsa-engagement-session">here</a>.</p>
     </div>
 	</li> 
   <li>
