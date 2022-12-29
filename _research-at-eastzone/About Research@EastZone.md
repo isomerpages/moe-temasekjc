@@ -44,7 +44,7 @@ description: ""
 			<p style="text-align: justify;">You can download the 2021 Calendar of Events <a href="/files/Research@EastZone/ResearchEZ%20calendar%202021.pdf" target="_blank">here</a>.</p>
 			<p style="text-align: justify;"><a href="https://www.temasekjc.moe.edu.sg/qql/slot/u550/21/stZone/About%20Research@EastZone/ReEZ%20Book%20List.pdf" target="_blank">Click here</a> for book titles related to research study. For loan enquiry, please email: <a href="mailto:moe_researchez@moe.edu.sg">moe_researchez@moe.edu.sg</a></p>
 			<p style="text-align: justify;">Here is a list of online resources you might find useful:</p>
-			<table>
+<table>
 <thead>
   <tr>
     <th>ORGANISATIONS</th>
@@ -53,8 +53,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
+    <td><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener noreferrer">AST (Academy of Singapore Teachers)</a><br><br><a href="https://www.alarassociation.org/" target="_blank" rel="noopener noreferrer">ALARA (Action Learning, Action Research Association)</a><br><a href="https://www.walsnet.org/" target="_blank" rel="noopener noreferrer">WALS (World Association of Lesson Studies)</a><br><a href="https://www.tesol.org/" target="_blank" rel="noopener noreferrer">TESOL (Teachers of English to Speakers of Other Languages, Inc)</a><br><a href="https://www.researchconference.com.au/" target="_blank" rel="noopener noreferrer">ACER (Australian Council for Educational Research)</a></td>
+    <td><a href="http://www.aral.com.au/resources/arphome.html" target="_blank" rel="noopener noreferrer">AREOL (Action Research and Evaluation OnLine)</a><br><br><a href="https://jolt.merlot.org/" target="_blank" rel="noopener noreferrer">JOLT (Journal of Online Learning and Teaching)</a><br><a href="http://downloads.pearsonassessments.com/ati/index.html" target="_blank" rel="noopener noreferrer">ATI (Assessment Training Institute)</a></td>
   </tr>
 </tbody>
 </table>
