@@ -3,7 +3,6 @@ title: FAQ
 permalink: /others/faq/
 description: ""
 ---
-# DSA sec and JC links broken
 # FREQUENTLY ASKED QUESTIONS (FAQS)
 
 <span style="color:rgb(0, 112, 60)">What is the PSLE Aggregate Score cut-off for 2020 Primary 6 students posted to 2021 Integrated Programme Year 1?</span>
@@ -29,15 +28,9 @@ For **DSA-JC** to JC1, please visit **[this page](/admissions/jc-year-1-dsa-j
 
 **Does Temasek Junior College offer Scholarships and Awards to students?**
 
-Yes, we do offer various Scholarships and Awards to many outstanding students. For more information, please visit the **[Scholarships and Awards page](/admissions/scholarships-n-awards)**. Many of our students often continue to receive prestigious scholarships from Public Service Commission (PSC), the various Government Ministries, A\*STAR as well as local universities after they graduate. 
+Yes, we do offer various Scholarships and Awards to many outstanding students. For more information, please visit the **[Scholarships and Awards page](/admissions/scholarships-n-awards)**. Many of our students often continue to receive prestigious scholarships from Public Service Commission (PSC), the various Government Ministries, A\*STAR as well as local universities after they graduate.   
 
-  
-
-  
-
-#### What flagship programmes does Temasek Junior College offer? 
-
-  
+**What flagship programmes does Temasek Junior College offer?** 
 
 In Temasek Junior College, we have carefully designed our programmes to provide rich opportunities for students to hone their talents and strengths as they challenge themselves both within and beyond the classroom. Here are some of our flagship programmes:   
 
