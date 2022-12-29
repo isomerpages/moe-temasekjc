@@ -2,7 +2,7 @@ collections:
   research-at-eastzone:
     output: true
     order:
-      - Projects & Publications.md
       - About Research@EastZone.md
       - Learning Symposium.md
       - Courses & Registration.md
+      - Projects & Publications.md
