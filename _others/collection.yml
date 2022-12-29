@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Search.md
       - FAQ.md
       - Privacy Statement.md
