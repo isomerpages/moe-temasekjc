@@ -10,19 +10,44 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <label for="accordion1">INTEGRATED PROGRAMME</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
-			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;"><b>TJC Academic Excellence Award (IP1)</b><br>A prestigious College-based award offered to outstanding students:</p>
+			<ul>
+				<li><p style="text-align: justify;">Singaporeans or Singapore Permanent Residents with PSLE score of Achievement Level 6 and lower</p></li>
+				<li><p style="text-align: justify;">Value of award: $1000</p></li>
+				</ul>
     </div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"></label>
+    <label for="accordion2">JUNIOR COLLEGE</label>
     <div>
-			<p style="text-align: justify;"></p>
+				<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+			<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				</ul>
+						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+			<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				</ul>
+						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+			<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				</ul>
+						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+			<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				</ul>
+						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+			<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				</ul>
     </div>
 	</li> 
 	</ul>
