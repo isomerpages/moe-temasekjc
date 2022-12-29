@@ -41,40 +41,40 @@ description: ""
 <td>4. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/4%20IP1%20Booklist%202023.pdf">IP1 Book List 2023</a></td>
 </tr>
 <tr>
-<td>5. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/5.%20Instructions%20for%20Purchasing%20of%20Textbooks%20and%20Uniforms.pdf">Instructions for Purchasing Textbooks and Uniforms</a></td>
+<td>5. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/5%20Instructions%20for%20Purchasing%20of%20Textbooks%20and%20Uniforms.pdf">Instructions for Purchasing Textbooks and Uniforms</a></td>
 </tr>
 <tr>
 <td>6. Information on Personal Digital Learning Devices</td>
 </tr>
 <tr>
-<td>a. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/6a.%20National%20Digital%20Literacy%20Programme.pdf">National Digital Literacy Programme</a></td>
+<td>a. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/6a%20National%20Digital%20Literacy%20Programme.pdf">National Digital Literacy Programme</a></td>
 </tr>
 <tr>
-<td>b. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/6b.%20Tips%20for%20Parents%20on%20Managing%20Use%20of%20E-Devices.pdf">Tips for Parents on Managing Use of Electronic Devices</a></td>
+<td>b. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/6b%20Tips%20for%20Parents%20on%20Managing%20Use%20of%20E-Devices.pdf">Tips for Parents on Managing Use of Electronic Devices</a></td>
 </tr>
 <tr>
-<td>7. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/7.%20Application%20for%20TJC%20IP%20Music%20Elective%20Programme.pdf">Application for the TJC IP Music Elective Programme (MEP)</a></td>
+<td>7. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/7%20Application%20for%20TJC%20IP%20Music%20Elective%20Programme.pdf">Application for the TJC IP Music Elective Programme (MEP)</a></td>
 </tr>
 <tr>
-<td>8. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/8.%20Parent%20Forum%202023.pdf">Information on Parent Forum 2023</a></td>
+<td>8. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/8%20Parent%20Forum%202023.pdf">Information on Parent Forum 2023</a></td>
 </tr>
 <tr>
-<td>9. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/9.%20School%20Bus%20Application%20Form.pdf">School Bus Application/Interest Form 2023</a></td>
+<td>9. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/9%20School%20Bus%20Application%20Form.pdf">School Bus Application/Interest Form 2023</a></td>
 </tr>
 <tr>
 <td>10. Information on Financial Assistance Schemes (FAS)</td>
 </tr>
 <tr>
-<td>a. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/10a.%20Information%20about%20the%20MOE%20FAS%20Scheme.pdf">Information about the MOE FAS</a></td>
+<td>a. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/10a%20Information%20about%20the%20MOE%20FAS%20Scheme.pdf">Information about the MOE FAS</a></td>
 </tr>
 <tr>
-<td>b. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/10b.%20MOE%20FAS%202023_Instructions%20and%20Online%20Application%20Form.pdf">Instructions for Applying for MOE FAS and Online Application Form</a></td>
+<td>b. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/10b%20MOE%20FAS%202023_Instructions%20and%20Online%20Application%20Form.pdf">Instructions for Applying for MOE FAS and Online Application Form</a></td>
 </tr>
 <tr>
-<td>c. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/10c.%20MOE%20FAS%202023_Hard%20Copy%20Application%20Form.pdf">Hard Copy Application Form</a></td>
+<td>c. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/10c%20MOE%20FAS%202023_Hard%20Copy%20Application%20Form.pdf">Hard Copy Application Form</a></td>
 </tr>
 <tr>
-<td>11. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/11.%20GIRO%20application%20form.pdf">GIRO Application Form</a></td>
+<td>11. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/11%20GIRO%20application%20form.pdf">GIRO Application Form</a></td>
 </tr>
 </tbody>
 </table>
