@@ -149,7 +149,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"></label>
+    <label for="accordion8">SHOOTING</label>
     <div>
 <table>
 <thead>
@@ -160,8 +160,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Shooting.png"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Fauzana Abdullah</p><p><b>Email</b><br>fauzana_abdullah@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
