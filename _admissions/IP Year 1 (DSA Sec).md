@@ -104,9 +104,7 @@ description: ""
 <li>Applicants are to prepare two contrasting pieces on a band instrument, or band instruments, of their choice.</li>
 <li>Applicants are to submit relevant documents of school-based and non-school-based achievements before the audition, via email, to:</li>
 </ul>
-<blockquote>
 <div>Mr Seah Cheng Tat (<a href="mailto:seah_cheng_tat@moe.edu.sg" target="">seah_cheng_tat@moe.edu.sg</a>) and<br />Ms Rebecca Wu (<a href="mailto:wu_xiuyun_rebecca@moe.edu.sg" target="">wu_xiuyun_rebecca@moe.edu.sg</a>)</div>
-</blockquote>
 <div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.&nbsp;</div>
 </td>
 </tr>
