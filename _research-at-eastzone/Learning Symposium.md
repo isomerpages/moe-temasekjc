@@ -26,7 +26,7 @@ description: ""
     <label for="accordion2">PAST EAST ZONE LEARNING SYMPOSIUMS</label>
     <div>
 			 <img src="/images/Research@EastZone/Reimagine%20Assessment%20-%20What%20Matters%20Most.png"  style="width:80%">
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">You can view the video of the Keynote Address <a href="https://drive.google.com/file/d/1o3ByEXpIwiTsUamPvC6j24wr2IWcscHT/view?usp=sharing" target="_blank">here</a>.<br><i>(Available for MOE staff only. Please log in using your iCON email to view the video.)</i></p>
     </div>
 	</li> 
 	</ul>
