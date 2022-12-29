@@ -194,6 +194,7 @@ description: ""
 				<li><p style="text-align: justify;"><u>Applicants who are further shortlisted</u> after these selection tests will be invited to attend an <b>interview in July 2022.</b></p></li>
 				<li><p style="text-align: justify;">You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p></li>	
 			</ul>
+			<p style="text-align: justify;">Applicants who are further shortlisted for interviews, please email the following in PDF format to <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a> with your name and applied talent area(s) clearly stated in the subject of the email:</p>
     </div>
 	</li> 
 	  <li>
