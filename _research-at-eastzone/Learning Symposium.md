@@ -25,6 +25,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PAST EAST ZONE LEARNING SYMPOSIUMS</label>
     <div>
+			 <img src="/images/Research@EastZone/Reimagine%20Assessment%20-%20What%20Matters%20Most.png"  style="width:80%">
 			<p style="text-align: justify;"></p>
     </div>
 	</li> 
