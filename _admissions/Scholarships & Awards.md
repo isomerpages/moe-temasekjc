@@ -41,12 +41,11 @@ description: ""
 				<li><p style="text-align: justify;">Singaporeans or Singapore Permanent Residents only</p></li>
 				<li><p style="text-align: justify;">Value of award: $800 and a place in the Talent Development Programme</p></li>
 				</ul>
-						<p style="text-align: justify;"><b>Arts Book Award (JC1)</b><br></p>
-				<p style="text-align: justify;">This award is valued at $300 for students who scored L1R5 7 points or better and offer four H2 subjects of which three must be from Economics, Literature, History or Geography, Chinese LL, Music or Art. There is no application form for this, as any Arts student who qualifies will get it. This award is automatically awarded on top for those who qualify for the TJC Academic Merit Award.</p>
-						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+						<p style="text-align: justify;"><b>Arts Book Award (JC1)</b><br>This award is valued at $300 for students who scored L1R5 7 points or better and offer four H2 subjects of which three must be from Economics, Literature, History or Geography, Chinese LL, Music or Art. There is no application form for this, as any Arts student who qualifies will get it. This award is automatically awarded on top for those who qualify for the TJC Academic Merit Award.</p>
+						<p style="text-align: justify;"><b>TJC Xcel Scholarship</b><br>A prestigious College-based award offered to outstanding students:</p>
 			<ul>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Outstanding students in sports and performing arts</p></li>
+				<li><p style="text-align: justify;">Value of award: $800 and a place in the Talent Development Programme</p></li>
 				</ul>
     </div>
 	</li> 
