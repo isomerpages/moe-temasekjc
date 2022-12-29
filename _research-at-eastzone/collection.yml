@@ -2,4 +2,5 @@ collections:
   research-at-eastzone:
     output: true
     order:
+      - Learning Symposium.md
       - About Research@EastZone.md
