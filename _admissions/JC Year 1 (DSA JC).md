@@ -47,6 +47,110 @@ description: ""
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
 			</ul>
+			<table>
+<tbody>
+<tr>
+<th style="text-align: center;">DSA DOMAINS</th>
+<th style="text-align: center;">SELECTION REQUIREMENTS</th>
+</tr>
+<tr>
+<td style="text-align: justify;">
+<p>We are looking for talented students who can contribute in the following areas:</p>
+<strong>CCA - Performing Arts</strong><br />
+<ol>
+<li>Chinese Orchestra</li>
+<li>Choir</li>
+<li>English Drama</li>
+<li>Modern Dance</li>
+<li>String Ensemble</li>
+<li>Concert Band</li>
+</ol>
+<strong>CCA - Sports</strong><br />
+<ol>
+<li>Badminton</li>
+<li>Basketball</li>
+<li>Bowling</li>
+<li>Floorball (Boys)</li>
+<li>Football (Boys)</li>
+<li>Netball (Girls)</li>
+<li>Shooting</li>
+<li>Taekwondo</li>
+</ol>
+</td>
+<td>
+<ul>
+<li>Academic performance from Sec 3 to 4</li>
+</ul>
+<ul>
+<li>Achievements related to the relevant performing arts / sports</li>
+</ul>
+<ul>
+<li><u>Shortlisted applicants</u>&nbsp;will be notified via e-mail / telephone call to attend an in-person selection trial and interview which will be conducted from&nbsp;<strong>23 May to 16 July 2022</strong></li>
+<li>Successful applicants through DSA (Performing Arts / Sports) are expected to join a Performing Arts or Sports CCA respectively from JC1 to JC2</li>
+</ul>
+<br /><br /></td>
+</tr>
+<tr>
+<td style="text-align: justify;">
+<p><strong>Humanities Programme</strong></p>
+<ul>
+<li>We are seeking out applicants with a strong passion and aptitude in the Humanities.</li>
+<li>We value students with experience and achievements in humanities-based competitions, such as the MOE History Challenge, NUS Geography Challenge, MUNs, Commonwealth Essay Writing Competition, National Schools Literature Festival.</li>
+<li>We also value experience in MOE&rsquo;s secondary school Talent Development Programmes (TDP) such as the Geography/History TDP, and MOE&rsquo;s Creative Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE&rsquo;s Humanities and Social Science Research Programmes) are also highly valued.</li>
+<li>Applicants should be well read on national and global issues and have a strong personal voice.</li>
+<li>More details of the Temasek Humanities Programme can be found&nbsp;<strong><a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme">here</a></strong>.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Consistently strong academic performance from Sec 3 to 4</li>
+<li>Achievements and stretch experiences related to the Humanities. This can include national/international Humanities-related competitions and programmes</li>
+<li>Summary of leadership experience</li>
+<li><u>Shortlisted applicants</u>&nbsp;will be notified via e-mail / telephone call to attend an in-person interview which will be conducted from&nbsp;<strong>23 May to 16 July 2022</strong></li>
+<li>Successful applicants will be expected to apply for the MOE Humanities Scholarship and will be placed in the Temasek Humanities Programme</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: justify;"><strong>Leadership Excellence</strong><br />
+<ul>
+<li>We are looking for applicants with strong leadership skills.</li>
+<li>Key leadership positions in the Students' Council, Prefectorial Board, Uniformed Groups or equivalent will be preferred.</li>
+<li>We are also looking for students who have achievements in leadership competitions. This could include outstanding results in national / international academic-related competitions.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Academic performance from Sec 3 to 4</li>
+<li>Achievements related to leadership involvement. This can include national / international academic-related competitions</li>
+<li>Shortlisted applicants will be notified via e-mail / telephone call to attend an in-person interview which will be conducted from 23 May to 16 July 2022</li>
+<li>Successful applicants will be expected to take up a leadership role in TJC Students&rsquo; Council&nbsp;</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: justify;">
+<p><strong>Music Elective Programme (MEP)</strong></p>
+<ul>
+<li>Students with strong musical interest and aptitude will have opportunities to hone their musical skills with well-equipped music facilities and engage in authentic learning platforms with distinguished TJC MEP alumni, local and foreign practitioners from renowned institutions and organisations as part of the TJC Visiting Artists&rsquo; Series. The students will deepen their overall musicianship and develop essential 21st-Century skills in music technology and sound recording through our robust programmes.</li>
+<li>Successful applicants through DSA (MEP) must take MEP as a GCE A-level examination subject and join one of the Music Performing Arts CCA from JC1 to JC2.</li>
+</ul>
+</td>
+<td>
+<p>Applicants should demonstrate passion and strong achievement in music through&nbsp;<u>one or more</u>&nbsp;of the following:</p>
+<ul>
+<li>Distinctions in O Level Music or Higher Music in internal secondary school examinations</li>
+<li>Musical leadership roles in CCA (eg. student conductor, section leader)</li>
+<li>Achievements in musical domains&nbsp;(eg. performing, composing) at a national or international level</li>
+</ul>
+<p>Applicants should submit evidence of the above, together with other supporting documents as stated on the college website</p>
+<ul>
+<li style="text-align: center;">Shortlisted applicants will be notified via e-mail and / or telephone to attend an in-person selection test and interview from&nbsp;<strong>23 May to 16 July 2022</strong></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
     </div>
 	</li> 
 	  <li>
