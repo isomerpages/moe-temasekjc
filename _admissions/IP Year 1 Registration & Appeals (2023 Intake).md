@@ -20,25 +20,25 @@ description: ""
 </thead>
 <tbody>
 <tr>
-<td>1. <a href="https://www-temasekjc-moe-edu-sg-admin.cwp.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/1.%20Instructions%20for%20Completing%20the%20IP1%202023%20intake%20Online%20Registration%20Exercise.pdf">Instructions for Completing the IP1 Online Registration Exercise</a></td>
+<td>1. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/1%20Instructions%20for%20Completing%20the%20IP1%202023%20intake%20Online%20Registration%20Exercise.pdf">Instructions for Completing the IP1 Online Registration Exercise</a></td>
 </tr>
 <tr>
-<td>2. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/2.%20General%20Info%202023.pdf">General Information</a></td>
+<td>2. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/2%20General%20Info%202023.pdf">General Information</a></td>
 </tr>
 <tr>
 <td>3. Information on IP1 Induction 2023</td>
 </tr>
 <tr>
-<td>a. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/3a.%20IP1%20Induction%20Schedule.pdf">IP1 Induction Schedule</a></td>
+<td>a. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/3a%20IP1%20Induction%20Schedule.pdf">IP1 Induction Schedule</a></td>
 </tr>
 <tr>
-<td>b. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/3b.%20Briefing%20for%20IP1%20Students%20on%20Induction.pdf">Briefing for IP1 Students on Induction </a></td>
+<td>b. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/3b%20Briefing%20for%20IP1%20Students%20on%20Induction.pdf">Briefing for IP1 Students on Induction </a></td>
 </tr>
 <tr>
 <td>c. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/3c.%20IP1%20Induction%20T-Shirt%20Sizes.png">IP1 Induction T-Shirt Sizes</a></td>
 </tr>
 <tr>
-<td>4. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/4.%20IP1%20Booklist%202023.pdf">IP1 Book List 2023</a></td>
+<td>4. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/4%20IP1%20Booklist%202023.pdf">IP1 Book List 2023</a></td>
 </tr>
 <tr>
 <td>5. <a href="https://www.temasekjc.moe.edu.sg/qql/slot/u1470/IP1%20Registration%20&amp;%20Appeals%20Documents/5.%20Instructions%20for%20Purchasing%20of%20Textbooks%20and%20Uniforms.pdf">Instructions for Purchasing Textbooks and Uniforms</a></td>
