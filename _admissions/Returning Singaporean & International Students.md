@@ -60,6 +60,8 @@ description: ""
     <div>
 			<p style="text-align: justify;"><u>Shortlisted applicants</u> will be notified to undergo selection test for English and Mathematics, and an interview. Only applicants who meet our selection criteria in the tests would be offered a place in our college for the next academic year, starting in January/February 2023, based on results of the test and available school vacancies after JAE.</p>
 			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">The selection test fee applies to non-Singaporeans, i.e. the rate for the first subject is S$44 and every additional subject is S$22 (inclusive of GST). The selection test can only be taken once, and the test results will not be disclosed to applicants. The scope of the test will be further communicated to shortlisted applicants.</p>
+			<p style="text-align: justify;">Selection test period: <b>Early January 2023</b></p>
     </div>
 	</li> 
 	</ul>
