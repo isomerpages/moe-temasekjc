@@ -169,7 +169,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"></label>
+    <label for="accordion9">SWIMMING</label>
     <div>
 <table>
 <thead>
@@ -180,8 +180,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Swimming%20thumbnail.jpeg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Esther Mok</p><p><b>Email</b><br>mok_yuerong_esther@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
