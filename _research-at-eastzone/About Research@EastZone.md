@@ -90,6 +90,7 @@ description: ""
     <label for="accordion3">CONTACT US</label>
     <div>
 			<p style="text-align: justify;">Centre Administrator<br>Centre of Excellence, Research@EastZone<br>Temasek Junior College<br>22 Bedok South Road<br>Singapore 469278</p>
+			<p style="text-align: justify;">64428066 (Phone)<br>64428762 (Fax)<br><a href="mailto:moe_researchez@moe.edu.sg">moe_researchez@moe.edu.sg</a> (Email)</p>
     </div>
 	</li> 
 	</ul>
