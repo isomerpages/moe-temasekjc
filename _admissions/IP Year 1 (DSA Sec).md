@@ -175,6 +175,12 @@ description: ""
     <label for="accordion2">APPLICATION PROCESS</label>
     <div>
 			<p style="text-align: justify;"> <b>The Application Period is from 5 May 2022, 11 am to 1 Jun 2022, 3 pm.</b><br>For more details, please refer to: <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a></p>
+			<p>Please note the following:</p>
+			<ul>
+				<li>An applicant can indicate up to three choices.</li>
+				<li><p style="text-align: justify;">Each choice consists of a secondary school and a talent area offered by that secondary school.</p></li>
+				<li><p style="text-align: justify;">Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p></li>
+			</ul>
     </div>
 	</li> 
 	  <li>
