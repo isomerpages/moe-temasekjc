@@ -3,6 +3,7 @@ title: FAQ
 permalink: /others/faq/
 description: ""
 ---
+# links broken: Flagship Programmes page 
 # FREQUENTLY ASKED QUESTIONS (FAQS)
 
 <span style="color:rgb(0, 112, 60)">What is the PSLE Aggregate Score cut-off for 2020 Primary 6 students posted to 2021 Integrated Programme Year 1?</span>
@@ -48,7 +49,5 @@ In Temasek Junior College, we have carefully designed our programmes to provide 
 *   Innovation and Research Project (IRP)
 *   Temasek Academy (TA)   
     
-
-  
 
 For more information, please visit the **[Flagship Programmes page](https://www.temasekjc.moe.edu.sg/flagship-programmes)**.
