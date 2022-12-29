@@ -243,7 +243,8 @@ description: ""
 			<ul>
 				<li><p style="text-align: justify;">For any enquiries on the <b>respective talent areas</b>, please contact:</p>
 						<ul>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
+				      <li><p style="text-align: justify;">Chinese Language: Ms Cai Jun Jun [<a href="mailto:cai_jun_jun@moe.edu.sg">cai_jun_jun@moe.edu.sg</a>]
+</p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
