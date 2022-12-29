@@ -15,7 +15,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-		<td></td>
+		<td><img src="/images/Others/News/658d00fc0_4140.jpg" style="width:70%"></td>
     <td><b>College Anthem</b><br><p style="text-align: right;"><a href="https://youtu.be/HuvRB_w2Qr0">Read More...</a></p></td>
   </tr>
 	  <tr>
