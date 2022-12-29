@@ -197,7 +197,7 @@ description: ""
 			<p style="text-align: justify;"><b>Applicants who are <u>further shortlisted</u> for interviews, please <u>email</u> the following in PDF format to <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a> <u>with your name and applied talent area(s) clearly stated in the subject of the email:</u></b></p>
 							<ul>
 				<li><p style="text-align: justify;">Primary 6 academic results slips (till the latest available)</p></li>
-				<li><p style="text-align: justify;">Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable).</li>
+				<li><p style="text-align: justify;">Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable).</p></li>
 				<li><p style="text-align: justify;">If you have them, provide the following for the talent area you are applying under:</p>
 					<ul>
 						<li><p style="text-align: justify;">English Language: Certificates of Participation or Achievement in language ability, writing and speaking (e.g., UNSW ICAS English, The Queen's Commonwealth Essay Competition, Plain English-Speaking Awards)</p></li>
