@@ -188,8 +188,8 @@ description: ""
 			</ul>
 			<p><b>Dates for Selection Tests/Auditions/Trials/Interviews:</b></p>
 				<ul>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">The selection tests/auditions/trials/interviews will be held from <u>27 June to 12 August 2022.</u></p></li>
+				<li><p style="text-align: justify;">All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u></p></li>
 				<li><p style="text-align: justify;"></p></li>
 				<li><p style="text-align: justify;"></p></li>
 				<li><p style="text-align: justify;"></p></li>	
