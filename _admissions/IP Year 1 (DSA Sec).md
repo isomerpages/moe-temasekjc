@@ -45,7 +45,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
+			<p style="text-align: justify;"><b>Music Elective Programme</b><br>We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP).</p>
+			<p style="text-align: justify;">Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme.</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
