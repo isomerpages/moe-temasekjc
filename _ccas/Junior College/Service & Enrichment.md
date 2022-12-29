@@ -69,7 +69,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"></label>
+    <label for="accordion4">LEO CLUB</label>
     <div>
 <table>
 <thead>
@@ -80,8 +80,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Leo%20Club%20thumbnail.png"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Ng Wei Ling</p><p><b>Email</b><br>ng_wei_ling@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
