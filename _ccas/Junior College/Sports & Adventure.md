@@ -229,7 +229,7 @@ third_nav_title: Junior College
 	</li> 
 		  <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"></label>
+    <label for="accordion12">TENNIS</label>
     <div>
 <table>
 <thead>
@@ -240,8 +240,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Tennis%20Thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Wong Jee Pheng</p><p><b>Email</b><br>wong_jee_pheng@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
