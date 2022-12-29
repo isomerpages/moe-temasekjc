@@ -61,7 +61,7 @@ third_nav_title: Junior College
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Choir%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
