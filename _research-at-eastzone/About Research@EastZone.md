@@ -41,7 +41,7 @@ description: ""
     <label for="accordion2">CALENDAR OF EVENTS & RESOURCES</label>
     <div>
 			<p style="text-align: justify;">You can download the 2021 Calendar of Events <a href="/files/Research@EastZone/ResearchEZ%20calendar%202021.pdf" target="_blank">here</a>.</p>
-			<p style="text-align: justify;">Click <a href="" target="_blank">here</a> for book titles related to research study. For loan enquiry, please email: <a href="mailto:moe_researchez@moe.edu.sg">moe_researchez@moe.edu.sg</a></p>
+			<p style="text-align: justify;"><a href="https://www.temasekjc.moe.edu.sg/qql/slot/u550/21/stZone/About%20Research@EastZone/ReEZ%20Book%20List.pdf" target="_blank">Click here</a> for book titles related to research study. For loan enquiry, please email: <a href="mailto:moe_researchez@moe.edu.sg">moe_researchez@moe.edu.sg</a></p>
 			<p style="text-align: justify;">Here is a list of online resources you might find useful:</p>
     </div>
 	</li> 
