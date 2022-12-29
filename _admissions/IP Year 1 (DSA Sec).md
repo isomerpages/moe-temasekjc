@@ -243,7 +243,7 @@ description: ""
 			<ul>
 				<li><p style="text-align: justify;">For any enquiries on the <b>respective talent areas</b>, please contact:</p>
 						<ul>
-				      <li><p style="text-align: justify;"></p></li>
+				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"></p></li>
 			     </ul>
 				</li>
