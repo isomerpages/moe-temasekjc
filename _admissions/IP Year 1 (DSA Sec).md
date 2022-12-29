@@ -218,13 +218,13 @@ description: ""
     <div>
 			<p style="text-align: justify;"><b> Points to note:</b><br></p>
 			<ul>
-				<li>The General Ability Test (GAT) is no longer used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</li>
-				<li></li>
-				<li></li>
+				<li><p style="text-align: justify;">The General Ability Test (GAT) is no longer used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</p></li>
+				<li><p style="text-align: justify;">Successful DSA-Sec students are NOT allowed to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p></li>
+				<li><p style="text-align: justify;"></p></li>
 				<li>			
 					<ul>
-				<li></li>
-				<li></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
 					</ul>
 				</li>
 			</ul>
