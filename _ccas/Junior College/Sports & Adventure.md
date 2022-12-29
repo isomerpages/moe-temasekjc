@@ -69,7 +69,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"></label>
+    <label for="accordion4">FLOORBALL (BOYS)</label>
     <div>
 <table>
 <thead>
@@ -80,8 +80,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Floorball%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Glendon Phua</p><p><b>Email</b><br>zhi_ming_glendon_phua@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
