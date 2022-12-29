@@ -189,7 +189,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10"></label>
+    <label for="accordion10">SYMPHONIC BAND</label>
     <div>
 <table>
 <thead>
@@ -201,7 +201,7 @@ third_nav_title: Junior College
 <tbody>
   <tr>
     <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
