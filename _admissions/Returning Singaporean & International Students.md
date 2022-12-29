@@ -59,7 +59,7 @@ description: ""
     <label for="accordion4">SELECTION PROCESS</label>
     <div>
 			<p style="text-align: justify;"><u>Shortlisted applicants</u> will be notified to undergo selection test for English and Mathematics, and an interview. Only applicants who meet our selection criteria in the tests would be offered a place in our college for the next academic year, starting in January/February 2023, based on results of the test and available school vacancies after JAE.</p>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">The schedule for the selection test will be made known via email to shortlisted applicants. The test will be conducted in person and will be held in Singapore. Thus, if you are currently overseas, you should submit an application only if you can comply with the prevailing Public Health as well as Entry Requirements listed on the <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">Singapore Immigration & Checkpoints Authority (ICA) website</a>. Please also refer to the <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health Advisory</a> on latest COVID-19 measures within Singapore for more details.</p>
 			<p style="text-align: justify;">The selection test fee applies to non-Singaporeans, i.e. the rate for the first subject is S$44 and every additional subject is S$22 (inclusive of GST). The selection test can only be taken once, and the test results will not be disclosed to applicants. The scope of the test will be further communicated to shortlisted applicants.</p>
 			<p style="text-align: justify;">Selection test period: <b>Early January 2023</b></p>
     </div>
