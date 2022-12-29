@@ -206,8 +206,10 @@ description: ""
 						<li><p style="text-align: justify;">Science: Certificates of Participation or Achievement (e.g., Tan Kah Kee Young Inventors’ Award, National Junior Robotics Competition, UNSW ICAS Science, medals, participation in International & National Science competitions)</p></li>
 						<li><p style="text-align: justify;">Music/Concert Band: Certificates of Participation or Achievement (e.g., most recent music examination certificate - instrumental and/or theory, competitions, festivals, masterclasses) Leadership: Letter from teacher-in-charge or School Leader</p></li>
 					</ul>
-					</p></li>
+					</li>
 			</ul>
+			<b>Outcome of Application</b>
+			All applicants will be notified of the outcome of their application via email by <b>12 September 2022</b>.
     </div>
 	</li> 
 	  <li>
