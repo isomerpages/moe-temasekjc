@@ -39,7 +39,7 @@ description: ""
     <label for="accordion3">RS/IS APPLICATION PROCESS</label>
     <div>
 			<p style="text-align: justify;">1.  On-line Application Form</p>
-			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by 23 December 2022 (12.00pm, Singapore time). Application received by fax and/or email as well as late applications will NOT be considered.</p>
+			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>23 December 2022 (12.00pm, Singapore time)</b>. Application received by fax and/or email as well as late applications will <b><u>NOT</u></b> be considered.</p>
 			<p style="text-align: justify;">Click on this [link](https://go.gov.sg/jc1admission2022) to proceed with the online application. The application form should take approximately 20 minutes to complete.</p>
 
     </div>
