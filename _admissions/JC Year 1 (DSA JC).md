@@ -17,6 +17,7 @@ description: ""
     <label for="accordion1">ABOUT DSA-JC</label>
     <div>
 			<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. Eligible students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.</p>
+			<p style="text-align: justify;"><b>For more information on DSA-JC, please refer to the MOE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>.</b></p>
     </div>
 	</li> 
   <li>
