@@ -9,7 +9,7 @@ third_nav_title: Junior College
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <label for="accordion1">DEBATE</label>
     <div>
 <table>
 <thead>
@@ -20,8 +20,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Debate%20thumbnail.jpeg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr K. Veerapandiyan</p><p><b>Email</b><br>k_veerapandiyan@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
