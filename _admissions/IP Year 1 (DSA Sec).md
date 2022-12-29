@@ -216,7 +216,18 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">WHAT ELSE DO I NEED TO KNOW?</label>
     <div>
-			<p style="text-align: justify;"><b> Points to note:</b></p>
+			<p style="text-align: justify;"><b> Points to note:</b><br></p>
+			<ul>
+				<li>The General Ability Test (GAT) is no longer used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</li>
+				<li></li>
+				<li></li>
+				<li>			
+					<ul>
+				<li></li>
+				<li></li>
+					</ul>
+				</li>
+			</ul>
     </div>
 	</li> 
 	  <li>
