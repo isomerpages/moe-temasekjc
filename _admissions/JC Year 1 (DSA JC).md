@@ -194,8 +194,9 @@ description: ""
 				<li><b>Performing Arts CCAs</b><br>Ms Serene Tan - <a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a></li>
 				<li><b>Sports CCAs</b><br>Ms Jonique Ang - <a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a></li>
 				<li><b>Humanities Programme</b><br>Mr Koh Weining - <a href="mailto:koh_weining@moe.edu.sg">koh_weining@moe.edu.sg</a></li>
-				<li><b>Leadership</b><br><a href="mailto:"></a></li>
-				<li><b>Music Elective Programme</b><br><a href="mailto:"></a></li>
+				<li><b>Leadership</b><br>Mr Tan Teck Joo - 
+<a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a></li>
+				<li><b>Music Elective Programme</b><br>Dr Gary Laycock - <a href="mailto:laycock_eng_yeow_gary@moe.edu.sg">laycock_eng_yeow_gary@moe.edu.sg</a></li>
 			</ul>
     </div>
 	</li> 
