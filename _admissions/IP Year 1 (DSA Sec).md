@@ -197,7 +197,7 @@ description: ""
 			<p style="text-align: justify;"><b>Applicants who are <u>further shortlisted</u> for interviews, please <u>email</u> the following in PDF format to <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a> <u>with your name and applied talent area(s) clearly stated in the subject of the email:</u></b></p>
 							<ul>
 				<li><p style="text-align: justify;">Primary 6 academic results slips (till the latest available)</p></li>
-				<li><p style="text-align: justify;">All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u></p></li>
+				<li><p style="text-align: justify;">Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable).</li>
 				<li><p style="text-align: justify;"><u>Only shortlisted applicants</u> will be notified via email and/or SMS for a selection test/audition/trial.</p></li>
 				<li><p style="text-align: justify;"><u>Applicants who are further shortlisted</u> after these selection tests will be invited to attend an <b>interview in July 2022.</b></p></li>
 				<li><p style="text-align: justify;">You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p></li>	
