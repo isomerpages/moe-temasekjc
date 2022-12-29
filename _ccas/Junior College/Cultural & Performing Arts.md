@@ -149,7 +149,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"></label>
+    <label for="accordion8">MODERN DANCE</label>
     <div>
 <table>
 <thead>
@@ -160,8 +160,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Modern%20Dance%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Janice Chan</p><p><b>Email</b><br>chan_yan_ying_janice@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
