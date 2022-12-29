@@ -249,8 +249,8 @@ description: ""
 				      <li><p style="text-align: justify;">Science: Ms Lee Lin Hoon [<a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a>]</p></li>
 				      <li><p style="text-align: justify;">MEP: Ms Emmerlyn Ong [<a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a>] & Ms Serene Tan [<a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a>]</p></li>
 				      <li><p style="text-align: justify;">Concert Band: Mr Seah Cheng Tat [<a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a>]</p></li>
-						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>			
+						 <li><p style="text-align: justify;">Badminton: Mrs Shirley Goh [<a href="mailto:teo_yew_ing_shirley@moe.edu.sg">teo_yew_ing_shirley@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">Basketball: Mr Lee Chun Hsien [<a href="mailto:lee_chun-hsien@moe.edu.sg">lee_chun-hsien@moe.edu.sg</a>]</p></li>			
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>				
 			     </ul>
