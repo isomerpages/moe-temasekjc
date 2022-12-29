@@ -23,9 +23,10 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">JUNIOR COLLEGE</label>
     <div>
-				<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+				<p style="text-align: justify;"><b>MOE Scholarships</b><br>The following scholarships are offered by the Ministry of Education and are available at TJC:</p>
 			<ul>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Humanities Scholarship</p></li>
+				<li><p style="text-align: justify;">Language Elective Scholarship (Chinese)</p></li>				
 				<li><p style="text-align: justify;"></p></li>
 				</ul>
 						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
