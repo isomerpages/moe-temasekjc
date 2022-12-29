@@ -33,9 +33,9 @@ description: ""
     <div>
 			<p style="text-align: justify;">For more information on the eligibility criteria for DSA-JC, please refer to this <a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B" target="_blank">link</a>. You can apply through the following DSA domains:</p>
 			<ul>
-				<li>			
+				<li>	CCA – Performing Arts		
 					<ul>
-				<li></li>
+				<li>Chinese Orchestra, Choir, English Drama, Modern Dance, String Ensemble, Concert Band</li>
 					</ul>
 				</li>
 				<li>
