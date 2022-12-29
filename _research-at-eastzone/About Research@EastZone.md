@@ -87,9 +87,9 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"></label>
+    <label for="accordion3">CONTACT US</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">Centre Administrator<br>Centre of Excellence, Research@EastZone<br>Temasek Junior College<br>22 Bedok South Road<br>Singapore 469278</p>
     </div>
 	</li> 
 	</ul>
