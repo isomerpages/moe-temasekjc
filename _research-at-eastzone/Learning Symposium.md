@@ -26,6 +26,26 @@ description: ""
     <label for="accordion2">PAST EAST ZONE LEARNING SYMPOSIUMS</label>
     <div>
 			<p style="text-align: justify;">The programme overview and synopses of past symposiums can be found through the links below.</p>
+			**EAST ZONE LEARNING SYMPOSIUM 2018**
+
+*   [Programme & Concurrent Sessions](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202018/EZ_LearningSymposium2018_Information.pdf)
+
+  
+
+**EAST ZONE LEARNING SYMPOSIUM 2016**
+
+*   [Programme](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202016/D110_COE_Attachment_EZLS2016_Overview.pdf)
+*   [Concurrent Session 1](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202016/D110_COE_Attachment_EZLS2016_Concurrent_Session_1.pdf)
+*   [Concurrent Session 2](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202016/D110_COE_Attachment_EZLS2016_Concurrent_Session_2.pdf)
+
+  
+
+**EAST ZONE LEARNING SYMPOSIUM 2014  
+**
+
+*   [Programme](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Overview.pdf)
+*   [Concurrent Session 1](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Concurrent_Session_1.pdf)
+*   [Concurrent Session 2](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Concurrent_Session_2.pdf)
     </div>
 	</li> 
 	</ul>
