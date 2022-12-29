@@ -161,9 +161,9 @@ description: ""
 		<p style="text-align: justify;"> <b>2) Supporting Documents<br>Applicants should submit the following supporting documents:</b></p>
 			<ul>
 				<li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
-				<li></li>
-				<li></li>
-				<li><p style="text-align: justify;"> </p></li>
+				<li>Sec 4 academic results slips (Till the latest available; including CA/WA)</li>
+				<li>Sec 1 to Sec 4 CCA records (Till the latest available)</li>
+				<li><p style="text-align: justify;"> Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)</p></li>
 			</ul>
 			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b></p>
 			<p style="text-align: justify;"> <b>4) Outcome of Application</b></p>
