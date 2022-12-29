@@ -174,6 +174,14 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">IMPORTANT POINTS</label>
     <div>
+			<ul>
+				<li><p style="text-align: justify;">Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.</p></li>
+				<li><p style="text-align: justify;">Students <u>are NOT allowed</u> to accept more than one Confirmed Offer at any time.</p></li>
+				<li><p style="text-align: justify;">Successful DSA-JC candidates will <b>not be allowed</b> to participate in the Joint Admissions Exercise. They will also <b>not be allowed</b> to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+			</ul>
 			<p style="text-align: justify;"><b><i> As part of MOE’s initiative to provide high quality infrastructure for JCs and meet future needs, plans are underway for the existing TJC campus to be rebuilt. The new building will facilitate collaborative and interactive learning and support the educational needs of our students in the future. TJC will move temporarily to the former Tampines JC site (2 Tampines Avenue 9, Singapore 529564) in January 2024 and we will be there until December 2027 while our current campus in Bedok is being rebuilt. Staff and students can look forward to moving back to our rebuilt campus in January 2028. The school will ensure that the transition between campuses will be as seamless as possible as we continue providing a top-quality learning experience for all our students.</b></i></p>
     </div>
 	</li> 
