@@ -27,7 +27,7 @@ description: ""
     <div>
 			<p style="text-align: justify;">The programme overview and synopses of past symposiums can be found through the links below.</p>
 			<p><b>EAST ZONE LEARNING SYMPOSIUM 2018</b><br><ul><li><a href="/files/Research@EastZone/Learning%20Symposium/EZ_LearningSymposium2018_Information.pdf" target="_blank">Programme & Concurrent Sessions</a></li></ul> </p>
-			<p><b>EAST ZONE LEARNING SYMPOSIUM 2016</b><br><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Overview.pdf" target="_blank">Programme</a></p>
+			<p><b>EAST ZONE LEARNING SYMPOSIUM 2016</b><br><ul><li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Overview.pdf" target="_blank">Programme</a></li></ul> </p>
 
 *   []
 *   []			<a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Concurrent_Session_1.pdf" target="_blank">Concurrent Session 1</a>(https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202016/)
