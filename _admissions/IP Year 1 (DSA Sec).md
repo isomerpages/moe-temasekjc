@@ -82,6 +82,36 @@ description: ""
 </table>
 			<p style="text-align: justify;"><b>Performing Arts - Concert Band</b><br>We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.</p>
 			<p style="text-align: justify;">Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.</p>
+			<table>
+<tbody>
+<tr style="text-align: center;">
+<th style="text-align: center;">TALENT AREA</th>
+<th style="text-align: center;">SELECTION CRITERIA</th>
+<th style="text-align: center;">SELECTION PROCESS</th>
+</tr>
+<tr>
+<td style="text-align: center;">Performing Arts - Concert Band</td>
+<td>
+<ul>
+<li>Ability to play any of the following symphonic band instruments: euphonium, tuba, trumpet, trombone, horn, flute, oboe, clarinet, double bass, saxophone, bassoon, or any percussion instrument</li>
+<li>Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred</li>
+<li>Very good CCA records Applicants should indicate non-school-based achievements in their online application in MOE&rsquo;s DSA portal</li>
+</ul>
+</td>
+<td>
+<div style="text-align: justify;">All shortlisted applicants for Band will attend an&nbsp;<strong>audition</strong>:</div>
+<ul style="text-align: justify;">
+<li>Applicants are to prepare two contrasting pieces on a band instrument, or band instruments, of their choice.</li>
+<li>Applicants are to submit relevant documents of school-based and non-school-based achievements before the audition, via email, to:</li>
+</ul>
+<blockquote>
+<div>Mr Seah Cheng Tat (<a href="mailto:seah_cheng_tat@moe.edu.sg" target="">seah_cheng_tat@moe.edu.sg</a>) and<br />Ms Rebecca Wu (<a href="mailto:wu_xiuyun_rebecca@moe.edu.sg" target="">wu_xiuyun_rebecca@moe.edu.sg</a>)</div>
+</blockquote>
+<div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
