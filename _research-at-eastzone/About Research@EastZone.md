@@ -40,7 +40,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">CALENDAR OF EVENTS & RESOURCES</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">You can download the 2021 Calendar of Events <a href="" target="_blank">here</a>.</p>
     </div>
 	</li> 
 	  <li>
