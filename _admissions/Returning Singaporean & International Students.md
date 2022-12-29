@@ -42,6 +42,15 @@ description: ""
 			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>23 December 2022 (12.00pm, Singapore time)</b>. Application received by fax and/or email as well as late applications will <b><u>NOT</u></b> be considered.</p>
 			<p style="text-align: justify;">Click on this <a href="https://go.gov.sg/jc1admission2022" target="_blank">link</a> to proceed with the online application. The application form should take approximately 20 minutes to complete.</p>
 			<p style="text-align: justify;">2. <u>Supporting Documents</u> (Please pdf and upload as one file, size limit 7MB)</p>
+			<ul>
+				<li>Copy of Applicant’s Passport/ Student’s Pass/ NRIC (where applicable)</li>
+				<li>Copies of Parents’ Passport/ Work Permit Pass/ NRIC (where applicable)</li>
+				<li>Copy of J-PACT results (if available): you may email to us the results if you receive the J-PACT results after our closing date.</li>
+				<li>Latest exam results and certificates of highest level of education achieved.</li>
+				<li>Copy of Co-curricular Activities records (if available)</li>
+				<li>Supporting documents on Personal Achievements and Awards/Prizes won (if any)</li>
+				<li>Testimonials or References (optional)</li>
+			</ul>
 			<p style="text-align: justify;">Note: Please email the supporting documents to <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a> if you encounter any error, e.g. file size ˃ 7MB.</p>
     </div>
 	</li> 
