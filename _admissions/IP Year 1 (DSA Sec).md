@@ -75,7 +75,7 @@ description: ""
 </ol>
 <p style="text-align: justify;">Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) before the audition, via email, to:</p>
 <p style="text-align: justify;">Mr Seah Cheng Tat (<strong><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></strong>) and<br />Ms Emmerlyn Ong (<strong><a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a></strong>)</p>
-<p style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.&nbsp;</p>
+<p style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.</p>
 </td>
 </tr>
 </tbody>
