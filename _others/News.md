@@ -14,16 +14,16 @@ description: ""
 </thead>
 <tbody>
   <tr>
-		<td><b>College Anthem</b></td>
-    <td></td>
+		<td></td>
+    <td><b></b><br><p style="text-align: right;"></p></td>
   </tr>
 	  <tr>
     <td></td>
-    <td></td>
+    <td><b></b><br><p style="text-align: right;"></p></td>
   </tr>
 	  <tr>
     <td></td>
-    <td></td>
+    <td><b></b><br><p style="text-align: right;"></p></td>
   </tr>
 </tbody>
 </table>
