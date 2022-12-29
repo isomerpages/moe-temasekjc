@@ -21,7 +21,7 @@ Our L1R5 cut-off for the 2020 intake is as follows: 
 
 Yes, Temasek Junior College is involved in the Direct School Admission (DSA) to secondary schools and Junior Colleges.  
 
-For **DSA-Sec** to our Integrated Programme, please visit [**this page**](https://www.temasekjc.moe.edu.sg/admissions/pri-6-students-dsa-sec) for more information. 
+For **DSA-Sec** to our Integrated Programme, please visit **[this page](https://www.temasekjc.moe.edu.sg/admissions/pri-6-students-dsa-sec)** for more information. 
 
 For **DSA-JC** to JC1, please visit **[this page](https://www.temasekjc.moe.edu.sg/admissions/sec-4-students-dsa-jc)** for more information.   
   
