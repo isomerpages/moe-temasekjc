@@ -112,6 +112,37 @@ description: ""
 </table>
 			<p style="text-align: justify;"><b>Sports</b><br>We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.  </p>
 			<p style="text-align: justify;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal level and international exposure where appropriate.</p>
+			<table class="ive_eobj_center iveo_table ives_tab_dark">
+<tbody>
+<tr>
+<th style="text-align: center;">TALENT AREA</th>
+<th style="text-align: center;">SELECTION CRITERIA</th>
+<th style="text-align: center;">SELECTION PROCESS</th>
+</tr>
+<tr>
+<td style="text-align: center;">Badminton<br />Basketball<br />Ten-Pin Bowling</td>
+<td>
+<div>Very Good CCA records</div>
+<div>e.g. Top 8 placings at National Age Group competitions or school representatives at Zonal/National competitions</div>
+</td>
+<td>
+<div style="text-align: justify;">All shortlisted applicants must attend a Selection Exercise, which comprises:</div>
+<div style="text-align: justify;">Sports Performance Task</div>
+<div style="text-align: justify;">All applicants should be in sports attire.</div>
+<div style="text-align: justify;">
+<ul>
+<li>For Badminton, please bring a</li>
+<li>badminton racket.</li>
+<li>For Basketball, be in proper sport shoes (preferably mid / high-cut basketball shoes).</li>
+<li>For Bowling, please bring your personal equipment for the trial (<strong>to be conducted at SuperBowl SAFRA Tampines</strong>).</li>
+</ul>
+</div>
+<p class="" style="text-align: justify;">&nbsp;</p>
+<div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.</div>
+</td>
+</tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
