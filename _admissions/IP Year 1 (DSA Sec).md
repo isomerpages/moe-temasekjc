@@ -229,6 +229,7 @@ description: ""
 					</ul>
 				</li>
 			</ul>
+			<p style="text-align: justify;">Please refer to MOE’s website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a>. <br>You are encouraged to read the Frequently Asked Questions (FAQs) provided on the website if you have further queries.</p>
     </div>
 	</li> 
 	  <li>
