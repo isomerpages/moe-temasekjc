@@ -3,6 +3,8 @@ title: Projects & Publications
 permalink: /research-at-eastzone/projects-n-publications/
 description: ""
 ---
+# EZ Research Monograph Vol VI, 2019 link broken
+
 # PROJECTS & PUBLICATIONS
 
 <p style="text-align: justify;">Our teachers, together with like-minded colleagues in the East Zone schools, are progressive, modelling lifelong learning for their students by themselves participating in educational research. The passion of the teaching fraternity sparked off and continues to fan a long-term commitment, evident in the many projects both past and present.</p>
