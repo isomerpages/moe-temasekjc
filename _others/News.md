@@ -4,3 +4,7 @@ permalink: /others/news/
 description: ""
 ---
 # NEWS
+
+|   |   |
+|:-:|---|
+|   |   |
