@@ -40,7 +40,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Chinese%20Orchestra%20thumbnail.jpg"  style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Tan Yi Jie</p><p><b>Email</b><br>tan_yi_jie@moe.edu.sg</p></td>
   </tr>
 </tbody>
