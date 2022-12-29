@@ -89,7 +89,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"></label>
+    <label for="accordion5">STUDENTS’ COUNCIL</label>
     <div>
 <table>
 <thead>
@@ -100,8 +100,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Students%20Council%20thumbnail.jpeg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
