@@ -2,8 +2,8 @@ collections:
   others:
     output: true
     order:
-      - News.md
       - Search.md
       - Sitemap.md
+      - News.md
       - FAQ.md
       - Privacy Statement.md
