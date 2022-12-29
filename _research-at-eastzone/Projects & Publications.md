@@ -20,3 +20,10 @@ description: ""
 <p style="text-align: justify;">This publication is a platform to support, recognise and value teacher’s research efforts. This compilation reflects the broad range of research activities undertaken by the East Zone teachers. We hope this publication will spark off and encourage more teachers to embark in this research journey.</p>
 
 <p style="text-align: justify;">The abstracts for the published Monographs are provided in the links below. For Monographs V and VI (2017 and 2019 publications), you need to login into OPAL to view them online. Please contact the Centre Administrator (Email: moe\_researchez@moe.edu.sg) if you are interested in borrowing these books.</p>
+
+*   [EZ Research Monograph Vol VI, 2019](https://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=10464&func=view)
+*   [EZ Research Monograph Vol V, 2017](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Projects%20&%20Publications/EZ%20Research%20Monograph%20Vol%20V%202017%20Abstract.pdf)
+*   [EZ Research Monograph Vol IV, 2015](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_IV.pdf)
+*   [EZ Research Monograph Vol III, 2013](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_III.pdf)
+*   [EZ Research Monograph Vol II, 2011](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_II.pdf)
+*   <a href="/files/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_I.pdf" target="_blank">EZ Research Monograph Vol I, 2009</a>
