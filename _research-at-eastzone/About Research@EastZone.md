@@ -33,6 +33,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+			<p style="text-align: justify;"><b>AIMS:</b><br>To provide support for our East Zone colleagues who are keen to leverage upon research to hone their craft of teaching in areas of curriculum design, pedagogy and assessment to enhance Teaching & Learning in their schools.</p>
     </div>
 	</li> 
   <li>
