@@ -43,9 +43,9 @@ description: ""
 				<li>Badminton, Basketball, Bowling, Floorball <b>(Boys)</b>, Football <b>(Boys)</b>, Netball <b>(Girls)</b>, Shooting, Taekwondo</li>
 					</ul>
 				</li>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Humanities Programme</li>
+				<li>Leadership</li>
+				<li>Music Elective Programme (MEP)</li>
 			</ul>
     </div>
 	</li> 
