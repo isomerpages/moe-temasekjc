@@ -28,9 +28,10 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">INTERNATIONAL STUDENTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">It is necessary that you sit for the J-PACT test and apply to our school with the J-PACT results. The J-PACT is for RS/IS who wish to study in Singapore and is a centrally administered test to assess the educational levels of students for admission purposes.  You are still required to sit for our school-based tests if you are shortlisted by us.</p>
+						<p style="text-align: justify;">Click on this <a href="http://www.pact.sg/" target="_blank">link</a> for more information.</p>
     </div>
 	</li> 
 	  <li>
