@@ -182,6 +182,10 @@ description: ""
 				<li><p style="text-align: justify;">Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p></li>
 			</ul>
 			<p><b>Candidates Not Studying in Mainstream Schools</b></p>
+						<ul>
+				<li><p style="text-align: justify;">Candidates (<i>Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)</i>) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to https://go.gov.sg/nmsdsa-sec-application.</p></li>
+				<li><p style="text-align: justify;">International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to https://www.moe.gov.sg/international-students/aeis/apply for details.</p></li>
+			</ul>
     </div>
 	</li> 
 	  <li>
