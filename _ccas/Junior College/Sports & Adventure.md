@@ -9,7 +9,7 @@ third_nav_title: Junior College
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <label for="accordion1">BADMINTON</label>
     <div>
 <table>
 <thead>
@@ -20,8 +20,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Badminton.png"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mrs Shirley Goh</p><p><b>Email</b><br>teo_yew_ing_shirley@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
