@@ -169,7 +169,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"></label>
+    <label for="accordion9">STRING ENSEMBLE</label>
     <div>
 <table>
 <thead>
@@ -180,8 +180,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/String%20Ensemble%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Miss Emmerlyn Ong</p><p><b>Email</b><br>ong_hui_ling_emmerlyn@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
