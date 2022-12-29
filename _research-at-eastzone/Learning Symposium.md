@@ -45,7 +45,7 @@ description: ""
 
 *   [Programme](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Overview.pdf)
 *   [Concurrent Session 1](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Concurrent_Session_1.pdf)
-*   [Concurrent Session 2](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/D110_COE_Attachment_EZLS2014_Concurrent_Session_2.pdf)
+*   <a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Concurrent_Session_2.pdf" target="_blank">Concurrent Session 2</a>
     </div>
 	</li> 
 	</ul>
