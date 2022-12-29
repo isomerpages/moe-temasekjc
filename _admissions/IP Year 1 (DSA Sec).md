@@ -167,7 +167,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-			<b><i>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</i></b>
+			<p style="text-align: justify;"><b><i>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</i></b></p>
     </div>
 	</li> 
   <li>
