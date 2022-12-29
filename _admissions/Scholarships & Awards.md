@@ -29,10 +29,11 @@ description: ""
 				<li><p style="text-align: justify;">Language Elective Scholarship (Chinese)</p></li>				
 				<li><p style="text-align: justify;">Music Elective Scholarship</p></li>
 				</ul>
-						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
+						<p style="text-align: justify;"><b>TJC Academic Excellence Scholarship (JC1)</b><br>A prestigious College-based award offered to outstanding students:</p>
 			<ul>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Students with L1R5 = 6 (raw)</p></li>
+				<li><p style="text-align: justify;">Singaporeans or Singapore Permanent Residents only</p></li>
+				<li><p style="text-align: justify;">Value of award: $2,400 and a place in the Talent Development Programme</p></li>
 				</ul>
 						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
 			<ul>
