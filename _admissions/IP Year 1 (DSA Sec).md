@@ -247,7 +247,7 @@ description: ""
 				      <li><p style="text-align: justify;"></p></li>
 			     </ul>
 				</li>
-				<li><p style="text-align: justify;">For any enquiries on the <b>DSA application</b>, please contact the TJC General Office at 6442 8066 during office hours or email: registrar@tjc.edu.sg</p></li>
+				<li><p style="text-align: justify;">For any enquiries on the <b>DSA application</b>, please contact the TJC General Office at 6442 8066 during office hours or email: <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a></p></li>
 			</ul>
     </div>
 	</li> 
