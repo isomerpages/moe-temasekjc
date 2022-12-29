@@ -191,7 +191,11 @@ description: ""
     <div>
 			<p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following:</p>
 			<ul>
-				<li></li>
+				<li><b>Performing Arts CCAs</b><br>Ms Serene Tan - <a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a></li>
+				<li><b></b><br><a href="mailto:"></a></li>
+				<li><b></b><br><a href="mailto:"></a></li>
+				<li><b></b><br><a href="mailto:"></a></li>
+				<li><b></b><br><a href="mailto:"></a></li>
 			</ul>
     </div>
 	</li> 
