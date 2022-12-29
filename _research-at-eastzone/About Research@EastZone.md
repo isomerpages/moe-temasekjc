@@ -69,7 +69,17 @@ description: ""
 				</li>
 			</ul>
 				</td>
-    <td><a href="http://www.aral.com.au/resources/arphome.html" target="_blank" rel="noopener noreferrer">AREOL (Action Research and Evaluation OnLine)</a><br><br><a href="https://jolt.merlot.org/" target="_blank" rel="noopener noreferrer">JOLT (Journal of Online Learning and Teaching)</a><br><a href="http://downloads.pearsonassessments.com/ati/index.html" target="_blank" rel="noopener noreferrer">ATI (Assessment Training Institute)</a></td>
+    <td>
+			<ul>
+			<li>
+				<a href="http://www.aral.com.au/resources/arphome.html" target="_blank" rel="noopener noreferrer">AREOL (Action Research and Evaluation OnLine)</a>
+				</li>
+					<li><a href="https://jolt.merlot.org/" target="_blank" rel="noopener noreferrer">JOLT (Journal of Online Learning and Teaching)</a>
+						</li>
+						<li><a href="http://downloads.pearsonassessments.com/ati/index.html" target="_blank" rel="noopener noreferrer">ATI (Assessment Training Institute)</a>
+							</li>
+			</ul>
+				</td>
   </tr>
 </tbody>
 </table>
