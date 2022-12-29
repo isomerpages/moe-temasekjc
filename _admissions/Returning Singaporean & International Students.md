@@ -58,7 +58,8 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">SELECTION PROCESS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"><u>Shortlisted applicants</u> will be notified to undergo selection test for English and Mathematics, and an interview. Only applicants who meet our selection criteria in the tests would be offered a place in our college for the next academic year, starting in January/February 2023, based on results of the test and available school vacancies after JAE.</p>
+			<p style="text-align: justify;"></p>
     </div>
 	</li> 
 	</ul>
