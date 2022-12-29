@@ -243,17 +243,12 @@ description: ""
 			<ul>
 				<li><p style="text-align: justify;">For any enquiries on the <b>respective talent areas</b>, please contact:</p>
 						<ul>
-				      <li><p style="text-align: justify;">Chinese Language: Ms Cai Jun Jun [<a href="mailto:cai_jun_jun@moe.edu.sg">cai_jun_jun@moe.edu.sg</a>]
-</p></li>
-				      <li><p style="text-align: justify;">English Language: Ms Caroline Sng [<a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a>]
-</p></li>
-						 <li><p style="text-align: justify;">Mathematics: Mr Jonathan Lau [<a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a>]
-</p></li>
-				      <li><p style="text-align: justify;">Science: Ms Lee Lin Hoon [<a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a>]
-</p></li>
-				      <li><p style="text-align: justify;">MEP: Ms Emmerlyn Ong [<a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a>] & Ms Serene Tan [<a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a>]
-</p></li>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
+				      <li><p style="text-align: justify;">Chinese Language: Ms Cai Jun Jun [<a href="mailto:cai_jun_jun@moe.edu.sg">cai_jun_jun@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">English Language: Ms Caroline Sng [<a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a>]</p></li>
+						 <li><p style="text-align: justify;">Mathematics: Mr Jonathan Lau [<a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">Science: Ms Lee Lin Hoon [<a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">MEP: Ms Emmerlyn Ong [<a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a>] & Ms Serene Tan [<a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">Concert Band: Mr Seah Cheng Tat [<a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a>]</p></li>
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>			
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
