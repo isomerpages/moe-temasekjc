@@ -27,7 +27,7 @@ description: ""
 			<ul>
 				<li><p style="text-align: justify;">Humanities Scholarship</p></li>
 				<li><p style="text-align: justify;">Language Elective Scholarship (Chinese)</p></li>				
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">Music Elective Scholarship</p></li>
 				</ul>
 						<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br></p>
 			<ul>
