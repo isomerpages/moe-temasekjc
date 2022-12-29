@@ -187,9 +187,12 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">PEERS IN ACTION</label>
+    <label for="accordion6">CONTACT US</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following:</p>
+			<ul>
+				<li></li>
+			</ul>
     </div>
 	</li> 
 	</ul>
