@@ -109,7 +109,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"></label>
+    <label for="accordion6">INDIAN CULTURAL SOCIETY</label>
     <div>
 <table>
 <thead>
@@ -120,8 +120,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Indian%20Cultural%20Society%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mrs Soodikkodutthal</p><p><b>Email</b><br>soodikkodutthal_ganesan@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
