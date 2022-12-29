@@ -69,7 +69,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"></label>
+    <label for="accordion4">DRAMA CLUB</label>
     <div>
 <table>
 <thead>
@@ -80,8 +80,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Drama%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Norzian Mohamed Yunos</p><p><b>Email</b><br>norzian_bt_mohd_yunos@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
