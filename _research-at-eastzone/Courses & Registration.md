@@ -25,4 +25,4 @@ More details and registration information will be coming soon!
 
   
 
-You can download the 2021 Calendar of Events [**here**]<a href="" target="_blank"></a>(https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Courses%20&%20Registration/ResearchEZ%20calendar%202021.pdf).
+You can download the 2021 Calendar of Events <a href="" target="_blank"><b>here</b></a>.
