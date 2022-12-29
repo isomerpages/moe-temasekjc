@@ -160,7 +160,7 @@ description: ""
 			<p style="text-align: justify;"> <b>1) Application Period</b><br>Application opens on <u>5 May 2022</u>, and closes on <b>Friday, 1 July 2022, (5.00 pm, Singapore time).</b></p>
 		<p style="text-align: justify;"> <b>2) Supporting Documents</b><br>Applicants should submit the following supporting documents:</p>
 			<ul>
-				<li></li>
+				<li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
 				<li></li>
 				<li></li>
 				<li><p style="text-align: justify;"> </p></li>
