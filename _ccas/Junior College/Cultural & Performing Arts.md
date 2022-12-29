@@ -49,7 +49,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"></label>
+    <label for="accordion3">CHOIR</label>
     <div>
 <table>
 <thead>
