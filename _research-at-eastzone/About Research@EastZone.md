@@ -55,28 +55,28 @@ description: ""
   <tr>
     <td>
 			<ul>
-			<li><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener noreferrer">AST (Academy of Singapore Teachers)</a>
+			<li><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank">AST (Academy of Singapore Teachers)</a>
 				</li>
-				<li><a href="https://www.alarassociation.org/" target="_blank" rel="noopener noreferrer">ALARA (Action Learning, Action Research Association)</a>
+				<li><a href="https://www.alarassociation.org/" target="_blank">ALARA (Action Learning, Action Research Association)</a>
 					</li>
 				<li>
-					<a href="https://www.walsnet.org/" target="_blank" rel="noopener noreferrer">WALS (World Association of Lesson Studies)</a>
+					<a href="https://www.walsnet.org/" target="_blank">WALS (World Association of Lesson Studies)</a>
 				</li>
 				<li>
-					<a href="https://www.tesol.org/" target="_blank" rel="noopener noreferrer">TESOL (Teachers of English to Speakers of Other Languages, Inc)</a>
+					<a href="https://www.tesol.org/" target="_blank">TESOL (Teachers of English to Speakers of Other Languages, Inc)</a>
 					</li>
-				<li><a href="https://www.researchconference.com.au/" target="_blank" rel="noopener noreferrer">ACER (Australian Council for Educational Research)</a>
+				<li><a href="https://www.researchconference.com.au/" target="_blank">ACER (Australian Council for Educational Research)</a>
 				</li>
 			</ul>
 				</td>
     <td>
 			<ul>
 			<li>
-				<a href="http://www.aral.com.au/resources/arphome.html" target="_blank" rel="noopener noreferrer">AREOL (Action Research and Evaluation OnLine)</a>
+				<a href="http://www.aral.com.au/resources/arphome.html" target="_blank">AREOL (Action Research and Evaluation OnLine)</a>
 				</li>
-					<li><a href="https://jolt.merlot.org/" target="_blank" rel="noopener noreferrer">JOLT (Journal of Online Learning and Teaching)</a>
+					<li><a href="https://jolt.merlot.org/" target="_blank">JOLT (Journal of Online Learning and Teaching)</a>
 						</li>
-						<li><a href="http://downloads.pearsonassessments.com/ati/index.html" target="_blank" rel="noopener noreferrer">ATI (Assessment Training Institute)</a>
+						<li><a href="http://downloads.pearsonassessments.com/ati/index.html" target="_blank">ATI (Assessment Training Institute)</a>
 							</li>
 			</ul>
 				</td>
