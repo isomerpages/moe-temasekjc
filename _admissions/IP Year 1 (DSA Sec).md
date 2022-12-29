@@ -251,7 +251,8 @@ description: ""
 </p></li>
 				      <li><p style="text-align: justify;">Science: Ms Lee Lin Hoon [<a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a>]
 </p></li>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
+				      <li><p style="text-align: justify;">MEP: Ms Emmerlyn Ong [<a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a>] & Ms Serene Tan [<a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a>]
+</p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>			
