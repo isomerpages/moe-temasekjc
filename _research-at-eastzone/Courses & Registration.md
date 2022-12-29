@@ -25,4 +25,4 @@ More details and registration information will be coming soon!
 
   
 
-You can download the 2021 Calendar of Events <a href="" target="_blank"><b>here</b></a>.
+You can download the 2021 Calendar of Events <a href="/files/Research@EastZone/ResearchEZ%20calendar%202021.pdf" target="_blank"><b>here</b></a>.
