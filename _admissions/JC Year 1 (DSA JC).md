@@ -98,7 +98,7 @@ description: ""
 <li>We value students with experience and achievements in humanities-based competitions, such as the MOE History Challenge, NUS Geography Challenge, MUNs, Commonwealth Essay Writing Competition, National Schools Literature Festival.</li>
 <li>We also value experience in MOE&rsquo;s secondary school Talent Development Programmes (TDP) such as the Geography/History TDP, and MOE&rsquo;s Creative Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE&rsquo;s Humanities and Social Science Research Programmes) are also highly valued.</li>
 <li>Applicants should be well read on national and global issues and have a strong personal voice.</li>
-<li>More details of the Temasek Humanities Programme can be found&nbsp;<strong><a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme">here</a></strong>.</li>
+<li>More details of the Temasek Humanities Programme can be found&nbsp;<strong><a href="/academic/special-programmes/temasek-humanities-programme">here</a></strong>.</li>
 </ul>
 </td>
 <td>
