@@ -129,7 +129,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"></label>
+    <label for="accordion7">MALAY CULTURAL CLUB</label>
     <div>
 <table>
 <thead>
@@ -140,8 +140,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/MCS.png"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Elina Abdul Rashid</p><p><b>Email</b><br>elina_abdul_rashid@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
