@@ -240,7 +240,15 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">ENQUIRIES</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<ul>
+				<li><p style="text-align: justify;"></p>
+						<ul>
+				      <li><p style="text-align: justify;"></p></li>
+				      <li><p style="text-align: justify;"></p></li>
+			     </ul>
+				</li>
+				<li><p style="text-align: justify;"></p></li>
+			</ul>
     </div>
 	</li> 
 	</ul>
