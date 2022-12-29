@@ -49,7 +49,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"></label>
+    <label for="accordion3">BOWLING</label>
     <div>
 <table>
 <thead>
@@ -60,8 +60,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Bowling%20Thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Kevin Ng</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
