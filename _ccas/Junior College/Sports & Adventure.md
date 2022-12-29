@@ -209,7 +209,7 @@ third_nav_title: Junior College
 	</li> 
 		  <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"></label>
+    <label for="accordion11">TAEKWONDO</label>
     <div>
 <table>
 <thead>
@@ -220,8 +220,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Taekwondo%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Francis Lee</p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
