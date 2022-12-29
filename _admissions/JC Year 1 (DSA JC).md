@@ -29,9 +29,10 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">PEERS IN ACTION</label>
+    <label for="accordion3">ADMISSION CRITERIA</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">For more information on the eligibility criteria for DSA-JC, please refer to this <a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B" target="_blank">link</a>. You can apply through the following DSA domains:
+</p>
     </div>
 	</li> 
 	  <li>
