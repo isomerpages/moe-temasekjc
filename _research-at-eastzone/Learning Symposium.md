@@ -26,7 +26,7 @@ description: ""
     <label for="accordion2">PAST EAST ZONE LEARNING SYMPOSIUMS</label>
     <div>
 			<p style="text-align: justify;">The programme overview and synopses of past symposiums can be found through the links below.</p>
-			<p><b>EAST ZONE LEARNING SYMPOSIUM 2018</b><br><ul><li><a href="/files/Research@EastZone/Learning%20Symposium/EZ_LearningSymposium2018_Information.pdf" target="_blank">Programme & Concurrent Sessions</a></li></ul> </p>
+			<p><b>EAST ZONE LEARNING SYMPOSIUM 2018</b> </p><ul><li><a href="/files/Research@EastZone/Learning%20Symposium/EZ_LearningSymposium2018_Information.pdf" target="_blank">Programme & Concurrent Sessions</a></li></ul>
 			<p><b>EAST ZONE LEARNING SYMPOSIUM 2016</b><br><ul><li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Overview.pdf" target="_blank">Programme</a></li></ul> </p>
 
 *   []
