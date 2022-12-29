@@ -21,7 +21,7 @@ description: ""
 
 <p style="text-align: justify;">This publication is a platform to support, recognise and value teacher’s research efforts. This compilation reflects the broad range of research activities undertaken by the East Zone teachers. We hope this publication will spark off and encourage more teachers to embark in this research journey.</p>
 
-<p style="text-align: justify;">The abstracts for the published Monographs are provided in the links below. For Monographs V and VI (2017 and 2019 publications), you need to login into OPAL to view them online. Please contact the Centre Administrator (Email: moe\_researchez@moe.edu.sg) if you are interested in borrowing these books.</p>
+<p style="text-align: justify;">The abstracts for the published Monographs are provided in the links below. For Monographs V and VI (2017 and 2019 publications), you need to login into OPAL to view them online. Please contact the Centre Administrator (Email: moe_researchez@moe.edu.sg) if you are interested in borrowing these books.</p>
 
 *   <a href="https://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=10464&func=view" target="_blank">EZ Research Monograph Vol VI, 2019</a>
 *   <a href="/files/Research@EastZone/Projects%20&%20Publications/EZ%20Research%20Monograph%20Vol%20V%202017%20Abstract.pdf" target="_blank">EZ Research Monograph Vol V, 2017</a>   
