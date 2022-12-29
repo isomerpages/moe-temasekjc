@@ -241,13 +241,13 @@ description: ""
     <label for="accordion4">ENQUIRIES</label>
     <div>
 			<ul>
-				<li><p style="text-align: justify;"></p>
+				<li><p style="text-align: justify;">For any enquiries on the <b>respective talent areas</b>, please contact:</p>
 						<ul>
 				      <li><p style="text-align: justify;"></p></li>
 				      <li><p style="text-align: justify;"></p></li>
 			     </ul>
 				</li>
-				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;">For any enquiries on the <b>DSA application</b>, please contact the TJC General Office at 6442 8066 during office hours or email: registrar@tjc.edu.sg</p></li>
 			</ul>
     </div>
 	</li> 
