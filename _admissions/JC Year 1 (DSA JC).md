@@ -198,6 +198,7 @@ description: ""
 <a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a></li>
 				<li><b>Music Elective Programme</b><br>Dr Gary Laycock - <a href="mailto:laycock_eng_yeow_gary@moe.edu.sg">laycock_eng_yeow_gary@moe.edu.sg</a></li>
 			</ul>
-    </div>
+			<p style="text-align: justify;">If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at 64428066 during office hours or email: <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a></p>
+			</div>
 	</li> 
 	</ul>
