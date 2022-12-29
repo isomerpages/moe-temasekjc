@@ -200,7 +200,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Symphonic%20Band%20thumbnail.jpg"  style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
   </tr>
 </tbody>
