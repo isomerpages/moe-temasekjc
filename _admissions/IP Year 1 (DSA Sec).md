@@ -47,6 +47,39 @@ description: ""
 </table>
 			<p style="text-align: justify;"><b>Music Elective Programme</b><br>We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP).</p>
 			<p style="text-align: justify;">Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme.</p>
+			<table>
+<tbody>
+<tr>
+<th style="text-align: center;">TALENT AREA</th>
+<th style="text-align: center;">SELECTION CRITERIA</th>
+<th style="text-align: center;">SELECTION PROCESS</th>
+</tr>
+<tr>
+<td style="text-align: center;">Music Elective Programme (MEP)</td>
+<td>
+<ul>
+<li>Selection is based on students&rsquo; knowledge of musical concepts and skills covered in the primary school Music syllabus.</li>
+<li>Students need to be competent in performance skills that can be developed through music CCAs or through other musical experiences (for example, display basic fluency and sound fundamental techniques).</li>
+</ul>
+</td>
+<td>
+<p style="text-align: justify;">All shortlisted applicants for MEP must go through a&nbsp;<strong>Selection Exercise</strong>, which comprises:</p>
+<ul style="text-align: justify;">
+<li>A written listening test</li>
+<li>An audition, which also consists of aural tests and a short interview</li>
+</ul>
+<p style="text-align: justify;">For the audition, applicants are to prepare:</p>
+<ol style="text-align: justify;">
+<li>Two contrasting pieces on the instrument(s) of their choice or voice, with a duration of 5 minutes in total.</li>
+<li>Students may also submit their scores or recordings if they have composed music.</li>
+</ol>
+<p style="text-align: justify;">Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) before the audition, via email, to:</p>
+<p style="text-align: justify;">Mr Seah Cheng Tat (<strong><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></strong>) and<br />Ms Emmerlyn Ong (<strong><a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a></strong>)</p>
+<p style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
     </div>
 	</li> 
