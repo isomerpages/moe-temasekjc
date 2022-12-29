@@ -3,6 +3,7 @@ title: News
 permalink: /others/news/
 description: ""
 ---
+# College Anthem video is private, #TJTogether 2020 link is broken
 # NEWS
 
 <table>
