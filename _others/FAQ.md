@@ -22,16 +22,14 @@ Our L1R5 cut-off for the 2020 intake is as follows: 
 
 Yes, Temasek Junior College is involved in the Direct School Admission (DSA) to secondary schools and Junior Colleges.  
 
-For **DSA-Sec** to our Integrated Programme, please visit **[this page](https://www.temasekjc.moe.edu.sg/admissions/pri-6-students-dsa-sec)** for more information. 
+For **DSA-Sec** to our Integrated Programme, please visit **[this page](/admissions/ip-year-1-dsa-sec)** for more information. 
 
-For **DSA-JC** to JC1, please visit **[this page](https://www.temasekjc.moe.edu.sg/admissions/sec-4-students-dsa-jc)** for more information.   
+For **DSA-JC** to JC1, please visit **[this page](/admissions/jc-year-1-dsa-jc)** for more information.   
   
 
-#### Does Temasek Junior College offer Scholarships and Awards to students? 
+**Does Temasek Junior College offer Scholarships and Awards to students?**
 
-  
-
-Yes, we do offer various Scholarships and Awards to many outstanding students. For more information, please visit the **[Scholarships and Awards page](https://www.temasekjc.moe.edu.sg/admissions/scholarships-and-awards)**. Many of our students often continue to receive prestigious scholarships from Public Service Commission (PSC), the various Government Ministries, A\*STAR as well as local universities after they graduate. 
+Yes, we do offer various Scholarships and Awards to many outstanding students. For more information, please visit the **[Scholarships and Awards page](/admissions/scholarships-n-awards)**. Many of our students often continue to receive prestigious scholarships from Public Service Commission (PSC), the various Government Ministries, A\*STAR as well as local universities after they graduate. 
 
   
 
