@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - IP Year 3.md
       - IP Year 1 (DSA Sec).md
       - IP Year 1 Registration & Appeals (2023 Intake).md
