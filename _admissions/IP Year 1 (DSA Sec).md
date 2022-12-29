@@ -181,6 +181,7 @@ description: ""
 				<li><p style="text-align: justify;">Each choice consists of a secondary school and a talent area offered by that secondary school.</p></li>
 				<li><p style="text-align: justify;">Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p></li>
 			</ul>
+			<p><b>Candidates Not Studying in Mainstream Schools</b></p>
     </div>
 	</li> 
 	  <li>
