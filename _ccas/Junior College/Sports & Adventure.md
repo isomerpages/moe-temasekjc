@@ -89,7 +89,7 @@ third_nav_title: Junior College
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"></label>
+    <label for="accordion5">FOOTBALL (BOYS)</label>
     <div>
 <table>
 <thead>
@@ -100,8 +100,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src=""  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br></p><p><b>Email</b><br></p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Football%20thumbnail.jpg"  style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Francis Tong</p><p><b>Email</b><br>tong_chee_beng_francis@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
