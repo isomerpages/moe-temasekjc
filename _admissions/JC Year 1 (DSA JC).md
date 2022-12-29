@@ -162,7 +162,7 @@ description: ""
 			<ul>
 				<li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
 				<li><b>Sec 4</b> academic results slips (Till the latest available; including CA/WA)</li>
-				<li>Sec 1 to Sec 4 CCA records (Till the latest available)</li>
+				<li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li>
 				<li><p style="text-align: justify;"> Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)</p></li>
 			</ul>
 			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b></p>
