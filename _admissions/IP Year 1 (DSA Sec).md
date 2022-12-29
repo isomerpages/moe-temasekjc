@@ -219,8 +219,8 @@ description: ""
 			<p style="text-align: justify;"><b> Points to note:</b><br></p>
 			<ul>
 				<li><p style="text-align: justify;">The General Ability Test (GAT) is no longer used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</p></li>
-				<li><p style="text-align: justify;">Successful DSA-Sec students are NOT allowed to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p></li>
-				<li><p style="text-align: justify;">Successful DSA-Sec students are NOT allowed to transfer to another school after the release of the PSLE results. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme, and participate in the activities related to the talent they are selected for from year 1-4.</p></li>
+				<li><p style="text-align: justify;">Successful DSA-Sec students are <b><u>NOT</u></b> allowed to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p></li>
+				<li><p style="text-align: justify;">Successful DSA-Sec students are <b><u>NOT</u></b> allowed to transfer to another school after the release of the PSLE results. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme, and participate in the activities related to the talent they are selected for from year 1-4.</p></li>
 				<li>	
 					<p style="text-align: justify;">The College</p>
 					<ul>
