@@ -155,9 +155,12 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">PEERS IN ACTION</label>
+    <label for="accordion4">APPLICATION PROCESS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"> <b>1) Application Period</b></p>
+		<p style="text-align: justify;"> <b>2) Supporting Documents</b></p>
+			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b></p>
+			<p style="text-align: justify;"> <b>4) Outcome of Application</b></p>
     </div>
 	</li> 
 	  <li>
