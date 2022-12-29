@@ -18,9 +18,9 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PEERS IN ACTION</label>
+    <label for="accordion2">ONLINE APPEALS APPLICATION</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;">The appeals application for the 2023 intake has now been closed. </p>
     </div>
 	</li> 
 	</ul>
