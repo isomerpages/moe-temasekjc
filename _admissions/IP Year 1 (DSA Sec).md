@@ -190,9 +190,9 @@ description: ""
 				<ul>
 				<li><p style="text-align: justify;">The selection tests/auditions/trials/interviews will be held from <u>27 June to 12 August 2022.</u></p></li>
 				<li><p style="text-align: justify;">All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u></p></li>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>
-				<li><p style="text-align: justify;"></p></li>	
+				<li><p style="text-align: justify;">Only shortlisted applicants will be notified via email and/or SMS for a selection test/audition/trial.</p></li>
+				<li><p style="text-align: justify;">Applicants who are further shortlisted after these selection tests will be invited to attend an interview in July 2022.</p></li>
+				<li><p style="text-align: justify;">You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p></li>	
 			</ul>
     </div>
 	</li> 
