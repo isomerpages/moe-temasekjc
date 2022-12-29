@@ -138,7 +138,10 @@ description: ""
 </ul>
 </div>
 <p class="" style="text-align: justify;">&nbsp;</p>
-<div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.</div>
+<div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.
+	<p style="text-align: justify;"><b>Leadership</b><br>TJC nurtures the leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond.</p>
+	<p style="text-align: justify;">Students who enrol through DSA-Leadership will be guided by tutor mentors to develop their leadership skills. They will also be developed through suitable leadership opportunities.</p>
+	</div>
 </td>
 </tr>
 </tbody>
