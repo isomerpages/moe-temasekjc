@@ -74,7 +74,7 @@ description: ""
 <li>Students may also submit their scores or recordings if they have composed music.</li>
 </ol>
 <p style="text-align: justify;">Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) before the audition, via email, to:</p>
-<p style="text-align: justify;">Mr Seah Cheng Tat (<strong><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></strong>) and<br />Ms Emmerlyn Ong (<strong><a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a></strong>)</p>
+<p style="text-align: justify;">Mr Seah Cheng Tat (<strong><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></strong>) and<br>Ms Emmerlyn Ong (<strong><a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a></strong>)</p>
 <p style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.</p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ description: ""
 <li>Applicants are to submit relevant documents of school-based and non-school-based achievements before the audition, via email, to:</li>
 </ul>
 <div>Mr Seah Cheng Tat (<a href="mailto:seah_cheng_tat@moe.edu.sg" target="">seah_cheng_tat@moe.edu.sg</a>) and<br />Ms Rebecca Wu (<a href="mailto:wu_xiuyun_rebecca@moe.edu.sg" target="">wu_xiuyun_rebecca@moe.edu.sg</a>)</div>
-<div style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.&nbsp;</div>
+<p style="text-align: justify;">Applicants who are further shortlisted will attend an&nbsp;<strong>interview</strong>.</p>
 </td>
 </tr>
 </tbody>
