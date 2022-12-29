@@ -251,8 +251,8 @@ description: ""
 				      <li><p style="text-align: justify;">Concert Band: Mr Seah Cheng Tat [<a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a>]</p></li>
 						 <li><p style="text-align: justify;">Badminton: Mrs Shirley Goh [<a href="mailto:teo_yew_ing_shirley@moe.edu.sg">teo_yew_ing_shirley@moe.edu.sg</a>]</p></li>
 				      <li><p style="text-align: justify;">Basketball: Mr Lee Chun Hsien [<a href="mailto:lee_chun-hsien@moe.edu.sg">lee_chun-hsien@moe.edu.sg</a>]</p></li>			
-						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>				
+						 <li><p style="text-align: justify;">Bowling: Mr Kevin Ng [<a href="mailto:ng_yon_tek_kevin@moe.edu.sg">ng_yon_tek_kevin@moe.edu.sg</a>]</p></li>
+				      <li><p style="text-align: justify;">Leadership: Mr Tan Teck Joo [<a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a>]</p></li>				
 			     </ul>
 				</li>
 				<li><p style="text-align: justify;">For any enquiries on the <b>DSA application</b>, please contact the TJC General Office at 6442 8066 during office hours or email: <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a></p></li>
