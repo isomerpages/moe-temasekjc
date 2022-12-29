@@ -4,3 +4,11 @@ permalink: /admissions/jc-year-1-dsa-jc/
 description: ""
 ---
 # JC YEAR 1 (DSA-JC)
+
+**APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2023)**
+
+<p style="text-align: justify;">The application for the DSA-JC Exercise (2022) will commence from <b>05 May 2022 to 01 July 2022 (5:00 pm, Singapore time)</b>.</p>
+
+  
+
+If you are sitting for the GCE O-Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.
