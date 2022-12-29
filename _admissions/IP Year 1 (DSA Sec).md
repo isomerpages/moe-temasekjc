@@ -186,6 +186,14 @@ description: ""
 				<li><p style="text-align: justify;">Candidates (<i>Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)</i>) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to <a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p></li>
 				<li><p style="text-align: justify;">International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" target="_blank">https://www.moe.gov.sg/international-students/aeis/apply</a> for details.</p></li>
 			</ul>
+			<p><b>Dates for Selection Tests/Auditions/Trials/Interviews:</b></p>
+				<ul>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>
+				<li><p style="text-align: justify;"></p></li>	
+			</ul>
     </div>
 	</li> 
 	  <li>
