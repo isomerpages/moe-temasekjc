@@ -21,7 +21,7 @@ description: ""
 
 <p style="text-align: justify;">The abstracts for the published Monographs are provided in the links below. For Monographs V and VI (2017 and 2019 publications), you need to login into OPAL to view them online. Please contact the Centre Administrator (Email: moe\_researchez@moe.edu.sg) if you are interested in borrowing these books.</p>
 
-*   [EZ Research Monograph Vol VI, 2019](https://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=10464&func=view)
+*   <a href="https://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=10464&func=view" target="_blank">EZ Research Monograph Vol VI, 2019</a>
 *   <a href="/files/Research@EastZone/Projects%20&%20Publications/EZ%20Research%20Monograph%20Vol%20V%202017%20Abstract.pdf" target="_blank">EZ Research Monograph Vol V, 2017</a>   
 *   <a href="/files/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_IV.pdf" target="_blank">EZ Research Monograph Vol IV, 2015</a>   
 *   <a href="/files/Research@EastZone/Projects%20&%20Publications/D112_COE_Attachment_EZ_Monograph_Vol_III.pdf" target="_blank">EZ Research Monograph Vol III, 2013</a>
