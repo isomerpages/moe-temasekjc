@@ -208,7 +208,7 @@ description: ""
 					</ul>
 					</li>
 			</ul>
-			<b>Outcome of Application</b>
+			<p><b>Outcome of Application</b></p>
 			<p style="text-align: justify;">All applicants will be notified of the outcome of their application via email by <b>12 September 2022</b>.</p>
     </div>
 	</li> 
