@@ -157,7 +157,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">APPLICATION PROCESS</label>
     <div>
-			<p style="text-align: justify;"> <b>1) Application Period</b></p>
+			<p style="text-align: justify;"> <b>1) Application Period</b><br>Application opens on <u>5 May 2022</u>, and closes on <b>Friday, 1 July 2022, (5.00 pm, Singapore time).</b></p>
 		<p style="text-align: justify;"> <b>2) Supporting Documents</b></p>
 			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b></p>
 			<p style="text-align: justify;"> <b>4) Outcome of Application</b></p>
