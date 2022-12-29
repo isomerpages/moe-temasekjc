@@ -3,7 +3,7 @@ title: About Research@EastZone
 permalink: /research-at-eastzone/about-research-at-eastzone/
 description: ""
 ---
-# links broken: book list in "calendar of events", 
+# links broken: book list in "calendar of events", ACER (Australian Council for Educational Research)
 # ABOUT RESEARCH@EASTZONE
 
 <p style="text-align: justify;">In Temasek Junior College, our students are at the heart of all we do. This is the primary motivation for our teachers to innovate and continue to improve in Teaching and Learning, with support of educational research. Bearing testimony to this enterprising spirit of the College and the commitment and dedication of staff members, the College was earmarked as the East Zone Centre of Excellence for Research in 2008, enabling fellow teachers to enhance their teaching through educational research.  </p>
