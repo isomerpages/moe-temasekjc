@@ -174,7 +174,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">APPLICATION PROCESS</label>
     <div>
-			<p style="text-align: justify;"> The Application Period is from 5 May 2022, 11 am to 1 Jun 2022, 3 pm.<br>For more details, please refer to: <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a></p>
+			<p style="text-align: justify;"> <b>The Application Period is from 5 May 2022, 11 am to 1 Jun 2022, 3 pm.</b><br>For more details, please refer to: <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a></p>
     </div>
 	</li> 
 	  <li>
