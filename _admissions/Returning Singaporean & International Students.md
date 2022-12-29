@@ -18,10 +18,10 @@ description: ""
     <div>
 			<ul>
 				<li>
-			<p style="text-align: justify;">You are strongly encouraged to apply under MOE SPERS-JC/MI, a centralised placement exercise for Returning Singaporeans - Junior Colleges/Millennia Institute, conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year. Registration for SPERS-JC/MI opens in July each year.<br>  Click on this link for more information.</p>
+			<p style="text-align: justify;">You are strongly encouraged to apply under MOE SPERS-JC/MI, a centralised placement exercise for Returning Singaporeans - Junior Colleges/Millennia Institute, conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year. Registration for SPERS-JC/MI opens in July each year.<br>  Click on this <a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers" target="_blank">link</a> for more information.</p>
 				</li>
 				<li>
-			<p style="text-align: justify;">If you are not participating in the MOE SPERS-JC/MI, it is recommended that you sit for the J-PACT test and apply to our school with the J-PACT result. You are still required to sit for our school-based tests if you are shortlisted by us.<br>  Click on this link for more information.</p>
+			<p style="text-align: justify;">If you are not participating in the MOE SPERS-JC/MI, it is recommended that you sit for the J-PACT test and apply to our school with the J-PACT result. You are still required to sit for our school-based tests if you are shortlisted by us.<br>  Click on this <a href="http://www.pact.sg/" target="_blank">link</a> for more information.</p>
 				</li>
 			</ul>
     </div>
