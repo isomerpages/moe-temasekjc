@@ -10,7 +10,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">ONLINE REGISTRATION EXERCISE</label>
     <div>
-			<p style="text-align: justify;">Students who have been posted to TJC IP in the S1 Posting Exercise must complete the Online Registration Exercise via https://go.gov.sg/tjc-ip1registration-2023 by 5.00pm, 22 December 2022. Please click on the documents below to read instructions on how to complete the registration exercise, as well as important information about TJC IP.</p>
+			<p style="text-align: justify;">Students who have been posted to TJC IP in the S1 Posting Exercise must complete the Online Registration Exercise via <a href="https://go.gov.sg/tjc-ip1registration-2023">https://go.gov.sg/tjc-ip1registration-2023</a> by 5.00pm, 22 December 2022. Please click on the documents below to read instructions on how to complete the registration exercise, as well as important information about TJC IP.</p>
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
 			<p style="text-align: justify;"><b>ADHOC COMMITTEE</b><br>This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
 			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
