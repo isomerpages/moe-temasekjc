@@ -80,7 +80,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;"><b>INTEREST GROUP</b><br>Parents in this committee are welcome to initiate activities for both parents or parent and child. These can include bonding activities, interest groups like gardening etc.</p>
+			<p style="text-align: justify;"><b>Performing Arts - Concert Band</b><br>We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.</p>
+			<p style="text-align: justify;">Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.</p>
     </div>
 	</li> 
   <li>
