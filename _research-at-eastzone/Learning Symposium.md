@@ -33,15 +33,12 @@ description: ""
 			 <li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Concurrent_Session_1.pdf" target="_blank">Concurrent Session 1</a></li>
 				<li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2016_Concurrent_Session_2.pdf" target="_blank">Concurrent Session 2</a></li>
 			</ul> 
-
-  
-
-**EAST ZONE LEARNING SYMPOSIUM 2014  
-**
-
-*   []			<a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Overview.pdf" target="_blank">Programme</a>(https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Research@EastZone/Learning%20Symposium/EAST%20ZONE%20LEARNING%20SYMPOSIUM%202014/)
-*   [			<a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Concurrent_Session_1.pdf" target="_blank">Concurrent Session 1</a>
-*   <a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Concurrent_Session_2.pdf" target="_blank">Concurrent Session 2</a>
+			<p><b>EAST ZONE LEARNING SYMPOSIUM 2014</b></p>
+			<ul>
+				<li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Overview.pdf" target="_blank">Programme</a></li>
+			 <li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Concurrent_Session_1.pdf" target="_blank">Concurrent Session 1</a></li>
+				<li><a href="/files/Research@EastZone/Learning%20Symposium/D110_COE_Attachment_EZLS2014_Concurrent_Session_2.pdf" target="_blank">Concurrent Session 2</a></li>
+			</ul> 
     </div>
 	</li> 
 	</ul>
