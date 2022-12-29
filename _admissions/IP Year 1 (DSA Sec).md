@@ -249,7 +249,8 @@ description: ""
 </p></li>
 						 <li><p style="text-align: justify;">Mathematics: Mr Jonathan Lau [<a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a>]
 </p></li>
-				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
+				      <li><p style="text-align: justify;">Science: Ms Lee Lin Hoon [<a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a>]
+</p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 				      <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
 						 <li><p style="text-align: justify;"><a href="mailto:"></a></p></li>
