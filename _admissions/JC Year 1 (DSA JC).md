@@ -167,7 +167,7 @@ description: ""
 			</ul>
 			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b><br>Shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions / selection tests between <b>23 May and 16 July 2022</b>.</p>
 			<p style="text-align: justify;"> <b>4) Outcome of Application</b>All applicants will be notified of the outcome of their application via e-mail by <b>16 August 2022.</b></p>
-			<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/" target="_blank">here</a> to apply.</p>
+			<p style="text-align: justify;"><b>Please click <a href="https://dsa.tjc.edu.sg/" target="_blank">here</a> to apply.</b></p>
     </div>
 	</li> 
 	  <li>
