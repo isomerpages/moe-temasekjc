@@ -110,6 +110,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+			<p style="text-align: justify;"><b>Sports</b><br>We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.  </p>
+			<p style="text-align: justify;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal level and international exposure where appropriate.</p>
     </div>
 	</li> 
   <li>
