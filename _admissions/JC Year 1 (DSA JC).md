@@ -172,9 +172,9 @@ description: ""
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">PEERS IN ACTION</label>
+    <label for="accordion5">IMPORTANT POINTS</label>
     <div>
-			<p style="text-align: justify;"> UPLOAD PHOTO SLIDE TO GOOGLE SLIDES</p>
+			<p style="text-align: justify;"><b><i> As part of MOE’s initiative to provide high quality infrastructure for JCs and meet future needs, plans are underway for the existing TJC campus to be rebuilt. The new building will facilitate collaborative and interactive learning and support the educational needs of our students in the future. TJC will move temporarily to the former Tampines JC site (2 Tampines Avenue 9, Singapore 529564) in January 2024 and we will be there until December 2027 while our current campus in Bedok is being rebuilt. Staff and students can look forward to moving back to our rebuilt campus in January 2028. The school will ensure that the transition between campuses will be as seamless as possible as we continue providing a top-quality learning experience for all our students.</b></i></p>
     </div>
 	</li> 
 	  <li>
