@@ -38,9 +38,9 @@ description: ""
 				<li>Chinese Orchestra, Choir, English Drama, Modern Dance, String Ensemble, Concert Band</li>
 					</ul>
 				</li>
-				<li>
+				<li>CCA – Sports
 					<ul>
-				<li></li>
+				<li>Badminton, Basketball, Bowling, Floorball <b>(Boys)</b>, Football <b>(Boys)</b>, Netball <b>(Girls)</b>, Shooting, Taekwondo</li>
 					</ul>
 				</li>
 				<li></li>
