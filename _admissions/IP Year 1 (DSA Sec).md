@@ -146,6 +146,28 @@ description: ""
 </table>
 				<p style="text-align: justify;"><b>Leadership</b><br>TJC nurtures the leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond.</p>
 	<p style="text-align: justify;">Students who enrol through DSA-Leadership will be guided by tutor mentors to develop their leadership skills. They will also be developed through suitable leadership opportunities.</p>
+			<table>
+<tbody>
+<tr>
+<th style="text-align: center;">TALENT AREA</th>
+<th style="text-align: center;">SELECTION CRITERIA</th>
+<th style="text-align: center;">SELECTION PROCESS</th>
+</tr>
+<tr>
+<td style="text-align: center;">Leadership</td>
+<td>
+<div>
+<ul>
+<li>Key leadership positions in primary school (Executive Committee member in the Prefectorial Board or equivalent)&nbsp;<strong>OR&nbsp;</strong>have led projects that have impacted the community&nbsp;</li>
+<li>Applicants should indicate non-school-based achievements in their online application in MOE&rsquo;s DSA portal</li>
+</ul>
+</div>
+</td>
+<td style="text-align: justify;">Applicants who are further shortlisted will attend an interview.</td>
+</tr>
+</tbody>
+</table>
+			<b><i>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</i></b>
     </div>
 	</li> 
   <li>
