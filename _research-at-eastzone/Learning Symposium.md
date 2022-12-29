@@ -25,7 +25,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PAST EAST ZONE LEARNING SYMPOSIUMS</label>
     <div>
-
+			<p style="text-align: justify;">The programme overview and synopses of past symposiums can be found through the links below.</p>
     </div>
 	</li> 
 	</ul>
