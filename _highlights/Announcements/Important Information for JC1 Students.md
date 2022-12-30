@@ -28,9 +28,10 @@ third_nav_title: Announcements
 	</li>
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"></label>
+    <label for="accordion3">PURCHASE OF SCHOOL UNIFORMS</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">Purchase of school uniforms will be scheduled on the following times/dates: 8 Feb 9am to 2pm, 9 Feb 2pm to 6pm, 10 Feb 2pm to 6pm.</p>
+			<p style="text-align: justify;">A sum of $140 will be more than sufficient per student.</p>
     </div>
 	</li> 
 	  <li>
