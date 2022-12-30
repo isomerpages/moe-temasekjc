@@ -2,6 +2,7 @@ collections:
   tjc:
     output: true
     order:
+      - Alumni.md
       - Students.md
       - Staff.md
       - Parents.md
