@@ -2,8 +2,8 @@ collections:
   highlights:
     output: true
     order:
-      - Announcements/.keep
-      - Stories/.keep
       - Archive.md
+      - Announcements/.keep
       - Events/.keep
       - Events/IP Admissions Talk (For 2023 Intake).md
+      - Stories/.keep
