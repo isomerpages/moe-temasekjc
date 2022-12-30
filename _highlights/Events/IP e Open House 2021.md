@@ -4,7 +4,13 @@ permalink: /highlights/archive/events/ip-e-open-house-2021/
 description: ""
 third_nav_title: Events
 ---
+#  e-open house microsite link broken. 
+
+# Youtube video embedding error
+
 # IP E-OPEN HOUSE 2021
+
+![](/images/Archive/Events/IP%20e-Open%20House%202021.jpg)
 
 <p style="text-align: justify;">Come join the TJC Integrated Programme, and be part of a legacy of successful and highly motivated all-rounders! Our IP students have consistently excelled in both academic and non-academic areas, and many have gone on to prestigious universities and carved out highly successful careers.</p>  
 
