@@ -15,7 +15,7 @@ description: ""
 
 |   |   |
 |---|---|
-|  <br>Last update: 21 Dec 2022, 08:27am<br><br><a href="/images/Others/Banner%20Carousel/e78c27f91_774.png" target = "_blank"> <img src="/images/Others/Banner%20Carousel/e78c27f91_774.png" style="width:50%"></a>		 |  **Display Period** <br>Permanently <br><br><a href="https://www.memoriesoftj.com/" target="_blank">[click for more]</a>  |
+|  <a href="https://www.memoriesoftj.com/" target="_blank">Heritage Website</a><br>Last update: 21 Dec 2022, 08:27am<br><br><a href="/images/Others/Banner%20Carousel/d009f504b_695.png" target = "_blank"> <img src="/images/Others/Banner%20Carousel/d009f504b_695.png" style="width:50%"></a>		 |  **Display Period** <br>Permanently <br><br><a href="https://www.memoriesoftj.com/" target="_blank">[click for more]</a>  |
 
 |   |   |
 |---|---|
