@@ -22,8 +22,8 @@ third_nav_title: Events
 </thead>
 <tbody>
   <tr>
-		<td style="text-align: center;"><b>Sharing by Liow Xuan Rong, an IP Year 4 student</b></td>
-    <td style="text-align: center;"><b>Sharing by Ms Gayatri Bhat, parent of Anand Srinivasan (IP Year 5 student) &Chairperson of PEERS</b></td>
+		<td style="text-align: center;"><iframe width="382" height="214" src="https://www.youtube.com/embed/pEXNsBPQD0g" title="TJC 2022 IP Admissions - Sharing by Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><b>Sharing by Liow Xuan Rong, an IP Year 4 student</b></td>
+    <td style="text-align: center;"><iframe width="379" height="212" src="https://www.youtube.com/embed/dQzvqQTgNXA" title="TJC 2022 IP Admissions - Sharing by Parent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><b>Sharing by Ms Gayatri Bhat, parent of Anand Srinivasan (IP Year 5 student) &Chairperson of PEERS</b></td>
   </tr>
 </tbody>
 </table>
