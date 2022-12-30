@@ -7,14 +7,13 @@ description: ""
 
 |   |   |   |   |
 |---|---|---|---|
-| IP Admissions Talk (For 2023 Intake)  |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-
+| IP Admissions Talk (For 2023 Intake) <a href="" target="_blank"></a> |<a href="" target="_blank"></a>  | <a href="" target="_blank"></a>  | <a href="" target="_blank"></a>  |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
+|  <a href="" target="_blank"></a> | <a href="" target="_blank"></a>  |  <a href="" target="_blank"></a>|  <a href="" target="_blank"></a> |
