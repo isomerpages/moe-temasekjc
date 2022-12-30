@@ -6,6 +6,10 @@ third_nav_title: Stories
 ---
 # CLASS OF 2021: HWEE KENG, SAI & YOCK YAN
 
+|   |   |    |
+|---|---|----|
+| ![](/images/Archive/Stories/Hwee%20Keng.jpeg)  | ![](/images/Archive/Stories/Sai.jpeg)  |  ![](/images/Archive/Stories/Yock%20Yan.jpeg) |
+
 Since 2005, we have welcomed many bright, passionate and compassionate young men and women to our Integrated Programme. They are our pride and joy, as we witness their growth and development over the years they spend with us.
 
   
