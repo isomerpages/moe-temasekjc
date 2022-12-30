@@ -47,6 +47,20 @@ third_nav_title: Announcements
     <label for="accordion5">SELECTION ROUND FOR MEP & ART (JC1)</label>
     <div>
 			<p style="text-align: justify;"><b>Music Elective Programme Selection</b><br>Fill in all the relevant details and information in the form <a href="https://form.gov.sg/61e7813e67949600141f5f3b" target="_blank">here</a>.</p>
+			<ol>
+				<li>Please sign up by <b>7 Feb</b> via the website above.
+</li>
+				<li>Prepare 2 contrasting pieces of music for your instrument together with your instrument (if not piano) for 8 Feb. 2 complete photocopied sets of your pieces must be brought along as well for the practical audition on 8 Feb.</li>
+				<li>Report to Music Studio 2 on 8 Feb at 730am for the Theory component. Bring along your writing stationery and earpiece (with wire).</li>
+				<li>Auditions will be held from 9.45am onwards on 8 Feb. The time allocated is 25 minutes per candidate.</li>
+			</ol>
+			
+				<ol>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ol>
     </div>
 	</li> 
 	  <li>
