@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Events/IP Admissions Talk (For 2023 Intake).md
       - Events/.keep
       - Archive.md
