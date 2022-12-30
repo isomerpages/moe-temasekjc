@@ -19,15 +19,15 @@ sections:
           description: ""
           url: https://tinyurl.com/tjccohortreunions
   - infopic:
+      title: INTEGRATED  PROGRAMME
+      button: Admissions (IP Year 1)
+      url: /admissions/ip-year-1-dsa-sec
+      image: /images/ip-pic.jpg
+      alt: Image alt text
+  - infopic:
       title: JUNIOR COLLEGE
       button: Admissions (JC Year 1)
       url: /admissions/jc-year-1-dsa-jc
       image: /images/jp-pic.jpg
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
