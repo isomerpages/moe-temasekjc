@@ -6,6 +6,8 @@ third_nav_title: Stories
 ---
 # PSC SCHOLARSHIP (ENGINEERING): SARIPALLI BHAGAT SAI REDDY
 
+![](/images/Archive/Stories/PSC_Saripalli%20Bhagat%20Sai%20Reddy_1%20-%20Sasha%20Kaur%20Dhillon.jpg)
+
 We are proud to congratulate **Saripalli Bhagat Sai Reddy** from CG 07/20 for being awarded the premier Public Service Commission (PSC) Scholarship (Engineering), that is awarded based on merit to outstanding young men and women who have strong leadership qualities and a desire to make a difference to better our community.
 
   
