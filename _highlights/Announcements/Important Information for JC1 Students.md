@@ -20,9 +20,10 @@ third_nav_title: Announcements
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"></label>
+    <label for="accordion2">ITEMS TO BRING</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">Students are to bring the following items on first day of school: Stationery, Mobile device (e.g. phone) and ear piece. Do bring along sufficient money for lunch and breaks. Those interested in taking Further Mathematics as a subject are to bring along a scientific calculator (not graphic calculator).</p>
+		<p style="text-align: justify;">You can bring a Tupperware for lunch if you prefer, as your OGLs will help to purchase lunch on your behalf. </p>
     </div>
 	</li>
 	  <li>
