@@ -13,7 +13,7 @@ description: ""
 |  <a href="/highlights/archive/stories/class-of-2021-megan-n-ethan">Class of 2021: Megan & Ethan</a> | <a href="/highlights/archive/stories/class-of-2021-hwee-keng-sai-n-yock-yan"> Class of 2021: Hwee Keng, Sai & Yock Yan</a>  |  <a href="/highlights/archive/stories/class-of-2021-elias-n-erin">Class of 2021: Elias & Erin</a>|  <a href="/highlights/archive/stories/class-of-2021-jun-yan-n-jeremy">Class of 2021: Jun Yan & Jeremy</a> |
 |  <a href="/highlights/archive/stories/class-of-2021-prithvi-n-liang-jung">Class of 2021: Prithvi & Liang Jung</a> | <a href="/highlights/archive/stories/class-of-2021-tania-n-charlotte">Class of 2021: Tania & Charlotte</a>  |  <a href="/highlights/archive/stories/class-of-2021-keng-yu-n-izen">Class of 2021: Keng Yu & Izen</a>|  <a href="/highlights/archive/stories/class-of-2021-hoy-yip-n-jia-xin">Class of 2021: Hoy Yip & Jia Xin</a> |
 |  <a href="/temasek-experience/college-yearbooks">Annual Yearbook 2021: Rising Above</a> | <a href="/highlights/archive/announcements/important-information-for-jc1-students">Important Information for JC1 Students</a>  |  <a href="/highlights/archive/events/ip-admissions-talk-2021">IP Admissions Talk 2021</a>|  <a href="/highlights/archive/events/tedxyouth-at-tjc">TEDxYouth@TJC</a> |
-|  <a href=""></a> | <a href=""></a>  |  <a href=""></a>|  <a href=""></a> |
+|  <a href="https://www.youtube.com/watch?v=YQvY_igMfvI">eTHINK © Challenge 2021</a> | <a href=""></a>  |  <a href=""></a>|  <a href=""></a> |
 |  <a href=""></a> | <a href=""></a>  |  <a href=""></a>|  <a href=""></a> |
 |  <a href=""></a> | <a href=""></a>  |  <a href=""></a>|  <a href=""></a> |
 |  <a href=""></a> | <a href=""></a>  |  <a href=""></a>|  <a href=""></a> |
