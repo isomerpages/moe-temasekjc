@@ -36,9 +36,9 @@ third_nav_title: Announcements
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"></label>
+    <label for="accordion4">APPEALS INTO TJC</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">Appeals into TJC For students interested in appealing into Temasek JC, please click <a href="https://www-temasekjc-moe-edu-sg-admin.cwp.sg/admissions/appeal-application-for-jc1-intake-2022" target="_blank">here</a>.</p>
     </div>
 	</li> 
 	  <li>
