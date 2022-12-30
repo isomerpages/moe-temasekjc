@@ -2,7 +2,7 @@ collections:
   tjc:
     output: true
     order:
-      - Parents.md
       - Students.md
       - Staff.md
+      - Parents.md
       - CONTACT US.md
