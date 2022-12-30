@@ -8,7 +8,7 @@ third_nav_title: Stories
 
 |   |   |
 |---|---|
-|  ![](/images/Archive/Stories/Megan.jpeg) | ![](/images/Archive/Stories/Ethan.jpeg)  |
+|  ![](/images/Archive/Stories/Megan.jpeg) | <img src="/images/Archive/Stories/Ethan.jpeg" style="width:90%">  |
 
 <p style="text-align: justify;">The pandemic may have floored all ‘live’ performances, but our Performing Arts students did not let that dampen their passion. A group of student leaders from various Performing Arts CCAs from the Class of 2021 came together to create a Performing Arts and Cultural Education (PACE) showcase, which offered a virtual platform for students to put up performances, ensuring that the arts scene in TJC remain vibrant.</p>
 
