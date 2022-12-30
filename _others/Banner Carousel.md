@@ -7,7 +7,7 @@ description: ""
 
 |   |   |
 |---|---|
-|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently|
+|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently<br><br><a href="" target="_blank">[click for more]</a>   |
 
 |   |   |
 |---|---|
@@ -15,8 +15,8 @@ description: ""
 
 |   |   |
 |---|---|
-|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently|
+|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently <br><br><a href="" target="_blank">[click for more]</a>  |
 
 |   |   |
 |---|---|
-|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently|
+|  <br>Last update: 21 Dec 2022, 08:28am	 |  **Display Period** <br>Permanently <br><br><a href="" target="_blank">[click for more]</a>   |
