@@ -25,19 +25,20 @@ third_nav_title: Events
     <td style="text-align: center;"><iframe width="295" height="164" src="https://www.youtube.com/embed/aGZ4D3zpAYQ" title="Discovering Your Cultural Identity Should Be Fun | Sophie Zi Han Zhang | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Discovering Your Cultural Identity Should Be Fun | Sophie Zi Han Zhang</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="291" height="162" src="https://www.youtube.com/embed/Zlcp2RQl4i0" title="Why the Small Wins Matter | Li Xuan Tan | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Why the Small Wins Matter |
+Li Xuan Tan</td>
+    <td style="text-align: center;"><iframe width="290" height="161" src="https://www.youtube.com/embed/DyCrbY93u-o" title="We Need Self-care More Than Ever | Denise Zhi Ling Mok | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>We Need Self-care More Than Ever |  Denise Zhi Lin Mok</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="295" height="165" src="https://www.youtube.com/embed/JZBBTrJSvWw" title="Why Failure is the Mother of Success | Jia Qian Cai | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Why Failure is the Mother of Success |  Jia Qian Cai</td>
+    <td style="text-align: center;"><iframe width="296" height="166" src="https://www.youtube.com/embed/jcTwNI3bZ6E" title="How A Smile Can Change Your Life | Syabil Oh Bin Yusri Mohamed | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>How A Smile Can Change Your Life | Syabil Oh Bin Yusri Mohamed</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="297" height="167" src="https://www.youtube.com/embed/ltqb7Rmz62g" title="Why Seizing the Day is My Life Motto | Chloe Yi Qian Lim | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Why Seizing the Day is My Life Motto | Chloe Yi Qian Lim</td>
+    <td style="text-align: center;"><iframe width="299" height="167" src="https://www.youtube.com/embed/oQ-rA_d3nn0" title="Knowing Your Love Languages and How to Use Them | Seles Min Dong Tan | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Knowing Your Love Languages and How to Use Them | Seles Min Dong Tan</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="300" height="168" src="https://www.youtube.com/embed/3I6p0P5ce1o" title="Customising Study Tips and Tricks for Every Unique Learner | Jenna Lai | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Customising Study Tips and Tricks for Every Unique Learner | Jenna Lai</td>
     <td></td>
   </tr>
 </tbody>
