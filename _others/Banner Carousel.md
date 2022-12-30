@@ -19,4 +19,4 @@ description: ""
 
 |   |   |
 |---|---|
-|  <br>Last update: 21 Dec 2022, 08:28am<br><br><a href="/images/Others/Banner%20Carousel/e78c27f91_774.png" target = "_blank"> <img src="/images/Others/Banner%20Carousel/e78c27f91_774.png" style="width:50%"></a>		 |  **Display Period** <br>Permanently <br><br><a href="" target="_blank">[click for more]</a>   |
+|  <a href="https://tinyurl.com/tjccohortreunions" target="_blank">Cohort Reunions</a><br>Last update: 21 Dec 2022, 08:28am<br><br><a href="/images/Others/Banner%20Carousel/a9dd33dc5_697.png" target = "_blank"> <img src="/images/Others/Banner%20Carousel/a9dd33dc5_697.png" style="width:50%"></a>		 |  **Display Period** <br>Permanently <br><br><a href="https://tinyurl.com/tjccohortreunions" target="_blank">[click for more]</a>   |
