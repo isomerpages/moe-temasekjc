@@ -17,12 +17,12 @@ third_nav_title: Events
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="303" height="169" src="https://www.youtube.com/embed/3gO014KHLqw" title="Finding the Freedom to Write | Wan Ting Chiara Ng | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Finding the Freedom to Write | Wan Ting Chiara Ng</td>
+    <td style="text-align: center;"><iframe width="309" height="170" src="https://www.youtube.com/embed/Dyz3IPlaics" title="Why Asking “How Are You Doing” Is Transformative | Ira Asthana | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Why Asking “How Are You Doing” Is Transformative | Ira Asthana</td>
   </tr>
   <tr>
-    <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><iframe width="294" height="164" src="https://www.youtube.com/embed/H_rhQLpaBFY" title="How Taekwondo Changed My Life | Justin Zhe Ming Goh | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>How Taekwondo Changed My Life | Justin Zhe Ming Goh</td>
+    <td style="text-align: center;"><iframe width="295" height="164" src="https://www.youtube.com/embed/aGZ4D3zpAYQ" title="Discovering Your Cultural Identity Should Be Fun | Sophie Zi Han Zhang | TEDxYouth@TJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Discovering Your Cultural Identity Should Be Fun | Sophie Zi Han Zhang</td>
   </tr>
   <tr>
     <td style="text-align: center;"></td>
