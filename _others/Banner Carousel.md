@@ -4,3 +4,19 @@ permalink: /others/banner-carousel/
 description: ""
 ---
 # BANNER CAROUSEL
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
