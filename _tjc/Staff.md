@@ -5,12 +5,12 @@ description: ""
 ---
 # schoolcock pit link broken
 # STAFF
-*   [Form SG](https://form.gov.sg/)<a href="" target="_blank"></a>
-*   [HR Online]<a href="" target="_blank"></a>(http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-*   [HR and Payroll Portal (HRP)]<a href="" target="_blank"></a>(https://www.hrp.gov.sg/)
-*   [iCON 2.0](https://icon.moe.edu.sg/)<a href="" target="_blank"></a>
-*   [iExams2](https://iexams.seab.gov.sg/login)<a href="" target="_blank"></a>
-*   [maTrix 2.0](https://matrix.tjc.edu.sg/index.html)<a href="" target="_blank"></a>
+*   <a href="https://form.gov.sg/" target="_blank">Form SG</a>
+*   <a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" target="_blank">HR Online</a>
+*   <a href="https://www.hrp.gov.sg/" target="_blank">HR and Payroll Portal (HRP)</a>
+*   <a href="https://icon.moe.edu.sg/" target="_blank">iCON 2.0</a>
+*   <a href="https://iexams.seab.gov.sg/login" target="_blank">iExams2</a>
+*   <a href="https://matrix.tjc.edu.sg/index.html" target="_blank">maTrix 2.0</a>
 *   <a href="https://idp.mims.moe.gov.sg/nidp/saml2" target="_blank">MIMS Portal</a>  
     
 *   <a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">MOE Intranet</a>
