@@ -2,6 +2,6 @@ collections:
   tjc:
     output: true
     order:
-      - Staff.md
       - Students.md
+      - Staff.md
       - CONTACT US.md
