@@ -6,4 +6,4 @@ third_nav_title: Events
 ---
 # JC-DSA ENGAGEMENT SESSION
 
-<center><b>It's your time to Dare to Shine and Achieve!</b></center>
+<center><b>It's your time to <u>D</u>are to <u>S</u>hine and <u>A</u>chieve!</b></center>
