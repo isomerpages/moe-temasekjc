@@ -2,4 +2,5 @@ collections:
   tjc:
     output: true
     order:
+      - Students.md
       - CONTACT US.md
