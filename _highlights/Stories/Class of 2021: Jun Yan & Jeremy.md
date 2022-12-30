@@ -6,6 +6,9 @@ third_nav_title: Stories
 ---
 # CLASS OF 2021: JUN YAN & JEREMY
 
+|   |   |
+|---|---|
+| ![](/images/Archive/Stories/Jun%20Yan.jpeg)  |![](/images/Archive/Stories/Jeremy.jpeg)   |
 
 The TJC Music Elective Program (MEP) is simply brimming with talent, as our young prodigies bring with them so much passion and their individual musical gifts. In addition to honing their craft through the MEP, these MOE Music Elective Scholars participate in a plethora of activities which include concerts and performances, masterclasses as well as interactions with like-minded peers. All our MEP maestros from the Class of 2021 scored Distinctions in H2 Music!  
 
