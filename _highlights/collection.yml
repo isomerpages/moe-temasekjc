@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Events/.keep
       - Archive.md
