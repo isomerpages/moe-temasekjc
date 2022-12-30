@@ -6,7 +6,9 @@ third_nav_title: Stories
 ---
 # CLASS OF 2021: YIXUAN, REYHERN, YIZHOU & OLIVER
 
-
+|   |   |   |   |
+|---|---|---|---|
+| ![](/images/Archive/Stories/Yixuan.jpeg)  | ![](/images/Archive/Stories/Reyhern.jpeg)  | ![](/images/Archive/Stories/Yizhou.jpeg)  | ![](/images/Archive/Stories/Oliver.jpeg)  |
 
 Over the years, the number of TJCians offering A-level subjects at Higher 3 (H3) is increasing, as our outstanding students demonstrate a passion to further develop themselves to achieve peaks of excellence within the context of a broad-based education. In their respective H3 modules, these students engage in different forms of learning and research work.  
   
