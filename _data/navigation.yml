@@ -19,3 +19,10 @@ links:
     collection: research-at-eastzone
   - title: Highlights
     collection: highlights
+  - title: Highlights
+    url: /highlights/archive
+    sublinks:
+      - title: Highlights
+        url: /highlights/archive
+      - title: Quick Links
+        url: /tjc/students
