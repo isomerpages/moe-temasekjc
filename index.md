@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/homepage.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
