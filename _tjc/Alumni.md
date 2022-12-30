@@ -3,6 +3,7 @@ title: Alumni
 permalink: /tjc/alumni/
 description: ""
 ---
+# adopt a tree fund page is private
 # ALUMNI
 
 *   <a href="https://www.facebook.com/tjcalumni/" target="_blank">Alumni Facebook</a>
