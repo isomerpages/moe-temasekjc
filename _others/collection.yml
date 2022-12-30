@@ -2,9 +2,9 @@ collections:
   others:
     output: true
     order:
-      - Banner Carousel.md
       - Search.md
       - Sitemap.md
       - News.md
       - Privacy Statement.md
       - FAQ.md
+      - Banner Carousel.md
