@@ -18,16 +18,16 @@ sections:
         - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
+  - infopic:
+      title: JUNIOR COLLEGE
+      button: Admissions (JC Year 1)
+      url: /admissions/jc-year-1-dsa-jc
+      image: /images/jp-pic.jpg
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infopic:
-      title: JUNIOR COLLEGE
-      button: Academic Curriculum
-      url: /academic/junior-college/curriculum-overview
-      image: /images/jp-pic.jpg
-      alt: Image alt text
 ---
