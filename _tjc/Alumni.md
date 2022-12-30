@@ -4,6 +4,7 @@ permalink: /tjc/alumni/
 description: ""
 ---
 # ALUMNI
-*   [Alumni Facebook](https://www.facebook.com/tjcalumni/)
-*   [Adopt-A-Tree Fund](https://www.temasekjc.moe.edu.sg/about/adopt-a-tree-fund)
-*   [Temasek Times](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Sticky%20Links/Temasek%20Times_Sem%202%202021.pdf)
+
+*   <a href="https://www.facebook.com/tjcalumni/" target="_blank">Alumni Facebook</a>
+*   <a href="/about/adopt-a-tree-fund" target="_blank">Adopt-A-Tree Fund</a>
+*   <a href="" target="_blank">Temasek Times</a>
