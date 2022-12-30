@@ -8,12 +8,10 @@ third_nav_title: Stories
 
 |   |   |
 |---|---|
-|   |   |
+|![](/images/Archive/Stories/Hoy%20Yip%20Picture.jpeg)  |![](/images/Archive/Stories/Jia%20Xin%20Picture.jpeg)  |
 
  
 <center><b>“Leadership is an action, not a position.”</b></center>
-
-  
 
 Indeed, our TJ student leaders demonstrate everyday leadership in their words and deeds, as they juggle their academic commitments with their various leadership responsibilities.
 
