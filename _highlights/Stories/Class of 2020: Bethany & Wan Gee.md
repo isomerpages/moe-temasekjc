@@ -4,3 +4,4 @@ permalink: /highlights/archive/stories/class-of-2020-bethany-n-wan-gee/
 description: ""
 third_nav_title: Stories
 ---
+# CLASS OF 2020: BETHANY & WAN GEE
