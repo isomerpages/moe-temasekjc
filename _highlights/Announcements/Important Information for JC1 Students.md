@@ -57,10 +57,8 @@ third_nav_title: Announcements
 			<p><b>Art Curriculum Selection</b></p>
 				<ol>
 				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ol>
+				<li>Bring the materials listed in the sign up form</li>
+				<li>Report to Art Studio 2 at 7.30am on 8 Feb. </li>		 </ol>
     </div>
 	</li> 
 	  <li>
