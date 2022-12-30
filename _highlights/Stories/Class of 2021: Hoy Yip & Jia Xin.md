@@ -4,3 +4,4 @@ permalink: /highlights/archive/stories/class-of-2021-hoy-yip-n-jia-xin/
 description: ""
 third_nav_title: Stories
 ---
+# CLASS OF 2021: HOY YIP & JIA XIN
