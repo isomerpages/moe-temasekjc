@@ -5,3 +5,7 @@ description: ""
 third_nav_title: Stories
 ---
 # CLASS OF 2020: BRANDON & REIDEN
+
+|   |   |
+|---|---|
+| ![](/images/Archive/Stories/Brandon.jpg)  | ![](/images/Archive/Stories/Reiden.jpg)  |
