@@ -5,3 +5,5 @@ description: ""
 third_nav_title: Stories
 ---
 # CLASS OF 2020: LEE XIN MUN
+
+![](/images/Archive/Stories/Lee%20Xin%20Mun.jpg)
