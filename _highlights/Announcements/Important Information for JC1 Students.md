@@ -63,9 +63,16 @@ third_nav_title: Announcements
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"></label>
+    <label for="accordion6">MEET THE PARENTS SESSION</label>
     <div>
 			<p style="text-align: justify;"></p>
+    </div>
+	</li> 
+		  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">MEET THE PARENTS SESSION</label>
+    <div>
+			<p style="text-align: justify;">There will be a Meet the Parents Session over Zoom on 7 Feb 2022 at 6pm. The details will be provided to your child/ward directly as well as on the <a href="https://tjc45thsc.wixsite.com/dawn2022" target="_blank">Orientation website</a>.</p>
     </div>
 	</li> 
 	</ul>
