@@ -6,12 +6,12 @@ third_nav_title: Announcements
 ---
 # IMPORTANT INFORMATION FOR JC1 STUDENTS
 
-Welcome to Temasek JC! Orientation will be held from **7 Feb to 11 Feb 2022**. To ensure all JC1 students are well prepared for the start of their journey with us, please note the following information.
+<p style="text-align: justify;">Welcome to Temasek JC! Orientation will be held from <b>7 Feb to 11 Feb 2022</b>. To ensure all JC1 students are well prepared for the start of their journey with us, please note the following information.</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"></label>
+    <label for="accordion1">FIRST DAY OF SCHOOL (REPORTING TIME & VENUE)</label>
     <div>
 			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
 			<p style="text-align: justify;"><b>SPORTS COMMITTEE</b><br>This committee aims to assist the College in all sports events. Parents may be involved in planning or as sports officials, game masters or participants.</p>
