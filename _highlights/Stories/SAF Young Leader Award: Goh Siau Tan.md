@@ -6,6 +6,7 @@ third_nav_title: Stories
 ---
 # SAF YOUNG LEADER AWARD: GOH SIAU TAN
 
+![](/images/Archive/Stories/SYLA%20Siau%20Tan.png)
 
 **Goh Siau Tan** from CG 08/21 was one of 21 students in Singapore to be awarded the 2022 SAF Young Leader Award, a book prize that honours students’ ability to juggle both their academic and extracurricular commitments with exceptional poise and calm dignity. Siau Tan will be given a cash award, invitations to exclusive MINDEF/SAF events as well as a scholarship interview for overseas studies upon application.  
 
