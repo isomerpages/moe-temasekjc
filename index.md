@@ -30,4 +30,10 @@ sections:
       url: /admissions/jc-year-1-dsa-jc
       image: /images/jp-pic.jpg
       alt: Image alt text
+  - infopic:
+      title: HIGHLIGHTS
+      button: More Highlights
+      url: /highlights/archive
+      image: /images/2022 IP Admissions Talk Thumbnail.png
+      alt: Image alt text
 ---
