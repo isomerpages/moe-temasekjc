@@ -54,7 +54,7 @@ third_nav_title: Announcements
 				<li>Report to Music Studio 2 on 8 Feb at 730am for the Theory component. Bring along your writing stationery and earpiece (with wire).</li>
 				<li>Auditions will be held from 9.45am onwards on 8 Feb. The time allocated is 25 minutes per candidate.</li>
 			</ol>
-			
+			<p><b>Art Curriculum Selection</b></p>
 				<ol>
 				<li></li>
 				<li></li>
