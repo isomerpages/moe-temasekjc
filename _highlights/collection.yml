@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Archive.md
+      - Announcements/#TJTogether 2020.md
       - Announcements/.keep
       - Announcements/Important Information for JC1 Students.md
       - Announcements/Update on College Rejuvenation Programme.md
