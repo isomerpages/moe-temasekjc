@@ -7,7 +7,7 @@ description: ""
 
 |   |   |   |   |
 |---|---|---|---|
-|   |   |   |   |
+| IP Admissions Talk (For 2023 Intake)  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
@@ -18,4 +18,3 @@ description: ""
 |   |   |   |   |
 |   |   |   |   |
 
-IP Admissions Talk (For 2023 Intake)
