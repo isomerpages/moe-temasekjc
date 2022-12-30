@@ -8,7 +8,7 @@ third_nav_title: Events
 
 <p style="text-align: justify;">Come join the TJC Integrated Programme, and be part of a legacy of successful and highly motivated all-rounders! Our IP students have consistently excelled in both academic and non-academic areas, and many have gone on to prestigious universities and carved out highly successful careers.</p>  
 
-<p style="text-align: justify;">Find out more about our dynamic programme on our [**e-Open House microsite**](https://sites.google.com/temasekjc.moe.edu.sg/tjcipe-openhouse2021/home).</p>  
+<p style="text-align: justify;">Find out more about our dynamic programme on our <a href="https://sites.google.com/temasekjc.moe.edu.sg/tjcipe-openhouse2021/home" target="_blank"><b>e-Open House microsite</a>.</p>  
 
 <p style="text-align: justify;">If you missed our ‘live’ session on 17 April 2021, don’t worry! Check out the talk by our Dean of Integrated Programme, Ms Erin Woodford, and watch her answer questions </p>
 
