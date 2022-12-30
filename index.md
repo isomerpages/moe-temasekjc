@@ -24,4 +24,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: JUNIOR COLLEGE
+      button: Academic Curriculum
+      url: /academic/junior-college/curriculum-overview
+      image: /images/jp-pic.jpg
+      alt: Image alt text
 ---
