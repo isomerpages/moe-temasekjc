@@ -5,3 +5,7 @@ description: ""
 third_nav_title: Stories
 ---
 # CLASS OF 2021: ELVIN & CHERYL
+
+|   |   |
+|---|---|
+|  ![](/images/Archive/Stories/Elvin.jpeg) | ![](/images/Archive/Stories/Cheryl.jpeg)  |
