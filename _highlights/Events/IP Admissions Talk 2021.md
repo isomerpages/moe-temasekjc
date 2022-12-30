@@ -6,7 +6,7 @@ third_nav_title: Events
 ---
 # IP ADMISSIONS TALK 2021
 
-The annual IP Admissions Talk was held 'live' on Saturday, 27 November 2021. Check out the various key segments of the Talk below to find out more about what our Integrated Programme has to offer.
+<p style="text-align: justify;">The annual IP Admissions Talk was held 'live' on Saturday, 27 November 2021. Check out the various key segments of the Talk below to find out more about what our Integrated Programme has to offer.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FK34ujZ5elc" title="TJC 2022 IP1 Admissions - Welcome Address by Principal and Presentation by Dean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -22,9 +22,8 @@ The annual IP Admissions Talk was held 'live' on Saturday, 27 November 2021. Che
 </thead>
 <tbody>
   <tr>
-		<td><b>Sharing by Liow Xuan Rong, an IP Year 4 student</b></td>
-    <td><b>Sharing by Ms Gayatri Bhat, parent of Anand Srinivasan (IP Year 5 student) &Chairperson of PEERS</b></td>
+		<td style="text-align: center;"><b>Sharing by Liow Xuan Rong, an IP Year 4 student</b></td>
+    <td style="text-align: center;"><b>Sharing by Ms Gayatri Bhat, parent of Anand Srinivasan (IP Year 5 student) &Chairperson of PEERS</b></td>
   </tr>
 </tbody>
 </table>
-
