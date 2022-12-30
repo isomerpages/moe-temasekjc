@@ -15,7 +15,7 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: Cohort Reunion
+        - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
   - infobar:
