@@ -44,9 +44,9 @@ third_nav_title: Announcements
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"></label>
+    <label for="accordion5">SELECTION ROUND FOR MEP & ART (JC1)</label>
     <div>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;"><b>Music Elective Programme Selection</b><br>Fill in all the relevant details and information in the form <a href="https://form.gov.sg/61e7813e67949600141f5f3b" target="_blank">here</a>.</p>
     </div>
 	</li> 
 	  <li>
