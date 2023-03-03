@@ -2,7 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Temasek Year book 2022.md
       - Co Curricular Activities.md
       - Students' Council.md
       - Student Leadership Development.md
