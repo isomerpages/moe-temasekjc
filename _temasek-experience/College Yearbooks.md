@@ -9,6 +9,8 @@ For best viewing experience, please download the file [here](https://www.scribd
 ### Annual Yearbook - 2021
 For best viewing experience, please download the file [here](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Temasek%20Experience/College%20Yearbooks/TJC%20Yearbook%202021%20Final_150dpi.pdf).
 
+### Annual Yearbook - 2020
+For best viewing experience, please download the file [here](https://www.temasekjc.moe.edu.sg/qql/slot/u550/2021/Temasek%20Experience/College%20Yearbooks/TJC%20Yearbook%202020-150dpi.pdf).
 
 # 2021, 2020 yearbooks >5mb
 # Scribd yearbooks, 2021,2020 cannot be embedded in isomer.
