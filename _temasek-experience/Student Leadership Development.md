@@ -28,6 +28,8 @@ description: ""
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 
 <ul class="jekyllcodex_accordion">
+
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">HIGHLIGHTS OF OUR STUDENT LEADERSHIP DEVELOPMENT PROGRAMMES</label>
