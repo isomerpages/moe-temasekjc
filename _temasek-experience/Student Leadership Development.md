@@ -27,7 +27,7 @@ description: ""
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 
-<b>COMMUNITY LEADERSHIP</b></label>
+<b>COMMUNITY LEADERSHIP</b>
     <div>
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
