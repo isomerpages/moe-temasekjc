@@ -5,9 +5,11 @@ description: ""
 ---
 ## TALENT DEVELOPMENT PROGRAMME
 
-<p style="text-align: justify;">In TJC, we consider every student to be a potential leader. We believe every TJCian is a leader, every day and everywhere. We aim to develop ACE student leaders by developing our students progressively in key leadership competencies. We deliver learning experiences for our students to sharpen their skills set as they progress from personal leadership to team leadership, and to thought leadership.</p>
+![](/images/TDP%20Masthead.jpg)
 
-<p style="text-align: justify;">Whether our students step up to take on different roles and responsibilities - from the classroom to co-curricular activities to the community represent the College on the academic or sporting front, or embark on some enterprise - the opportunities to showcase their talents are aplenty.</p>
+<p style="text-align: justify;">Here at TJC, we believe that students should have the agency and ability to take charge of their own future as potential leaders of tomorrow. TJC’s Talent Development Programme (TDP) thus provides a supportive environment where students are given the opportunity to develop themselves as individuals, and challenged to grow as thoughtful and confident leaders.</p>
+
+<p style="text-align: justify;">Our programme is guided by our mission of being an ACE student leader- an Active Learner, a Caring and Committed Citizen, and an Ethical Leader.</p>
 
 
 ![](/images/Temasek%20Experience/Developing%20the%20ACE%20Student%20Leader.jpeg)
