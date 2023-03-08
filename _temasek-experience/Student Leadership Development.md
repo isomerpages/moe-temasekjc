@@ -35,7 +35,7 @@ description: ""
     <div>
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 			
-![](/images/TDP%204.png)
+	
 			
 <p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
 			
