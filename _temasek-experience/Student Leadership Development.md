@@ -27,15 +27,10 @@ description: ""
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 
-![](/images/TDP%204.png)
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"><b>COMMUNITY LEADERSHIP</b></label>
+<b>COMMUNITY LEADERSHIP</b></label>
     <div>
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
-			
+
 	
 			
 <p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
