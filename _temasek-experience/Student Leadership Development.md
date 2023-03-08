@@ -3,7 +3,7 @@ title: Student Leadership Development
 permalink: /temasek-experience/student-leadership-development/
 description: ""
 ---
-# STUDENT LEADERSHIP DEVELOPMENT
+## TALENT DEVELOPMENT PROGRAMME
 
 <p style="text-align: justify;">In TJC, we consider every student to be a potential leader. We believe every TJCian is a leader, every day and everywhere. We aim to develop ACE student leaders by developing our students progressively in key leadership competencies. We deliver learning experiences for our students to sharpen their skills set as they progress from personal leadership to team leadership, and to thought leadership.</p>
 
