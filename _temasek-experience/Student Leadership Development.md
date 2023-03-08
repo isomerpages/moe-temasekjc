@@ -21,7 +21,9 @@ description: ""
 
 <p style="text-align: justify;">Our CONNECT sessions  give students an opportunity to clarify their leadership philosophy through sharing and discussion with fellow student leaders. From these sessions, TDP students graduate with a strong conviction in their leadership beliefs and values, which ground them as they continue on their leadership journeys.</p>
 
-![](/images/TDP%202.png)![](/images/TDP%203.png)
+![](/images/TDP%202.png)
+
+![](/images/TDP%203.png)
 
 <ul class="jekyllcodex_accordion">
   <li>
