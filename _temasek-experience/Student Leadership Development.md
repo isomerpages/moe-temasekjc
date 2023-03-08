@@ -19,7 +19,7 @@ description: ""
 
 **THE LEADERSHIP CHALLENGE**
 
-<p style="text-align: justify;">TJC uses James Kouzes and Barry Posner’s The Leadership Challenge model, which is backed by over 25 years of research and data of over three million leaders. Based on case studies of leaders about their personal best experiences as leaders, Kouzes and Posner came up with a pattern of behaviours and actions used by people when they are most effective as leaders, encapsulated by the Five Practices – Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and Encourage the Heart. This tool enables students to chart their own leadership growth and hone their leadership competencies.</p>
+<p style="text-align: justify;">Our CONNECT sessions  give students an opportunity to clarify their leadership philosophy through sharing and discussion with fellow student leaders. From these sessions, TDP students graduate with a strong conviction in their leadership beliefs and values, which ground them as they continue on their leadership journeys.</p>
 
 
 <ul class="jekyllcodex_accordion">
