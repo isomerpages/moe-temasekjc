@@ -27,12 +27,11 @@ description: ""
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 
-<ul class="jekyllcodex_accordion">
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">HIGHLIGHTS OF OUR STUDENT LEADERSHIP DEVELOPMENT PROGRAMMES</label>
+    <label for="accordion1"><b>COMMUNITY LEADERSHIP</b></label>
     <div>
 			<p style="text-align: justify;"><b>Talent Development Programme (TDP)</b><br>TDP is a pinnacle leadership programme where we expose students to opportunities to build their portfolio, focusing on the 21st century competencies and outcomes. We also match students in our TDP to industry leaders that can mentor and guide them further in their personal leadership journeys.</p>
 			<p style="text-align: justify;"><b>Insight | Outsight: TJC Alumni Leadership Speaker Series</b><br>In this Speaker Series, we welcome our distinguished alumni back to inspire our students in developing fresh insights as well as seeing beyond their normal frame of reference.</p>
