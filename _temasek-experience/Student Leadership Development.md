@@ -37,6 +37,8 @@ description: ""
 			
 ![](/images/TDP%204.png)
 			
+<p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
+			
 <p style="text-align: justify;"><b>Insight | Outsight: TJC Alumni Leadership Speaker Series</b><br>In this Speaker Series, we welcome our distinguished alumni back to inspire our students in developing fresh insights as well as seeing beyond their normal frame of reference.</p>
 			<p style="text-align: justify;"><b>International Student Leadership Congress (ISLC)</b><br>This virtual event allows participants from different countries to learn from various industry leaders and gain new perspectives on leadership. More than 250 participants from Singapore, Brunei, Vietnam, Taiwan, Hong Kong, Japan and the United Kingdom attended the inaugural ISLC in 2020.</p>
 			<p style="text-align: justify;"><b>Temasek Leadership Showdown (TLS)</b><br>The TLS is a nation-wide leadership competition which provides a platform for student leaders from primary and secondary schools to hone their leadership skills and competencies, as well as to network with other like-minded student leaders. Organised and facilitated by our student leaders, we hope to inspire the TLS participants to be leaders who can be positive change agents.</p>
