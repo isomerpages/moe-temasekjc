@@ -27,6 +27,7 @@ description: ""
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 
+![](/images/TDP%204.png)
 
 <ul class="jekyllcodex_accordion">
   <li>
