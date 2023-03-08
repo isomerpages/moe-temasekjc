@@ -25,6 +25,8 @@ description: ""
 
 ![](/images/TDP%203.png)
 
+<p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
