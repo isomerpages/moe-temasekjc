@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - STUDENT LEADERSHIP DEVELOPMENT/.keep
-      - Talent Development Programme.md
       - Co Curricular Activities.md
       - Students' Council.md
       - Student Well Being.md
