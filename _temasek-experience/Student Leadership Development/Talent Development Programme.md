@@ -4,8 +4,7 @@ permalink: /temasek-experience/student-leadership-development/
 description: ""
 third_nav_title: Student Leadership Development
 ---
-
-## TALENT DEVELOPMENT PROGRAMME
+### TALENT DEVELOPMENT PROGRAMME
 
 ![](/images/TDP%20Masthead.jpg)
 
