@@ -532,12 +532,7 @@ description: ""
     <td>Teacher<br></td>
     <td><a href="mailto:ng_yon_tek_kevin@moe.edu.sg">ng_yon_tek_kevin@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Koh-Poh Sze Sze<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:POH_SZE_SZE@MOE.EDU.SG">poh_sze_sze@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Leonard Lau<br></td>
@@ -597,12 +592,7 @@ description: ""
     <td>HOD / MTL (JC)<br></td>
     <td><a href="mailto:choo_sheau_chian@moe.edu.sg">choo_sheau_chian@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms</td>
-    <td>Cai Junjun </td>
-    <td>HOD / MTL (IP) </td>
-    <td><a href="mailto:cai_jun_jun@moe.edu.sg">cai_jun_jun@moe.edu.sg</a> </td>
-  </tr>
+ 
   <tr>
     <td>Mdm<br></td>
     <td>Jiang Hui<br></td>
@@ -856,13 +846,7 @@ description: ""
     <td>Chemistry<br></td>
     <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Gan Miaohui<br></td>
-    <td>School Staff Developer<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:tng_miaohui@moe.edu.sg">tng_miaohui@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Wong Jee Pheng<br></td>
@@ -961,13 +945,7 @@ description: ""
     <td>Biology<br></td>
     <td><a href="mailto:toh_may_may_lisa@moe.edu.sg">toh_may_may_lisa@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Peh Ang Tiong<br></td>
-    <td>Teacher<br></td>
-    <td>Biology<br></td>
-    <td><a href="mailto:peh_ang_tiong@moe.edu.sg">peh_ang_tiong@moe.edu.sg</a><br></td>
-  </tr>
+  
   <tr>
     <td>Ms</td>
     <td>Tay Guay Kim</td>
