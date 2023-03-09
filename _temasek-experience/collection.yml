@@ -2,7 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - STUDENT LEADERSHIP DEVELOPMENT.md
       - Talent Development Programme.md
       - Co Curricular Activities.md
       - Students' Council.md
