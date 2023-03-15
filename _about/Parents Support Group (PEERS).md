@@ -19,20 +19,29 @@ description: ""
 <p style="text-align: justify;">The PEERS Committee invites all parents of TJCians to join them in their activities! For any enquiries about PEERS, please email them to: <a href="mailto:PEERS.temasekjc@gmail.com">PEERS.temasekjc@gmail.com</a></p>
 
 
-<center><b>22/23 PEERS COMMITTEE MEMBERS</b></center>
+<center><b>23/24 PEERS EXECUTIVE COMMITTEE MEMBERS</b></center>
 
-|          Name         |                   Role                   |
-|:---------------------:|:------------:|
-|    Ms Gayatri Bhat    |   PEERS Executive Committee <br>Chairperson  |
-|   Mrs Jennifer Kwok   | PEERS Executive Committee<br> Co-Chairperson |
-|    Mrs Sophia Tang    | PEERS Executive Committee<br> Co-Chairperson |
-|   Mrs Aparna Govind   |     PEERS Executive Committee <br>Member     |
-|     Ms Serene Liew    |     PEERS Executive Committee <br>Member     |
-|        Ms Nishi       |     PEERS Executive Committee<br> Member     |
-| Mdm Sharbari Sengupta |     PEERS Executive <br>Committee Member     |
-|   Mrs Chong Yen Yen   |          PEERS Committee <br>Member          |
-|     Ms Grace Chua     |          PEERS Committee<br> Member          |
-|     Ms Serene Lai     |       PEERS Alumni Wing<br>Chairperson      |
+| Role | Name |
+|:---|:---|
+| Chairperson | Mrs Jennifer Kwok |
+| Co-Chairperson | Mrs Sophia Tang |
+| Executive Committee Member | Mdm Sharbari Sengupta |
+| Executive Committee Member | Ms Nishi |
+| Executive Committee Member | Ms Serene Liew |
+| Executive Committee Member | Ms Grace Chua |
+| Executive Committee Member | Mrs Chong Yen Yen |
+| Alumni Chairperson | Ms Serene Lai |
+| Alumni Co-Chairperson | Ms Gayathri Bhat |
+
+<center><b>23/24 PEERS COMMITTEE MEMBERS</b></center>
+
+| Role | Name |
+|:---|:---|
+| Committee Member | Mr Wang Shi Tah |
+| Committee Member | Ms Jo Zou  |
+| Committee Member  | Ms Vivien Lim |
+| Committee Member  | Ms Kris Ho |
+| Committee Member | Ms Goh Lian Siang |
 
 
 <ul class="jekyllcodex_accordion">
