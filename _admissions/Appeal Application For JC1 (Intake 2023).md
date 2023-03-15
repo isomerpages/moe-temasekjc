@@ -16,12 +16,12 @@ Appeal Application for admission to JC1 (Intake 2023) commences from **2** **F
   
 <li><input id="accordion2" type="checkbox">  
 <label for="accordion2">APPLICATION PROCESS</label><div>  
-<p>
+<p> 
 	
 #### 1) Application Form
 
 *   Click [here](https://jae.tjc.edu.sg/) to proceed with your online application. The application form should take approximately 20 minutes to complete.
-*   After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form. 
+*   After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.  
 
 #### 2) Supporting Documents 
 
@@ -48,8 +48,8 @@ Please upload the following supporting documents:
 </div></li>  
   
 <li><input id="accordion3" type="checkbox">  
-<label for="accordion3">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
+<label for="accordion3">CONTACT US</label><div>  
+<p>If you have any general enquiries regarding the Appeal Application, please contact the TJC General Office at 6442 8066 during office hours or email: [temasek\_jc@moe.edu.sg](mailto:temasek_jc@moe.edu.sg)</p>  
 </div></li>  
   
 </ul>
