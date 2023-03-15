@@ -20,20 +20,15 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">HEADS OF DEPARTMENT</label>
     <div>
-      <table>
+<table>
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Dean / Integrated Programme<br></th>
+    <th>Miss Erin Woodford<br></th>
+    <th><a href="mailto:woodford_erin_elizabeth@moe.edu.sg">woodford_erin_elizabeth@moe.edu.sg</a><br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Dean / Integrated Programme<br></td>
-    <td>Miss Erin Woodford<br></td>
-    <td><a href="mailto:woodford_erin_elizabeth@moe.edu.sg">woodford_erin_elizabeth@moe.edu.sg</a><br></td>
-  </tr>
   <tr>
     <td>Dean / Junior College<br></td>
     <td>Mr Hsi Han Yin<br></td>
@@ -50,14 +45,9 @@ description: ""
     <td><a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>HOD / CCE &amp; Student Well-Being<br></td>
-    <td>Ms Wong Ying Ying<br></td>
-    <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>HOD / Economics<br></td>
-    <td>Mr Koh Weining<br></td>
-    <td><a href="mailto:koh_weining@moe.edu.sg">koh_weining@moe.edu.sg</a><br></td>
+    <td>HOD / CCE <br></td>
+    <td>Ms Thangam<br></td>
+    <td><a href="mailto:thangam_vickerama_singhan@moe.edu.sg">thangam_vickerama_singhan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Engagement &amp; Partnership<br></td>
@@ -91,8 +81,8 @@ description: ""
   </tr>
   <tr>
     <td>HOD / Mathematics (IP)<br></td>
-    <td>Mr Jonathan Lau<br></td>
-    <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
+    <td>Mr Marcus Goh<br></td>
+    <td><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Mathematics (JC)<br></td>
@@ -100,14 +90,14 @@ description: ""
     <td><a href="mailto:ngoh_kheng_kiat@moe.edu.sg">ngoh_kheng_kiat@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>HOD / Mother Tongue (IP)<br></td>
-    <td>Ms Cai Junjun<br></td>
-    <td><a href="mailto:cai_jun_jun@moe.edu.sg">cai_jun_jun@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>HOD / Mother Tongue (JC)<br></td>
+    <td>HOD / Mother Tongue <br></td>
     <td>Mdm Choo Sheau Chian<br></td>
     <td><a href="mailto:choo_sheau_chian@moe.edu.sg">choo_sheau_chian@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>HOD / Physical Education</td>
+    <td>Mr Tan Teck Joo</td>
+    <td><a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Project Work<br></td>
@@ -116,8 +106,8 @@ description: ""
   </tr>
   <tr>
     <td>HOD / Science (IP)<br></td>
-    <td>Ms Lee Lin Hoon<br></td>
-    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a><br></td>
+    <td>Mr Low Kian Seh<br></td>
+    <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Science (JC)<br></td>
@@ -125,19 +115,19 @@ description: ""
     <td><a href="mailto:sim_hui_shan@moe.edu.sg">sim_hui_shan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>HOD / Student Development &amp; CCA</td>
-    <td>Mr Han Songguang</td>
-    <td><a href="mailto:han_song_guang@moe.edu.sg">han_song_guang@moe.edu.sg</a></td>
+    <td>HOD / Student Well-Being</td>
+    <td>Ms Wong Ying Ying</td>
+    <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>HOD / Student Leadership &amp; Physical Education<br></td>
-    <td>Mr Tan Teck Joo<br></td>
-    <td><a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a><br></td>
+    <td>HOD / Student Leadership<br></td>
+    <td>Mr Han Songguang<br></td>
+    <td><a href="mailto:han_song_guang@moe.edu.sg">han_song_guang@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>School Staff Developer<br></td>
-    <td>Mrs Gan Miao Hui<br></td>
-    <td><a href="mailto:tng_miaohui@moe.edu.sg">tng_miaohui@moe.edu.sg</a><br></td>
+    <td>Ms Lee Lin Hoon<br></td>
+    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -147,19 +137,19 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DEPUTY HEADS OF DEPARTMENT</label>
     <div>
-<table>
+		 <table>
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Deputy Dean / Integrated Programme<br></th>
+    <th>Mr Marcus Goh<br></th>
+    <th><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Deputy Dean / Integrated Programme<br></td>
-    <td>Mr Marcus Goh<br></td>
-    <td><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></td>
+    <td>Deputy Dean / Integrated Programme</td>
+    <td>Miss Rebecca Wu </td>
+    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a> <br></td>
   </tr>
   <tr>
     <td>Deputy Head / Aesthetics<br></td>
@@ -167,22 +157,17 @@ description: ""
     <td><a href="mailto:tan_hui_fen@moe.edu.sg">tan_hui_fen@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Deputy Head / CCE &amp; Student Well-Being<br></td>
+    <td>Deputy Head / CCE <br></td>
     <td>Mr Francis Lee<br></td>
     <td><a href="mailto:lee_weng_sun_francis@moe.edu.sg">lee_weng_sun_francis@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Deputy Head / CCE &amp; Student Well-Being<br></td>
+    <td>Deputy Head / Student Well-Being<br></td>
     <td>Ms Tan Yi Jie<br></td>
     <td><a href="mailto:tan_yi_jie@moe.edu.sg">tan_yi_jie@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Deputy Head / CCE &amp; Student Well-Being<br></td>
-    <td>Ms Thangam<br></td>
-    <td><a href="mailto:thangam_vickerama_singhan@moe.edu.sg">thangam_vickerama_singhan@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Deputy Head / CCE &amp; Student Well-Being (Discipline)<br></td>
+    <td>Deputy Head / Student Well-Being<br></td>
     <td>Mr Francis Tong<br></td>
     <td><a href="mailto:tong_chee_beng_francis@moe.edu.sg">tong_chee_beng_francis@moe.edu.sg</a><br></td>
   </tr>
@@ -202,14 +187,14 @@ description: ""
     <td><a href="mailto:yap_zong_xing_eric@moe.edu.sg">yap_zong_xing_eric@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Deputy Head / Humanities<br></td>
-    <td>Mrs Goh Wenhui<br></td>
-    <td><a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Deputy Head / ICT<br></td>
     <td>Mr Chew Yi Yang<br></td>
     <td><a href="mailto:chew_yi_yang@moe.edu.sg">chew_yi_yang@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Deputy Head / Language Arts &amp; English Literature</td>
+    <td>Mdm Yani </td>
+    <td><a href="mailto:nuryani_suneh@moe.edu.sg">nuryani_suneh@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Deputy Head / Mathematics (IP)<br></td>
@@ -218,8 +203,13 @@ description: ""
   </tr>
   <tr>
     <td>Deputy Head / Mathematics (JC)<br></td>
-    <td>Ms Ting Siew Choon<br></td>
+    <td>Mrs Goh Siew Choon<br></td>
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Deputy Head / Mother Tongue (IP) </td>
+    <td>Ms Low Kia Sze</td>
+    <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Deputy Head / Mother Tongue (JC)<br></td>
@@ -247,9 +237,9 @@ description: ""
     <td><a href="mailto:wong_jee_pheng@moe.edu.sg">wong_jee_pheng@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Deputy Head / Student Development </td>
-    <td>Ms Esti Asmira </td>
-    <td><a href="mailto:sesilia_esti_asmira@moe.edu.sg">sesilia_esti_asmira@moe.edu.sg</a><br></td>
+    <td>Deputy Head /<br>Science (IP) <br></td>
+    <td>Ms Kok Hui Ching</td>
+    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Deputy Head / Student Leadership </td>
