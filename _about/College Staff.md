@@ -472,9 +472,15 @@ description: ""
     <td><a href="mailto:hsi_han_yin@moe.edu.sg">hsi_han_yin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td>Mr</td>
+    <td>Marcus Goh </td>
+    <td>HOD / Mathematics (IP)<br>&amp; Deputy Head / <br>Integrated Programme</td>
+    <td><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
     <td>Mr<br></td>
     <td>Jonathan Lau<br></td>
-    <td>HOD / Mathematics (IP)<br></td>
+    <td>HOD / ICT<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -494,12 +500,6 @@ description: ""
     <td>Cindy Lim<br></td>
     <td>Deputy Head / Mathematics (IP)<br></td>
     <td><a href="mailto:tan_hui_hua_cindy@moe.edu.sg">tan_hui_hua_cindy@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Marcus Goh<br></td>
-    <td>Deputy Dean / Integrated Programme<br></td>
-    <td><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -537,7 +537,12 @@ description: ""
     <td>Teacher<br></td>
     <td><a href="mailto:ng_yon_tek_kevin@moe.edu.sg">ng_yon_tek_kevin@moe.edu.sg</a><br></td>
   </tr>
-
+  <tr>
+    <td>Mrs<br></td>
+    <td>Koh-Poh Sze Sze<br></td>
+    <td>Teacher<br></td>
+    <td><a href="mailto:POH_SZE_SZE@MOE.EDU.SG">poh_sze_sze@moe.edu.sg</a><br></td>
+  </tr>
   <tr>
     <td>Mr<br></td>
     <td>Leonard Lau<br></td>
@@ -555,6 +560,12 @@ description: ""
     <td>Ng Seng Chang<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:ng_seng_chang@moe.edu.sg">ng_seng_chang@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mrs</td>
+    <td>Pauline Kan </td>
+    <td>Teacher</td>
+    <td><a href="mailto:yow_pei_lian@moe.edu.sg">yow_pei_lian@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Ms<br></td>
@@ -708,7 +719,7 @@ description: ""
   <tr>
     <td>Mr<br></td>
     <td>Tan Teck Joo<br></td>
-    <td>HOD / Student Leadership &amp; Physical Education<br></td>
+    <td>HOD / Physical Education<br></td>
     <td><a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -726,7 +737,7 @@ description: ""
   <tr>
     <td>Mr<br></td>
     <td>Francis Lee<br></td>
-    <td>Deputy Head / CCE &amp; Student Well-Being<br></td>
+    <td>Deputy Head / CCE<br></td>
     <td><a href="mailto:lee_weng_sun_francis@moe.edu.sg">lee_weng_sun_francis@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -748,22 +759,16 @@ description: ""
     <td><a href="mailto:fung_chong_lin@moe.edu.sg">fung_chong_lin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Mr<br></td>
-    <td>Goh Eng Whatt<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:goh_eng_whatt@moe.edu.sg">goh_eng_whatt@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr</td>
-    <td>Tan Meng Hui, Simon </td>
-    <td>Teacher </td>
-    <td><a href="mailto:tan_meng_hui_a@moe.edu.sg">tan_meng_hui_a@moe.edu.sg</a></td>
-  </tr>
-  <tr>
     <td>Ms<br></td>
     <td>Tan Ying En<br></td>
     <td>Teacher<br></td>
-    <td><a href="mailto:tan_ying_en@moe.edu.sg">tan_ying_en@moe.edu.sg</a></td>
+    <td><a href="mailto:tan_ying_en@moe.edu.sg">tan_ying_en@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr </td>
+    <td>Danny Wong</td>
+    <td>Teacher </td>
+    <td><a href="mailto:wong_kok_wye_danny@moe.edu.sg">wong_kok_wye_danny@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -795,12 +800,6 @@ description: ""
     <td><a href="mailto:anna_maria@moe.edu.sg">anna_maria@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Mr<br></td>
-    <td>Hazrin B Zainal<br></td>
-    <td>Senior Teacher / Project Work<br></td>
-    <td><a href="mailto:hazrin_b_zainal@moe.edu.sg">hazrin_b_zainal@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Ms</td>
     <td>Mariya binte Ahmad</td>
     <td>Teacher </td>
@@ -810,7 +809,7 @@ description: ""
     <td>Miss<br></td>
     <td>Noraziah binte Abdul Aziz<br></td>
     <td>Teacher<br></td>
-    <td><a href="mailto:noraziah_abdul_aziz@moe.edu.sg">noraziah_abdul_aziz@moe.edu.sg</a><br></td>
+    <td><a href="mailto:noraziah_abdul_aziz@moe.edu.sg">noraziah_abdul_aziz@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -838,20 +837,19 @@ description: ""
     <td><a href="mailto:sim_hui_shan@moe.edu.sg">sim_hui_shan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td>Mr </td>
+    <td>Low Kian Seh </td>
+    <td>HOD / Science (IP) </td>
+    <td>Chemistry </td>
+    <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
     <td>Ms<br></td>
     <td>Lee Lin Hoon<br></td>
-    <td>HOD / Science (IP)<br></td>
+    <td>School Staff Developer<br></td>
     <td>Chemistry<br></td>
     <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Low Kian Seh<br></td>
-    <td>HOD / ICT<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a><br></td>
-  </tr>
-
   <tr>
     <td>Mr<br></td>
     <td>Wong Jee Pheng<br></td>
@@ -862,7 +860,7 @@ description: ""
   <tr>
     <td>Ms<br></td>
     <td>Tan Yi Jie<br></td>
-    <td>Deputy Head / CCE &amp; Student Well-Being<br></td>
+    <td>Deputy Head /  Student Well-Being<br></td>
     <td>Chemistry<br></td>
     <td><a href="mailto:tan_yi_jie@moe.edu.sg">tan_yi_jie@moe.edu.sg</a><br></td>
   </tr>
@@ -872,6 +870,13 @@ description: ""
     <td>Deputy Head / Chemistry </td>
     <td> Chemistry</td>
     <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td> Ms</td>
+    <td>Kok Hui Ching</td>
+    <td>Deputy Head /Science (IP) </td>
+    <td>Physics </td>
+    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -909,18 +914,18 @@ description: ""
     <td><a href="mailto:daniel_yee@moe.edu.sg">daniel_yee@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Mr<br></td>
-    <td>Daren Ong<br></td>
-    <td>Teacher<br></td>
-    <td>Biology<br></td>
-    <td><a href="mailto:ong_guanjie_daren@moe.edu.sg">ong_guanjie_daren@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Mrs</td>
     <td>Gay-Lin Wenjie </td>
     <td>Teacher </td>
     <td>Biology</td>
     <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms </td>
+    <td>Ivy Liew </td>
+    <td>Teacher  </td>
+    <td> Biology </td>
+    <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Ms<br></td>
@@ -930,6 +935,13 @@ description: ""
     <td><a href="mailto:jean_chong_jing_ting@moe.edu.sg">jean_chong_jing_ting@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td>Mr </td>
+    <td>Johnson Sim </td>
+    <td>Teacher </td>
+    <td> Biology </td>
+    <td><a href="mailto:sim_johnson@moe.edu.sg">sim_johnson@moe.edu.sg</a></td>
+  </tr>
+  <tr>
     <td>Mr</td>
     <td>Jonathan Chong</td>
     <td>Teacher</td>
@@ -937,33 +949,11 @@ description: ""
     <td><a href="mailto:chong_kok_leong@moe.edu.sg">chong_kok_leong@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Mr</td>
-    <td>Li Youjie Jack</td>
+    <td>Ms </td>
+    <td>Tan Zhen Zhi</td>
     <td>Teacher </td>
-    <td>Biology</td>
-    <td><a href="mailto:li_youjie@moe.edu.sg">li_youjie@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Lisa Yeo<br></td>
-    <td>Teacher<br></td>
-    <td>Biology<br></td>
-    <td><a href="mailto:toh_may_may_lisa@moe.edu.sg">toh_may_may_lisa@moe.edu.sg</a><br></td>
-  </tr>
-  
-  <tr>
-    <td>Ms</td>
-    <td>Tay Guay Kim</td>
-    <td>Teacher</td>
-    <td>Biology</td>
-    <td><a href="mailto:tay_guay_kim@moe.edu.sg">tay_guay_kim@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Miss</td>
-    <td>Teo Choon Mei </td>
-    <td>Teacher </td>
-    <td>Biology</td>
-    <td><a href="mailto:teo_choon_mei@moe.edu.sg">teo_choon_mei@moe.edu.sg</a> </td>
+    <td> Biology </td>
+    <td><a href="mailto:tan_zhen_zhi_a@moe.edu.sg">tan_zhen_zhi_a@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mrs<br></td>
@@ -985,6 +975,13 @@ description: ""
     <td>Teacher<br></td>
     <td>Chemistry<br></td>
     <td><a href="mailto:lee_yoke_ling_elling@moe.edu.sg">lee_yoke_ling_elling@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td> Mdm</td>
+    <td>Grace Lim  </td>
+    <td>Teacher </td>
+    <td>Chemistry </td>
+    <td><a href="mailto:lim_june_hui_grace@moe.edu.sg">lim_june_hui_grace@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -1022,11 +1019,11 @@ description: ""
     <td><a href="mailto:cheng_boon_wah_tearle@moe.edu.sg">cheng_boon_wah_tearle@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Mrs<br></td>
-    <td>Yap Siew Siang<br></td>
-    <td>Teacher<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:ong_siew_siang@moe.edu.sg">ong_siew_siang@moe.edu.sg</a><br></td>
+    <td>Mdm </td>
+    <td>Isnarti M Noordin </td>
+    <td>Teacher </td>
+    <td>Physics </td>
+    <td><a href="mailto:isnarti_mohamed_noordin@moe.edu.sg">isnarti_mohamed_noordin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -1034,13 +1031,6 @@ description: ""
     <td>Teacher<br></td>
     <td>Physics<br></td>
     <td><a href="mailto:sum_chee_chung_ivan@moe.edu.sg">sum_chee_chung_ivan@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Koh Eng Chee<br></td>
-    <td>Teacher<br></td>
-    <td>Physics<br></td>
-    <td><a href="mailto:koh_eng_chee@moe.edu.sg">koh_eng_chee@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -1114,7 +1104,7 @@ description: ""
     <td><a href="mailto:goh_li_leng@schools.gov.sg">goh_li_leng@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td> Mr</td>
+    <td>Mr</td>
     <td>Faizal Johan  </td>
     <td>Operations Manager</td>
     <td><a href="mailto:faizal_johan@schools.gov.sg">faizal_johan@schools.gov.sg</a></td>
@@ -1133,15 +1123,15 @@ description: ""
   </tr>
   <tr>
     <td>Ms<br></td>
-    <td>Ang Bee Lee<br></td>
-    <td>Administrative Executive<br></td>
-    <td><a href="mailto:ang_bee_lee_b@schools.gov.sg">ang_bee_lee_b@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Ms<br></td>
     <td>Janet Peh<br></td>
     <td>Administrative Executive<br></td>
     <td><a href="mailto:janet_peh@schools.gov.sg">janet_peh@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <td> Ms </td>
+    <td>Sartha</td>
+    <td>Administrative Executive<br></td>
+    <td><a href="mailto:sartha_kanisha@moe.edu.sg">sartha_kanisha@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mdm<br></td>
@@ -1160,6 +1150,18 @@ description: ""
     <td>Jane Koh<br></td>
     <td>Corporate Support Officer<br></td>
     <td><a href="mailto:koh_poh_lin@schools.gov.sg">koh_poh_lin@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mdm </td>
+    <td>Norhana </td>
+    <td>Corporate Support Officer </td>
+    <td><a href="mailto:norhana_mohamed_shariff@moe.edu.sg">norhana_mohamed_shariff@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td>Mr </td>
+    <td>Cheong Wah Cheong </td>
+    <td>Operations Support Officer</td>
+    <td><a href="mailto:cheong_wah_cheong_@moe.edu.sg">cheong_wah_cheong_@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mdm<br></td>
@@ -1228,6 +1230,12 @@ description: ""
     <td><a href="mailto:danyel_ong_wei@moe.edu.sg">danyel_ong_wei@moe.edu.sg</a></td>
   </tr>
   <tr>
+    <td>Mr </td>
+    <td>Sahlan Selamat </td>
+    <td>School Counsellor  </td>
+    <td><a href="mailto:sahlan_selamat@moe.edu.sg">sahlan_selamat@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
     <td>Mr</td>
     <td>Kwek Baozhi Andy</td>
     <td>SEN Officer - Learning Support Educator </td>
@@ -1273,7 +1281,31 @@ description: ""
     <td>Mr<br></td>
     <td>Razali Jantan<br></td>
     <td>Technical Support Officer<br>(JC Physics Science Lab)</td>
-    <td><a href="mailto:razali_jantan@moe.edu.sg">razali_jantan@moe.edu.sg</a></td>
+    <td><a href="mailto:razali_jantan@moe.edu.sg">razali_jantan@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms </td>
+    <td>Emilia Wee </td>
+    <td>School Admin Team (Support Staff)</td>
+    <td><a href="mailto:emilia_jalyn_wee@moe.edu.sg">emilia_jalyn_wee@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td>Mdm </td>
+    <td>Lim Hwee Ngoh </td>
+    <td>School Admin Team (Support Staff)</td>
+    <td><a href="mailto:lim_hwee_ngoh@moe.edu.sg">lim_hwee_ngoh@moe.edu.sg</a>  </td>
+  </tr>
+  <tr>
+    <td>Ms </td>
+    <td>Ruby</td>
+    <td>Administrative Assistant (Support Staff) </td>
+    <td><a href="mailto:tan_chai_lian@edu.moe.sg">tan_chai_lian@moe.edu.sg</a>   </td>
+  </tr>
+  <tr>
+    <td>Ms </td>
+    <td>Enyf </td>
+    <td>School Librarian </td>
+    <td><a href="mailto:enyf_mohamed_raib@moe.edu.sg">enyf_mohamed_raib@moe.edu.sg</a> </td>
   </tr>
 </tbody>
 </table>
