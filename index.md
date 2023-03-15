@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/banner.gif
       key_highlights:
         - title: "IP1 Registration & Appeals "
           description: ""
