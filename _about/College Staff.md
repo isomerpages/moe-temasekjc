@@ -367,7 +367,7 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">ENGLISH DEPARTMENT – IP (LANGUAGE ARTS & ENGLISH LITERATURE)</label>
     <div>
-      <table>
+<table>
 <thead>
   <tr>
     <th colspan="2">Name<br></th>
@@ -395,22 +395,28 @@ description: ""
     <td><a href="mailto:kwan_kah_wai_jenny@moe.edu.sg">kwan_kah_wai_jenny@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td> Mdm</td>
+    <td>Yani </td>
+    <td>Deputy Head / <br>Language Arts &amp; English Literature </td>
+    <td><a href="mailto:nuryani_suneh@moe.edu.sg">nuryani_suneh@moe.edu.sg</a></td>
+  </tr>
+  <tr>
     <td>Ms<br></td>
     <td>Esther Wang<br></td>
-    <td>Teacher<br></td>
+    <td>Senior Teacher /<br>English Literature</td>
     <td><a href="mailto:wang_yingjie_esther@moe.edu.sg">wang_yingjie_esther@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Ms</td>
+    <td>Christine Chia </td>
+    <td>Teacher</td>
+    <td><a href="mailto:chia_yueh_chin@moe.edu.sg">chia_yueh_chin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
     <td>Jeremy Tay<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:tay_kiah_koon_jeremy@moe.edu.sg">tay_kiah_koon_jeremy@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Karen Loh<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:karen_mary_neo@moe.edu.sg">karen_mary_neo@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
@@ -428,7 +434,13 @@ description: ""
     <td>Miss<br></td>
     <td>Teoh Yu Han<br></td>
     <td>Teacher<br></td>
-    <td><a href="mailto:teoh_yu_han@moe.edu.sg">teoh_yu_han@moe.edu.sg</a></td>
+    <td><a href="mailto:teoh_yu_han@moe.edu.sg">teoh_yu_han@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mr</td>
+    <td>Trevor Tay </td>
+    <td>Teacher </td>
+    <td><a href="mailto:tay_chen_yi_trevor@moe.edu.sg">tay_chen_yi_trevor@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
