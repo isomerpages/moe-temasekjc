@@ -18,7 +18,7 @@ Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&
 <label for="accordion2">APPLICATION PROCESS</label><div>  
 <p> 
 	
-</p><h5> 1) Application Form </h5>
+<h5> 1) Application Form </h5>
 
 <ul>
 <li> Click&nbsp;</li>
@@ -47,7 +47,7 @@ Please upload the following supporting documents:
 
 #### 4) Outcome of Application
 
-*   **Only successful applicants**&nbsp;will be notified by&nbsp;**8&nbsp;February, 2pm**.<p></p>  
+*   **Only successful applicants**&nbsp;will be notified by&nbsp;**8&nbsp;February, 2pm**</p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
