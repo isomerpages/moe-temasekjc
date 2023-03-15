@@ -65,7 +65,8 @@ Here's the code in HTML:
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">CONTACT US</label><div>  
-<p>If you have any general enquiries regarding the Appeal Application, please contact the TJC General Office at&nbsp;6442 8066&nbsp;during office hours or email:&nbsp;[temasek\_jc@moe.edu.sg](mailto:temasek_jc@moe.edu.sg)</p>  
+
+<p>If you have any general enquiries regarding the Appeal Application, please contact the TJC General Office at <a href="tel:+6564428066">6442 8066</a> during office hours or email: <a href="mailto:temasek_jc@moe.edu.sg">temasek_jc@moe.edu.sg</a>.</p>
 </div></li>  
   
 </ul>
