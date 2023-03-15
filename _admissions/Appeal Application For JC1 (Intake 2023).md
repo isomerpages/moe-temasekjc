@@ -39,7 +39,7 @@ Please upload the following supporting documents:
 <li>Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)</li>
 </ul>
 
-#### 3) Important Points
+<h5> 3) Important Points </h5>
 
 *   All application to be&nbsp;**submitted online**&nbsp;using the link provided above. Application received by fax and email will&nbsp;**NOT**&nbsp;be considered.
 *   Successful applicants must&nbsp;**bring along the original documents for verification**&nbsp;when collecting the letter of offer from General Office.
