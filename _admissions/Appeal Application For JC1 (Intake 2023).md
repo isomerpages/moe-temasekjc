@@ -23,8 +23,6 @@ Appeal Application for admission to JC1 (Intake 2023) commences from **2** **F
 *   Click [here](https://jae.tjc.edu.sg/) to proceed with your online application. The application form should take approximately 20 minutes to complete.
 *   After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form. 
 
-  
-
 #### 2) Supporting Documents 
 
 Please upload the following supporting documents:
@@ -36,8 +34,6 @@ Please upload the following supporting documents:
 *   CCA Achievements & VIA records
 *   Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable) 
 
-  
-
 #### 3) Important Points
 
 *   All application to be **submitted online** using the link provided above. Application received by fax and email will **NOT** be considered.
@@ -45,8 +41,6 @@ Please upload the following supporting documents:
 *   Successful DSA-JC students are **NOT allowed** to transfer to another school after the release of the GCE O-Level Examination results as they are expected to honour their commitment for the full duration of the programme.
 *   The College reserves the right not to reveal the results or reasons for non-selection.
 *   The College will not provide the application outcome over the phone.
-
-  
 
 #### 4) Outcome of Application
 
