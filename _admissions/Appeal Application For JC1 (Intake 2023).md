@@ -55,8 +55,6 @@ Please upload the following supporting documents:
 
 <h5> 4) Outcome of Application </h5>
 
-Here's the code in HTML:
-
 <ul> <li><strong>Only successful applicants</strong> will be notified by <strong>8 February, 2pm</strong>.</li> 
 </ul>
 
