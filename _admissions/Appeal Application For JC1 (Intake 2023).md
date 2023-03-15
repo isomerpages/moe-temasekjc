@@ -26,16 +26,18 @@ Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&
 	
 </ul>
 
-#### 2) Supporting Documents&nbsp;
+<h5> 2) Supporting Documents</h5>
 
 Please upload the following supporting documents:
 
-*   2021 GCE O-Level Exam Results Slip
-*   Verification Slip (JAE Registration)
-*   Form A bearing L1R5 and Subject Grades
-*   Sec 3 and Sec 4 Exam Result Slips (End-of-Year)
-*   CCA Achievements &amp; VIA records
-*   Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)&nbsp;
+<ul> 
+<li>2021 GCE O-Level Exam Results Slip</li> 
+<li>Verification Slip (JAE Registration)</li> 
+<li>Form A bearing L1R5 and Subject Grades</li>
+<li>Sec 3 and Sec 4 Exam Result Slips (End-of-Year)</li> 
+<li>CCA Achievements &amp; VIA records</li> 
+<li>Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)</li>
+</ul>
 
 #### 3) Important Points
 
