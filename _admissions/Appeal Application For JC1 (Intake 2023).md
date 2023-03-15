@@ -20,8 +20,10 @@ Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&
 	
 <h5> 1) Application Form </h5>
 
-<ul>
-<li> Click here After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.&nbsp;</li>
+<ul> <li>Click <a href="https://matrix.tjc.edu.sg/0/appeal.html" target="\_blank">here</a> After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.</li>
+	
+<li>After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form. </li>
+	
 </ul>
 
 #### 2) Supporting Documents&nbsp;
