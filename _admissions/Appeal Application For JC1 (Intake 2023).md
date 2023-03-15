@@ -41,15 +41,26 @@ Please upload the following supporting documents:
 
 <h5> 3) Important Points </h5>
 
-*   All application to be&nbsp;**submitted online**&nbsp;using the link provided above. Application received by fax and email will&nbsp;**NOT**&nbsp;be considered.
-*   Successful applicants must&nbsp;**bring along the original documents for verification**&nbsp;when collecting the letter of offer from General Office.
-*   Successful DSA-JC students are&nbsp;**NOT allowed**&nbsp;to transfer to another school after the release of the GCE O-Level Examination results as they are expected to honour their commitment for the full duration of the programme.
-*   The College reserves the right not to reveal the results or reasons for non-selection.
-*   The College will not provide the application outcome over the phone.
+<ul> 
+<li>All application to be <strong>submitted online</strong> using the link provided above. Application received by fax and email will <strong>NOT</strong> be considered.</li> 
 
-#### 4) Outcome of Application
+<li>Successful applicants must <strong>bring along the original documents for verification</strong> when collecting the letter of offer from General Office.</li> 
 
-*   **Only successful applicants**&nbsp;will be notified by&nbsp;**8&nbsp;February, 2pm**</p>  
+<li>Successful DSA-JC students are <strong>NOT allowed</strong> to transfer to another school after the release of the GCE O-Level Examination results as they are expected to honour their commitment for the full duration of the programme.</li> 
+
+<li>The College reserves the right not to reveal the results or reasons for non-selection.</li>
+
+<li>The College will not provide the application outcome over the phone.</li> 
+</ul>
+
+<h5> 4) Outcome of Application </h5>
+
+Here's the code in HTML:
+
+<ul> <li><strong>Only successful applicants</strong> will be notified by <strong>8 February, 2pm</strong>.</li> 
+</ul>
+
+</p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
