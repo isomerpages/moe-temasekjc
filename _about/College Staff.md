@@ -63,7 +63,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">ARTS DEPARTMENT: HUMANITIES – JC (ECONOMICS, GEOGRAPHY & HISTORY)</label>
     <div>
-     <table>
+ <table>
 <thead>
   <tr>
     <th colspan="2">Name<br></th>
@@ -74,13 +74,6 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>Mr<br></td>
-    <td>Koh Weining<br></td>
-    <td>HOD / Economics<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:koh_weining@moe.edu.sg">koh_weining@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Mrs<br></td>
     <td>Lim Kai Teng<br></td>
     <td>Dean / Junior College<br></td>
@@ -90,7 +83,7 @@ description: ""
   <tr>
     <td>Ms<br></td>
     <td>Wong Ying Ying<br></td>
-    <td>HOD / CCE &amp; Student Well-Being<br></td>
+    <td>HOD / Student Well-Being<br></td>
     <td>Economics<br></td>
     <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a><br></td>
   </tr>
@@ -144,6 +137,13 @@ description: ""
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td>Mrs</td>
+    <td>Lau Ke Li</td>
+    <td>Teacher</td>
+    <td>Economics</td>
+    <td><a href="mailto:yong_ke_li@moe.edu.sg">yong_ke_li@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
     <td>Mdm<br></td>
     <td>Lim Li Lian<br></td>
     <td>Teacher<br></td>
@@ -193,7 +193,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">ARTS DEPARTMENT: HUMANITIES – IP (GEOGRAPHY, HISTORY & SINGAPORE STUDIES)</label>
     <div>
-      <table>
+ <table>
 <thead>
   <tr>
     <th colspan="2">Name<br></th>
@@ -213,30 +213,23 @@ description: ""
   <tr>
     <td>Mr</td>
     <td>Han Songguang </td>
-    <td>HOD / Student Development &amp; CCA</td>
+    <td>HOD / Student Leadership</td>
     <td> Geography</td>
     <td><a href="mailto:han_song_guang@moe.edu.sg">han_song_guang@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Mrs<br></td>
-    <td>Goh Wenhui<br></td>
-    <td>Deputy Head / Humanities (IP)<br></td>
-    <td>Geography<br></td>
-    <td><a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a><br></td>
+    <td>Ms</td>
+    <td>Wu Xiuyun Rebecca </td>
+    <td>Deputy Dean / Integrated Programme</td>
+    <td>Geography </td>
+    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td> Ms</td>
-    <td>Esti Asmira </td>
-    <td>Deputy Head / Student Development </td>
+    <td>Mr </td>
+    <td>Brendon Chee </td>
+    <td>Senior Teacher / History </td>
     <td>History</td>
-    <td><a href="mailto:sesilia_esti_asmira@moe.edu.sg">sesilia_esti_asmira@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Denise Kho<br></td>
-    <td>Teacher<br></td>
-    <td>History<br></td>
-    <td><a href="mailto:kho_suet_min_denise@moe.edu.sg">kho_suet_min_denise@moe.edu.sg</a><br></td>
+    <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg">chee_yao_rong_brendon@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr</td>
@@ -247,10 +240,10 @@ description: ""
   </tr>
   <tr>
     <td>Ms</td>
-    <td>Wu Xiuyun Rebecca </td>
+    <td>Chen Ying </td>
     <td>Teacher </td>
     <td> Geography</td>
-    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a></td>
+    <td><a href="mailto:chen_ying@moe.edu.sg">chen_ying@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -260,7 +253,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">ENGLISH DEPARTMENT – JC (GENERAL PAPER & KNOWLEDGE & INQUIRY)</label>
     <div>
-      <table>
+<table>
 <thead>
   <tr>
     <th colspan="2">Name<br></th>
@@ -278,13 +271,13 @@ description: ""
   <tr>
     <td>Ms<br></td>
     <td>Thangam<br></td>
-    <td>Deputy Head / CCE &amp; Student<br>Well-Being</td>
+    <td>HOD / CCE</td>
     <td><a href="mailto:thangam_vickerama_singhan@moe.edu.sg">thangam_vickerama_singhan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
     <td>Francis Tong<br></td>
-    <td>Deputy Head /<br>CCE &amp; Student<br>Well-Being (Discipline)</td>
+    <td>Deputy Head /<br>Student<br>Well-Being</td>
     <td><a href="mailto:tong_chee_beng_francis@moe.edu.sg">tong_chee_beng_francis@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -318,6 +311,12 @@ description: ""
     <td><a href="mailto:k_veerapandiyan@moe.edu.sg">k_veerapandiyan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+    <td>Ms</td>
+    <td>Bliss Tan </td>
+    <td>Teacher </td>
+    <td><a href="mailto:bliss_tan@moe.edu.sg">bliss_tan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
     <td>Ms<br></td>
     <td>Cheah Lee Huang<br></td>
     <td>Teacher<br></td>
@@ -328,12 +327,6 @@ description: ""
     <td>Elim Cheng<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:cheng_elim@moe.edu.sg">cheng_elim@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Fang Nan-Siew<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:fang_nan_siew@moe.edu.sg">fang_nan_siew@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
