@@ -21,9 +21,7 @@ Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&
 <h5> 1) Application Form </h5>
 
 <ul>
-<li> Click&nbsp;</li>
-
-<li>  After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.&nbsp;</li>
+<li> Click here After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.&nbsp;</li>
 </ul>
 
 #### 2) Supporting Documents&nbsp;
