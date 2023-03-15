@@ -44,7 +44,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
     <input type="checkbox" id="accordion3">
     <label for="accordion3">LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</label>
     <div>
-			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2022</u>:</b>
+			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
 			<div style="text-align: center;"><strong>IP Year 1</strong></div>
 <div>&nbsp;</div>
 <table class="iveo_table ives_tab_simple3 ive_eobj_center">
