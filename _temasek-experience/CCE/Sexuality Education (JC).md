@@ -23,7 +23,7 @@ third_nav_title: CCE
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">OVERVIEW OF TJC’S 2022 SEXUALITY EDUCATION PROGRAMME (JC1 & JC2)</label>
+    <label for="accordion2">OVERVIEW OF TJC’S 2023 SEXUALITY EDUCATION PROGRAMME (JC1 & JC2)</label>
     <div>
 						<ol>
 				<li><p style="text-align: justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p></li>
@@ -38,8 +38,8 @@ third_nav_title: CCE
     <input type="checkbox" id="accordion3">
     <label for="accordion3">LESSON SCHEDULE (JC1 & JC2)</label>
     <div>
-			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2022</u>:</b>
-			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 1</b></span><br>Theme 3B from Module: Developing Healthy Relationships</p>
+			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2023</u>:</b>
+			<p style="text-align: center;"><span style="color:#00703C"> <b>JC1</b></span><br>Theme 3B from Module: Developing Healthy Relationships</p>
 			<table>
 <tbody>
 <tr>
