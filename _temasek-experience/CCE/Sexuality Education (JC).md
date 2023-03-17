@@ -39,159 +39,61 @@ third_nav_title: CCE
     <label for="accordion3">LESSON SCHEDULE (JC1 & JC2)</label>
     <div>
 			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC1 <u>2023</u>:</b>
-			<p style="text-align: center;"><span style="color:#00703C"> <b>JC1</b></span><br>Theme 3B from Module: Developing Healthy Relationships</p>
-			<table>
+			<p style="text-align: center;"><span style="color:#00703C"> <b>JC1</b></span></p>
+<table>
+<thead>
+  <tr>
+    <th>Module / Theme</th>
+    <th>Lesson Title / Duration<br></th>
+    <th>Lesson Overview &amp; Objectives<br></th>
+    <th>Time Period<br></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>LESSONS</strong></td>
-<td style="text-align: center;"><strong>DURATION</strong></td>
-<td style="text-align: center;"><strong>Lesson Objectives<br />At the end of the lesson, students will be able to:</strong></td>
-<td style="text-align: center;"><strong>TIME PERIOD</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="112">
-<div>1</div>
-</td>
-<td style="text-align: center;" width="170">
-<div>50 mins</div>
-</td>
-<td width="483">
-<div>
-<ul>
-<li>navigate challenges in a dating relationship</li>
-<li>identify early indications of a breakdown in a relationship</li>
-<li>know when to seek help and who to turn to for support</li>
-<li>appreciate that one can emerge stronger and be better prepared for future relationships</li>
-<li>develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;" width="169">Term 3 Week 5</td>
-</tr>
-<tr>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">
-<div>50 mins</div>
-</td>
-<td>
-<div>
-<ul>
-<li>examine issues related to abstinence</li>
-<li>explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices</li>
-<li>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles</li>
-<li>understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;">Term 3 Week 6</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="112">3</td>
-<td style="text-align: center;" width="170">
-<div>50 mins</div>
-</td>
-<td width="483">
-<div>
-<ul>
-<li>examine issues related to abortion and the impact of sexually transmitted infections (STIs)</li>
-<li>understand that one has to make responsible decisions for both self and others</li>
-<li>understand that sexual abstinence is the only way to remove any risks that come with casual sex</li>
-<li>know how to support friends or others who may be pregnant or have STIs</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;" width="169">Term 3 Week 9</td>
-</tr>
+  <tr>
+    <td>Developing Healthy Relationships / Theme 3B 'Sexual Health and Behaviour'</td>
+    <td>What Are Your #relationshipgoals?(60 mins)</td>
+    <td>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?<br><br>In this lesson, students will learn to navigate challenges in a dating relationship. This includes identifying unhealthy relationships, when to seek help, who to turn to for support and to appreciate that one can emerge stronger and be better prepared for future relationships. Students will have a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others.<br><br>At the end of the lesson, students will be able to:<br><br>navigate challenges in a dating relationship<br><br>identify early indications of a breakdown in a relationship<br><br>know when to seek help and who to turn to for support<br><br>appreciate that one can emerge stronger and be better prepared for future relationships<br><br>develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others<br></td>
+    <td>Term 2<br>Week 5<br></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>If Not Now When<br><br>(Part 1)<br>(60 mins)</td>
+    <td><br>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?<br><br>In this lesson, students examine issues related to abstinence and explore the balance between being free to make personal choices and being responsible for the consequences of their choices. They will understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles. In so doing, they learn to make responsible decisions for self and others, and think through the consequences of doing so.<br><br>At the end of the lesson, students will be able to:<br><br>examine issues related to abstinence<br><br>explore the balance between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br><br>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br><br>understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</td>
+    <td>Term 3<br>Week 6<br></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>If Not Now When<br>(Part 2)<br><br>(60 mins)</td>
+    <td><br>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?<br>In this lesson, students examine issues related to abortion and the impact of sexually transmitted infections (STIs);  understand that one has to make responsible decisions for both self and others, and consider sexual abstinence before marriage to remove any risks that come with casual sex. The lesson will also focus on being a source of support for others who may be pregnant or have STIs.<br><br>At the end of the lesson, students will be able to:<br><br>examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br><br>understand that one has to make responsible decisions for both self and others<br><br>understand that sexual abstinence is the only way to remove any risks that come with casual sex<br><br>know how to support friends or others who may be pregnant or have STIs</td>
+    <td>Term 3<br>Week 9</td>
+  </tr>
 </tbody>
 </table>
-			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in JC2 <u>2022</u>:</b>
-			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 2</b></span><br>“Love Matters (2nd Edition)” Teaching & Learning resource package</p>
+			<b>Below are the Sexuality Education lessons that will be taught in JC2 in <u>2023</u>:</b>
+			<p style="text-align: center;"><span style="color:#00703C"> <b>JC 2</b></span><br></p>
 			<div>&nbsp;</div>
 <table>
+<thead>
+  <tr>
+    <th>Module / Theme<br></th>
+    <th>Lesson Title / Duration<br></th>
+    <th>Lesson Overview &amp; Objectives<br>At the end of the lesson, students will be able to:<br></th>
+    <th>Time Period<br></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>UNIT</strong></td>
-<td style="text-align: center;"><strong>LESSONS / DURATION</strong></td>
-<td style="text-align: center;"><strong>Lesson Objectives<br />At the end of the lesson, students will be able to:</strong></td>
-<td style="text-align: center;"><strong>TIME PERIOD</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="112">Lessons about Love (Part 7)</td>
-<td style="text-align: center;" width="170">
-<div>1</div>
-<div>(50 mins)</div>
-</td>
-<td width="483">
-<div>
-<ul>
-<li>identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship</li>
-<li>appreciate that one can emerge stronger despite having gone through a breakup</li>
-<li>explore beliefs about marriage</li>
-<li>know the possible psychological impact on children experiencing parental separation or divorce</li>
-<li>recognise the importance of having family support for a relationship</li>
-<li>aspire to develop similar enduring character traits and qualities that one would consider in a life partner</li>
-<li>appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;" width="160">Term 1 Week 8</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<div>2</div>
-<div>(50 mins)</div>
-</td>
-<td width="483">
-<div>
-<ul>
-<li>recognise that personal decisions on how one displays own affections in public can affect others</li>
-<li>discern the impact of new media on relationship building</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;" width="160">Term 2 Week 6</td>
-</tr>
-<tr>
-<td style="text-align: center;">NA</td>
-<td style="text-align: center;">
-<div>3</div>
-<div>(50 mins)</div>
-</td>
-<td>
-<ul>
-<li>This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</li>
-</ul>
-</td>
-<td>Term 3 Week 7</td>
-</tr>
-</tbody>
-</table>
-			<p style="text-align: justify;"><b>eTeens Programme (for JC1)</b></p>
-			<p style="text-align: justify;"><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
-			<p style="text-align: justify;">Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
-			<b>At Temasek Junior College, the eTeens programme will be implemented as follows in <u>2022</u>:</b>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="114"><strong>Topics/Lessons</strong></td>
-<td style="text-align: center;" width="304"><strong>Programme Learning Objectives</strong></td>
-<td style="text-align: center;" width="90"><strong>Time Period</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="114">Mass Talk by HPB appointed vendor</td>
-<td width="304">
-<div>
-<ul>
-<li>Awareness of the different STI and HIV</li>
-<li>Modes of transmission for STI and HIV</li>
-<li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
-<li>Consequences and impact of STI/HIV</li>
-<li>State the ways of managing the impact</li>
-</ul>
-</div>
-</td>
-<td style="text-align: center;" width="90">Term 3 Week 8</td>
-</tr>
+  <tr>
+    <td rowspan="2">Developing Healthy Relationships / Theme 3C ‘Society, Culture and the Law’</td>
+    <td>Why is Voyeurism Wrong? <br><br>(60 mins)<br><br></td>
+    <td>Is voyeurism wrong? Why?<br>Students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. They will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right<br><br>At the end of the lesson, students will be able to:<br><br>examine the relationship between rights and responsibilities by exploring societal expectations, the laws and the legal consequences of inappropriate sexual behaviour<br><br>examine what makes voyeurism wrong<br><br>learn the importance of the law as signposts for desired behaviours and conduct in society<br><br>learn the importance of one’s moral compass in responsible decision-making and choosing to do what is right</td>
+    <td>Term 1<br>Week 8<br></td>
+  </tr>
+  <tr>
+    <td>Overcoming Stereotypes <br><br>(60 mins)</td>
+    <td>How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?<br>This lesson will help students recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships<br><br><br>Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in).<br><br>At the end of the lesson, students will be able to:<br><br>recognize that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships<br><br>understand how societal influences can skew one’s understanding of gender stereotypes<br><br>learn how gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in) can affect interactions and relationships in ways that are harmful to themselves and others<br></td>
+    <td>Term 1<br>Week 9</td>
+  </tr>
 </tbody>
 </table>
     </div>
