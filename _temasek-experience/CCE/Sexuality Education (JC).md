@@ -96,6 +96,32 @@ third_nav_title: CCE
   </tr>
 </tbody>
 </table>
+
+<b>_eTeens_ Programme (for JC1)</b>
+
+_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.  
+
+  
+
+Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+<b>At Temasek Junior College, the eTeens programme will be implemented as follows in 2023:</b>
+			<table>
+<thead>
+  <tr>
+    <th>Topics/Lessons<br></th>
+    <th>Programme Learning Objectives<br></th>
+    <th>Time Period<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mass Talk by HPB appointed vendor<br></td>
+    <td>Awareness of the different STI and HIV<br><br>Modes of transmission for STI and HIV<br><br>Modes of protection against infection, specifically abstinence and the correct use of condoms<br><br>Consequences and impact of STI/HIV<br><br>State the ways of managing the impact of STIs</td>
+    <td>Term 3 Week 5</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li> 
   <li>
@@ -104,11 +130,12 @@ third_nav_title: CCE
     <div>
 			<ol>
 				<li><p style="text-align: justify;">Parents may opt their children out of Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p></li>
-				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also <a href="/files/Temasek%20Experience/SEd%20Letter%20IP.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18/02/2022.</p></li>
-				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also <a href="/files/Temasek%20Experience/eTeens%20IP.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18/02/2022.</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be available via Parents’ Gateway or a hard copy will be distributed to parents. The form is also <b>downloadable</b> <a href="/files/Parent%20Opt%20Out%20Form%202023.pdf" target="_blank"> here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023 (JC2) and 03/03/2023 (JC1).</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be available via Parents’ Gateway or a hard copy will be distributed to parents. The form is also  <b>downloadable </b> <a href="/files/eTeens%20Opt%20Out%202023.pdf" target="_blank">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023.</p></li>
 				<li><p style="text-align: justify;">Parents can contact the school at 6442 8066 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></li>
 				<li><p style="text-align: justify;">Parents, who wish to attend the College’s Sexuality Education programmes, should contact the school to make the necessary arrangements.</p></li>
 			</ol>
     </div>
 	</li> 
 	</ul>
+
