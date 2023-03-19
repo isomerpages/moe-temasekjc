@@ -3,7 +3,7 @@ title: Parents Support Group (PEERS)
 permalink: /about/parents-support-group-peers/
 description: ""
 ---
-# UPLOAD PHOTO SLIDE TO GOOGLE SLIDES
+![](/images/About/PEERS/PEERS%20banner%20pic.jpg)
 
 # PARENTS SUPPORT GROUP (PEERS)
 
