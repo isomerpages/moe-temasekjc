@@ -4,7 +4,6 @@ permalink: /academic/integrated-programme/enriched-curriculum/science/
 description: ""
 third_nav_title: Enriched Curriculum
 ---
-
 # SCIENCE
 
 Aligned to TJC’s ACE outcomes, the IP Science Curriculum aims to nurture our students to become:
@@ -67,7 +66,7 @@ We develop our curriculum based on two main guiding principles:
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP2%20STEM%20Programme%20Vertical%20Farming.jpeg" style="width:100%">IP2 students working on their vertical farming project as part of the STEM Programme</td>
-    <td style="text-align: center;">Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works [here](https://youtu.be/MSr8XdTR4RU)</td>
+    <td style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MSr8XdTR4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works </td>
   </tr>
 </tbody>
 </table>
