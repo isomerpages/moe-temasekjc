@@ -4,7 +4,7 @@ permalink: /highlights/archive/announcements/important-information-for-jc1-stude
 description: ""
 third_nav_title: Announcements
 ---
-# appeals to TJC page is private
+
 # IMPORTANT INFORMATION FOR JC1 STUDENTS
 
 <p style="text-align: justify;">Welcome to Temasek JC! Orientation will be held from <b>7 Feb to 11 Feb 2022</b>. To ensure all JC1 students are well prepared for the start of their journey with us, please note the following information.</p>
