@@ -32,7 +32,7 @@ third_nav_title: Student Leadership Development
 	
    <li> 
 	<input type="checkbox" id="accordion1">
-<label for="accordion1"><b>COMMUNITY LEADERSHIP</b></label>
+<label for="accordion1">COMMUNITY LEADERSHIP</label>
     <div>
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
