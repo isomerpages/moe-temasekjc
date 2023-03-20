@@ -37,7 +37,7 @@ description: ""
 <tr>
 <td style="text-align: center;" width="196"><a href="/temasek-experience/co-curricular-activities/junior-college/cultural-n-performing-arts"><strong>Cultural &amp; Performing Arts</strong></a></td>
 <td style="text-align: center;" width="198"><a href="/temasek-experience/co-curricular-activities/junior-college/sports-n-adventure"><strong>Sports &amp; Adventure</strong></a></td>
-<td style="text-align: center;" width="214"><a href="/temasek-experience/co-curricular-activities/junior-college/sports-n-adventure"><strong>Service &amp; Enrichment</strong></a></td>
+<td style="text-align: center;" width="214"><a href="/temasek-experience/co-curricular-activities/junior-college/service-n-enrichment"><strong>Service &amp; Enrichment</strong></a></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="196">Chinese Drama<br />Chinese Orchestra<br />Choir<br />Drama Club<br />Guitar Ensemble<br />Indian Cultural Society<br />Malay Cultural Club<br />Modern Dance<br />String Ensemble<br />Symphonic Band</td>
