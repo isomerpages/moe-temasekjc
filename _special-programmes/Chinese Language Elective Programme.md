@@ -3,8 +3,7 @@ title: Chinese Language Elective Programme
 permalink: /academic/special-programmes/chinese-language-elective-programme/
 description: ""
 ---
-# upload CLEP video to youtube
-# MOE CLEP-sec and jc links broken
+
 # CHINESE LANGUAGE ELECTIVE PROGRAMME
 
 <table>
