@@ -19,9 +19,6 @@ third_nav_title: Student Leadership Development
 <p>TJC uses James Kouzes and Barry Posner’s The Leadership Challenge model, which is backed by over 25 years of research and data of over three million leaders. Based on case studies of leaders about their personal best experiences as leaders, Kouzes and Posner came up with a pattern of behaviours and actions used by people when they are most effective as leaders, encapsulated by the Five Practices – Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and Encourage the Heart. This tool enables students to chart their own leadership growth and hone their leadership competencies.</p>
 
 <ul class="jekyllcodex_accordion">
-	
-</div>
-	</li> 
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">HIGHTLIGHTS OF OUR STUDENT LEADERSHIP DEVELOPMENT PROGRAMMES</label>
