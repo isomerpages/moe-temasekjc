@@ -15,7 +15,6 @@ third_nav_title: Student Leadership Development
 
 ![](/images/Temasek%20Experience/Developing%20the%20ACE%20Student%20Leader.jpeg)
 
-
 <center>Developing ACE student leaders</center>
 
 ### CONNECT SESSIONS
