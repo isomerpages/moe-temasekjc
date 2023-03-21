@@ -59,7 +59,7 @@ third_nav_title: Student Leadership Development
   
 <P>TDP students with their alumni mentor Dr. Bernard Thong, Senior Consultant at Tan Tock Seng Hospital (Top) and PSPP students hearing from TJC alumnus Mr. Yeo Han Liang about the Singapore Public Service (Below)
 
-With the opportunities and support offered through the TDP, students can be assured of a strong programme that will strengthen their leadership skills and build a robust portfolio. We are confident that the TDP will equip our students with the necessary skills and character to navigate and thrive in today’s increasingly volatile and complex world.</P>
+<p>With the opportunities and support offered through the TDP, students can be assured of a strong programme that will strengthen their leadership skills and build a robust portfolio. We are confident that the TDP will equip our students with the necessary skills and character to navigate and thrive in today’s increasingly volatile and complex world.</p>
    
   <li>
     <input type="checkbox" id="accordion4">
