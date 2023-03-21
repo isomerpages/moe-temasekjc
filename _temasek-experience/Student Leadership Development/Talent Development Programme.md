@@ -39,7 +39,7 @@ third_nav_title: Student Leadership Development
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
 			
-![](/images/TDP%204.png)	
+![](/images/TDP%204.png)
 			
 			
 <p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
@@ -57,9 +57,9 @@ third_nav_title: Student Leadership Development
 ![](/images/TDP%206.png)
 			
   
-TDP students with their alumni mentor Dr. Bernard Thong, Senior Consultant at Tan Tock Seng Hospital (Top) and PSPP students hearing from TJC alumnus Mr. Yeo Han Liang about the Singapore Public Service (Below)
+<P>TDP students with their alumni mentor Dr. Bernard Thong, Senior Consultant at Tan Tock Seng Hospital (Top) and PSPP students hearing from TJC alumnus Mr. Yeo Han Liang about the Singapore Public Service (Below)
 
-With the opportunities and support offered through the TDP, students can be assured of a strong programme that will strengthen their leadership skills and build a robust portfolio. We are confident that the TDP will equip our students with the necessary skills and character to navigate and thrive in today’s increasingly volatile and complex world.
+With the opportunities and support offered through the TDP, students can be assured of a strong programme that will strengthen their leadership skills and build a robust portfolio. We are confident that the TDP will equip our students with the necessary skills and character to navigate and thrive in today’s increasingly volatile and complex world.</P>
    
   <li>
     <input type="checkbox" id="accordion4">
