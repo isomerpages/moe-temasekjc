@@ -67,5 +67,5 @@ With the opportunities and support offered through the TDP, students can be assu
     <div>
 			<p style="text-align: justify;">To be eligible for the TDP, applicants should have obtained overall outstanding results in the GCE O-Level Examination and have excellent CCA and conduct records. Students with leadership experience will be strongly considered for the programme and are highly encouraged to apply.
 
-To learn more about us, please feel free to reach out to the programme coordinator, Ms Janice Chan at [chan\_yan\_ying\_janice@moe.edu.sg](mailto:chan_yan_ying_janice@moe.edu.sg).</p>
+To learn more about us, please feel free to reach out to the programme coordinator, Ms Janice Chan at [chan_yan_ying_janice@moe.edu.sg](mailto:chan_yan_ying_janice@moe.edu.sg).</p>
     </div>
