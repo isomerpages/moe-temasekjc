@@ -39,7 +39,7 @@ third_nav_title: Student Leadership Development
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
 			
-![](/images/TDP%204.png)
+![](/images/tdp_4.png)
 			
 			
 <p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
@@ -68,4 +68,3 @@ third_nav_title: Student Leadership Development
 			<p style="text-align: justify;">To be eligible for the TDP, applicants should have obtained overall outstanding results in the GCE O-Level Examination and have excellent CCA and conduct records. Students with leadership experience will be strongly considered for the programme and are highly encouraged to apply.
 
 To learn more about us, please feel free to reach out to the programme coordinator, Ms Janice Chan at  chan_yan_ying_janice@moe.edu.sg<a href = "mailto:chan_yan_ying_janice@moe.edu.sg">. </p>
- 
