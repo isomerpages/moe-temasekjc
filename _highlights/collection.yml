@@ -1,0 +1,44 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Archive.md
+      - Announcements/.keep
+      - Announcements/Important Information for JC1 Students.md
+      - Announcements/Update on College Rejuvenation Programme.md
+      - Announcements/Our College Anthem.md
+      - Announcements/#TJTogether 2020.md
+      - Events/.keep
+      - Events/IP Admissions Talk (For 2023 Intake).md
+      - Events/JC DSA Engagement Session.md
+      - Events/IP Admissions Talk 2021.md
+      - Events/TEDxYouth@TJC.md
+      - "Events/JC MEP Showcase: MOTIF XIV.md"
+      - "Events/IP MEP Showcase: CADENZA II.md"
+      - Events/43rd College Day Goes Online!.md
+      - Events/IP e Open House 2021.md
+      - Stories/.keep
+      - "Stories/SAF Young Leader Award: Goh Siau Tan.md"
+      - "Stories/PSC Scholarship (Engineering): Saripalli Bhagat Sai Reddy.md"
+      - "Stories/Class of 2021: Darryl Yeng.md"
+      - "Stories/Class of 2021: Yixuan, Reyhern, Yizhou & Oliver.md"
+      - "Stories/Class of 2021: Dylan & Carrie.md"
+      - "Stories/Class of 2021: Elvin & Cheryl.md"
+      - "Stories/Class of 2021: Megan & Ethan.md"
+      - "Stories/Class of 2021: Hwee Keng, Sai & Yock Yan.md"
+      - "Stories/Class of 2021: Elias & Erin.md"
+      - "Stories/Class of 2021: Jun Yan & Jeremy.md"
+      - "Stories/Class of 2021: Prithvi & Liang Jung.md"
+      - "Stories/Class of 2021: Tania & Charlotte.md"
+      - "Stories/Class of 2021: Keng Yu & Izen.md"
+      - "Stories/Class of 2021: Hoy Yip & Jia Xin.md"
+      - "Stories/Class of 2020: Koh Cheng How.md"
+      - "Stories/Class of 2020: Aria Rashid.md"
+      - "Stories/Class of 2020: Dylan James McKaige.md"
+      - "Stories/Class of 2020: Mohan Haresh Vatwani.md"
+      - "Stories/Class of 2020: Tan Yong Xin.md"
+      - "Stories/Class of 2020: Kyla Teo.md"
+      - "Stories/Class of 2020: Lee Xin Mun.md"
+      - "Stories/Class of 2020: Caitlin Seet.md"
+      - "Stories/Class of 2020: Brandon & Reiden.md"
+      - "Stories/Class of 2020: Bethany & Wan Gee.md"

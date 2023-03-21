@@ -1,0 +1,15 @@
+collections:
+  junior-college:
+    output: true
+    order:
+      - Curriculum Overview/.keep
+      - Curriculum Overview/Curriculum Overview.md
+      - Curriculum Overview/Aesthetics.md
+      - Curriculum Overview/Computing.md
+      - Curriculum Overview/English.md
+      - Curriculum Overview/Humanities.md
+      - Curriculum Overview/Mathematics.md
+      - Curriculum Overview/Mother Tongue Languages.md
+      - Curriculum Overview/Physical Education.md
+      - Curriculum Overview/Project Work.md
+      - Curriculum Overview/Science.md

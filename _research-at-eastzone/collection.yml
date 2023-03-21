@@ -1,0 +1,8 @@
+collections:
+  research-at-eastzone:
+    output: true
+    order:
+      - About Research@EastZone.md
+      - Learning Symposium.md
+      - Courses & Registration.md
+      - Projects & Publications.md

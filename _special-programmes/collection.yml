@@ -1,0 +1,7 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - Chinese Language Elective Programme.md
+      - Temasek Humanities Programme.md
+      - Music Elective Programme.md
