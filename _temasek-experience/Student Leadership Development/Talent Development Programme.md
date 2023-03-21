@@ -31,8 +31,6 @@ third_nav_title: Student Leadership Development
 ![](/images/TDP%203.png)
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
-
-<ul class="jekyllcodex_accordion">
 	
    <li> 
 	<input type="checkbox" id="accordion2">
@@ -71,4 +69,3 @@ With the opportunities and support offered through the TDP, students can be assu
 
 To learn more about us, please feel free to reach out to the programme coordinator, Ms Janice Chan at [chan\_yan\_ying\_janice@moe.edu.sg](mailto:chan_yan_ying_janice@moe.edu.sg).</p>
     </div>
-	
