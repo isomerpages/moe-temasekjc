@@ -17,7 +17,12 @@ third_nav_title: Student Leadership Development
 
 <center>Developing ACE student leaders</center>
 
-### CONNECT SESSIONS
+<ul class="jekyllcodex_accordion">
+	
+   <li> 
+	<input type="checkbox" id="accordion1">
+<label for="accordion1">CONNECT SESSIONS</label>
+    <div>
 
 <p style="text-align: justify;">Our  <b>CONNECT sessions</b> give students an opportunity to clarify their leadership philosophy through sharing and discussion with fellow student leaders. From these sessions, TDP students graduate with a strong conviction in their leadership beliefs and values, which ground them as they continue on their leadership journeys.</p>
 
@@ -30,8 +35,8 @@ third_nav_title: Student Leadership Development
 <ul class="jekyllcodex_accordion">
 	
    <li> 
-	<input type="checkbox" id="accordion1">
-<label for="accordion1">COMMUNITY LEADERSHIP</label>
+	<input type="checkbox" id="accordion2">
+<label for="accordion2">COMMUNITY LEADERSHIP</label>
     <div>
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
@@ -41,8 +46,8 @@ third_nav_title: Student Leadership Development
 			
 
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">MENTORSHIP OPPORTUNTIES</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">MENTORSHIP OPPORTUNTIES</label>
     <div>
 						<p style="text-align: justify;">To succeed as a future leader of tomorrow, the TDP also supports our students in deepening their understanding of current domestic and international affairs. Our <b>Alumni Mentoring</b> initiative gives students an insider's view into various industries and sectors, and our <b>Public Service Preparatory Programme (PSPP)</b> builds a critical appreciation of the challenges and opportunities facing Singapore in today's world.   
 
@@ -56,8 +61,8 @@ With the opportunities and support offered through the TDP, students can be assu
     </div>
 	</li> 
   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">ELIGIBILITY FOR THE TALENT DEVELOPMENT PROGRAMME (TDP)</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">ELIGIBILITY FOR THE TALENT DEVELOPMENT PROGRAMME (TDP)</label>
     <div>
 			<p style="text-align: justify;">To be eligible for the TDP, applicants should have obtained overall outstanding results in the GCE O-Level Examination and have excellent CCA and conduct records. Students with leadership experience will be strongly considered for the programme and are highly encouraged to apply.
 
