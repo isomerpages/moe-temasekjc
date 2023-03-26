@@ -71,8 +71,8 @@ description: ""
   </tr>
   <tr>
     <td>HOD / ICT<br></td>
-    <td>Mr Low Kian Seh<br></td>
-    <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a><br></td>
+    <td>Mr Lau Wee Lip Jonathan<br></td>
+    <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Language Arts &amp; English Literature<br></td>
