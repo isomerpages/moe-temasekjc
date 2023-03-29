@@ -26,9 +26,12 @@ third_nav_title: Student Leadership Development
 
 <p style="text-align: justify;">Our  <b>CONNECT sessions</b> give students an opportunity to clarify their leadership philosophy through sharing and discussion with fellow student leaders. From these sessions, TDP students graduate with a strong conviction in their leadership beliefs and values, which ground them as they continue on their leadership journeys.</p>
 
-![](/images/TDP%202.png)
 
-![](/images/TDP%203.png)
+<img src="/images/TDP%202.png" style="width:90%">
+
+<br>
+
+<img src="/images/TDP%203.png" style="width:90%">
 
 <p style="text-align: justify;">TDP students discussing traits of an effective leader (Top) and sharing their reflections on their JC leadership journeys (Below).</p>
 	
@@ -39,7 +42,7 @@ third_nav_title: Student Leadership Development
 			<p style="text-align: justify;"><br>The TDP also curates a variety of <b>community leadership projects</b> that our students can get involved in. These projects enable our students to lead their peers in serving various communities in need, and are valuable learning opportunities for TDP students to test their leadership mettle.</p>
 
 			
-![](/images/TDP%204.png)
+<img src="/images/TDP%204.png" style="width:90%">
 			
 			
 <p style="text-align: justify;"> TDP students engaging the elderly in 2019 under the Community Laboratory @ South East Programme</p>
@@ -51,10 +54,11 @@ third_nav_title: Student Leadership Development
     <div>
 						<p style="text-align: justify;">To succeed as a future leader of tomorrow, the TDP also supports our students in deepening their understanding of current domestic and international affairs. Our <b>Alumni Mentoring</b> initiative gives students an insider's view into various industries and sectors, and our <b>Public Service Preparatory Programme (PSPP)</b> builds a critical appreciation of the challenges and opportunities facing Singapore in today's world.</p>  
 
-![](/images/TDP%205.png)
-							
-  
-![](/images/TDP%206.png)
+<img src="/images/TDP%205.png" style="width:90%">
+
+<br>
+		
+<img src="/images/TDP%206.png" style="width:90%">
 			
   
 <P>TDP students with their alumni mentor Dr. Bernard Thong, Senior Consultant at Tan Tock Seng Hospital (Top) and PSPP students hearing from TJC alumnus Mr. Yeo Han Liang about the Singapore Public Service (Below)
