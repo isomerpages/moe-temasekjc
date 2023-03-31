@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/2023 ip open house banner.png
       key_highlights:
-        - title: "IP1 Registration & Appeals "
-          description: ""
-          url: /admissions/ip-year-1-registration-n-appeals-2023-intake
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
