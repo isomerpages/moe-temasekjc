@@ -7,17 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/2023 ip open house banner.png
       key_highlights:
-        - title: "IP1 Registration & Appeals "
-          description: ""
-          url: /admissions/ip-year-1-registration-n-appeals-2023-intake
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
         - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
+        - title: IP Open House 2023
+          description: ""
+          url: ""
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
