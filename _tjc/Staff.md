@@ -3,7 +3,6 @@ title: Staff
 permalink: /tjc/staff/
 description: ""
 ---
-# schoolcock pit link broken
 # STAFF
 *   <a href="https://form.gov.sg/" target="_blank">Form SG</a>
 *   <a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" target="_blank">HR Online</a>
