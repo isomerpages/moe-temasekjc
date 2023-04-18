@@ -47,9 +47,9 @@ description: ""
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
 			</ul>
-			
+			<div>
 			The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.	
-			
+			</div>
 			<table>
 <tbody>
 <tr>
