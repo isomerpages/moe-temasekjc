@@ -13,8 +13,7 @@ description: ""
 <p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
 
 <p style="text-align: justify;"><b>The selection criteria and processes for the talent areas will be updated on the school
-website in early May 2023. For more information on DSA-Sec, please refer to the MOE
-	website at https://www.moe.gov.sg/dsa-sec</b></p>
+website in early May 2023. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a></b></p>
 
 <ul class="jekyllcodex_accordion">
   <li>
