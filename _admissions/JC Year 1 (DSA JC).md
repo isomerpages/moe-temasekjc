@@ -7,7 +7,7 @@ description: ""
 
 **APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2023)**
 
-<p style="text-align: justify;">The application for the DSA-JC Exercise (2022) will commence from <b>05 May 2022 to 01 July 2022 (5:00 pm, Singapore time)</b>.</p>
+<p style="text-align: justify;">The application for the DSA-JC Exercise (2022) will commence from&nbsp;<b>05 May 2022 to 01 July 2022 (5:00 pm, Singapore time)</b>.</p>
 
 <p style="text-align: justify;">If you are sitting for the GCE O-Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.</p>
 
@@ -24,7 +24,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 20 May 2022 at 4pm. More details of the engagement session can be found <a href="/highlights/archive/events/jc-dsa-engagement-session">here</a>.</p>
+			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. More details of the engagement session will be provided later.</p>
     </div>
 	</li> 
   <li>
@@ -35,7 +35,7 @@ description: ""
 			<ul>
 				<li>	CCA – Performing Arts		
 					<ul>
-				<li>Chinese Orchestra, Choir, English Drama, Modern Dance, String Ensemble, Concert Band</li>
+				<li>Chinese Drama, Choir, Concert Band, English Drama, Modern Dance, String Ensemble</li>
 					</ul>
 				</li>
 				<li>CCA – Sports
@@ -47,6 +47,11 @@ description: ""
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
 			</ul>
+		<div>
+			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+			<p>
+			</p>
+			</div>
 			<table>
 <tbody>
 <tr>
@@ -56,7 +61,7 @@ description: ""
 <tr>
 <td style="text-align: justify;">
 <p>We are looking for talented students who can contribute in the following areas:</p>
-<strong>CCA - Performing Arts</strong><br />
+<strong>CCA - Performing Arts</strong><br>
 <ol>
 <li>Chinese Orchestra</li>
 <li>Choir</li>
@@ -65,7 +70,7 @@ description: ""
 <li>String Ensemble</li>
 <li>Concert Band</li>
 </ol>
-<strong>CCA - Sports</strong><br />
+<strong>CCA - Sports</strong><br>
 <ol>
 <li>Badminton</li>
 <li>Basketball</li>
@@ -88,7 +93,7 @@ description: ""
 <li><u>Shortlisted applicants</u>&nbsp;will be notified via e-mail / telephone call to attend an in-person selection trial and interview which will be conducted from&nbsp;<strong>23 May to 16 July 2022</strong></li>
 <li>Successful applicants through DSA (Performing Arts / Sports) are expected to join a Performing Arts or Sports CCA respectively from JC1 to JC2</li>
 </ul>
-<br /><br /></td>
+<br><br></td>
 </tr>
 <tr>
 <td style="text-align: justify;">
@@ -96,7 +101,7 @@ description: ""
 <ul>
 <li>We are seeking out applicants with a strong passion and aptitude in the Humanities.</li>
 <li>We value students with experience and achievements in humanities-based competitions, such as the MOE History Challenge, NUS Geography Challenge, MUNs, Commonwealth Essay Writing Competition, National Schools Literature Festival.</li>
-<li>We also value experience in MOE&rsquo;s secondary school Talent Development Programmes (TDP) such as the Geography/History TDP, and MOE&rsquo;s Creative Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE&rsquo;s Humanities and Social Science Research Programmes) are also highly valued.</li>
+<li>We also value experience in MOE’s secondary school Talent Development Programmes (TDP) such as the Geography/History TDP, and MOE’s Creative Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE’s Humanities and Social Science Research Programmes) are also highly valued.</li>
 <li>Applicants should be well read on national and global issues and have a strong personal voice.</li>
 <li>More details of the Temasek Humanities Programme can be found&nbsp;<strong><a href="/academic/special-programmes/temasek-humanities-programme" target="_blank">here</a></strong>.</li>
 </ul>
@@ -112,7 +117,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: justify;"><strong>Leadership Excellence</strong><br />
+<td style="text-align: justify;"><strong>Leadership Excellence</strong><br>
 <ul>
 <li>We are looking for applicants with strong leadership skills.</li>
 <li>Key leadership positions in the Students' Council, Prefectorial Board, Uniformed Groups or equivalent will be preferred.</li>
@@ -124,7 +129,7 @@ description: ""
 <li>Academic performance from Sec 3 to 4</li>
 <li>Achievements related to leadership involvement. This can include national / international academic-related competitions</li>
 <li>Shortlisted applicants will be notified via e-mail / telephone call to attend an in-person interview which will be conducted from 23 May to 16 July 2022</li>
-<li>Successful applicants will be expected to take up a leadership role in TJC Students&rsquo; Council&nbsp;</li>
+<li>Successful applicants will be expected to take up a leadership role in TJC Students’ Council&nbsp;</li>
 </ul>
 </td>
 </tr>
@@ -132,7 +137,7 @@ description: ""
 <td style="text-align: justify;">
 <p><strong>Music Elective Programme (MEP)</strong></p>
 <ul>
-<li>Students with strong musical interest and aptitude will have opportunities to hone their musical skills with well-equipped music facilities and engage in authentic learning platforms with distinguished TJC MEP alumni, local and foreign practitioners from renowned institutions and organisations as part of the TJC Visiting Artists&rsquo; Series. The students will deepen their overall musicianship and develop essential 21st-Century skills in music technology and sound recording through our robust programmes.</li>
+<li>Students with strong musical interest and aptitude will have opportunities to hone their musical skills with well-equipped music facilities and engage in authentic learning platforms with distinguished TJC MEP alumni, local and foreign practitioners from renowned institutions and organisations as part of the TJC Visiting Artists’ Series. The students will deepen their overall musicianship and develop essential 21st-Century skills in music technology and sound recording through our robust programmes.</li>
 <li>Successful applicants through DSA (MEP) must take MEP as a GCE A-level examination subject and join one of the Music Performing Arts CCA from JC1 to JC2.</li>
 </ul>
 </td>
@@ -165,9 +170,9 @@ description: ""
 				<li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li>
 				<li><p style="text-align: justify;"> Records of additional qualifications (<b>only highest level required</b>), achievements, awards, scholarships, etc. (if applicable)</p></li>
 			</ul>
-			<p style="text-align: justify;"> <b>3) Selection & Interview Sessions</b><br>Shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions / selection tests between <b>23 May and 16 July 2022</b>.</p>
+			<p style="text-align: justify;"> <b>3) Selection &amp; Interview Sessions</b><br>Shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions / selection tests between <b>23 May and 16 July 2022</b>.</p>
 			<p style="text-align: justify;"> <b>4) Outcome of Application</b><br>All applicants will be notified of the outcome of their application via e-mail by <b>16 August 2022.</b></p>
-			<p style="text-align: justify;"><b>Please click <a href="https://dsa.tjc.edu.sg/" target="_blank">here</a> to apply.</b></p>
+			<p style="text-align: justify;"><b>Please click&nbsp;<a href="https://dsa.tjc.edu.sg/" target="_blank">here</a>&nbsp;to apply.</b></p>
     </div>
 	</li> 
 	  <li>
