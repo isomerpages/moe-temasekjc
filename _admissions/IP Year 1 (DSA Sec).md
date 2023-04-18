@@ -14,7 +14,7 @@ description: ""
 
 <p style="text-align: justify;"><b>The selection criteria and processes for the talent areas will be updated on the school
 website in early May 2023. For more information on DSA-Sec, please refer to the MOE
-	website at [ https://www.moe.gov.sg/dsa-sec]( https://www.moe.gov.sg/dsa-sec)</b></p>
+	website at https://www.moe.gov.sg/dsa-sec</b></p>
 
 <ul class="jekyllcodex_accordion">
   <li>
