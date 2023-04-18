@@ -49,6 +49,8 @@ description: ""
 			</ul>
 		<div>
 			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+			<p>
+			</p>
 			</div>
 			<table>
 <tbody>
