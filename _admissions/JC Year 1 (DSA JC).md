@@ -24,7 +24,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. </p>
+			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 20 May 2022 at 4pm. </p>
     </div>
 	</li> 
   <li>
