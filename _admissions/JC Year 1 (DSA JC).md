@@ -24,7 +24,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. More details of the engagement session will be provided later.</p>
+			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. </p>
     </div>
 	</li> 
   <li>
@@ -35,7 +35,7 @@ description: ""
 			<ul>
 				<li>	CCA – Performing Arts		
 					<ul>
-				<li>Chinese Drama, Choir, Concert Band, English Drama, Modern Dance, String Ensemble</li>
+				<li>Chinese Orchestra, Choir, English Drama, Modern Dance, String Ensemble, Concert Band</li>
 					</ul>
 				</li>
 				<li>CCA – Sports
@@ -48,7 +48,7 @@ description: ""
 				<li>Music Elective Programme (MEP)</li>
 			</ul>
 		<div>
-			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+			<p style="text-align: justify;"></p>	
 			<p>
 			</p>
 			</div>
