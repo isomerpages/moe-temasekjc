@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">ARTS DEPARTMENT: AESTHETICS (ART & MUSIC)</label>
+    <label for="accordion1">ARTS DEPARTMENT: AESTHETICS (ART &amp; MUSIC)</label>
     <div>
       <table>
 <thead>
@@ -61,7 +61,7 @@ description: ""
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">ARTS DEPARTMENT: HUMANITIES – JC (ECONOMICS, GEOGRAPHY & HISTORY)</label>
+    <label for="accordion2">ARTS DEPARTMENT: HUMANITIES – JC (ECONOMICS, GEOGRAPHY &amp; HISTORY)</label>
     <div>
  <table>
 <thead>
@@ -137,13 +137,6 @@ description: ""
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Mrs</td>
-    <td>Lau Ke Li</td>
-    <td>Teacher</td>
-    <td>Economics</td>
-    <td><a href="mailto:yong_ke_li@moe.edu.sg">yong_ke_li@moe.edu.sg</a> </td>
-  </tr>
-  <tr>
     <td>Mdm<br></td>
     <td>Lim Li Lian<br></td>
     <td>Teacher<br></td>
@@ -191,7 +184,7 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">ARTS DEPARTMENT: HUMANITIES – IP (GEOGRAPHY, HISTORY & SINGAPORE STUDIES)</label>
+    <label for="accordion3">ARTS DEPARTMENT: HUMANITIES – IP (GEOGRAPHY, HISTORY &amp; SINGAPORE STUDIES)</label>
     <div>
  <table>
 <thead>
@@ -251,7 +244,7 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">ENGLISH DEPARTMENT – JC (GENERAL PAPER & KNOWLEDGE & INQUIRY)</label>
+    <label for="accordion4">ENGLISH DEPARTMENT – JC (GENERAL PAPER &amp; KNOWLEDGE &amp; INQUIRY)</label>
     <div>
 <table>
 <thead>
@@ -365,7 +358,7 @@ description: ""
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">ENGLISH DEPARTMENT – IP (LANGUAGE ARTS & ENGLISH LITERATURE)</label>
+    <label for="accordion5">ENGLISH DEPARTMENT – IP (LANGUAGE ARTS &amp; ENGLISH LITERATURE)</label>
     <div>
 <table>
 <thead>
@@ -1098,12 +1091,6 @@ description: ""
     <td><a href="mailto:dawn_wong_mei_fun@schools.gov.sg">dawn_wong_mei_fun@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <td>Ms</td>
-    <td>Goh Li Leng </td>
-    <td>Administration Manager </td>
-    <td><a href="mailto:goh_li_leng@schools.gov.sg">goh_li_leng@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td>Mr</td>
     <td>Faizal Johan  </td>
     <td>Operations Manager</td>
@@ -1157,6 +1144,12 @@ description: ""
     <td>Corporate Support Officer </td>
     <td><a href="mailto:norhana_mohamed_shariff@moe.edu.sg">norhana_mohamed_shariff@moe.edu.sg</a> </td>
   </tr>
+	 <tr>
+    <td>Ms </td>
+    <td>Emilia Wee </td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:emilia_jalyn_wee@moe.edu.sg">emilia_jalyn_wee@moe.edu.sg</a> </td>
+  </tr>
   <tr>
     <td>Mr </td>
     <td>Cheong Wah Cheong </td>
@@ -1204,12 +1197,6 @@ description: ""
     <td>Joheriah Md Jak<br></td>
     <td>Operations Support Officer<br>(JC Science Lab)</td>
     <td><a href="mailto:joheriah_md_jak@moe.edu.sg">joheriah_md_jak@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Ramnah Mohd Eunos<br></td>
-    <td>Operations Support Officer<br>(JC Science Lab)</td>
-    <td><a href="mailto:ramnah_mohd_eunos@moe.edu.sg">ramnah_mohd_eunos@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms</td>
@@ -1282,24 +1269,6 @@ description: ""
     <td>Razali Jantan<br></td>
     <td>Technical Support Officer<br>(JC Physics Science Lab)</td>
     <td><a href="mailto:razali_jantan@moe.edu.sg">razali_jantan@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Ms </td>
-    <td>Emilia Wee </td>
-    <td>School Admin Team (Support Staff)</td>
-    <td><a href="mailto:emilia_jalyn_wee@moe.edu.sg">emilia_jalyn_wee@moe.edu.sg</a> </td>
-  </tr>
-  <tr>
-    <td>Mdm </td>
-    <td>Lim Hwee Ngoh </td>
-    <td>School Admin Team (Support Staff)</td>
-    <td><a href="mailto:lim_hwee_ngoh@moe.edu.sg">lim_hwee_ngoh@moe.edu.sg</a>  </td>
-  </tr>
-  <tr>
-    <td>Ms </td>
-    <td>Ruby</td>
-    <td>Administrative Assistant (Support Staff) </td>
-    <td><a href="mailto:tan_chai_lian@edu.moe.sg">tan_chai_lian@moe.edu.sg</a>   </td>
   </tr>
   <tr>
     <td>Ms </td>
