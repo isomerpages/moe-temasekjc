@@ -5,7 +5,7 @@ description: ""
 ---
 # JC YEAR 1 (DSA-JC)
 
-
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
@@ -38,4 +38,4 @@ description: ""
 			<p>
 			</p>
 			</div>
-	  </div></li>
+	  </div></li></ul>
