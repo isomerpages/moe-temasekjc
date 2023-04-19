@@ -40,22 +40,34 @@ intellectual abilities beyond the typical
 curriculum and exposes students to a wide
 range of opportunities that allows their talents
 to flourish.</p>
-	</ul></td></tr><tr>
+	</ul>
+	</td>
+	</tr>
+	<tr>
 <td style="text-align: center;">Music Elective Programme</td>
 <td style="text-align: center;">
 <ul>
 	<p style="text-align: left;">Students who enrol through DSA-Music will join the Music Elective Programme (MEP) and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC.</p>
-		</ul></td></tr><tr>
+		</ul>
+		</td>
+	</tr>
+	<tr>
 <td style="text-align: center;">Performing Arts – Concert Band</td>
 <td style="text-align: center;">
 <ul>
 	<p style="text-align: left;">Students who enrol through DSA-Concert Band will join the Symphonic Band in TJC.</p>
-		</ul></td></tr><tr>
+		</ul>
+		</td>
+	</tr>
+	<tr>
 <td style="text-align: center;">Badminton<br>Basketball<br>Ten-Pin Bowling<br>Taekwondo</td>
 <td style="text-align: center;">
 <ul>
 	<p style="text-align: left;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal level and international exposure where appropriate.</p>
-	</ul></td></tr><tr>
+	</ul>
+		</td>
+	</tr>
+	<tr>
 <td style="text-align: center;">Leadership</td>
 <td style="text-align: center;">
 <ul>
