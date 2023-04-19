@@ -51,22 +51,15 @@ to flourish.</p>
 <ul>
 	<p style="text-align: left;">Students who enrol through DSA-Concert Band will join the Symphonic Band in TJC.</p>
 		</ul></td></tr><tr>
-<td style="text-align: center;">Badminton<br>Basketball<br>Ten-Pin Bowling<br>Taekwondo<br>Leadership</td>
+<td style="text-align: center;">Badminton<br>Basketball<br>Ten-Pin Bowling<br>Taekwondo</td>
 <td style="text-align: center;">
 <ul>
-	<p style="text-align: left;">Students who enrol through DSA-Sec
-(Leadership) will have the opportunity to
-partake in various leadership platforms and
-will be assigned development opportunities
-for them to hone their public speaking and
-communication skills. This will include the
-Temasek Ambassadors programme, as well
-as hosting and moderating various cohort-
-level activities. Students will also be
-mentored by their seniors and teachers
-throughout their journey in TJC. They will
-also be expected to take up leadership
-positions in their class or CCA levels, and to run for the Students’ Council in IP Year 2.</p>
+	<p style="text-align: left;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal level and international exposure where appropriate.</p>
+	</ul></td></tr><tr>
+<td style="text-align: center;">Leadership</td>
+<td style="text-align: center;">
+<ul>
+	<p style="text-align: left;">Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities for them to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. Students will also be mentored by their seniors and teachers throughout their journey in TJC. They will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students’ Council in IP Year 2. </p>
 </ul></td>
 </tr>
 </tbody>
