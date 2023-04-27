@@ -32,3 +32,6 @@ third_nav_title: Curriculum Overview
     </div>
 	</li> 
 	</ul>
+	
+	
+[JC1 Subject Combination (2023)](/files/Academic/jc1%20subject%20combination%20(2023)_updated.pdf)
