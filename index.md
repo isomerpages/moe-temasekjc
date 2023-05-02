@@ -14,7 +14,7 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: Cohort Reunions
           description: ""
-          url: https://tinyurl.com/tjccohortreunions
+          url: ""
         - title: IP Open House 2023
           description: ""
           url: https://for.edu.sg/tjcipopenhouse2023
