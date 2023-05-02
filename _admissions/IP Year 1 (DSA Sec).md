@@ -40,9 +40,8 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 <td border="2"> 1. Excellent academic results <br><br> 2. Relevant achievements in the subject area </td>
 <td border="2"> All shortisted applicants must sit for an <b>individual written selection test </b>. <br><br> This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an <b>interview</b>.</td></tr>
 </tbody></table>
-		
-<img style="width:100%" src="/images/Admissions/language%20pic.png">	
-				
+
+<ul>				
 Music Elective Programme
 
 <ul>
@@ -66,13 +65,10 @@ and
 Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
  <b>Applicants who are further shortlisted will attend an interview.</b>.</td></tr>
 </tbody></table>
-		
-
-<img style="width:100%" src="/images/Admissions/mepelective.png">
-	
+</p><ul>
 Performing Arts – Concert Band
 
-</p><ul>
+<p></p><ul>
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
 Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
 		</ul>
@@ -171,4 +167,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 
 
 
-<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></div></div></li></ul>
