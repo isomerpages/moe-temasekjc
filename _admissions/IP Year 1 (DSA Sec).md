@@ -76,7 +76,24 @@ Performing Arts – Concert Band
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
 Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
 		</ul>
-		<img style="width:100%" src="/images/Admissions/performing.png">
+		<table border="2">
+<tbody><tr>
+<td border="2"><b>TALENT AREA</b></td>
+<td border="2"><b>SELECTION CRITERIA</b></td>
+<td border="2"><b>SELECTION PROCESS</b></td></tr>
+<tr>
+<td border="2">Performing Arts – Concert Band</td>
+<td border="2"> 1. Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, french horn, trombone, euphonium, tuba or any percussion instruments
+<br><br> 2.Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred<br><br>3.Very good CCA records<br><br> 4.Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal.<br><br></td>
+<td border="2"> All shortlisted applicants for band must go through a Selection Exercise, which comprises:
+<br><br>1.An audition, which also consists of sight reading and a short interview<br><br>For the audition, applicants are to:<br><br>1.Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.<br><br>2.Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to:  
+<br><br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
+and
+Mr Daniel Yee (daniel_yee@moe.edu.sg)
+<br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
+</tbody></table>
+
+<img style="width:100%" src="/images/Admissions/performing.png">
 
 	Sports 
 	
