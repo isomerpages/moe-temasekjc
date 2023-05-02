@@ -119,8 +119,13 @@ Please note the following:
 <ul>
 	<h5>WHAT ELSE DO I NEED TO KNOW?</h5>
 <p>●	The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</p>
-	<p>●	Successful DSA-Sec students are <b>NOT allowed</b> to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools. 
+<p>●	Successful DSA-Sec students are <b>NOT allowed</b> to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p>
+<p>● The College</p>
+<p>o	reserves the right not to reveal the results or reasons for non-selection. 
+</p><p>o	will not provide the application outcome over the telephone.</p>
+
+	
 
 
 
-</p></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+<p></p></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
