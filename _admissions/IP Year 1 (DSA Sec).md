@@ -6,21 +6,23 @@ description: ""
 # IP YEAR 1 (DSA-SEC)
 
 ****
-**APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2024) IS NOW OPEN!
-Application for DSA-Sec Exercise 2023 commences from: 
+**APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2024) IS NOW OPEN!**
+
+<p for="">
+
 4 May 2023 (11.00 am, Singapore time) to 
-31 May 2023 (3.00 pm, Singapore time).**
+31 May 2023 (3.00 pm, Singapore time).
 
 **For Admission to TJC Integrated Programme (IP) Year 1 in 2024**
 
-<p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
+</p><p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
 
 <p style="text-align: justify;"><b>The selection criteria and processes for the talent areas will be updated on the school
-website in early May 2023. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a></b></p>
+website in early May 2023. For more information on DSA-Sec, please refer to the MOE website at <a target="_blank" href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></b></p>
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
+    <input id="accordion1" type="checkbox">
     <label for="accordion1">TALENT AREAS</label>
     <div>
 			<p style="text-align: justify;">All talent areas offered by TJC, together with selection criteria and selection process, are detailed below.</p>
