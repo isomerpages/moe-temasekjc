@@ -48,14 +48,14 @@ Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in 
 		</ul>
 		<img src="/images/Admissions/performing.png" style="width:100%">
 
+	Sports 
 	
 	
-	
-	
-Badminton<br>Basketball<br>Ten-Pin Bowling<br>Taekwondo
-
 <ul>
-	<p style="text-align: left;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal level and international exposure where appropriate.</p>
+	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
+
+Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
+</p>
 	</ul>
 		
 	
