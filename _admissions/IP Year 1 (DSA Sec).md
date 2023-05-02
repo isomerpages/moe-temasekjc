@@ -88,7 +88,8 @@ and
 Mr Daniel Yee (daniel_yee@moe.edu.sg)
 <br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
 </tbody></table>
-
+<ul>
+<br>
 <u>Sports</u>
 	<ul>
 	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
@@ -207,4 +208,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 
 
 
-<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></ul></div></li></ul>
+<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></ul></ul></div></li></ul>
