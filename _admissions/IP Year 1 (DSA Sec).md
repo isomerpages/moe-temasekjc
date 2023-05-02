@@ -67,8 +67,7 @@ Leadership
 	<p style="text-align: left;">TJC nurtures leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond. 
 Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2. </p>
 </ul>
+<img src="/images/Admissions/leadership.png" style="width:100%">
 
 
-
-	  </ul></div></div></li>
-	 </ul>
+	  </ul></div></div></li></ul>
