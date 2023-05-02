@@ -118,8 +118,9 @@ Please note the following:
   <p>●	All applicants will be notified of the outcome of their application via email by 12 September 2023.</p>
 <ul>
 	<h5>WHAT ELSE DO I NEED TO KNOW?</h5>
+<p>●	The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</p>
+	<p>●	Successful DSA-Sec students are <b>NOT allowed</b> to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools. 
 
 
 
-
-</ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+</p></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
