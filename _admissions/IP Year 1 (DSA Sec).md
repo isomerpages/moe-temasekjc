@@ -115,7 +115,7 @@ Please note the following:
 <p>●	You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p>
    <ul>
 		 <h5>Outcome of Application</h5>
-  
+  <p>●	All applicants will be notified of the outcome of their application via email by 12 September 2023.</p>
 
 
 
