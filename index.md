@@ -14,10 +14,10 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: Cohort Reunions
           description: ""
-          url: ""
+          url: https://tinyurl.com/tjccohortreunions
         - title: IP Open House 2023
           description: ""
-          url: https://for.edu.sg/tjcipopenhouse2023
+          url: ""
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
