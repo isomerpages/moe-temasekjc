@@ -50,7 +50,7 @@ Music Elective Programme
 Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
 		
 
-●	<table border="2">
+<table border="2">
 <tbody><tr>
 <td border="2"><b>TALENT AREA</b></td>
 <td border="2"><b>SELECTION CRITERIA</b></td>
