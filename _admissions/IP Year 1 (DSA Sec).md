@@ -90,8 +90,8 @@ Please note that meeting all the criteria does not guarantee the student will be
 Please note the following:
 	</p><ul>
 	<p>●	An applicant can indicate up to three choices.</p>
-●	Each choice consists of a secondary school and a talent area offered by that secondary school.
-●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+<p>●	Each choice consists of a secondary school and a talent area offered by that secondary school.</p>
+<p>●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p>
 
 Candidates Not Studying in Mainstream Schools
 
