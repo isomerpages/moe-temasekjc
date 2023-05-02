@@ -116,9 +116,10 @@ Please note the following:
    <ul>
 		 <h5>Outcome of Application</h5>
   <p>●	All applicants will be notified of the outcome of their application via email by 12 September 2023.</p>
+<ul>
+	<h5>WHAT ELSE DO I NEED TO KNOW?</h5>
 
 
 
 
-
-</ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+</ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
