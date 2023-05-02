@@ -40,16 +40,11 @@ Students who enrol through DSA-Music will join the MEP and take up Music as one 
 
 <img src="/images/Admissions/mep%20elective.png" style="width:100%">
 	
-	
-	</p>
-		</ul>
-		
-	
-	
 Performing Arts – Concert Band
 
-<ul>
-	<p style="text-align: left;">Students who enrol through DSA-Concert Band will join the Symphonic Band in TJC.</p>
+</p><ul>
+	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
+Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
 		</ul>
 		
 	
@@ -70,5 +65,5 @@ Leadership
 
 
 
-	  </div></div></li>
+	  </ul></div></div></li>
 	 </ul>
