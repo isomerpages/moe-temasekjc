@@ -93,15 +93,35 @@ Sports
 	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
 
 Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
-</p>
-	</ul>
-	<img style="width:100%" src="/images/Admissions/sports.png">
-	
-	
+<table border="2">
+<tbody><tr>
+<td border="2"><b>TALENT AREA</b></td>
+<td border="2"><b>SELECTION CRITERIA</b></td>
+<td border="2"><b>SELECTION PROCESS</b></td></tr>
+<tr>
+<td border="2">Badminton
+Basketball
+Ten-Pin Bowling
+Taekwondo
+</td>
+<td border="2">Very Good CCA records <br><br> 1.Prior competition experience (NSG or other relevant competitions) 
+<br><br> 2.For TKD applicants only:
+Blue belt and above, with strong foundations (e.g good basic kicks)
+</td>
+<td border="2"> All shortlisted applicants must attend a Selection Exercise.
+<br><br>Badminton<br><br> Bring your badminton racket and be in proper court shoes.
+The trial will consist of:
+<br><br>1.Fitness tests<br><br>2.Footwork drills<br><br>3.Singles match play<br><br>Basketball<br><br>Be in proper sport shoes, preferably mid / high-cut basketball shoes.
+The trial will consist of:
+<br><br>1.Dribbling skills<br><br>2.Layup n shooting drills<br><br>3.5v5 game play<br><br> Bowling
+<br><br>Bring your personal equipment for the trial (to be conducted at SuperBowl SAFRA Tampines)The trial will consist of:<br><br>1.Bowling skill sets over 10 frames in a game<br><br>2.Interview with coaches<br><br>Taekwondo<br><br>Be in Taekwondo uniform (Dobok).
+The trial will consist of:<br><br>1Demonstration of relevant poomsae patterns and kicks<br><br>
+Applicants who are further shortlisted will attend an <b>interview</b>.</td></tr>
+</tbody></table>
 	
 Leadership
 
-<ul>
+</p><ul>
 	<p style="text-align: left;">TJC nurtures leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond. 
 Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2. </p>
 </ul>
@@ -167,4 +187,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 
 
 
-<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></div></div></li></ul>
+<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></div></div></li></ul>
