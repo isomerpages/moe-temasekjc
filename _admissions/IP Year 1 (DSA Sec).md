@@ -97,8 +97,9 @@ Please note the following:
 <p>●	Each choice consists of a secondary school and a talent area offered by that secondary school.</p>
 	
 <p>●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p>
-
-Candidates Not Studying in Mainstream Schools
+<ul>
+	<div>
+	<h5>Candidates Not Studying in Mainstream Schools</h5>
 	
 <p>● Candidates (Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to https://go.gov.sg/nmsdsa-sec-application.</p>
 	
@@ -112,12 +113,12 @@ Candidates Not Studying in Mainstream Schools
 <p>●	Only shortlisted applicants will be notified via email and/or SMS for a selection test/audition/trial.</p>
 <p>●	Applicants who are further shortlisted after these selection tests/auditions/trials will be invited to attend an interview in July - August 2023.</p>
 <p>●	You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p>
-   
+   <ul>
+		 <h5>Outcome of Application</h5>
   
-  
 
 
 
 
 
-</div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+</ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
