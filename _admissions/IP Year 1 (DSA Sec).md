@@ -71,6 +71,6 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-</ul></div></div></li></ul>
-
 <img src="/images/Admissions/application.png" style="width:100%">
+
+</ul></div></div></li></ul>
