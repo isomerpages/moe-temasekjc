@@ -84,11 +84,12 @@ Please note that meeting all the criteria does not guarantee the student will be
 <ul>
 	
 <h5>APPLICATION PROCESS</h5>
+	<div>
 <ul>
 	<p>
 Please note the following:
 	</p><ul>
-●	An applicant can indicate up to three choices.
+	<p>●	An applicant can indicate up to three choices.</p>
 ●	Each choice consists of a secondary school and a talent area offered by that secondary school.
 ●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
 
@@ -113,4 +114,4 @@ Tests/Auditions/Trials/Interviews:
 
 
 
-</ul></ul></ul></ul></div></div></li></ul>
+</ul></ul></div></ul></ul></div></div></li></ul>
