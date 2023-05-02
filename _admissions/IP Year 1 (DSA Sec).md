@@ -104,14 +104,14 @@ Candidates Not Studying in Mainstream Schools
 	
 <p>●	International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to https://www.moe.gov.sg/international-students/aeis/apply for details.</p>
 
-**Dates for Selection** 
-	
-Tests/Auditions/Trials/Interviews: 
-●	The selection tests/auditions/trials will be held from 27 June to 4 August 2023.
-●	All selection tests/auditions/trials/interviews will be conducted in-person at Temasek Junior College or a relevant sports venue.
-●	Only shortlisted applicants will be notified via email and/or SMS for a selection test/audition/trial. 
-●	Applicants who are further shortlisted after these selection tests/auditions/trials will be invited to attend an interview in July - August 2023. 
-●	You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate. 
+Dates for Selection
+<ul>
+	<p>Tests/Auditions/Trials/Interviews:</p>
+<p>●	The selection tests/auditions/trials will be held from 27 June to 4 August 2023.</p>
+<p>●	All selection tests/auditions/trials/interviews will be conducted in-person at Temasek Junior College or a relevant sports venue.</p>
+<p>●	Only shortlisted applicants will be notified via email and/or SMS for a selection test/audition/trial.</p>
+<p>●	Applicants who are further shortlisted after these selection tests/auditions/trials will be invited to attend an interview in July - August 2023.</p>
+<p>●	You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.</p>
    
   
   
@@ -120,4 +120,4 @@ Tests/Auditions/Trials/Interviews:
 
 
 
-</ul></ul></ul></div></ul></ul></div></div></li></ul>
+</ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
