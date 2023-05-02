@@ -128,8 +128,11 @@ Please note the following:
 You are encouraged to read the Frequently Asked Questions (FAQs) provided on the website if you have further queries.</p>
 <p>●	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>●	Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9 Singapore 529564. During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.</p>
+<ul>
+	<h5><u>ENQUIRIES</u></h5>
+	<p>●	For any enquiries on the respective talent areas, please contact:</p><p>
 	
 
 
 
-<p></p></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+</p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
