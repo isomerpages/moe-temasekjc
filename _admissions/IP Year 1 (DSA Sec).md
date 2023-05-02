@@ -41,9 +41,9 @@ Chinese Language<br><br> English Language<br><br>Mathematics<br><br> Science | E
 
 <table border="2">
 	<tbody><tr><th>
-	</th><td>TALENT AREA</td>
-	<td>SELECTION CRITERIA</td>
-	<td>SELECTION PROCESS</td>
+	</th><td border="2">TALENT AREA</td>
+	<td border="2">SELECTION CRITERIA</td>
+	<td border="2">SELECTION PROCESS</td>
 	
 
 </tr></tbody></table>
