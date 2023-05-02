@@ -81,8 +81,10 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 <img style="width:100%" src="/images/Admissions/leadership.png">
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-
+<ul>
+	
 **APPLICATION PROCESS**
+	
 <ul>
 Please note the following:
 	<ul>
@@ -111,4 +113,4 @@ Tests/Auditions/Trials/Interviews:
 
 
 
-</ul></ul></ul></div></div></li></ul>
+</ul></ul></ul></ul></div></div></li></ul>
