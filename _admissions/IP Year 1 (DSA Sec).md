@@ -65,7 +65,8 @@ Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
  <b>Applicants who are further shortlisted will attend an interview.</b>.</td></tr>
 </tbody></table>
 </p><ul>
-Performing Arts – Concert Band
+
+<u>Performing Arts – Concert Band</u>
 
 <p></p><ul>
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
