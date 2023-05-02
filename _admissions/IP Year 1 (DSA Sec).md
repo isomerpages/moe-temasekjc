@@ -23,8 +23,7 @@ Application for DSA-Sec Exercise 2023 commences from:
     <div>
 			<p style="text-align: justify;">All talent areas offered by TJC, together with selection criteria and selection process, are detailed below.</p>
 			
-<b>Academic</b>
-	<div>		
+<b><u>Academic</u></b>		
 
 <p style="text-align: left;">We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. 
 
@@ -42,7 +41,7 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 </tbody></table>
 
 <ul>				
-Music Elective Programme
+	<u>Music Elective Programme</u>
 
 <ul>
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
@@ -88,7 +87,8 @@ and
 Mr Daniel Yee (daniel_yee@moe.edu.sg)
 <br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
 </tbody></table>
-Sports 
+
+<u>Sports</u>
 	<ul>
 	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
 
@@ -118,10 +118,10 @@ The trial will consist of:
 The trial will consist of:<br><br>1.Demonstration of relevant poomsae patterns and kicks<br><br>
 Applicants who are further shortlisted will attend an <b>interview</b>.</td></tr>
 </tbody></table>
-	
-Leadership
-
 </p><ul>
+	
+<u>Leadership</u>
+	<p></p><ul>
 	<p style="text-align: left;">TJC nurtures leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond. 
 Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2.          
 	<table border="2">
@@ -206,4 +206,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 
 
 
-<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></div></div></li></ul>
+<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></ul></div></li></ul>
