@@ -92,13 +92,8 @@ and
 Mr Daniel Yee (daniel_yee@moe.edu.sg)
 <br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
 </tbody></table>
-
-<img style="width:100%" src="/images/Admissions/performing.png">
-
-	Sports 
-	
-	
-<ul>
+Sports 
+	<ul>
 	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
 
 Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
