@@ -29,15 +29,6 @@ Academic
 <p style="text-align: left;">We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. 
 
 Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish</p>   
-		
-
-
-| **TALENT AREA** | **SELECTION CRITERIA** | **SELECTION PROCESS**  |
-| -------- | -------- | -------- |
-| 
-Chinese Language<br><br> English Language<br><br>Mathematics<br><br> Science | Excellent academic results  <br><br> Relevant achievements in the subject area	| All shortlisted applicants must sit for an **individual written selection test**. <br><br>This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an **interview**.  |
-
-
 
 <table border="2">
 	<tbody border="2"><tr border="2"><th border="2">
