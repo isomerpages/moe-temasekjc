@@ -23,13 +23,13 @@ Application for DSA-Sec Exercise 2023 commences from:
     <div>
 			<p style="text-align: justify;">All talent areas offered by TJC, together with selection criteria and selection process, are detailed below.</p>
 			
-**Academic** 
+Academic
 
 We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. 
 
 Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish.   
 			
-![](/images/Admissions/language%20pic.png)			
+
 		
 			
 			
