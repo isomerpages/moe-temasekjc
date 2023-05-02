@@ -10,7 +10,10 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. More details of the engagement session will be provided later. </p>
+			<p style="text-align: justify;">The application for the DSA-JC Exercise (2023) will commence from <b>4 May 2023 to 30 Jun 2023 (5:00 pm, Singapore time).</b>
+
+If you are sitting for the GCE 'O' Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.
+ </p>
     </div>
 	</li> 
   <li>
