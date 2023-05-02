@@ -83,11 +83,11 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 <ul>
 	
-**APPLICATION PROCESS**
-	
+<h5>APPLICATION PROCESS</h5>
 <ul>
+	<p>
 Please note the following:
-	<ul>
+	</p><ul>
 ●	An applicant can indicate up to three choices.
 ●	Each choice consists of a secondary school and a talent area offered by that secondary school.
 ●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
