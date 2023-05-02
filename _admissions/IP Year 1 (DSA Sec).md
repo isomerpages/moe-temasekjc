@@ -133,7 +133,10 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 	<p>●	For any enquiries on the respective talent areas, please contact:</p>
 	<p>	o	Chinese Language: Ms Low Kia Sze [low_kia_sze@moe.edu.sg]</p>
 	<p>o	English Language: Ms Caroline Sng [sng_ming_hui_caroline@moe.edu.sg]</p>
-	
+	<p>o	Mathematics: Mr Marcus Goh [goh_chengwei_marcus@moe.edu.sg]</p>
+	<p>o	Science: Mr Low Kian Seh [low_kian_seh@moe.edu.sg]</p>
+	<p> o	MEP: Ms Emmerlyn Ong [ong_hui_ling_emmerlyn@moe.edu.sg] &amp; Ms Serene Tan [tan_su_ling_serene@moe.edu.sg]</p>
+	<p>o	Concert Band: Mr Seah Cheng Tat [seah_cheng_tat@moe.edu.sg]</p>
 
 
 
