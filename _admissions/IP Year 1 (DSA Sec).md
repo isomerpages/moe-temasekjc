@@ -57,7 +57,8 @@ Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in 
 Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
 </p>
 	</ul>
-		
+	<img src="/images/Admissions/sports.png" style="width:100%">
+	
 	
 	
 Leadership
