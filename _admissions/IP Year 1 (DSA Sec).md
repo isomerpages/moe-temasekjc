@@ -38,8 +38,7 @@ Music Elective Programme
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
 Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
 
-<img src="/images/Admissions/language%20pic.png" style="width:100%">	
-	
+<img src="/images/Admissions/mep%20elective.png" style="width:100%">
 	
 	
 	</p>
