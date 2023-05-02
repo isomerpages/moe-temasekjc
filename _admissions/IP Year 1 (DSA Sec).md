@@ -31,13 +31,16 @@ Application for DSA-Sec Exercise 2023 commences from:
 Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish</p>   
 
 <table border="2">
-	<tbody border="2"><tr border="2"><th border="2">
-	</th><td border="2">TALENT AREA</td>
-	<td border="2">SELECTION CRITERIA</td>
-	<td border="2">SELECTION PROCESS</td>
-	
+<tbody><tr><th border="2">
+</th><td border="2">TALENT AREA</td>
+<td border="2">SELECTION CRITERIA</td>
+<td border="2">SELECTION PROCESS</td>
 
-</tr></tbody></table>
+</tr><tr border="2">
+<td border="2">Chinese Language <br><br> English Language <br><br> Mathematics <br><br> Science </td>
+<td border="2"> 1. Excellent academic results <br><br> 2. Relevant achievements in the subject area </td>
+<td border="2"> All shortisted applicants must sit for an <b>individual written selection test </b>. <br><br> This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an <b>interview</b></td></tr>
+</tbody></table>
 		
 <img src="/images/Admissions/language%20pic.png" style="width:100%">	
 				
