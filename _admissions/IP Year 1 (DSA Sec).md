@@ -82,6 +82,35 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-<img src="/images/Admissions/application.png" style="width:100%">
+APPLICATION PROCESS
+
+The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023. 
+For more details, please refer to: https://www.moe.gov.sg/dsa-sec
+
+Please note the following:
+●	An applicant can indicate up to three choices.
+●	Each choice consists of a secondary school and a talent area offered by that secondary school.
+●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+
+Candidates Not Studying in Mainstream Schools
+
+●Candidates (Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to https://go.gov.sg/nmsdsa-sec-application.
+●	International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to https://www.moe.gov.sg/international-students/aeis/apply for details.
+
+**Dates for Selection** 
+	
+Tests/Auditions/Trials/Interviews: 
+●	The selection tests/auditions/trials will be held from 27 June to 4 August 2023.
+●	All selection tests/auditions/trials/interviews will be conducted in-person at Temasek Junior College or a relevant sports venue.
+●	Only shortlisted applicants will be notified via email and/or SMS for a selection test/audition/trial. 
+●	Applicants who are further shortlisted after these selection tests/auditions/trials will be invited to attend an interview in July - August 2023. 
+●	You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate. 
+   
+  
+  
+
+
+
+
 
 </ul></div></div></li></ul>
