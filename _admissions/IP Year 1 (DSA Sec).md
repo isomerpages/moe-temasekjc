@@ -46,7 +46,10 @@ Performing Arts – Concert Band
 	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
 Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
 		</ul>
-		
+		<img src="/images/Admissions/performing.png" style="width:100%">
+
+	
+	
 	
 	
 Badminton<br>Basketball<br>Ten-Pin Bowling<br>Taekwondo
