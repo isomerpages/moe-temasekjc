@@ -35,8 +35,7 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 | **TALENT AREA** | **SELECTION CRITERIA** | **SELECTION PROCESS**  |
 | -------- | -------- | -------- |
 | 
-Chinese Language<br><br> English Language<br><br>Mathematics<br><br> Science | Excellent academic results  <br><br> Relevant achievements in the subject area	| All shortlisted applicants must sit for an **individual written selection test**. <br><br>This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an **interview**. 
-		|
+Chinese Language<br><br> English Language<br><br>Mathematics<br><br> Science | Excellent academic results  <br><br> Relevant achievements in the subject area	| All shortlisted applicants must sit for an **individual written selection test**. <br><br>This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an **interview**.  |
 
 
 
