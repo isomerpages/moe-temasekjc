@@ -123,9 +123,12 @@ Please note the following:
 <p>● The College</p>
 <p>o	reserves the right not to reveal the results or reasons for non-selection. 
 </p><p>o	will not provide the application outcome over the telephone.</p>
+<ul>
+<p>Please refer to MOE’s website at https://www.moe.gov.sg/dsa-sec.
+You are encouraged to read the Frequently Asked Questions (FAQs) provided on the website if you have further queries.</p>
 
 	
 
 
 
-<p></p></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
+<p></p></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></div></div></li></ul>
