@@ -29,7 +29,7 @@ We welcome students who show a strong passion for their chosen academic area and
 
 Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish.   
 			
-
+<img src="/images/Admissions/language%20pic.png" style="width:100%">
 		
 			
 			
