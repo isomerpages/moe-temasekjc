@@ -86,14 +86,19 @@ Please note that meeting all the criteria does not guarantee the student will be
 <h5>APPLICATION PROCESS</h5>
 	<div>
 <ul>
+	<p>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023. 
+		For more details, please refer to: https://www.moe.gov.sg/dsa-sec</p>
+<ul>
 	<p>
 Please note the following:
 	</p><ul>
 	<p>●	An applicant can indicate up to three choices.</p>
+	
 <p>●	Each choice consists of a secondary school and a talent area offered by that secondary school.</p>
+	
 <p>●	Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p>
 
-<label>**Candidates Not Studying in Mainstream Schools**</label>
+<label>Candidates Not Studying in Mainstream Schools</label>
 
 <p>● Candidates (Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to https://go.gov.sg/nmsdsa-sec-application.</p>
 	
@@ -115,4 +120,4 @@ Tests/Auditions/Trials/Interviews:
 
 
 
-</ul></ul></div></ul></ul></div></div></li></ul>
+</ul></ul></ul></div></ul></ul></div></div></li></ul>
