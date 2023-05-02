@@ -29,7 +29,16 @@ Academic
 <p style="text-align: left;">We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. 
 
 Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish</p>   
-			
+
+<table border="2">
+	<tbody><tr><th>
+	</th><td>TALENT AREA</td>
+	<td>SELECTION CRITERIA</td>
+	<td>SELECTION PROCESS</td>
+	
+
+</tr></tbody></table>
+		
 <img src="/images/Admissions/language%20pic.png" style="width:100%">	
 				
 Music Elective Programme
