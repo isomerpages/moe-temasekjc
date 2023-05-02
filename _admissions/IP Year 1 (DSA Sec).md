@@ -23,7 +23,7 @@ Application for DSA-Sec Exercise 2023 commences from:
     <div>
 			<p style="text-align: justify;">All talent areas offered by TJC, together with selection criteria and selection process, are detailed below.</p>
 			
-Academic
+<b>Academic</b>
 	<div>		
 
 <p style="text-align: left;">We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. 
