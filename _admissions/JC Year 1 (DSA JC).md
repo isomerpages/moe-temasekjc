@@ -71,8 +71,8 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 </p><p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> 
 </p>
-				<p>Please click [here](https://dsa.tjc.edu.sg/) to apply.</p>
-<p><b>2) Supporting Documents</b></p>
+<p style="text-align: justify;">Please click [here](https://dsa.tjc.edu.sg/) to apply.
+</p><p><b>2) Supporting Documents</b></p>
 
 Applicants should submit the following supporting documents:
 				<br><br><ul><li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
