@@ -65,12 +65,13 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
     <label for="accordion5">APPLICATION PROCESS</label>
     <div>				
 
-<p><b>1) Application Period</b>
+<p><b>1) Application Period</b></p>
+			
+<p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> </p>
 
-</p><p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> 
-</p>
-				<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.
-</p><p><b>2) Supporting Documents</b></p>
+<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
+
+<p><b>2) Supporting Documents</b></p>
 
 Applicants should submit the following supporting documents:
 				<br><br><ul><li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
@@ -99,7 +100,8 @@ Applicants should submit the following supporting documents:
  
 			
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
-	<ul>
+
+</ul></div></li>
 		
 <b></b><p style="text-align: justify;"><b>Contact Us</b><br>
 		
@@ -121,5 +123,5 @@ Applicants should submit the following supporting documents:
 </p><br><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
-			</ul></ul></div></li></ul></div>
-	  </li></ul></ul>
+			</ul></div></li></ul></ul>
+	  
