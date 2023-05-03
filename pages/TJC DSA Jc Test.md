@@ -35,8 +35,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 			<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  
 
 For more information on DSA-JC, please refer to the MOE website at www.moe.gov.sg/dsa-jc</p>
-	
- <p></p>
+
     </div>
 	</li> 
   <li>
@@ -104,6 +103,8 @@ Applicants should submit the following supporting documents:
  
 			
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+
+
 
 </ul></div></li>
 
