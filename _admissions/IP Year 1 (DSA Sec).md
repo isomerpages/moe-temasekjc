@@ -9,7 +9,7 @@ description: ""
 **APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2024) IS NOW OPEN!**
 
 **Application for DSA-Sec Exercise 2023 commences from:**
-<p style="text-align: justify;">4 May 2023 (11.00 am, Singapore time) to <br> 31 May 2023 (3.00 pm, Singapore time).</p>
+<p style="text-align: justify;">4 May 2023 (11.00 am, Singapore time) to 31 May 2023 (3.00 pm, Singapore time).</p>
 
 **<p>For Admission to TJC Integrated Programme (IP) Year 1 in 2024</p>**
 
