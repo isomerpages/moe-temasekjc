@@ -58,13 +58,12 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 				<li>Humanities Programme</li>
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
-			
-			![](/images/Admissions/dsa_jc.png)
-			
-			</ul>
+				<ul>
+				<img src="/images/Admissions/dsajc1.png" style="width:100%">
+					</ul>
 		<div>
 			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 			<p>
 			</p>
 			</div>
-	  </div></li></ul></ul>
+	  </ul></div></li></ul></ul>
