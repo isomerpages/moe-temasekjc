@@ -71,6 +71,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 </p><p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> 
 </p>
+				<p>Please click [here](https://dsa.tjc.edu.sg/) to apply.</p>
 <p><b>2) Supporting Documents</b></p>
 
 Applicants should submit the following supporting documents:
@@ -102,24 +103,24 @@ Applicants should submit the following supporting documents:
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 	<ul>
 		
-<b></b><p style="text-align: justify;"><b>Contact Us</b>
+<b></b><p style="text-align: justify;"><b>Contact Us</b><br>
 		
-If you have any enquiries regarding the DSA application, please contact the following: <br><br>
-		<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br>
+<br></p><p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following: <br><br>
+		<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
 
 <b>Sports CCAs</b> 
-<br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg
+<br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg<br><br>
 
-<b>Humanities Programme</b>
-<br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg
+<br><b>Humanities Programme</b>
+<br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg<br><br>
 
-<b>Leadership</b>
-<br>Mr Han Songguang - han_song_guang@moe.edu.sg<br>          
+<br><b>Leadership</b>
+<br>Mr Han Songguang - han_song_guang@moe.edu.sg<br><br>          
 
-<b>Music Elective Programme</b>
-<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg
+<br><b>Music Elective Programme</b>
+<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br>
 
-</p><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
+</p><br><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
 			</ul></ul></div></ul></div>
