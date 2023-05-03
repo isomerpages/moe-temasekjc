@@ -107,8 +107,8 @@ Applicants should submit the following supporting documents:
 		
 If you have any enquiries regarding the DSA application, please contact the following: 
 
-<br>Performing Arts CCAs 
-		Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br> 
+<br><br>Performing Arts CCAs 
+		Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
 
 <br>	Sports CCAs 
 				Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg<br>
