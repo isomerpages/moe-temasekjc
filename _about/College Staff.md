@@ -1103,12 +1103,6 @@ description: ""
     <td><a href="mailto:osman_aspari@schools.gov.sg">osman_aspari@schools.gov.sg</a> </td>
   </tr>
   <tr>
-    <td>Mdm<br></td>
-    <td>Tan Lay Guat<br></td>
-    <td>Administrative Executive<br></td>
-    <td><a href="mailto:tan_lay_guat_a@schools.gov.sg">tan_lay_guat_a@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Ms<br></td>
     <td>Janet Peh<br></td>
     <td>Administrative Executive<br></td>
@@ -1174,12 +1168,7 @@ description: ""
     <td>Operations Support Officer<br></td>
     <td><a href="mailto:tan_poh_heong@moe.edu.sg">tan_poh_heong@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Annie Ng<br></td>
-    <td>Operations Support Officer<br></td>
-    <td><a href="mailto:ng_meow_eng@moe.edu.sg">ng_meow_eng@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Mike Ee<br></td>
