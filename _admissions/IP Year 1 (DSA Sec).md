@@ -198,7 +198,12 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 	<p>o	Science: Mr Low Kian Seh [low_kian_seh@moe.edu.sg]</p>
 	<p> o	MEP: Ms Emmerlyn Ong [ong_hui_ling_emmerlyn@moe.edu.sg] &amp; Ms Serene Tan [tan_su_ling_serene@moe.edu.sg]</p>
 	<p>o	Concert Band: Mr Seah Cheng Tat [seah_cheng_tat@moe.edu.sg]</p>
+	<p> o	Badminton: Mrs Shirley Goh  [teo_yew_ing_shirley@moe.edu.sg]
+		</p><p> o	Basketball: Mr Lee Chun Hsien  [lee_chun-hsien@moe.edu.sg]</p>
+	<p>o	Bowling: Mr Kevin Ng [ng_yon_tek_kevin@moe.edu.sg]</p>
+<p>o	Leadership: Mr Han Songguang [han_song_guang@moe.edu.sg]
+</p>
 
-
-
+●	For any enquiries on the DSA application, please contact the TJC General Office at 6442 8066 during office hours or email: registrar@tjc.edu.sg
+	
 <p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></div></li></ul>
