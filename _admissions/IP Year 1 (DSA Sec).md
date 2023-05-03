@@ -76,12 +76,12 @@ Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
 <td border="2">Performing Arts – Concert Band</td>
 <td border="2"> 1. Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, french horn, trombone, euphonium, tuba or any percussion instruments
 <br><br> 2. Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred<br><br>3. Very good CCA records<br><br> 4. Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal.<br><br></td>
-<td border="2"> All shortlisted applicants for band must go through a Selection Exercise, which comprises:
-<br><br>1. An audition, which also consists of sight reading and a short interview<br><br>For the audition, applicants are to:<br><br>1. Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.<br><br>2. Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to:  
-<br><br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
+	<td border="2"> All shortlisted applicants for band must go through a <b>Selection Exercise</b>, which comprises:
+		<br><br><ul><li>An audition, which also consists of sight reading and a short interview<br><br></li></ul>For the audition, applicants are to:<br><br><ul><li> Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.<br><br></li><li>Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to:</li></ul>  
+<br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
 and
 Mr Daniel Yee (daniel_yee@moe.edu.sg)
-<br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
+<br><br>Applicants who are further shortlisted will attend an<b> interview. </b></td></tr>
 </tbody></table>
 </p><ul>
 <br>
@@ -105,12 +105,12 @@ Taekwondo
 Blue belt and above, with strong foundations (e.g good basic kicks)
 </td>
 <td border="2"> All shortlisted applicants must attend a Selection Exercise.
-<br><br>Badminton<br><br> Bring your badminton racket and be in proper court shoes.
+	<br><br><u>Badminton</u><br><br> Bring your badminton racket and be in proper court shoes.
 The trial will consist of:
-<br><br>1.Fitness tests<br><br>2.Footwork drills<br><br>3.Singles match play<br><br>Basketball<br><br>Be in proper sport shoes, preferably mid / high-cut basketball shoes.
+<br><br>1.Fitness tests<br><br>2.Footwork drills<br><br>3.Singles match play<br><br><u>Basketball</u><br><br>Be in proper sport shoes, preferably mid / high-cut basketball shoes.
 The trial will consist of:
-<br><br>1.Dribbling skills<br><br>2.Layup n shooting drills<br><br>3.5v5 game play<br><br> Bowling
-<br><br>Bring your personal equipment for the trial (to be conducted at SuperBowl SAFRA Tampines)The trial will consist of:<br><br>1.Bowling skill sets over 10 frames in a game<br><br>2.Interview with coaches<br><br>Taekwondo<br><br>Be in Taekwondo uniform (Dobok).
+<br><br>1.Dribbling skills<br><br>2.Layup n shooting drills<br><br>3.5v5 game play<br><br> <u>Bowling</u>
+<br><br>Bring your personal equipment for the trial <b>(to be conducted at SuperBowl SAFRA Tampines)</b> The trial will consist of:<br><br>1.Bowling skill sets over 10 frames in a game<br><br>2.Interview with coaches<br><br><u>Taekwondo</u><br><br>Be in Taekwondo uniform (Dobok).
 The trial will consist of:<br><br>1.Demonstration of relevant poomsae patterns and kicks<br><br>
 Applicants who are further shortlisted will attend an <b>interview</b>.</td></tr>
 </tbody></table>
@@ -119,7 +119,7 @@ Applicants who are further shortlisted will attend an <b>interview</b>.</td></tr
 <u>Leadership</u>
 	<p></p><ul>
 	<p style="text-align: left;">TJC nurtures leaders of the future. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community, your nation, and beyond. 
-Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2.          
+</p><p style="text-align: left;">Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. This will include the Temasek Ambassadors programme, as well as hosting and moderating various cohort-level activities. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2.          
 	<table border="2">
 
 <tbody><tr>
@@ -134,7 +134,7 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 
 <td border="2">Leadership </td>
 
-<td border="2"> 1.Key leadership positions in primary school (Executive Committee member in the Prefectorial Board or equivalent) OR have led projects that have impacted the community 
+<td border="2"> 1.Key leadership positions in primary school (Executive Committee member in the Prefectorial Board or equivalent) <b>OR</b> have led projects that have impacted the community 
 
 <br><br> 2. Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal.</td>
 
@@ -142,19 +142,18 @@ Students who enrol through DSA-Sec (Leadership) will have the opportunity to par
 
 </tbody></table>
 
-Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+<b>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b>
 </p><ul>
 	
 <h5>APPLICATION PROCESS</h5>
 	<div>
 <ul>
-	<p>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023. 
-		For more details, please refer to: https://www.moe.gov.sg/dsa-sec</p>
+	<p><b>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.</b> <br>For more details, please refer to: https://www.moe.gov.sg/dsa-sec</p>
 <ul>
 	<p>
 Please note the following:
 	</p><ul>
-	<p>●	An applicant can indicate up to three choices.</p>
+	<p>●	An applicant can indicate <u>up to three choices.</u></p>
 	
 <p>●	Each choice consists of a secondary school and a talent area offered by that secondary school.</p>
 	
