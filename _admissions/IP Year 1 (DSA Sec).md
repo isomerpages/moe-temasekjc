@@ -41,10 +41,8 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 </tbody></table>
 
 <ul>				
-	<u>Music Elective Programme</u>
-
-<ul>
-	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
+<b><u>Music Elective Programme</u></b>
+<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
 Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
 		
 
@@ -57,8 +55,8 @@ Students who enrol through DSA-Music will join the MEP and take up Music as one 
 <td border="2"> Music Elective Programme (MEP)</td><td border="2"> 1. Selection is based on students’ knowledge of musical concepts and skills covered in the primary school Music syllabus. 
 <br><br> 2. Students need to be competent in performance skills that can be developed through music CCAs or through other musical experiences (for example, display basic fluency and sound fundamental techniques).</td>
 <td border="2"> All shortlisted applicants for MEP must go through a Selection Exercise, which comprises:
-<br>1 a written listening test<br><br> 2 An audition, which also consists of aural tests and a short interview<br><br> For the audition, applicants are to prepare:
-<br><br> 1 Two contrasting pieces on the instrument(s)/voice of their choice, with a duration of 5 minutes in total.<br><br>2 Students may also submit their scores or recordings if they have composed music. 
+<br>1 a written listening test<br><br> 2. An audition, which also consists of aural tests and a short interview<br><br> For the audition, applicants are to prepare:
+<br><br> 1. Two contrasting pieces on the instrument(s)/voice of their choice, with a duration of 5 minutes in total.<br><br>2. Students may also submit their scores or recordings if they have composed music. 
 <br><br>Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) as well as music scores of their audition repertoire before the audition, via email, to:<br><br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
 and
 Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
@@ -66,13 +64,10 @@ Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
 </tbody></table>
 </p><ul>
 
-<u>Performing Arts – Concert Band</u>
-
-<p></p><ul>
-	<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
-Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
-		</ul>
-		<table border="2">
+<b><u>Performing Arts – Concert Band</u></b>
+<p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
+Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.
+<table border="2">
 <tbody><tr>
 <td border="2"><b>TALENT AREA</b></td>
 <td border="2"><b>SELECTION CRITERIA</b></td>
@@ -80,19 +75,18 @@ Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in 
 <tr>
 <td border="2">Performing Arts – Concert Band</td>
 <td border="2"> 1. Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, french horn, trombone, euphonium, tuba or any percussion instruments
-<br><br> 2.Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred<br><br>3.Very good CCA records<br><br> 4.Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal.<br><br></td>
+<br><br> 2. Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred<br><br>3. Very good CCA records<br><br> 4. Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal.<br><br></td>
 <td border="2"> All shortlisted applicants for band must go through a Selection Exercise, which comprises:
-<br><br>1.An audition, which also consists of sight reading and a short interview<br><br>For the audition, applicants are to:<br><br>1.Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.<br><br>2.Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to:  
+<br><br>1. An audition, which also consists of sight reading and a short interview<br><br>For the audition, applicants are to:<br><br>1. Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.<br><br>2. Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to:  
 <br><br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
 and
 Mr Daniel Yee (daniel_yee@moe.edu.sg)
 <br><br>Applicants who are further shortlisted will attend an<b> interview. </b>.</td></tr>
 </tbody></table>
-<ul>
+</p><ul>
 <br>
-<u>Sports</u>
-	<ul>
-	<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
+<b><u>Sports</u></b>
+<p style="text-align: left;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
 
 Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
 <table border="2">
@@ -208,4 +202,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 
 
 
-<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></ul></ul></div></li></ul>
+<p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></div></li></ul>
