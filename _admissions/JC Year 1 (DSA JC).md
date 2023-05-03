@@ -110,13 +110,13 @@ If you have any enquiries regarding the DSA application, please contact the foll
 <b>Sports CCAs</b> 
 <br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg<br><br>
 
-<b>Humanities Programme</b>
+<br><b>Humanities Programme</b>
 <br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg<br><br>
 
-<b>Leadership</b>
+<br><b>Leadership</b>
 <br>Mr Han Songguang - han_song_guang@moe.edu.sg<br><br>          
 
-<b>Music Elective Programme</b>
+<br><b>Music Elective Programme</b>
 <br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br>
 
 </p><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
