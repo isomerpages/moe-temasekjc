@@ -63,10 +63,45 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 					</ul>
 		<div>
 			<img src="/images/Admissions/dsajc2.png" style="width:100%">
+		<ul>
+			<div>
+				<h5>Application Process</h5>
+				
+<p>1) Application Period
+
+</p><p>Application opens on 4 May 2023, and closes on Friday, 30 Jun 2023, (5.00 pm, Singapore time). 
+
+2) Supporting Documents
+
+Applicants should submit the following supporting documents:
+<br>Sec 3 academic results slips (Mid-Year and End-of-Year)<br>
+<br>Sec 4 academic results slips (Till the latest available; including CA/WA)<br>
+<br>Sec 1 to Sec 4 CCA records (Till the latest available)<br>
+<br>Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)<br>
+
+3) Selection &amp; Interview Sessions
+
+Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between 15 May and 14 July 2023.
+
+4) Outcome of Application
+
+All applicants will be notified of the outcome of their application via e-mail by 15 August 2023. 
+________________________________________
+Important Points
 			
+<br>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.<br> 
+
+<br>Students are NOT allowed to accept more than one Confirmed Offer at any time.<br> 
+
+<br>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.<br>
+
+<br>The College will not release detailed results of the selection tests and interviews. The College also reserves the right not to reveal the results or reasons for non-selection. The College will not be able to provide the application results over the phone. 
+<br>Please refer to MOE's website at www.moe.gov.sg/dsa-jc for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website. <br>
+<br>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.<br> 
+ 
 			
-			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+			</p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 			<p>
 			</p>
 			</div>
-	  </ul></div></li></ul></ul>
+	  </ul></div></ul></div></li></ul></ul>
