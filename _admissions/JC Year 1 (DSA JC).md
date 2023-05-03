@@ -122,7 +122,7 @@ Mr Han Songguang - han_song_guang@moe.edu.sg<br>
 <br><br>Music Elective Programme
 			Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br><br>
 
-<p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at 64428066 during office hours or email:  registrar@tjc.edu.sg </p>
+<p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
 			</ul></div></ul></div>
