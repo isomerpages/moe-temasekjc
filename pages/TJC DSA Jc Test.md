@@ -102,6 +102,11 @@ Applicants should submit the following supporting documents:
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 
 </ul></div></li>
+
+ <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">CONTACT US</label>
+    <div>				
 		
 <b></b><p style="text-align: justify;"><b>Contact Us</b><br>
 		
@@ -118,10 +123,8 @@ Applicants should submit the following supporting documents:
 <br>Mr Han Songguang - han_song_guang@moe.edu.sg<br><br>          
 
 <br><b>Music Elective Programme</b>
-<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br>
+<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br></p>
 
-</p><br><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
-			<p>
-			</p>
-			</ul></div></li></ul></ul>
-	  
+<p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
+
+</div></li></ul></div></li></ul></ul>
