@@ -21,8 +21,8 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. Please find the details of the engagement session below:</p>
 
 <p><br>https://moe-singapore.zoom.us/j/82998512215<br>
-Meeting ID: 829 9851 2215 
-Passcode: TJCdsajc</p>
+</p><p>Meeting ID: 829 9851 2215 </p>
+<p>Passcode: TJCdsajc</p>
 
  <p></p>
     </div>
