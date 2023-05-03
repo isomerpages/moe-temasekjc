@@ -81,7 +81,7 @@ Applicants should submit the following supporting documents:
 
 3) Selection &amp; Interview Sessions
 
-Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between 15 May and 14 July 2023.
+<br>Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between 15 May and 14 July 2023.<br>
 
 4) Outcome of Application
 
