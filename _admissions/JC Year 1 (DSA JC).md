@@ -100,7 +100,7 @@ Important Points
 <br>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.<br> 
  
 			
-			</p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+</p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 			<p>
 			</p>
 			</div>
