@@ -41,7 +41,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Admission Criteria</label>
+    <label for="accordion4">ADMISSION CRITERIA</label>
     <div>
 			<p style="text-align: justify;">You are eligible if you are currently a Secondary 4 (Express) and Secondary 5 (Normal) student in our mainstream schools. You can apply through the following DSA domains:</p>
 			<ul>
