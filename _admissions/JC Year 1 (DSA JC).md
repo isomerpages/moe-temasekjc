@@ -119,7 +119,7 @@ Applicants should submit the following supporting documents:
 <br><b>Music Elective Programme</b>
 <br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br>
 
-</p><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
+</p><br><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
 			</ul></ul></div></ul></div>
