@@ -97,8 +97,8 @@ Students who enrol through DSA-Sports will join the CCA of their respective spor
 <tr>
 <td border="2">Badminton
 Basketball
-Ten-Pin Bowling
-Taekwondo
+<br>Ten-Pin Bowling
+<br>Taekwondo
 </td>
 <td border="2">Very Good CCA records <br><br> 1.Prior competition experience (NSG or other relevant competitions) 
 <br><br> 2.For TKD applicants only:
