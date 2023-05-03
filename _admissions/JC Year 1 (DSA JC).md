@@ -85,7 +85,7 @@ Applicants should submit the following supporting documents:
 
 <p><b>4) Outcome of Application</b></p>
 
-All applicants will be notified of the outcome of their application via e-mail by 15 August 2023. 
+<p>All applicants will be notified of the outcome of their application via e-mail by 15 August 2023.</p> 
 
 <p><b>Important Points</b></p>
 			
