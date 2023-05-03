@@ -101,27 +101,25 @@ Applicants should submit the following supporting documents:
 			
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 	<ul>
-	
-<p><b>Contact Us</b></p>
 		
-If you have any enquiries regarding the DSA application, please contact the following: 
+<b></b><p style="text-align: justify;"><b>Contact Us</b>
+		
+If you have any enquiries regarding the DSA application, please contact the following: <br><br>
+		<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br>
 
-<br><br>Performing Arts CCAs 
-		Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
+<b>Sports CCAs</b> 
+<br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg
 
-<br>	Sports CCAs 
-				Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg<br>
+<b>Humanities Programme</b>
+<br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg
 
-<br>Humanities Programme
-Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg<br>
+<b>Leadership</b>
+<br>Mr Han Songguang - han_song_guang@moe.edu.sg<br>          
 
-<br>	Leadership
-Mr Han Songguang - han_song_guang@moe.edu.sg<br>          
+<b>Music Elective Programme</b>
+<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg
 
-<br><br>Music Elective Programme
-			Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br><br>
-
-<p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
+</p><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
 			</ul></ul></div></ul></div>
