@@ -67,6 +67,8 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
     <label for="accordion5">APPLICATION PROCESS</label>
 <div>				
 
+<br>
+
 <p><b>1) Application Period</b></p>
 			
 <p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> </p>
