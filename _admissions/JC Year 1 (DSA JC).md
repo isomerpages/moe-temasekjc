@@ -86,7 +86,7 @@ Only shortlisted applicants will be notified via e-mail / telephone to attend in
 4) Outcome of Application
 
 All applicants will be notified of the outcome of their application via e-mail by 15 August 2023. 
-________________________________________
+
 Important Points
 			
 <br>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.<br> 
