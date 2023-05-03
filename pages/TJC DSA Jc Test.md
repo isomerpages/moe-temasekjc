@@ -156,9 +156,7 @@ Applicants should submit the following supporting documents:
     <label for="accordion6">CONTACT US</label>
     <div>				
 		
-<b></b><p style="text-align: justify;"><b>Contact Us</b><br>
-		
-<br></p><p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following: <br><br>
+<br><p></p><p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following: <br><br>
 		<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
 
 <b>Sports CCAs</b> 
