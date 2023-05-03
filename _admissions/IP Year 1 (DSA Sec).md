@@ -43,7 +43,7 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 <ul>				
 <b><u>Music Elective Programme</u></b>
 <p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
-Students who enrol through DSA-Music will join the MEP and take up Music as one of their subjects and join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
+	</p><p style="text-align: left;">Students who enrol through DSA-Music will join the MEP <b><u>and</u></b> take up Music as one of their subjects <b><u>and</u></b> join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
 		
 
 <table border="2">
@@ -54,19 +54,19 @@ Students who enrol through DSA-Music will join the MEP and take up Music as one 
 <tr>
 <td border="2"> Music Elective Programme (MEP)</td><td border="2"> 1. Selection is based on students’ knowledge of musical concepts and skills covered in the primary school Music syllabus. 
 <br><br> 2. Students need to be competent in performance skills that can be developed through music CCAs or through other musical experiences (for example, display basic fluency and sound fundamental techniques).</td>
-<td border="2"> All shortlisted applicants for MEP must go through a Selection Exercise, which comprises:
-<br>1 a written listening test<br><br> 2. An audition, which also consists of aural tests and a short interview<br><br> For the audition, applicants are to prepare:
+	<td border="2"> All shortlisted applicants for MEP must go through a <b>Selection Exercise</b>, which comprises:<br>
+<ul><br><li>A written listening test<br><br></li><li>An audition, which also consists of aural tests and a short interview<br></li></ul><br> For the audition, applicants are to prepare:
 <br><br> 1. Two contrasting pieces on the instrument(s)/voice of their choice, with a duration of 5 minutes in total.<br><br>2. Students may also submit their scores or recordings if they have composed music. 
 <br><br>Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) as well as music scores of their audition repertoire before the audition, via email, to:<br><br>Mr Seah Cheng Tat (seah_cheng_tat@moe.edu.sg) 
 and
 Ms Emmerlyn Ong (ong_hui_ling_emmerlyn@moe.edu.sg)<br><br>
- <b>Applicants who are further shortlisted will attend an interview.</b>.</td></tr>
+ <b>Applicants who are further shortlisted will attend an interview.</b></td></tr>
 </tbody></table>
 </p><ul>
 
 <b><u>Performing Arts – Concert Band</u></b>
 <p style="text-align: left;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.
-Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.
+</p><p style="text-align: left;">Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.
 <table border="2">
 <tbody><tr>
 <td border="2"><b>TALENT AREA</b></td>
