@@ -63,7 +63,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">APPLICATION PROCESS</label>
-    <div>				
+<div>				
 
 <p><b>1) Application Period</b></p>
 			
