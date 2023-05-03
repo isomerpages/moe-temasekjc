@@ -75,15 +75,15 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 Applicants should submit the following supporting documents:
 <br><br>Sec 3 academic results slips (Mid-Year and End-of-Year)
-<br>Sec 4 academic results slips (Till the latest available; including CA/WA)<br>
+<br>Sec 4 academic results slips (Till the latest available; including CA/WA)
 <br>Sec 1 to Sec 4 CCA records (Till the latest available)<br>
 <br>Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)<br>
 
-3) Selection &amp; Interview Sessions
+<p><b>3) Selection &amp; Interview Sessions</b></p>
 
 <br>Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between 15 May and 14 July 2023.<br>
 
-4) Outcome of Application
+<p><b>4) Outcome of Application</b></p>
 
 All applicants will be notified of the outcome of their application via e-mail by 15 August 2023. 
 
