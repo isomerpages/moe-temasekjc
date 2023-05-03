@@ -60,6 +60,8 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 				<li>Music Elective Programme (MEP)</li>
 				<ul>
 					</ul>
+ </ul></div>
+</li> 
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">APPLICATION PROCESS</label>
@@ -127,4 +129,4 @@ Applicants should submit the following supporting documents:
 
 <p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 
-</div></li></ul></div></li></ul></ul>
+</div></li></ul></ul>
