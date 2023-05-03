@@ -41,9 +41,9 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">TALENT AREAS</label>
+    <label for="accordion4">Admission Criteria</label>
     <div>
-			<p style="text-align: justify;">You can apply through the following DSA domains:</p>
+			<p style="text-align: justify;">You are eligible if you are currently a Secondary 4 (Express) and Secondary 5 (Normal) student in our mainstream schools. You can apply through the following DSA domains:</p>
 			<ul>
 				<li>	CCA – Performing Arts		
 					<ul>
@@ -58,6 +58,9 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 				<li>Humanities Programme</li>
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
+			
+			![](/images/Admissions/dsa_jc.png)
+			
 			</ul>
 		<div>
 			<p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
