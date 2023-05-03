@@ -74,10 +74,10 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 <p><b>2) Supporting Documents</b></p>
 
 Applicants should submit the following supporting documents:
-<br><br>Sec 3 academic results slips (Mid-Year and End-of-Year)
-<br><br>Sec 4 academic results slips (Till the latest available; including CA/WA)
-<br><br>Sec 1 to Sec 4 CCA records (Till the latest available)<br>
-<br>Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)<br>
+				<br><br><ul><li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
+				<br><br><li>Sec 4 academic results slips (Till the latest available; including CA/WA)</li>
+				<br><br><li>Sec 1 to Sec 4 CCA records (Till the latest available)<br></li>
+<br><li>Records of additional qualifications (only highest level required), achievements, awards, scholarships, etc. (if applicable)<br></li>
 
 <p><b>3) Selection &amp; Interview Sessions</b></p>
 
@@ -125,5 +125,5 @@ Mr Han Songguang - han_song_guang@moe.edu.sg<br>
 <p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
-			</ul></div></ul></div>
+			</ul></ul></div></ul></div>
 	  </ul></div></li></ul></ul>
