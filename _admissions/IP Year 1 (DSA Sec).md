@@ -5,7 +5,7 @@ description: ""
 ---
 # IP YEAR 1 (DSA-SEC)
 
-***
+****
 **APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2024) IS NOW OPEN!**
 
 **Application for DSA-Sec Exercise 2023 commences from:**
