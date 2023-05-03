@@ -59,14 +59,12 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 				<li>Leadership</li>
 				<li>Music Elective Programme (MEP)</li>
 				<ul>
-				<img src="/images/Admissions/dsajc1.png" style="width:100%">
 					</ul>
-		<div>
-			<img src="/images/Admissions/dsajc2.png" style="width:100%">
-		<ul>
-			<div>
-				<h5>APPLICATION PROCESS</h5>
-				
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">APPLICATION PROCESS</label>
+    <div>				
+
 <p><b>1) Application Period</b>
 
 </p><p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> 
@@ -123,5 +121,5 @@ Applicants should submit the following supporting documents:
 </p><br><p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 			<p>
 			</p>
-			</ul></ul></div></ul></div>
-	  </ul></div></li></ul></ul>
+			</ul></ul></div></li></ul></div>
+	  </li></ul></ul>
