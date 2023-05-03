@@ -87,7 +87,7 @@ Applicants should submit the following supporting documents:
 
 All applicants will be notified of the outcome of their application via e-mail by 15 August 2023. 
 
-Important Points
+<p><b>Important Points</b></p>
 			
 <br>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.<br> 
 
