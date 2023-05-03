@@ -65,7 +65,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 			<img src="/images/Admissions/dsajc2.png" style="width:100%">
 		<ul>
 			<div>
-				<h5>Application Process</h5>
+				<h5>APPLICATION PROCESS</h5>
 				
 <p><b>1) Application Period</b>
 
