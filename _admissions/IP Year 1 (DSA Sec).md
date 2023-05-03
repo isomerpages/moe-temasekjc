@@ -213,6 +213,4 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 <p>o	Leadership: Mr Han Songguang [han_song_guang@moe.edu.sg]
 </p>
 
-<p style="text-align: justify;">For any enquiries on the DSA application, please contact the TJC General Office at 6442 8066 during office hours or email: registrar@tjc.edu.sg
-	
-</p><p></p><p></p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></div></li></ul>
+<p style="text-align: justify;">For any enquiries on the DSA application, please contact the TJC General Office at 6442 8066 during office hours or email: registrar@tjc.edu.sg</p></ul></ul></ul></ul></div></ul></div></ul></ul></ul></ul></div></ul></ul></ul></ul></ul></ul></div></li></ul>
