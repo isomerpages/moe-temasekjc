@@ -17,7 +17,7 @@ sections:
           url: https://tinyurl.com/tjccohortreunions
         - title: IP Open House 2023
           description: ""
-          url: ""
+          url: https://for.edu.sg/tjcipopenhouse2023
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)

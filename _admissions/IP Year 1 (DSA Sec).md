@@ -210,6 +210,7 @@ You are encouraged to read the Frequently Asked Questions (FAQs) provided on the
 	<p> o	Badminton: Mrs Shirley Goh  [teo_yew_ing_shirley@moe.edu.sg]
 		</p><p> o	Basketball: Mr Lee Chun Hsien  [lee_chun-hsien@moe.edu.sg]</p>
 	<p>o	Bowling: Mr Kevin Ng [ng_yon_tek_kevin@moe.edu.sg]</p>
+	<p>o	Taekwondo: Ms Teoh Yu Han [teoh_yu_han@moe.edu.sg]</p>
 <p>o	Leadership: Mr Han Songguang [han_song_guang@moe.edu.sg]
 </p>
 
