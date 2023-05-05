@@ -72,10 +72,10 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 .tg .tg-cjd4{background-color:#F8F8F8;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 868px" class="tg">
+<table style="undefined;table-layout: fixed; width: 732px" class="tg">
 <colgroup>
 <col style="width: 388px">
-<col style="width: 480px">
+<col style="width: 344px">
 </colgroup>
 <thead>
   <tr>
