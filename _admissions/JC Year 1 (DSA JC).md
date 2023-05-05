@@ -29,14 +29,14 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-		<label for="accordion3"><h3><b>ABOUT DSA-JC</b></h3></label><b>
+		<label for="accordion3"><h3>ABOUT DSA-JC</h3></label>
     <div>
 			<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  
 
 For more information on DSA-JC, please refer to the MOE website at www.moe.gov.sg/dsa-jc</p>
 
     </div>
-	</b></li><b> 
+	</li><b> 
   <li>
     <input type="checkbox" id="accordion4">
 		<label for="accordion4"><h3>ADMISSION CRITERIA</h3></label>
