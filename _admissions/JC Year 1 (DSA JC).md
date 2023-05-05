@@ -171,5 +171,5 @@ Applicants should submit the following supporting documents:
 <br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br>
 
 <p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
-
-</div></li> </ul></ul>
+ </div>
+	</li> </ul></ul>
