@@ -66,6 +66,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
   overflow:hidden;padding:8px 9px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:8px 9px;word-break:normal;}
+ tg th { border: 1px solid black; }
 .tg .tg-fguf{background-color:#F8F8F8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-4ytf{background-color:#00703C;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-4l67{background-color:#00703C;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
