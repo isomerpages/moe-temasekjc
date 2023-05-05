@@ -120,9 +120,9 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 <p><b>2) Supporting Documents</b></p>
 
 Applicants should submit the following supporting documents:
-				<ul><li>Sec 3 academic results slips (Mid-Year and End-of-Year)</li>
-				<li>Sec 4 academic results slips (Till the latest available; including CA/WA)</li>
-				<li>Sec 1 to Sec 4 CCA records (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
+	<ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
+		<li><b>Sec 4 academic</b>results slips (Till the latest available; including CA/WA)</li>
+		<li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
 
 <p><b>3) Selection &amp; Interview Sessions</b></p>
 
