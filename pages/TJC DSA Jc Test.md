@@ -110,8 +110,6 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
     <label for="accordion5">APPLICATION PROCESS</label>
 <div>				
 
-<br>
-
 <p><b>1) Application Period</b></p>
 			
 <p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> </p>
@@ -155,9 +153,10 @@ Applicants should submit the following supporting documents:
     <input type="checkbox" id="accordion6">
     <label for="accordion6">CONTACT US</label>
     <div>				
-		
-<br><p></p><p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following: <br><br>
-		<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
+		<p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following:</p>
+<br>
+<br>
+<b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg<br><br>
 
 <b>Sports CCAs</b> 
 <br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg<br><br>
@@ -169,7 +168,7 @@ Applicants should submit the following supporting documents:
 <br>Mr Han Songguang - han_song_guang@moe.edu.sg<br><br>          
 
 <br><b>Music Elective Programme</b>
-<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br></p>
+<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg<br><p></p>
 
 <p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 
