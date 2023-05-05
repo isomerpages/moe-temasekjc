@@ -4,7 +4,6 @@ permalink: /admissions/jc-year-1-dsa-jc/
 description: ""
 ---
 # JC YEAR 1 (DSA-JC)
-# JC YEAR 1 (DSA-JC)
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
