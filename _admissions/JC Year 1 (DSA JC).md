@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <h3><label for="accordion1">APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2024) </label></h3>
+<label for="accordion1">APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2024) </label>
   <div>
 <p style="text-align: justify;">The application for the DSA-JC Exercise (2023) will commence from <b>4 May 2023 to 30 Jun 2023 (5:00 pm, Singapore time).</b></p>
 <p>
@@ -19,7 +19,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
-		<h3><label for="accordion2">DSA-JC ENGAGEMENT SESSION</label></h3>
+    <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
 			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. Please find the details of the engagement session below:</p>
 
@@ -30,7 +30,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 	</li> 
   <li>
     <input type="checkbox" id="accordion3">
-		<h3><label for="accordion3">ABOUT DSA-JC</label></h3>
+		<label for="accordion3">ABOUT DSA-JC</label>
     <div>
 			<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  
 
@@ -40,7 +40,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 	</li> 
   <li>
     <input type="checkbox" id="accordion4">
-		<h3><label for="accordion4">ADMISSION CRITERIA</label></h3>
+		<label for="accordion4">ADMISSION CRITERIA</label>
     <div>
 			<p style="text-align: justify;">You are eligible if you are currently a Secondary 4 (Express) and Secondary 5 (Normal) student in our mainstream schools. You can apply through the following DSA domains:</p>
 			<ul>
@@ -108,7 +108,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
   <li>
     <input type="checkbox" id="accordion5">
-		<h3><label for="accordion5">APPLICATION PROCESS</label></h3>
+		<label for="accordion5">APPLICATION PROCESS</label>
 <div>				
 
 <p><b>1) Application Period</b></p>
@@ -151,7 +151,7 @@ Applicants should submit the following supporting documents:
 
  <li>
     <input type="checkbox" id="accordion6">
-	 <h3> <label for="accordion6">CONTACT US</label></h3>
+	 <label for="accordion6">CONTACT US</label>
     <div>				
 		<p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following:</p>
 
