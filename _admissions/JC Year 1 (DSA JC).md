@@ -119,7 +119,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 <p><b>2) Supporting Documents</b></p>
 
-<b>plicants should submit the following supporting documents:**
+<b>Applicants should submit the following supporting documents:</b>
 <ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
 <li><b>Sec 4 academic</b>results slips (Till the latest available; including CA/WA)</li>
 <li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
@@ -134,20 +134,22 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 <p><b>Important Points</b></p>
 			
-<br>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.<br> 
+</div></li><li>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.</li>
 
-<br>Students are NOT allowed to accept more than one Confirmed Offer at any time.<br> 
+<li>Students are <u>NOT allowed</u> to accept more than one Confirmed Offer at any time.</li>
 
-<br>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.<br>
+<li>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</li>
 
-<br>The College will not release detailed results of the selection tests and interviews. The College also reserves the right not to reveal the results or reasons for non-selection. The College will not be able to provide the application results over the phone. 
-<br>Please refer to MOE's website at www.moe.gov.sg/dsa-jc for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website. <br>
-<br>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.<br> 
+<li>The College will not release detailed results of the selection tests and interviews. The College also reserves the right not to reveal the results or reasons for non-selection. The College will not be able to provide the application results over the phone.</li>
+	
+<li>Please refer to MOE's website at www.moe.gov.sg/dsa-jc for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website.</li>
+	
+<li>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.</li> 
  
 			
-<p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
+<p><b>The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</b></p>	
 
-</b></div></li><b>
+<b>
 
  <li>
     <input type="checkbox" id="accordion6">
