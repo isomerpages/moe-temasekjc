@@ -96,4 +96,5 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 	* English Language: Ms Caroline Sng [sng_ming_hui_caroline@moe.edu.sg](mailto:sng_ming_hui_caroline@moe.edu.sg)
 	* Mathematics: Mr Marcus Goh [goh_chengwei_marcus@moe.edu.sg](mailto:goh_chengwei_marcus@moe.edu.sg)
 	* Science: Mr Low Kian Seh [low_kian_seh@moe.edu.sg](mailto:low_kian_seh@moe.edu.sg)
-	* 
+	* MEP: Ms Emmerlyn Ong [ong_hui_ling_emmerlyn@moe.edu.sg](mailto:ong_hui_ling_emmerlyn@moe.edu.sg) &amp; Ms Serene Tan [tan_su_ling_serene@moe.edu.sg](mailto:tan_su_ling_serene@moe.edu.sg)
+	* Concert Band: Mr Seah Cheng Tat [seah_cheng_tat@moe.edu.sg](mailto:seah_cheng_tat@moe.edu.sg)
