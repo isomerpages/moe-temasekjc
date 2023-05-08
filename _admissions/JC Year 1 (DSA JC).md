@@ -172,4 +172,4 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  [registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)
 
- </ul></div></li></ul></ul>
+</ul></div></li></ul></ul>
