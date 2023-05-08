@@ -32,4 +32,19 @@ Please note the following:
 <label for="accordion2">WHAT ELSE DO I NEED TO KNOW?</label>
 <div>
 	<ul><li>The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission. Applicants do not need to register for the GAT.</li></ul>
-</div></li></ul>
+</div>
+	</li>
+	<li>
+<input id="accordion3" type="checkbox">
+<label for="accordion3">ENQUIRIES</label>
+<div>
+	<ul><li> For any enquiries on the respective talent areas, please contact:</li>
+		<ul><li>Chinese Language: Ms Low Kia Sze<br> [low_kia_sze@moe.edu.sg]</li></ul>
+		<ul><li>English Language: Ms Caroline Sng<br> [sng_ming_hui_caroline@moe.edu.sg] </li></ul>
+	</ul>
+		</div>
+	</li>
+	</ul>
+	
+
+		
