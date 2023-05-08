@@ -98,3 +98,9 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 	* Science: Mr Low Kian Seh [low_kian_seh@moe.edu.sg](mailto:low_kian_seh@moe.edu.sg)
 	* MEP: Ms Emmerlyn Ong [ong_hui_ling_emmerlyn@moe.edu.sg](mailto:ong_hui_ling_emmerlyn@moe.edu.sg) &amp; Ms Serene Tan [tan_su_ling_serene@moe.edu.sg](mailto:tan_su_ling_serene@moe.edu.sg)
 	* Concert Band: Mr Seah Cheng Tat [seah_cheng_tat@moe.edu.sg](mailto:seah_cheng_tat@moe.edu.sg)
+	* Badminton: Mrs Shirley Goh [teo_yew_ing_shirley@moe.edu.sg](mailto:teo_yew_ing_shirley@moe.edu.sg)
+	* Basketball: Mr Lee Chun Hsien [lee_chun-hsien@moe.edu.sg](mailto:lee_chun-hsien@moe.edu.sg)
+	* Bowling: Mr Kevin Ng [ng_yon_tek_kevin@moe.edu.sg](mailto:ng_yon_tek_kevin@moe.edu.sg)
+	* Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
+
+* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
