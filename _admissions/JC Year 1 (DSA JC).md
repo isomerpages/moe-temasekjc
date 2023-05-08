@@ -119,10 +119,10 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 <p><b>2) Supporting Documents</b></p>
 
-Applicants should submit the following supporting documents:
-	<ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
-		<li><b>Sec 4 academic</b>results slips (Till the latest available; including CA/WA)</li>
-		<li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
+<b>plicants should submit the following supporting documents:**
+<ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
+<li><b>Sec 4 academic</b>results slips (Till the latest available; including CA/WA)</li>
+<li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
 
 <p><b>3) Selection &amp; Interview Sessions</b></p>
 
@@ -147,7 +147,7 @@ Applicants should submit the following supporting documents:
 			
 <p></p><p style="text-align: justify;">The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</p>	
 
-</div></li>
+</b></div></li><b>
 
  <li>
     <input type="checkbox" id="accordion6">
@@ -171,4 +171,4 @@ Applicants should submit the following supporting documents:
 
 <p>If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  registrar@tjc.edu.sg </p>
 
- </div></li></ul></ul>
+ </div></li></b></ul></ul>
