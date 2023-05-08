@@ -134,7 +134,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 <p><b>Important Points</b></p>
 			
-</div></li><li>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.</li>
+<ul><li>Before the end of the Offer Stage, we will make Confirmed Offers to selected students. If you wish to accept a Confirmed Offer, you will be guaranteed a place in Temasek Junior College as long as you meet the eligibility criteria for admission.</li>
 
 <li>Students are <u>NOT allowed</u> to accept more than one Confirmed Offer at any time.</li>
 
@@ -147,16 +147,16 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 <li>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.</li> 
  
 			
-<p><b>The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</b></p>	
+<p><b>The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</b></p>	</ul>
 
 
- <li>
+ </div></li><li>
     <input type="checkbox" id="accordion6">
 	 <label for="accordion6">CONTACT US</label>
     <div>				
 		<p style="text-align: justify;">If you have any enquiries regarding the DSA application, please contact the following:</p>
 
-</div></li><li><b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg</li>
+<ul><li><b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg</li>
 
 <li><b>Sports CCAs</b> 
 <br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg</li>
@@ -172,4 +172,4 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  [registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)
 
- </ul></ul>
+ </ul></div></li></ul></ul>
