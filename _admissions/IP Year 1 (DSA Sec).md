@@ -46,5 +46,13 @@ Please note the following:
 	</li>
 	</ul>
 	
+**The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.**
 
-		
+For more details, please refer to: **[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)**
+
+Please note the following:
+
+* An applicant can indicate up to three choices.
+* Each choice consists of a secondary school and a talent area offered by that secondary school.
+
+Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
