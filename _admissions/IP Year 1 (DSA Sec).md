@@ -68,3 +68,8 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 * All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u>
 * <u>Only shortlisted applicants</u> will be notified via email and/or SMS for a selection test/audition/trial.
 * <u>Applicants who are further shortlisted</u> after these selection tests/auditions/trials will be invited to attend an **interview in July - August 2023.**
+* You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate.
+
+**Outcome of Application**
+
+* All applicants will be notified of the outcome of their application via email by **12 September 2023.**
