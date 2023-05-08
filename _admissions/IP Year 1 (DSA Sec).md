@@ -56,3 +56,12 @@ Please note the following:
 * Each choice consists of a secondary school and a talent area offered by that secondary school.
 
 Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.
+
+**Candidates Not Studying in Mainstream Schools**
+
+* Candidates (Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
+* International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to [https://www.moe.gov.sg/international-students/aeis/](https://www.moe.gov.sg/international-students/aeis/) apply for details.
+
+**Dates for Selection Tests/Auditions/Trials/Interviews:**
+
+* The selection tests/auditions/trials will be held from 27 June to 4 August 2023.
