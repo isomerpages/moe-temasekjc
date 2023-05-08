@@ -55,4 +55,4 @@ Please note the following:
 * An applicant can indicate up to three choices.
 * Each choice consists of a secondary school and a talent area offered by that secondary school.
 
-Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.
