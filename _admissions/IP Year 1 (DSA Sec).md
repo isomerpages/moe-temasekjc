@@ -67,3 +67,4 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 * The selection tests/auditions/trials will be held from **27 June to 4 August 2023**.
 * All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u>
 * <u>Only shortlisted applicants</u> will be notified via email and/or SMS for a selection test/audition/trial.
+* <u>Applicants who are further shortlisted</u> after these selection tests/auditions/trials will be invited to attend an **interview in July - August 2023.**
