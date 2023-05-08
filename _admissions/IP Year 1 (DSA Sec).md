@@ -28,7 +28,8 @@ Please note the following:
 	</div>
 	</li>
 	<li>
-<input id="accordion1" type="checkbox">
-<label for="accordion1">APPLICATION PROCESS</label>
+<input id="accordion2" type="checkbox">
+<label for="accordion2">WHAT ELSE DO I NEED TO KNOW?</label>
 <div>
+	<ul><li>The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission. Applicants do not need to register for the GAT.</li></ul>
 </div></li></ul>
