@@ -18,5 +18,17 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input id="accordion1" type="checkbox">
-<label for="accordion1">title</label>
-<div></div></li></ul>
+<label for="accordion1">APPLICATION PROCESS</label>
+<div>
+	<p><b> The Application period is from 11.00am. on 4 May 2023 to 3.00p.m. on 31 May 2023.</b><br>
+ For more details, please refer to https://www.moe.gov.sg/dsa-sec
+		
+Please note the following:
+	</p><ul><li> An Applicant can indicate <u>up to three choices.</u></li></ul><p></p>
+	</div>
+	</li>
+	<li>
+<input id="accordion1" type="checkbox">
+<label for="accordion1">APPLICATION PROCESS</label>
+<div>
+</div></li></ul>
