@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 ip open house banner.png
+      background: /images/tjc dsa-jc engagement 2023 banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -15,9 +15,9 @@ sections:
         - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
-        - title: IP Open House 2023
+        - title: JC DSA Engagement
           description: ""
-          url: https://for.edu.sg/tjcipopenhouse2023
+          url: https://www.temasekjc.moe.edu.sg/admissions/jc-year-1-dsa-jc/
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
