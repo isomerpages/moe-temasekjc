@@ -15,6 +15,28 @@ description: ""
 
 <p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
 
+      
+
+**TALENT AREAS**
+
+All talent areas offered by TJC, together with selection criteria and selection process, are detailed below.
+
+**Academic**
+
+We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC.
+
+Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the typical curriculum and exposes students to a wide range of opportunities that allows their talents to flourish.
+
+ 
+
+
+
+
+
+
+    
+
+
 <ul class="jekyllcodex_accordion">
 <li>
 <input id="accordion1" type="checkbox">
