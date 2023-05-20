@@ -89,13 +89,8 @@ All talent areas offered by TJC, together with selection criteria and selection 
 
     
 
+#### **APPLICATION PROCESS**
 
-<ul class="jekyllcodex_accordion">
-<li>
-<input id="accordion1" type="checkbox">
-<label for="accordion1">APPLICATION PROCESS</label>
-<div>
-<p></p></div></li>
 	
 <b>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.</b><br>
 <br>
@@ -153,4 +148,4 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 	* Bowling: Mr Kevin Ng [ng_yon_tek_kevin@moe.edu.sg](mailto:ng_yon_tek_kevin@moe.edu.sg)
 	* Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
-* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**<p></p><p></p></ul>
+* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**<p></p><p></p>
