@@ -95,7 +95,7 @@ All talent areas offered by TJC, together with selection criteria and selection 
 <input id="accordion1" type="checkbox">
 <label for="accordion1">APPLICATION PROCESS</label>
 <div>
-	<b>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.</b>
+	<p><b>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.</b>
 
 For more details, please refer to: <b>[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)</b>
 
@@ -104,7 +104,7 @@ Please note the following:
 * An applicant can indicate <u>up to three choices.</u>
 * Each choice consists of a secondary school and a talent area offered by that secondary school.
 
-<p style="text-align: justify;">Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.
+</p><p style="text-align: justify;">Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.
 
 <b>Candidates Not Studying in Mainstream Schools</b>
 
@@ -121,11 +121,11 @@ Please note the following:
 
 <b>Outcome of Application</b>
 
-* All applicants will be notified of the outcome of their application via email by **12 September 2023.**
+* All applicants will be notified of the outcome of their application via email by **12 September 2023.**</p></div>
 	
 <input id="accordion2" type="checkbox">
 <label for="accordion2">WHAT ELSE DO I NEED TO KNOW?</label>
-
+<div><p>
 <b>Points to note:</b>
 
 * </p><p style="text-align: justify;">The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.
@@ -142,7 +142,7 @@ Please note the following:
 	
 <input id="accordion3" type="checkbox">
 <label for="accordion3">ENQUIRIES</label>
-
+<div><p>
 * For any enquiries on the **respective talent areas,** please contact:
 	* Chinese Language: Ms Low Kia Sze [low_kia_sze@moe.edu.sg](mailto:low_kia_sze@moe.edu.sg)
 	* English Language: Ms Caroline Sng [sng_ming_hui_caroline@moe.edu.sg](mailto:sng_ming_hui_caroline@moe.edu.sg)
@@ -156,7 +156,7 @@ Please note the following:
 	* Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
 * For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
-	
+	</p></div><p></p>	
 	
 **The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.**
 
