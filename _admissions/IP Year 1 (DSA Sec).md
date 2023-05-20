@@ -148,4 +148,4 @@ Of the three choices, an applicant may use a <u>maximum of two choices</u> to ap
 	* Bowling: Mr Kevin Ng [ng_yon_tek_kevin@moe.edu.sg](mailto:ng_yon_tek_kevin@moe.edu.sg)
 	* Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
-* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**<p></p><p></p>
+* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
