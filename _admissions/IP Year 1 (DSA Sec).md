@@ -95,20 +95,19 @@ All talent areas offered by TJC, together with selection criteria and selection 
 <input id="accordion1" type="checkbox">
 <label for="accordion1">APPLICATION PROCESS</label>
 <div>
-
+<p></p></div></li>
 	
-	<p></p></div></li>**The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.**
-
-For more details, please refer to: **[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)**
-
+<b>The Application Period is from 11.00 a.m. on 4 May 2023 to 3.00 p.m. on 31 May 2023.</b><br>
+<br>
+For more details, please refer to: <b>[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)</b>
+<br><br>
 Please note the following:
-
-* An applicant can indicate up to three choices.
+* An applicant can indicate <u>up to three choices.</u>
 * Each choice consists of a secondary school and a talent area offered by that secondary school.
 
 Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.
 
-**Candidates Not Studying in Mainstream Schools**
+<b>Candidates Not Studying in Mainstream Schools</b>
 
 * Candidates (Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 * International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to [https://www.moe.gov.sg/international-students/aeis/](https://www.moe.gov.sg/international-students/aeis/) apply for details.
