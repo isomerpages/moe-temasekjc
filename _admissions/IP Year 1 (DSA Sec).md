@@ -30,6 +30,28 @@ Students who enrol through any of our 4 academic talent areas will join our Tale
 <style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12"><table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead><tr><th>TALENT AREA</th><th>SELECTION CRITERIA</th><th>SELECTION PROCESS</th></tr></thead><tbody><tr><td class="">Chinese Language <br>English Language<br> Mathematics <br>Science</td><td>Excellent academic results<br>Relevant achievements in the subject area</td><td>All shortlisted applicants must sit for an <b>individual written selection test.</b><br><br>This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.<br><br>Applicants who are further shortlisted will attend an <b>interview.</b></td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
  <br>
 
+**Music Elective Programme**
+
+We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). 
+
+Students who enrol through DSA-Music will join the MEP <b><u>and</u></b> take up Music as one of their subjects <b><u>and</u></b> join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
