@@ -26,6 +26,8 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 <p>[https://moe-singapore.zoom.us/j/82998512215]</p>
 <p>Meeting ID: 829 9851 2215 </p>
 <p>Passcode: TJCdsajc</p>
+			
+<p>The PDF slides from the engagement session can be found <a href="temasekjc_dsa_tjc 19 may 2023">here</a>.</p>			
 			</div>
 	</li> 
   <li>
