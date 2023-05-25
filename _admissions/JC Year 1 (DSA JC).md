@@ -27,7 +27,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 <p>Meeting ID: 829 9851 2215 </p>
 <p>Passcode: TJCdsajc</p>
 			
-<p>The PDF slides from the engagement session can be found [here.](/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf) <a href="https://cms.isomer.gov.sg/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
+<p>The PDF slides from the engagement session can be found <a href="https://cms.isomer.gov.sg/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
 			</div>
 	</li> 
   <li>
@@ -38,7 +38,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 
 For more information on DSA-JC, please refer to the MOE website at www.moe.gov.sg/dsa-jc</p>
 
-    </div>
+   </div>
 	</li> 
   <li>
     <input id="accordion4" type="checkbox">
