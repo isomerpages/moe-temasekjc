@@ -24,7 +24,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 			<p style="text-align: justify;">The college had conducted a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. Please find the details of the engagement session below:</p>
 
 		
-<p>The PDF slides from the engagement session can be found <a href="/cms.isomer.gov.sg/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
+<p>The PDF slides from the engagement session can be found <a href="/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
 			</div>
 	</li> 
   <li>
