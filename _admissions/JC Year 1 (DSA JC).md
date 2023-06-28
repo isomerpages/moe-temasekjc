@@ -21,13 +21,10 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
     <input id="accordion2" type="checkbox">
     <label for="accordion2">DSA-JC ENGAGEMENT SESSION</label>
     <div>
-			<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. Please find the details of the engagement session below:</p>
+			<p style="text-align: justify;">The college had conducted a DSA-JC engagement session for interested students (via Zoom) on 19 May 2023 at 4pm. Please find the details of the engagement session below:</p>
 
-<p>[https://moe-singapore.zoom.us/j/82998512215]</p>
-<p>Meeting ID: 829 9851 2215 </p>
-<p>Passcode: TJCdsajc</p>
-			
-<p>The PDF slides from the engagement session can be found <a href="https://cms.isomer.gov.sg/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
+		
+<p>The PDF slides from the engagement session can be found <a href="/files/Admissions/DSA_JC_2023/temasekjc_dsa_tjc%2019%20may%202023.pdf">here</a>.</p>
 			</div>
 	</li> 
   <li>
@@ -118,6 +115,8 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 <p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> </p>
 
 <p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
+	
+<p style="text-align: justify; color:red;"><b>The system is currently unavailable. Please check back at 3pm.</b></p>
 
 <p><b>2) Supporting Documents</b></p>
 
