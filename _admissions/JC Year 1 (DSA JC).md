@@ -116,7 +116,7 @@ For more information on DSA-JC, please refer to the MOE website at www.moe.gov.s
 
 <p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
 	
-<p style="text-align: justify; color:red;"><b>The system is currently unavailable. Please check back at 3pm.</b></p>
+
 
 <p><b>2) Supporting Documents</b></p>
 
