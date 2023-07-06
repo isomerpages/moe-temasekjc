@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tjc dsa-jc engagement 2023 banner.png
+      background: /images/tjc campus.jpeg
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -15,9 +15,6 @@ sections:
         - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
-        - title: JC DSA Engagement
-          description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/jc-year-1-dsa-jc/
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
