@@ -228,14 +228,14 @@ description: ""
     <td>Mr</td>
     <td>Leong Chou Keen Robin </td>
     <td>Teacher</td>
-    <td>History</td>
+    <td>History/Singapore Studies</td>
     <td><a href="mailto:leong_chou_keen@moe.edu.sg">leong_chou_keen@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms</td>
     <td>Chen Ying </td>
     <td>Teacher </td>
-    <td> Geography</td>
+    <td> History/Singapore Studies</td>
     <td><a href="mailto:chen_ying@moe.edu.sg">chen_ying@moe.edu.sg</a></td>
   </tr>
 </tbody>
