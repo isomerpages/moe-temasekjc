@@ -1120,12 +1120,7 @@ description: ""
     <td>Administrative Executive<br></td>
     <td><a href="mailto:tan_puay_jee_peggy@moe.edu.sg">tan_puay_jee_peggy@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Suria Ibrahim<br></td>
-    <td>Corporate Support Officer<br></td>
-    <td><a href="mailto:suria_ibrahim@schools.gov.sg">suria_ibrahim@schools.gov.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Miss<br></td>
     <td>Yeo Pei Ling<br></td>
