@@ -1120,7 +1120,12 @@ description: ""
     <td>Administrative Executive<br></td>
     <td><a href="mailto:tan_puay_jee_peggy@moe.edu.sg">tan_puay_jee_peggy@moe.edu.sg</a> </td>
   </tr>
-
+ <tr>
+    <td> Mdm </td>
+    <td>Nur Fitriaina</td>
+    <td>Administrative Executive<br></td>
+    <td><a href="mailto:nur_fitriaina_abdul_shmad@moe.edu.sg">nur_fitriaina_abdul_shmad@moe.edu.sg</a> </td>
+  </tr>
   <tr>
     <td>Miss<br></td>
     <td>Yeo Pei Ling<br></td>
