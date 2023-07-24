@@ -228,14 +228,14 @@ description: ""
     <td>Mr</td>
     <td>Leong Chou Keen Robin </td>
     <td>Teacher</td>
-    <td>History</td>
+    <td>History/Singapore Studies</td>
     <td><a href="mailto:leong_chou_keen@moe.edu.sg">leong_chou_keen@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms</td>
     <td>Chen Ying </td>
     <td>Teacher </td>
-    <td> Geography</td>
+    <td> History/Singapore Studies</td>
     <td><a href="mailto:chen_ying@moe.edu.sg">chen_ying@moe.edu.sg</a></td>
   </tr>
 </tbody>
@@ -1120,11 +1120,11 @@ description: ""
     <td>Administrative Executive<br></td>
     <td><a href="mailto:tan_puay_jee_peggy@moe.edu.sg">tan_puay_jee_peggy@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Suria Ibrahim<br></td>
-    <td>Corporate Support Officer<br></td>
-    <td><a href="mailto:suria_ibrahim@schools.gov.sg">suria_ibrahim@schools.gov.sg</a><br></td>
+ <tr>
+    <td> Mdm </td>
+    <td>Nur Fitriaina</td>
+    <td>Administrative Executive<br></td>
+    <td><a href="mailto:nur_fitriaina_abdul_shmad@moe.edu.sg">nur_fitriaina_abdul_shmad@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Miss<br></td>
