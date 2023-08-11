@@ -62,6 +62,13 @@ description: ""
     <td>Music<br></td>
     <td><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></td>
   </tr>
+	  <tr>
+    <td>Mr<br></td>
+    <td>Marcus Tay<br></td>
+    <td>Teacher<br></td>
+    <td>Music<br></td>
+    <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
     </div>
