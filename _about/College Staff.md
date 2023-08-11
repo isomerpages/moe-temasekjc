@@ -28,11 +28,18 @@ description: ""
     <td><a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Mrs<br></td>
-    <td>Jane Catherine Loke<br></td>
-    <td>DyHead / Aesthetics<br></td>
+    <td>Mdm<br></td>
+    <td>Coelho Sophia<br></td>
+    <td>Teacher<br></td>
     <td>Art<br></td>
-    <td><a href="mailto:tan_hui_fen@moe.edu.sg">tan_hui_fen@moe.edu.sg</a><br></td>
+    <td><a href="mailto:coelho_sophia@moe.edu.sg">coelho_sophia@moe.edu.sg</a><br></td>
+  </tr>
+	  <tr>
+    <td>Ms<br></td>
+    <td>Liau Shu Juan<br></td>
+    <td>Teacher<br></td>
+    <td>Art<br></td>
+    <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
