@@ -15,13 +15,13 @@ third_nav_title: CCE
     <div>
 			<ol>
 				<li><p style="text-align: justify;">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p></li>
-				<li><p style="text-align: justify;">The goals of Sexuality Education are:<br><br>i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br><br>
-ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and <br><br>
-iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</p></li>
+				<li><p style="text-align: justify;">The goals of Sexuality Education are:<br><br>i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;<br><br>
+ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and <br><br>
+iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.</p></li>
 				<br>
 				<li>The key messages of Sexuality Education are:<br><br>i. Love and respect yourself as you love and respect others;<br><br>ii. Build positive relationships based on love and respect (which are the foundation for strong families);<br><br>iii. Make responsible decisions for yourself, your family and society; and<br><br>iv. Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 			</ol>
-		<p style="text-align: justify;">You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.</p>
+		<p style="text-align: justify;">You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
     </div>
 	</li> 
   <li>
@@ -34,7 +34,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
 <br>b. Character and Citizenship Education (CCE)</p></li>
 	</ol>
 			<p><b>Sexuality Education Lessons:</b></p>
-			<ol start ="3">
+			<ol start="3">
 				<li><p style="text-align: justify;"> The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p></li>
 				<li><p style="text-align: justify;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p></li>
 			</ol>
@@ -44,7 +44,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
     <input type="checkbox" id="accordion3">
     <label for="accordion3">LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</label>
     <div>
-			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
+			<b>At Temasek Junior College, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</b>
 			<div style="text-align: center;"><strong>IP1</strong></div>
 <table>
 <thead>
@@ -129,7 +129,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
   <tr>
     <td>When Respect Takes Centre Stage Lesson 2 (60 mins)</td>
     <td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.<br><br>At the end of the lesson, students will be able to:<br><br>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td>Term 4<br>Week 2</td>
+    <td>Term 4<br>Week 5</td>
   </tr>
 </tbody>
 </table>
@@ -197,13 +197,11 @@ iii.  To help students develop a moral compass, respect for themselves and for o
     <div>
 			<ol>
 				<li><p style="text-align: justify;">Parents may opt their children out of Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p></li>
-				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also <a href="/files/Parent%20Opt%20Out%20Form%202023.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023.</p></li>
-				<li><p style="text-align: justify;">Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also <a href="/files/eTeens%20Opt%20Out%202023.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023.</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also&nbsp;<a href="/files/Parent%20Opt%20Out%20Form%202023.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023.</p></li>
+				<li><p style="text-align: justify;">Parents who wish to opt their children out of the&nbsp;<b>eTeens programme</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also&nbsp;<a href="/files/eTeens%20Opt%20Out%202023.pdf" target="_blank">downloadable here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 20/02/2023.</p></li>
 				<li><p style="text-align: justify;">Parents can contact the school at 6442 8066 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></li>
 				<li><p style="text-align: justify;">Parents, who wish to attend the College’s Sexuality Education programmes, should contact the school to make the necessary arrangements.</p></li>
 			</ol>
     </div>
 	</li> 
 </ul>
-
-
