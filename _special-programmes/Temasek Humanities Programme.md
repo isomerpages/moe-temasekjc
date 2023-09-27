@@ -5,35 +5,21 @@ description: ""
 ---
 # TEMASEK HUMANITIES PROGRAMME
 
-<p style="text-align: justify;">One of only eight A-Level MOE Humanities Scholarship Centres, the Temasek Humanities Programme (THP) aims to create leaders in the Humanities through embracing the spirit of inquiry. Our three signature programmes reflect this focus on inquiry, and our students come through our programme with a critical appreciation of pertinent issues in our world today as well as the skills to kick start change. Read on to find out more about our signature programmes.</p>
-
+<p style="text-align: justify;">One of only seven A-Level MOE Humanities Scholarship Centres, the Temasek Humanities Programme (THP) aims to create leaders in the Humanities through embracing the spirit of inquiry. Our three signature programmes - the Temasek Distinguished Speakers Series (TDSS), the HumaniTJourney, and the Capstone Project - reflect this focus on inquiry, and our students come through our programme with a critical appreciation of pertinent issues in our world today as well as the skills to kick start change. Read on to find out more about our signature programmes.</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">TEMASEK DISTINGUISHED SPEAKERS’ SERIES (TDSS)</label>
+    <label for="accordion1">The HumaniTEA@TJC</label>
     <div>
-			<p style="text-align: justify;">The TDSS is an annual conference that the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, before culminating in a conference with a distinguished speaker in the field of interest.</p>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%201.jpg" style="width:80%">
-			<center>TDSS main conference in 2019</center>
-			<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%202.png" style="width:95%"></td>
-    <td><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/TDSS%203.png" style="width:80%"></td>
-  </tr>
-</tbody>
-</table>
-			<center>TDSS main conference goes virtual in 2020 (left) while the TDSS 2020 organising committee are hard at work (right)</center>
-    </div>
-	</li> 
-  <li>
+			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
+			
+![](/images/image1.jpeg)
+			<center>Minister Grace Fu speaking virtually at our 2020 conference. (Source: Facebook)</center>
+			
+				
+![](/images/image2.jpeg)
+						<center>&nbsp;THP students leading HumaniTEA pre-conference sessions in 2023</center><li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">HUMANITJOURNEY</label>
     <div>
@@ -45,13 +31,16 @@ description: ""
 			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%204.jpg" style="width:80%">
 			<center>THP students enjoying a bubble tea workshop in Taiwan, 2019</center>			
     </div>
-	</li> 
-	  <li>
+	</li><li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">CAPSTONE PROJECTS</label>
     <div>
 			<p style="text-align: justify;">Our students’ THP journey culminates in the Capstone Project, which empowers our J2 students to conduct independent research on an area of their interest to produce an academic paper. They present their findings at the HumaniTEA@TJC, where they defend their research process and findings to their peers.</p>
-			<table>
+			</div></li><table> 
+	  </table>
+ &nbsp;After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!) Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
+				
+  <table>
 <thead>
   <tr>
     <th></th>
