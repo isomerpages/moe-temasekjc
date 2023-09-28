@@ -13,32 +13,43 @@ description: ""
     <label for="accordion1">The HumaniTEA@TJC</label>
     <div>
 			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
+	
+	
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/image1.jpeg)|  | ![](/images/image2.jpeg) |
+| Minister Grace Fu speaking virtually at our 2020 conference. (Source: Facebook) |  | THP students leading HumaniTEA pre-conference sessions in 2023 |
 			
-![](/images/image1.jpeg)
-			<center>Minister Grace Fu speaking virtually at our 2020 conference. (Source: Facebook)</center>
-			
-				
-![](/images/image2.jpeg)
-						<center>&nbsp;THP students leading HumaniTEA pre-conference sessions in 2023</center><li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">HUMANITJOURNEY</label>
+After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">HUMANITJOURNEY</label>
     <div>
-			<p style="text-align: justify;">The HumaniTJourney is an opportunity for our students to explore pertinent issues affecting our world by considering both foreign and local perspectives as they construct learning experiences, collect data, and learn to produce nuanced and well-reasoned analyses.</p>
-						<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%202.jpg" style="width:80%">
-			<center>Learning journey to Geylang as part of the local HumaniTJourney 2020</center>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%203.jpg" style="width:80%">
-			<center>Virtual tour to a New Zealand farm in HumaniTJourney 2020</center>
-			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/HumaniTJourney%204.jpg" style="width:80%">
-			<center>THP students enjoying a bubble tea workshop in Taiwan, 2019</center>			
-    </div>
-	</li><li>
+			<p style="text-align: justify;">The HumaniTJourney is an opportunity for our students to explore foreign (and local) societies in a confident and critical manner. Through the HumaniTJourney, students are given the space to construct learning experiences, collect data, and produce well-reasoned analyses in response to various issues. </p>
+			
+
+
+|  |  | 
+| -------- | -------- | 
+| ![](/images/picture2.png)     | ![](/images/picture4.jpg)     | Text     |
+| ![](/images/picture5.jpg) | ![](/images/picture1.jpg) | 
+			
+*Clockwise, from top left: HumaniTJourney 2018 to Xi'an, China; Learning journey to Geylang as part of the local HumaniTJourney 2020; THP students enjoying a bubble tea workshop in Taiwan, 2019; Virtual tour to a New Zealand farm during HumaniTJourney 2020*
+
+	
+
+<ul class="jekyllcodex_accordion">
+	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">CAPSTONE PROJECTS</label>
     <div>
-			<p style="text-align: justify;">Our students’ THP journey culminates in the Capstone Project, which empowers our J2 students to conduct independent research on an area of their interest to produce an academic paper. They present their findings at the HumaniTEA@TJC, where they defend their research process and findings to their peers.</p>
+			<p style="text-align: justify;">The Capstone Project empowers our J2 students to conduct independent research to produce an academic paper. They present their findings at the HumaniTEA@TJC, where they defend their research process and findings to their peers.</p>
 			</div></li><table> 
 	  </table>
- &nbsp;After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!) Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
+
 				
   <table>
 <thead>
@@ -49,13 +60,13 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%201.jpg" style="width:100%">HumaniTEA 2020 Capstone presentation</td>
-    <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%202.jpg" style="width:65%">Virtual sharing by TJC alumnus Dr. Heng Tang Tang for HumaniTEA 2021</td>
+    <td style="text-align: center;"><img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/Capstone%201.jpg" style="width:80%"></td>
+    <td style="text-align: center;"><img src="/images/picture6.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
-    </div>
-	</li> 
+    
+	 
 	  <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">MENTORSHIP OPPORTUNITIES</label>
@@ -81,4 +92,4 @@ description: ""
 	</li> 
 	</ul>
 
-<p style="text-align: justify;">To learn more about us, please feel free to reach out to the programme coordinator, Mr Jared Wong at&nbsp;<a href="mailto:wong_wei_ming_jared@schools.gov.sg.">wong_wei_ming_jared@schools.gov.sg</a>.</p>
+<p style="text-align: justify;">To learn more about us, please feel free to reach out to the programme coordinator, Mr Jared Wong at&nbsp;<a href="mailto:wong_wei_ming_jared@schools.gov.sg.">wong_wei_ming_jared@schools.gov.sg</a>.</p></div></li></ul></div></li></ul>
