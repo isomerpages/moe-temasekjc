@@ -15,4 +15,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">PEERS PROJECT COMMITTEES</label>
     <div>
-			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p></div></li></ul>
+			<p style="text-align: justify;"><b>STUDENT ACTIVITIES/WELFARE</b><br>This committee aims to support College events and activities organised to enrich every TJCian’s learning or social-emotional needs. Parents can assist by planning and preparing for the event or to volunteering their time during the event itself.</p>
+	 </div>
+	</li>
+</ul>
