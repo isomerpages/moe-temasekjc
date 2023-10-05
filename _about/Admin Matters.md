@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td style="text-align: center;">Chinese Noodles/Fusion Food</td>
 <td style="text-align: center;"></td>
-	<td style="text-align: center;">Chinese Noodles/Fusion Food with <b>Vegetarian Options</b></td>
+	<td style="text-align: center;">Chinese Noodles/Fusion Food<b> with Vegetarian Options</b></td>
 </tr>
 <tr>
 <td style="text-align: center;">Drinks &amp; Snacks</td>
