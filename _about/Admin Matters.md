@@ -37,9 +37,9 @@ description: ""
 	<td style="text-align: center;">Indian Cuisine with <b>Vegetarian Options</b></td>
 </tr>
 	<tr>
-<td style="text-align: center;">Chinese/International/Japanese/Fusion Food</td>
+<td style="text-align: center;">International/Fusion Food</td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;">Chinese/International/Japanese/Fusion Food Dishes</td>
+<td style="text-align: center;">International/Fusion Food Dishes</td>
 </tr>
 </tbody>
 </table>
