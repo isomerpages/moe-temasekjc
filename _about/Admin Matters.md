@@ -3,9 +3,7 @@ title: Admin Matters
 permalink: /about/admin-matters/
 description: ""
 ---
-# School Canteen Advertisment
-
-<p style="text-align: justify;">As the College strives to groom and nurture the thinkers, leaders and trailblazers of tomorrow, we take pride in the fact that the many who have walked through our gates are now leading and making their mark in society through their contributions in diverse fields.</p>
+# School Canteen Advertisement
 
 <table>
 <thead>
