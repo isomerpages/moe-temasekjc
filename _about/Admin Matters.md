@@ -7,7 +7,6 @@ description: ""
 
 <p style="text-align: justify;">As the College strives to groom and nurture the thinkers, leaders and trailblazers of tomorrow, we take pride in the fact that the many who have walked through our gates are now leading and making their mark in society through their contributions in diverse fields.</p>
 
-
 <table>
 <thead>
 <tr>
@@ -44,5 +43,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-    
-	 
+
+<p style="text-align: justify;"><b>Application Procedure</b></p>
+
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
