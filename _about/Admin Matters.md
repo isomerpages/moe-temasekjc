@@ -9,3 +9,8 @@ description: ""
 
 
 <p style="text-align: justify;">The TJC Alumni fosters closer relations between the College and our graduands, as well as promotes social, cultural and recreational activities among our members. We encourage all former students of the College to join the TJC Alumni to help them stay connected and updated on College events and fellowship opportunities with other former TJCians.</p>
+
+<ul class="jekyllcodex_accordion">
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">THE DISTINGUISHED ALUMNUS AWARD</label></li></ul>
