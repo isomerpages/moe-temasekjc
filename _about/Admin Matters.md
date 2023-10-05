@@ -12,5 +12,9 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">THE DISTINGUISHED ALUMNUS AWARD</label></li></ul>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">THE DISTINGUISHED ALUMNUS AWARD</label>
+	 <div>
+			<p style="text-align: justify;"> The Awards
+	</p></div></li>
+</ul>
