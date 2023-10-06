@@ -1146,12 +1146,7 @@ description: ""
     <td>Corporate Support Officer<br></td>
     <td><a href="mailto:yeo_pei_ling@schools.gov.sg">yeo_pei_ling@schools.gov.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Jane Koh<br></td>
-    <td>Corporate Support Officer<br></td>
-    <td><a href="mailto:koh_poh_lin@schools.gov.sg">koh_poh_lin@schools.gov.sg</a><br></td>
-  </tr>
+ 
   <tr>
     <td>Mdm </td>
     <td>Norhana </td>
@@ -1163,6 +1158,24 @@ description: ""
     <td>Emilia Wee </td>
     <td>Corporate Support Officer</td>
     <td><a href="mailto:emilia_jalyn_wee@moe.edu.sg">emilia_jalyn_wee@moe.edu.sg</a> </td>
+  </tr>
+	<tr>
+    <td>Ms </td>
+    <td>Anna Ang </td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:anna_ang_li_mei@moe.edu.sg">anna_ang_li_mei@moe.edu.sg</a> </td>
+  </tr>
+	<tr>
+    <td>Ms </td>
+    <td>Linda Koh</td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:koh_seok_tin_linda_a@moe.edu.sg">koh_seok_tin_linda_a@moe.edu.sg</a> </td>
+  </tr>
+	<tr>
+    <td>Mdm </td>
+    <td>Faridah </td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:faridah_shukor@moe.edu.sg">faridah_shukor@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mr </td>
@@ -1281,9 +1294,9 @@ description: ""
   </tr>
   <tr>
     <td>Ms </td>
-    <td>Enyf </td>
+    <td>Shafiqah </td>
     <td>School Librarian </td>
-    <td><a href="mailto:enyf_mohamed_raib@moe.edu.sg">enyf_mohamed_raib@moe.edu.sg</a> </td>
+    <td><a href="mailto:">.</a> </td>
   </tr>
 </tbody>
 </table>
