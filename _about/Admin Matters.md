@@ -5,6 +5,8 @@ description: ""
 ---
 # School Canteen Advertisement
 <br>
+Temasek Junior College is looking for canteen stalls to provide
+<br>
 <br>
 <table>
 <thead>
@@ -17,27 +19,27 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;">Chinese Noodles/Fusion Food</td>
-<td style="text-align: center;">16 October 2023</td>
+<td style="text-align: center;">16 October 2023, 5pm</td>
 	<td style="text-align: center;">Chinese Noodles/Fusion Food<br> with <b>Vegetarian Options</b></td>
 </tr>
 <tr>
 <td style="text-align: center;">Drinks &amp; Snacks</td>
-<td style="text-align: center;">16 October 2023</td>
+<td style="text-align: center;">16 October 2023, 5pm</td>
 <td style="text-align: center;">Hot and Cold Drinks, Snacks</td>
 </tr>
 <tr>
 <td style="text-align: center;">Muslim Mixed Rice/Noodles (Halal)</td>
-<td style="text-align: center;">16 October 2023</td>
+<td style="text-align: center;">16 October 2023, 5pm</td>
 <td style="text-align: center;">Mixed Rice/Noodles Dishes</td>
 </tr>
 <tr>
 <td style="text-align: center;">Indian Cuisine (Halal) </td>
-<td style="text-align: center;">16 October 2023</td>
+<td style="text-align: center;">16 October 2023, 5pm</td>
 	<td style="text-align: center;">Indian Cuisine with <b>Vegetarian Options</b></td>
 </tr>
 	<tr>
 <td style="text-align: center;">International/Fusion Food</td>
-<td style="text-align: center;">16 October 2023</td>
+<td style="text-align: center;">16 October 2023, 5pm</td>
 <td style="text-align: center;">International/Fusion Food Dishes</td>
 </tr>
 </tbody>
@@ -67,7 +69,9 @@ description: ""
 
 * Contact Person: Mr Osman
 
-<p style="text-align: justify;"><b>How to Get There?</b></p>
+<p style="text-align: justify;">Please submit the completed application form with the supporting documents to the school's General Office or email to osman_aspari@schools.gov.sg by <b>16 Oct 2023, 5pm.</b>
+
+</p><p style="text-align: justify;"><b>How to Get There?</b></p>
 
 * Buses: 12, 12e, 38, 47, 229 (Bus Stop Number  84111)
 
