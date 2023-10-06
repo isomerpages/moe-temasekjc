@@ -46,3 +46,6 @@ description: ""
 <p style="text-align: justify;"><b>Application Procedure</b></p>
 
 <p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+
+*   <p><a href="/files/About/Canteen/application form for canteen stalls.pdf">Application Form for Canteen Stalls</a></p>
+
