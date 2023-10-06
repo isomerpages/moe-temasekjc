@@ -92,3 +92,7 @@ Temasek Junior College is looking for canteen stalls to provide
 <p style="text-align: justify;"><b>Applicants Should Preferably Fulfill the Following Criteria:</b></p>
 
 * Possess catering experience or experience operating in a school environment.
+
+<p style="text-align: justify;"></p><p style="color:red"><i><b>Please note that the canteen stalls will be located at 2 Tampines Avenue 9, Singapore 529564, and will need to be operational from 8 Jan 2024 .</b></i></p><p></p> 
+
+
