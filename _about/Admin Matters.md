@@ -17,27 +17,27 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;">Chinese Noodles/Fusion Food</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">16 October 2023</td>
 	<td style="text-align: center;">Chinese Noodles/Fusion Food<br> with <b>Vegetarian Options</b></td>
 </tr>
 <tr>
 <td style="text-align: center;">Drinks &amp; Snacks</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">16 October 2023</td>
 <td style="text-align: center;">Hot and Cold Drinks, Snacks</td>
 </tr>
 <tr>
 <td style="text-align: center;">Muslim Mixed Rice/Noodles (Halal)</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">16 October 2023</td>
 <td style="text-align: center;">Mixed Rice/Noodles Dishes</td>
 </tr>
 <tr>
 <td style="text-align: center;">Indian Cuisine (Halal) </td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">16 October 2023</td>
 	<td style="text-align: center;">Indian Cuisine with <b>Vegetarian Options</b></td>
 </tr>
 	<tr>
 <td style="text-align: center;">International/Fusion Food</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">16 October 2023</td>
 <td style="text-align: center;">International/Fusion Food Dishes</td>
 </tr>
 </tbody>
