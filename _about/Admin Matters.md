@@ -73,20 +73,18 @@ description: ""
 
 <p style="text-align: justify;"><b>Interested Applicants Must Meet the Following Criteria:</b></p>
 
-* Address: 22 Bedok South Road, S469278
+* Singapore citizen
 
-* Contact No: 6442 8066
-* Address: 22 Bedok South Road, S469278
+* Able to provide
 
-* Contact No: 6442 8066* Address: 22 Bedok South Road, S469278
+* Able to provide cooked
 
-* Contact No: 6442 8066
+* Able to maintain
 
-<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
 
-<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+<p style="text-align: justify;"><b>1. </b></p>
 
-<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+
 
 
 
