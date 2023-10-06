@@ -78,7 +78,6 @@ description: ""
 
 * Possess catering experience or experience operating in a school environment.
 
-<br>
 <p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 22 Bedok South Road, Singapore 469278 by <b>Monday, 16 October 2023, 5pm.</b></p>
 
 * Contact No: 6442 8066
