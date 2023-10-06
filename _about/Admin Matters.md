@@ -73,18 +73,18 @@ description: ""
 
 <p style="text-align: justify;"><b>Interested Applicants Must Meet the Following Criteria:</b></p>
 
-* Singapore citizen
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
-* Able to provide
+* Provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked
+* Provide cooked&nbsp;food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines. Please see details at  <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">HPB Healthy Meals Programme.</a>
 
-* Able to maintain
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-<p style="text-align: justify;"><b>1. </b></p>
+* Maintain high standard of food safety and personal hygiene.
 
+<p style="text-align: justify;"><b>Applicants Should Preferably Fulfill the Following Criteria:</b></p>
 
-
-
-
+* Possess catering experience or experience operating in a school environment.
