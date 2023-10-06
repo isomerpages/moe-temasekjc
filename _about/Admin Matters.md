@@ -49,3 +49,44 @@ description: ""
 
 *   <p><a href="/files/About/Canteen/application form for canteen stalls.pdf">Application Form for Canteen Stalls</a></p>
 
+<p style="text-align: justify;">2. Attached the following documents together with the application form:</p>
+
+* Photocopy of the NRIC (front and back)
+
+* List of proposed menu and pricing for all items
+
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.</p>
+
+* Address: 22 Bedok South Road, S469278
+
+* Contact No: 6442 8066
+
+* Email: osman_aspari@schools.gov.sg
+
+* Contact Person: Mr Osman
+
+<p style="text-align: justify;"><b>How to Get There?</b></p>
+
+* Buses: 12, 12e, 38, 47, 229 (Bus Stop Number  84111)
+
+<p style="text-align: justify;"><b>Interested Applicants Must Meet the Following Criteria:</b></p>
+
+* Address: 22 Bedok South Road, S469278
+
+* Contact No: 6442 8066
+* Address: 22 Bedok South Road, S469278
+
+* Contact No: 6442 8066* Address: 22 Bedok South Road, S469278
+
+* Contact No: 6442 8066
+
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+
+
+
