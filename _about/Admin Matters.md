@@ -6,6 +6,7 @@ description: ""
 # School Canteen Advertisement
 
 <p style="text-align: justify;">Temasek Junior College will be moving to Tampines in 2024. We are looking for 5 new canteen stalls to join us. Stall holders are to provide a variety of healthy food and beverage choices that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
+<br>
 
 <table>
 <thead>
