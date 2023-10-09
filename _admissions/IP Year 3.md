@@ -66,6 +66,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 	
 <p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 
 		
+
 <p style="text-align: justify;"><b>Scope of Tests</b></p>
 <p style="text-align: justify;">•	 English Language: Discursive/Argumentative Essay about Global Issues</p>
 
@@ -127,7 +128,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
     <div>	
 <p style="text-align: justify;"></p>
 
-•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.
+•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.<br>
 
 •	  W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br>
 
@@ -146,11 +147,11 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">2. The College:</p>
 
-•	   will not release detailed results of the school-based selection tests or interviews.
+•	   will not release detailed results of the school-based selection tests or interviews.<br>
 			
-•	  reserves the right to not reveal the results or reasons for non-selection. 
+•	  reserves the right to not reveal the results or reasons for non-selection. <br>
 			
-•	 will not provide the application outcome over the phone.
+•	 will not provide the application outcome over the phone.<br>
 </div>
 </li>
 	</ul>
