@@ -127,11 +127,11 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
     <div>	
 <p style="text-align: justify;"></p>
 
-*	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.
+•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.
 
-* W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br>
+•	  W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br>
 
-* Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
+•	  Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
 	</div>
 	</li>
 	
@@ -146,9 +146,11 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">2. The College:</p>
 
-* will not release detailed results of the school-based selection tests or interviews.
-* reserves the right to not reveal the results or reasons for non-selection. 
-* will not provide the application outcome over the phone.
+•	   will not release detailed results of the school-based selection tests or interviews.
+			
+•	  reserves the right to not reveal the results or reasons for non-selection. 
+			
+•	 will not provide the application outcome over the phone.
 </div>
 </li>
 	</ul>
