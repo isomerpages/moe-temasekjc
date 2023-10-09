@@ -58,7 +58,7 @@ After engaging with the keynote speaker in the main conference, participants als
 </table>
 
 *Capstone presentations from HumaniTEA 2020 and 2023*
-	 
+			
 Signature programmes aside, the THP empowers our students to take on life after Junior College. We pair each THP student with a teacher-mentor who supports them in their tertiary aspirations, ensuring that they are well prepared for university and scholarship applications. Our rigourous programme has yielded very strong outcomes; THP students attain a median UAS score of 87.5 out of 90 at the GCE 'A' Levels, and go on to take up highly renowned university and scholarship placements.
 	<p></p>
 			<img src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/THP%20students.jpg" style="width:80%">
