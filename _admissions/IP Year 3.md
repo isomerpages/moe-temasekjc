@@ -119,7 +119,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 </div>
 </li>
-		
+</ul>
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion2" type="checkbox">
@@ -151,7 +151,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 * will not provide the application outcome over the phone.
 </div>
 </li>
-
+	</ul>
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion4" type="checkbox">
@@ -164,4 +164,4 @@ If you have any enquiries regarding the application, please contact the TJC Gene
 			
 </div>
 </li>
-</ul></ul></ul></ul>
+</ul></ul>
