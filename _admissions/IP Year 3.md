@@ -76,7 +76,7 @@ Application received by fax and email will NOT be considered.
 10. Mensuration<br>
 11. Data Handling, Data Representations and Analysis <br>
 	
-</p><p style="text-align: justify;">Science</p>
+</p><p style="text-align: justify;">•	Science</p>
 1.	Experimental Design<br>
 2.	Diversity of Matter by their Physical Properties<br>
 3.	Diversity of Matter by their Chemical Composition &amp; using Separation Techniques<br>
