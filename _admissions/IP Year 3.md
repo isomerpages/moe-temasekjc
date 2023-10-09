@@ -126,9 +126,9 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 </li>
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">AN IMPORTANT NOTE </label>
+ <li>
+ <input id="accordion2" type="checkbox">
+ <label for="accordion2">AN IMPORTANT NOTE </label>
     <div>	
 <p style="text-align: justify;"></p>
 
