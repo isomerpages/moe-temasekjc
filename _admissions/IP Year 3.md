@@ -25,7 +25,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 * Returning Singaporeans are strongly encouraged to apply under the Supplementary Placement Exercise (SPE) which is a centralised posting exercise by MOE for the convenience of Returning Singaporeans who wish to join Secondary 1, 2 or 3 at the beginning of the next academic year. 
 
-* Click on this link for more information: <u>https://www.moe.gov.sg/returning-singaporeans/secondary/spers</u>
+* Click on this link for more information: <a href="https://www.moe.gov.sg/returning-singaporeans/secondary/spers" target="_blank">https://www.moe.gov.sg/returning-singaporeans/secondary/spers</a><p></p><u></u>
 
 <ul class="jekyllcodex_accordion">
  <li>
@@ -34,8 +34,9 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
   <div>
 
 <p style="text-align: justify;"><b><u>1) Application Form</u></b></p>
-<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link:</b><u> https://go.gov.sg/tjc-ip32024 </u></p>
+<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32024" target="_blank">https://go.gov.sg/tjc-ip32024</a></p>
 
+		
 <p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
 
 <p style="text-align: justify;"><b><u>2) Supporting Documents</u></b></p>
