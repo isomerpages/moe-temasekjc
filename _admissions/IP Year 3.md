@@ -25,7 +25,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 * Returning Singaporeans are strongly encouraged to apply under the Supplementary Placement Exercise (SPE) which is a centralised posting exercise by MOE for the convenience of Returning Singaporeans who wish to join Secondary 1, 2 or 3 at the beginning of the next academic year. 
 
-* Click on this link for more information: <a href="https://www.moe.gov.sg/returning-singaporeans/secondary/spers" target="_blank">https://www.moe.gov.sg/returning-singaporeans/secondary/spers</a><p></p><u></u>
+* Click on this link for more information: <a href="https://www.moe.gov.sg/returning-singaporeans/secondary/spers" target="_blank">https://www.moe.gov.sg/returning-singaporeans/secondary/spers</a>
 
 <ul class="jekyllcodex_accordion">
  <li>
