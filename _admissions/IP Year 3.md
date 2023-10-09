@@ -25,7 +25,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 * Returning Singaporeans are strongly encouraged to apply under the Supplementary Placement Exercise (SPE) which is a centralised posting exercise by MOE for the convenience of Returning Singaporeans who wish to join Secondary 1, 2 or 3 at the beginning of the next academic year. 
 
-* Click on this link for more information: https://www.moe.gov.sg/returning-singaporeans/secondary/spers
+* Click on this link for more information: <u>https://www.moe.gov.sg/returning-singaporeans/secondary/spers</u>
 
 <ul class="jekyllcodex_accordion">
  <li>
@@ -40,15 +40,15 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;"><b><u>2) Supporting Documents</u></b></p>
 
-* PSLE results slip (with subject grades and aggregate score indicated)<br><br>
+•	 PSLE results slip (with subject grades and aggregate score indicated)<br><br>
 
-* Sec 1 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
+•	 Sec 1 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
 
-* Sec 2 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
+•	 Sec 2 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
 
-* Sec 1 and Sec 2 CCA and VIA records<br><br>
+•	 Sec 1 and Sec 2 CCA and VIA records<br><br>
 
-*	Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)<br><br>
+•	 Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)<br><br>
 
 <p style="text-align: justify;"><b><u>3) Selection Tests (For ALL applicants)</u></b></p>
 
