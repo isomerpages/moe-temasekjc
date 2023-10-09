@@ -5,7 +5,7 @@ description: ""
 ---
 # IP YEAR 3
 
-**APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2024) IS NOW OPEN**
+#### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2024) IS NOW OPEN**
 
 Application for IP Year 3 Admission Exercise 2023 commences from **9 October 2023 (9.00 am, Singapore time) to 27 October 2023 (12.00 pm, Singapore time).**
 
@@ -27,14 +27,18 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 * Click on this link for more information: https://www.moe.gov.sg/returning-singaporeans/secondary/spers
 
-<p style="text-align: justify;"><b>APPLICATION PROCESS</b></p>
+<ul class="jekyllcodex_accordion">
+ <li>
+  <input id="accordion1" type="checkbox">
+	<label for="accordion1">APPLICATION PROCESS </label>
+  <div>
 
-<p style="text-align: justify;"><b>Application Form</b></p>
-<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by Friday, 27 October 2023 (12.00 pm, Singapore time) via this link: https://go.gov.sg/tjc-ip32024 </p>
+<p style="text-align: justify;"><b><u>1) Application Form</u></b></p>
+<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link:</b> https://go.gov.sg/tjc-ip32024 </p>
 
-Application received by fax and email will NOT be considered.
+<p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
 
-<p style="text-align: justify;"><b>Supporting Documents</b></p>
+<p style="text-align: justify;"><b><u>2) Supporting Documents</u></b></p>
 
 * PSLE results slip (with subject grades and aggregate score indicated)
 
@@ -46,7 +50,7 @@ Application received by fax and email will NOT be considered.
 
 *	Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)
 
-<p style="text-align: justify;"><b>Selection Tests (For ALL applicants)</b></p>
+<p style="text-align: justify;"><b><u>3) Selection Tests (For ALL applicants)</u></b></p>
 
 <p style="text-align: justify;"><b>School-based Selection Tests</b></p>
 
@@ -58,9 +62,11 @@ Application received by fax and email will NOT be considered.
 
 * Science
 
-<p style="text-align: justify;">Test dates: 6 Nov 2023 (Papers: English &amp; Science) and 8 Nov 2023 (Paper: Mathematics)</p>
-<p style="text-align: justify;">Test venue: TJC (22 Bedok South Road)</p> 
-<p style="text-align: justify;">Scope of Tests</p>
+<p style="text-align: justify;">Test dates: <b>6 Nov 2023</b> (Papers: English &amp; Science) <u>and</u> <b>8 Nov 2023</b> (Paper: Mathematics)</p>
+	
+<p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 
+		
+<p style="text-align: justify;"><b>Scope of Tests</b></p>
 <p style="text-align: justify;">•	 English Language: Discursive/Argumentative Essay about Global Issues</p>
 
 <p style="text-align: justify;">•	Mathematics: Secondary 1 and 2 syllabuses<br>
@@ -105,12 +111,16 @@ Application received by fax and email will NOT be considered.
 
 <p style="text-align: justify;"><b>Interview (For shortlisted applicants)</b></p>
 
-*	Only shortlisted applicants will be notified via email for an interview. Interviews will be held mid-November 2023 in TJC (22 Bedok South Road). 
+<p style="text-align: justify;">Only shortlisted applicants will be notified via email for an interview. Interviews will be held mid-November 2023 in TJC (22 Bedok South Road). </p>
 
 <p style="text-align: justify;"><b>Outcome of Application</b></p>
 
-<p style="text-align: justify;">•	All applicants will be notified of the outcome of their application by 30 November 2023.</p>
+<p style="text-align: justify;">All applicants will be notified of the outcome of their application by <b>30 November 2023.</b></p>
 
+</div>
+</li>
+		
+	
 <p style="text-align: justify;"><b>AN IMPORTANT NOTE </b></p>
 
 *	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.
@@ -134,4 +144,4 @@ Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-
 
 <p style="text-align: justify;"><b>ENQUIRIES</b></p>
 
-If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg
+If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg</ul>
