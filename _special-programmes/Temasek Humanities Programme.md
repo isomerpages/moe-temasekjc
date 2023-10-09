@@ -44,10 +44,6 @@ After engaging with the keynote speaker in the main conference, participants als
     <label for="accordion3">CAPSTONE PROJECTS</label>
     <div>
 			<p style="text-align: justify;">The Capstone Project empowers our J2 students to conduct independent research to produce an academic paper. They present their findings at the HumaniTEA@TJC, where they defend their research process and findings to their peers.</p>
-			</div></li><table> 
-	  </table>
-
-				
   <table>
 <thead>
   <tr>
@@ -72,7 +68,7 @@ Signature programmes aside, the THP empowers our students to take on life after 
 *From left: Kyla Teo (87.75 UAS), Kayzia Foo (85 UAS), Allyson Tutay (90 UAS), Samuel Ong (88.75 UAS) during the 2019 Humanities Trip*
 			
 
-  <li>
+  </div></li><li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
