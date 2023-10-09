@@ -120,15 +120,26 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 </div>
 </li>
 		
-	
-<p style="text-align: justify;"><b>AN IMPORTANT NOTE </b></p>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">AN IMPORTANT NOTE </label>
+    <div>	
+<p style="text-align: justify;"></p>
 
 *	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.
 
-* W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9 Singapore 529564.
-Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9 Singapore 529564. During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
+* W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br>
 
-<p style="text-align: justify;"><b>WHAT ELSE DO I NEED TO KNOW?</b></p>
+* Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
+	</div>
+	</li>
+	
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">WHAT ELSE DO I NEED TO KNOW? </label>
+    <div>	
 <p style="text-align: justify;"><b>Points to note:</b></p>
 
 <p style="text-align: justify;">1. Successful applicants admitted to Temasek JC (IP) are expected to honour their commitment to the College for the duration of the programme admitted to.</p>
@@ -138,10 +149,19 @@ Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-
 * will not release detailed results of the school-based selection tests or interviews.
 * reserves the right to not reveal the results or reasons for non-selection. 
 * will not provide the application outcome over the phone.
+</div>
+</li>
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">ENQUIRIES</label>
+    <div>
 
+<p style="text-align: justify;"><b></b></p>
 
-
-<p style="text-align: justify;"><b>ENQUIRIES</b></p>
-
-If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg</ul>
+If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg
+			
+</div>
+</li>
+</ul></ul></ul></ul>
