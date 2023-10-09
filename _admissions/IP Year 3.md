@@ -56,9 +56,9 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">All applicants are to sit the <b>school-based selection</b> tests comprising the following:</p>
 
-* English Language<br><br> 
-* Mathematics<br><br>
-* Science<br><br>
+•	  English Language<br><br> 
+•	  Mathematics<br><br>
+•	  Science<br><br>
 
 <p style="text-align: justify;">Test dates: <b>6 Nov 2023</b> (Papers: English &amp; Science) <u>and</u> <b>8 Nov 2023</b> (Paper: Mathematics)</p>
 	
