@@ -65,48 +65,18 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 	
 <p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 		
 	
-<p style="text-align: justify;"><b>Scope of Tests</b></p>
-<p style="text-align: justify;">•	 English Language: Discursive/Argumentative Essay about Global Issues</p>
 
-<p style="text-align: justify;">•	Mathematics: Secondary 1 and 2 syllabuses<br>
-1. Numbers and their operations<br>
-2. Ratio and Proportion<br>
-3. Percentage<br>
-4. Rate and Speed<br>
-5. Algebraic Expressions and Formulae<br>
-6. Functions and Graphs<br>
-7. Linear equations, simultaneous equations, linear inequalities, quadratic equations<br>
-8. Angles, Triangles and Polygons<br>
-9. Pythagoras’ Theorem and Trigonometry<br>
-10. Mensuration<br>
-11. Data Handling, Data Representations and Analysis <br>
-	
-</p><p style="text-align: justify;">•	Science</p>
-1.	Experimental Design<br>
-2.	Diversity of Matter by their Physical Properties<br>
-3.	Diversity of Matter by their Chemical Composition &amp; using Separation Techniques<br>
-4.	Understanding of Diversity of Living Things<br>
-5.	Cells – Basic Units of Life<br>
-6.	Particulate Nature of Matter<br>
-7.	Atomic Structure<br>
-8.	Movement of Substances<br>
-9.	Light<br>
-10.	Energy &amp; Work Done<br>
-11.	Transfer of Thermal Energy<br>
-12.	Interactions with Ecosystems<br>
-13.	Chemical Bonding<br>
-14.	Acids and Alkalis<br>
-15.	Chemical Changes and Interactions<br>
-16.	Nutrient Cycle<br>
-17.	Forces and Pressure<br>
-18.	Mass, Weight, Density<br>
-19.	Turning Effects of Force<br>
-20.	Electricity<br>
-21.	Transport in Humans<br>
-22.	Nutrition in Humans and Enzymes<br>
-23.	Sexual Reproduction in Humans and Plants<br>
 
-<p style="text-align: justify;">•	More details will be communicated to applicants at a later date.</p>
+| Scope of Tests |  |   |
+| -------- | -------- | -------- |
+| English  Language   | Discursive/Argumentative Essay about Global Issues     |      |
+| Mathematics | Secondary 1 and 2 Syllabuses | 1. Numbers and their operations<br>2. Ratio and Proportion<br>3. Percentage<br>4. Rate and Speed<br>5. Algebraic Expressions and Formulae<br>6. Functions and Graphs <br>7. Linear equations, simultaneous equations, linear inequalities, quadratic equations<br>8. Angles, Triangles and Polygons<br>9. Pythagoras’ Theorem and Trigonometry<br>10. Mensuration<br>11. Data Handling, Data Representations and Analysis |
+| Science     | Syllabus     | 1. Experimental Design<br>2. Diversity of Matter by their Physical Properties<br>3. Diversity of Matter by their Chemical Composition &amp; using Separation Techniques<br>4. Understanding of Diversity of Living Things<br>5. Cells – Basic Units of Life<br>6. Particulate Nature of Matter<br>7. Atomic Structure<br>8. Movement of Substances<br>9. Light<br>10. Energy &amp; Work Done<br>11. Transfer of Thermal Energy<br>12. Interactions with Ecosystems<br>13. Chemical Bonding<br>14. Acids and Alkalis<br>15. Chemical Changes and Interactions<br>16. Nutrient Cycle<br>17. Forces and Pressure<br>18. Mass, Weight, Density<br>19. Turning Effects of Force<br>20. Electricity<br>21. Transport in Humans<br>22. Nutrition in Humans and Enzymes<br>23. Sexual Reproduction in Humans and Plants     |
+		
+		
+
+
+<p style="text-align: justify;">More details will be communicated to applicants at a later date.</p>
 
 <p style="text-align: justify;"><b>Interview (For shortlisted applicants)</b></p>
 
