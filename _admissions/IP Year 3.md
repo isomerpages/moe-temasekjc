@@ -34,21 +34,21 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
   <div>
 
 <p style="text-align: justify;"><b><u>1) Application Form</u></b></p>
-<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link:</b> https://go.gov.sg/tjc-ip32024 </p>
+<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link:</b><u> https://go.gov.sg/tjc-ip32024 </u></p>
 
 <p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
 
 <p style="text-align: justify;"><b><u>2) Supporting Documents</u></b></p>
 
-* PSLE results slip (with subject grades and aggregate score indicated)
+* PSLE results slip (with subject grades and aggregate score indicated)<br><br>
 
-* Sec 1 academic results slips (Mid-Year &amp; End-of-Year)
+* Sec 1 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
 
-* Sec 2 academic results slips (Mid-Year &amp; End-of-Year)
+* Sec 2 academic results slips (Mid-Year &amp; End-of-Year)<br><br>
 
-* Sec 1 and Sec 2 CCA and VIA records
+* Sec 1 and Sec 2 CCA and VIA records<br><br>
 
-*	Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)
+*	Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)<br><br>
 
 <p style="text-align: justify;"><b><u>3) Selection Tests (For ALL applicants)</u></b></p>
 
@@ -56,11 +56,9 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">All applicants are to sit the <b>school-based selection</b> tests comprising the following:</p>
 
-* English Language 
-
-* Mathematics
-
-* Science
+* English Language<br><br> 
+* Mathematics<br><br>
+* Science<br><br>
 
 <p style="text-align: justify;">Test dates: <b>6 Nov 2023</b> (Papers: English &amp; Science) <u>and</u> <b>8 Nov 2023</b> (Paper: Mathematics)</p>
 	
@@ -127,9 +125,9 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
     <div>	
 <p style="text-align: justify;"></p>
 
-•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.<br>
+•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.<br><br>
 
-•	  W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br>
+•	  W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br><br>
 
 •	  Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
 	</div>
