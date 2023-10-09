@@ -64,9 +64,8 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">Test dates: <b>6 Nov 2023</b> (Papers: English &amp; Science) <u>and</u> <b>8 Nov 2023</b> (Paper: Mathematics)</p>
 	
-<p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 
-		
-
+<p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 		
+	
 <p style="text-align: justify;"><b>Scope of Tests</b></p>
 <p style="text-align: justify;">•	 English Language: Discursive/Argumentative Essay about Global Issues</p>
 
@@ -167,6 +166,4 @@ If you have any enquiries regarding the application, please contact the TJC Gene
 			
 </div>
 </li>
-</ul>
-</ul>
-</ul></ul>
+</ul></ul></ul></ul>
