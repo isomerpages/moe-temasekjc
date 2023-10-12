@@ -49,7 +49,6 @@ After engaging with the keynote speaker in the main conference, participants als
 
 
 
-
     <style>
         table {
             border-collapse: collapse;
@@ -66,21 +65,22 @@ After engaging with the keynote speaker in the main conference, participants als
     <table>
         <tbody><tr>
             <td>
-                <img height="200" width="200" alt="Photo 1" src="images/picture2.png">
+                <img height="200" width="300" alt="Photo 1" src="images/picture2.png">
             </td>
             <td>
-                <img height="200" width="200" alt="Photo 2" src="images/picture4.jpg">
+                <img height="200" width="300" alt="Photo 2" src="images/picture4.jpg">
             </td>
         </tr>
         <tr>
             <td>
-                <img height="200" width="200" alt="Photo 3" src="images/picture5.jpg">
+                <img height="200" width="300" alt="Photo 3" src="images/picture5.jpg">
             </td>
             <td>
-                <img height="200" width="200" alt="Photo 4" src="images/picture1.jpg">
+                <img height="200" width="300" alt="Photo 4" src="images/picture1.jpg">
             </td>
         </tr>
     </tbody></table>
+
 
 
 
