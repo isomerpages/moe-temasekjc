@@ -13,20 +13,8 @@ description: ""
     <label for="accordion1">The HumaniTEA@TJC</label>
     <div>
 			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
-			
-
-
-    <style>
-        table {
-            border-collapse: collapse;
-        }
-        table, td {
-            border: none;
-        }
-    </style>
-
-
-    <table>
+		
+<table>
         <tbody><tr>
             <td style="padding-right: 10px;">
                 <img height="200" width="200" alt="Photo 1" src="images/image1.jpeg">
