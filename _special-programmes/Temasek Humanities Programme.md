@@ -30,10 +30,6 @@ description: ""
             </td>
         </tr>
     </tbody></table>
-
-
-
-
 <p><em>From left: Minister Grace Fu speaking virtually at our 2020 conference (Source: Facebook); THP students leading HumaniTEA pre-conference sessions in 2023 </em></p><p> 
 
 </p><p> After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
