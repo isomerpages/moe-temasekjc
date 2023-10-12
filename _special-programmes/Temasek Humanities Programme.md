@@ -13,11 +13,7 @@ description: ""
     <label for="accordion1">The HumaniTEA@TJC</label>
     <div>
 			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
-		
-
 			
-
-
 
 
     <style>
