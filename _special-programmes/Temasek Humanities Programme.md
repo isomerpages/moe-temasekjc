@@ -57,10 +57,10 @@ description: ""
 			<table>
         <tbody><tr>
             <td>
-                <img src="images/picture2.png" alt="Photo 1" width="300" height="200">
+                <img src="images/picture2.png" alt="Photo 1" width="90" height="200">
             </td>
             <td>
-                <img src="images/picture4.jpg" alt="Photo 2" width="300" height="200">
+                <img src="images/picture4.jpg" alt="Photo 2" width="90" height="200">
             </td>
         </tr>
         <tr>
