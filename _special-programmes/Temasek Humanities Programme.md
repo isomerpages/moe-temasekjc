@@ -23,10 +23,10 @@ description: ""
 			</style><table>
         <tbody><tr>
             <td style="padding-right: 20px;">
-            <img height="200" width="90" alt="Photo 1" src="images/image1.jpeg">
+            <img height="100" width="90" alt="Photo 1" src="images/image1.jpeg">
             </td>
             <td>
-            <img height="200" width="90" alt="Photo 2" src="images/image2.jpeg">
+            <img height="100" width="90" alt="Photo 2" src="images/image2.jpeg">
             </td>
         </tr>
     </tbody></table>
