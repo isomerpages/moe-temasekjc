@@ -45,11 +45,7 @@ After engaging with the keynote speaker in the main conference, participants als
     <label for="accordion2">HUMANITJOURNEY</label>
     <div>
 			<p style="text-align: justify;">The HumaniTJourney is an opportunity for our students to explore foreign (and local) societies in a confident and critical manner. Through the HumaniTJourney, students are given the space to construct learning experiences, collect data, and produce well-reasoned analyses in response to various issues. </p>
-			
-
-
-
-    <style>
+			<style>
         table {
             border-collapse: collapse;
         }
@@ -60,9 +56,7 @@ After engaging with the keynote speaker in the main conference, participants als
             padding: 10px;
         }
     </style>
-
-
-    <table>
+			<table>
         <tbody><tr>
             <td>
                 <img height="200" width="300" alt="Photo 1" src="images/picture2.png">
