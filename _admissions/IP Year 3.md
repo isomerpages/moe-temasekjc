@@ -150,21 +150,37 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
     <input type="checkbox" id="accordion2">
     <label for="accordion2">An IMPORTANT NOTE</label>
     <div>
-			<p style="text-align: justify;">The appeals application for the 2023 intake has now been closed. </p>
-    </div>
+			<p style="text-align: justify;">All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278. </p>
+		
+<p style="text-align: justify;">W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564 </p>			
+			
+<p style="text-align: justify;">Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals. </p>			
+   </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">ONLINE APPEALS APPLICATION</label>
+    <label for="accordion3">WHAT ELSE DO I NEED TO KNOW? </label>
     <div>
 			<p style="text-align: justify;">The appeals application for the 2023 intake has now been closed. </p>
-    </div>
+
+<p style="text-align: justify;"><b>Points to note:</b></p>			
+			
+<p style="text-align: justify;">1. Successful applicants admitted to Temasek JC (IP) are expected to honour their commitment to the College for the duration of the programme admitted to.</p>	
+			
+<p style="text-align: justify;">2. The College:</p>	
+
+<p style="text-align: justify;">will not release detailed results of the school-based selection tests or interviews.</p>				
+<p style="text-align: justify;">reserves the right to not reveal the results or reasons for non-selection.</p>	
+<p style="text-align: justify;">will not provide the application outcome over the phone.</p>	
+			
+		
+   </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">ONLINE APPEALS APPLICATION</label>
+    <label for="accordion4">ENQUIRIES</label>
     <div>
-			<p style="text-align: justify;">The appeals application for the 2023 intake has now been closed. </p>
+			<p style="text-align: justify;">If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg. </p>
     </div>
 	</li> 
 	
