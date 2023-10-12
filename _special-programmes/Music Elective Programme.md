@@ -5,7 +5,7 @@ description: ""
 ---
 # MUSIC ELECTIVE PROGRAMME
 
-<p style="text-align: justify;">The Music Elective Programme (MEP) at TJC seeks to cultivate each student in their musical inclinations and nurture them to be critical and creative thinkers, composers and performers of music. Through the study of music in its cultural, historical and social contexts, our students will explore a variegated repertoire from both the Western music and World music traditions. This will develop their musical sensitivity and multi-cultural awareness, and hone their abilities to appreciate, analyse and critique a diverse spectrum of works.</p>
+<p style="text-align: justify;">The Music Elective Programme (MEP)&nbsp;at TJC seeks to cultivate each student in their musical inclinations and nurture them to be critical and creative thinkers, composers and performers of music. Through the study of music in its cultural, historical and social contexts, our students will explore a variegated repertoire from both the Western music and World music traditions. This will develop their musical sensitivity and multi-cultural awareness, and hone their abilities to appreciate, analyse and critique a diverse spectrum of works.</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -15,12 +15,12 @@ description: ""
 			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our MEP is a 4-year programme offered to the 6-Year IP students from Year 1. In this subject, students are exposed to a diverse range of musical genres and cultures, and will be engaged in musical activities that integrate the three core skills of holistic musicianship: performing, composing and listening. Students will have an in-depth engagement with music by learning music in relation to its historical and cultural context, perform and compose in these different styles, and draw links across different traditions and the other arts.</p>
 			<p style="text-align: justify;"><b>ENTRY REQUIREMENTS</b><br>Students will indicate their interest in joining the TJC MEP during the IP1 Orientation. All interested applicants will undergo a written diagnostic test and an audition-cum-interview. </p>
-			<p style="text-align: justify;">Written diagnostic test:<br><ul>
+			<p style="text-align: justify;">Written diagnostic test:<br></p><ul>
 			<li>Selection is based on a strong foundation of musical concepts and skills covered in the primary school Music syllabus</li>
 			<li>Students’ listening and analytical skills will be tested</li>
 			</ul>
-			</p>
-			<p style="text-align: justify;">Audition-cum-interview:<br><ul>
+			<p></p>
+			<p style="text-align: justify;">Audition-cum-interview:<br></p><ul>
 			<li>Audition:
 				   <ul>
 			       <li>Applicants should perform two contrasting pieces that display their competence in performance skills (e.g. basic fluency and sound fundamental techniques).</li>
@@ -29,7 +29,7 @@ description: ""
 		</li>
 			<li>A short interview to assess applicants’ level of interest and commitment to the 4-year programme, as the MEP is an additional subject on top of the students’ existing subject combination</li>
 			</ul>
-			</p>
+			<p></p>
     </div>
 	</li> 
   <li>
@@ -52,8 +52,8 @@ description: ""
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Cadenza%20I%202020%20Picture%20filming.jpg" style="width:70%">
 			<center><b>TJC IP MEP Concert Cadenza I</b></center>
 			<p style="text-align: justify;"><b>MOTIF XIII to XV</b><br>Undaunted by restrictions on live performances caused by the COVID-19 pandemic, we premiered the 13th, 14th,and 15th installments of the TJC MEP MOTIF series virtually. In our most recent edition (2022), the JC2 MEP students put together an online concert featuring performances on the piano, viola, double bass and voice across an eclectic repertoire of works by composers such as Mozart, Schumann, Messiaen and Takemitsu. Our JC1s also performed their own arrangement of anime and video game music.
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/tPlss_Zc_U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-			<p style="text-align: justify;"><b>MOTIF XII</b><br>The 12th edition of the annual TJC MEP MOTIF showcase featured current students and alumni coming together for an evening of music making and performance. Held at the Esplanade Recital Studio, the concert featured performances from our JC2 students, while students from the other levels and alumni collaborated to present a diverse range of performances. These included the world premieres of Escape for Wind Quintet, written by MEP alumnus Marcus Ong, as well as that of Kitchen Nightmares, an original theatrical piece conceptualised and conceived by our 2019 batch of JC1 MEP students. The evening marked the successes of TJC MEP past and present, while looking forward to future musical achievements.</p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/tPlss_Zc_U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+			</p><p style="text-align: justify;"><b>MOTIF XII</b><br>The 12th edition of the annual TJC MEP MOTIF showcase featured current students and alumni coming together for an evening of music making and performance. Held at the Esplanade Recital Studio, the concert featured performances from our JC2 students, while students from the other levels and alumni collaborated to present a diverse range of performances. These included the world premieres of Escape for Wind Quintet, written by MEP alumnus Marcus Ong, as well as that of Kitchen Nightmares, an original theatrical piece conceptualised and conceived by our 2019 batch of JC1 MEP students. The evening marked the successes of TJC MEP past and present, while looking forward to future musical achievements.</p>
 			<table>
 <thead>
   <tr>
@@ -69,7 +69,7 @@ description: ""
 </tbody>
 </table>
 			<center>Our MEP maestros in action</center>
-			<p style="text-align: justify;"><b>VIVACE PIANO ENSEMBLE COMPETITION</b><br>The JC1 MEP cohort took part in the 10th installment of Vivace in 2019, an inter-school piano ensemble competition organised by National Junior College. Of the five piano duos presented, two won the Silver award while one emerged with a Gold with Commendation award, placing among the top 6 duos from across the country. In preparation for the competition, the duos were coached by TJC MEP alumnus Bertram Wee, a graduate of the Royal College of Music. Through this experience, the participants gained a newfound appreciation for contemporary piano duet repertoire, while expanding their range of performing skills, particularly in a collaborative setting.</p>
+			<p style="text-align: justify;"><b>VIVACE PIANO ENSEMBLE COMPETITION</b><br>The JC1 MEP cohort took part in the 10th&nbsp;installment of Vivace in 2019, an inter-school piano ensemble competition organised by National Junior College. Of the five piano duos presented, two won the Silver award while one emerged with a Gold with Commendation award, placing among the top 6 duos from across the country. In preparation for the competition, the duos were coached by TJC MEP alumnus Bertram Wee, a graduate of the Royal College of Music. Through this experience, the participants gained a newfound appreciation for contemporary piano duet repertoire, while expanding their range of performing skills, particularly in a collaborative setting.</p>
 			<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Vivace%202019%20pic.jpg" style="width:70%">
 			<center>Our award-winning piano duos</center>
 			<p style="text-align: justify;"><b>TAIWAN CULTURAL IMMERSION TRIP 2019</b><br>One of the key highlights of our Music Elective Programme is the biennial overseas immersion trip for our students to learn about the impact of music in other parts of the world. In Taiwan, our IP3 to JC2 MEP students broadened their musical horizons through attending a series of workshops at the Taipei National University of the Arts. These focused on various aspects of musical study - traditional Taiwanese musical genres (Nanguan and Beiguan), contemporary music performance and creative composition. This was complemented by a visit to National Taiwan College of Performing Arts, where they observed the local students in action during rehearsals for Peking Opera and Hakka Opera. The students gained a fresh cultural perspective and deeper appreciation for the arts beyond the local context.</p>
@@ -99,42 +99,41 @@ description: ""
 			<center>2019 NAC Young Artist Award – Emily Koh (Class of 2004), Assistant Professor of Composition at the University of Georgia in Athens (UGA) in Georgia, USA.</center>
 			<p style="text-align: justify;"> Emily Koh is a composer of contemporary classical music whose work is characterised by inventive explorations of the smallest details of sound. She received a PhD in Music Composition and Theory from Brandeis University, Waltham in Massachusetts, USA (2017). Today, Emily is Assistant Professor of Composition at the University of Georgia (UGA) in Athens in Georgia, USA, and performs as a double bassist in the Atlanta contemporary music scene. Each time Emily returns to Singapore, she generously conducts workshops at various schools and makes it a point to do so especially at TJC.</p>
 			<p><b>Selected Awards and Achievements</b>
-			<ul>
+			</p><ul>
 				<li>Commissioned by Singapore Symphony Orchestra (2015)</li>
 				<li>Asian Composers League Yoshiro Irino Memorial Prize (Hong Kong, 2013)</li>
 				<li>Recipient, Paul Abisheganaden Grant for Artistic Excellence (2012)</li>
 				<li>Barlow Endowment General Commission (USA, 2012)</li>
 			</ul>
-				</p>
+				<p></p>
 	<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:88484dbc-66b6-4618-baca-7ba17685f6b4" target="_blank">National Arts Council </a></p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/-8YgbM10GYI" title="2019 Young Artist Award Recipient: Emily Koh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-8YgbM10GYI" title="2019 Young Artist Award Recipient: Emily Koh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	<p><b>CHEN ZHANGYI</b></p>
 	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Chen%20Zhangyi%20Distinguished%20Alumni.png" style="width:60%">
 			<center>2014 NAC Young Artist Award – Chen Zhangyi (Class of 2002), Assistant Professor of Composition, Conductor of New Music Ensemble, Yong Siew Toh Conservatory of Music</center>
 	   <p style="text-align: justify;">Chen Zhangyi is a composer whose works have been performed by world-renowned orchestras including the London Symphony Orchestra, Baltimore Symphony Orchestra and Tokyo Philharmonic Orchestra. His music composing versatility is evident from his acclaimed works across genres in opera, wind ensembles, chamber and choral music. He plays the role of mentor and educator through workshops and masterclasses he conducts at the School of the Arts (2010-2012) and Temasek Junior College (2010-12). He also tutored students at the Peabody Conservatory (2009-2013) and taught music theory and appreciation courses at the Baltimore City Community College (2013).</p>
 				<p>Selected Awards and Achievements
-			<ul>
+			</p><ul>
 				<li>Winner, Orchestral Composition Competition, Peabody Conservatory (2013)</li>
 				<li>Recipient, Trailblazer Foundation Grants, Singapore (2011- 2013)</li>
 				<li>Winner, Abbey Road Studios 80th Anniversary Anthem Competition, London (2011)</li>
 				<li>Winner, Asian Composers’ League Competition, Taiwan (2011)</li>
 				<li>Winner, Singapore Compose! 2010 Competition, Philharmonic Winds (2010)</li>
 			</ul>
-				</p>
+				<p></p>
 			<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:4071b0d3-8248-49c8-8c4f-5e58ee7275a2" target="_blank">National Arts Council </a></p>
 			<p><b>DIANA SOH</b></p>
 	<img src="/images/Academic/Special%20programmes/Music%20Elective%20Programme/Diana%20Soh%20Distinguished%20Alumni.jpg" style="width:60%">
 			<center>2015 NAC Young Artist Award – Diana Soh Li Ling (Class of 2002)</center>	
 			<p style="text-align: justify;">Diana Soh’s body of work demonstrates creativity and adventure in her artistic pursuits. A doctorate holder of Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Diana spent two years as Composer-in-residence at the National Center for Musical Creation (La Muse en Circuit) and the Conservatoire d'Ivry-sur-Seine, France. She has received commissions from, and has been presented by, major international festivals, radio broadcasts, and commissioning organisations such as the Singapore Youth Choir.</p>
 							<p>Selected Awards and Achievements
-			<ul>
+			</p><ul>
 				<li>SACEM (France) Bourses Cursus 2 (2012)</li>
-				<li>Who’s Who Among Students in American Universities & Colleges (2011)</li>
+				<li>Who’s Who Among Students in American Universities &amp; Colleges (2011)</li>
 				<li>Nominee, Finalist for Gaudeamus Prize in Composition (2011)</li>
 				<li>Hedy King Robinson Award (ABRSM)</li>
 			</ul>
-				</p>
+				<p></p>
 			<p>Source: <a href="https://www.nac.gov.sg/dam/jcr:a1d9e52f-9f1e-4263-9cfe-eb25f9010c4e" target="_blank">National Arts Council </a></p>
     </div>
-	</li> 	
-	</ul>
+	</li></ul>
