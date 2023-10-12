@@ -14,8 +14,35 @@ description: ""
     <div>
 			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
 		
-![](/images/image1.jpeg) | ![](/images/image2.jpeg)| 
-| -------- | -------- | 
+
+			
+
+
+
+
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        table, td {
+            border: none;
+        }
+    </style>
+
+
+    <table>
+        <tbody><tr>
+            <td style="padding-right: 10px;">
+                <img height="200" width="200" alt="Photo 1" src="images/image1.jpeg">
+            </td>
+            <td>
+                <img height="200" width="200" alt="Photo 2" src="images/image2.jpeg">
+            </td>
+        </tr>
+    </tbody></table>
+
+
+
 			
 *From left: Minister Grace Fu speaking virtually at our 2020 conference (Source: Facebook); THP students leading HumaniTEA pre-conference sessions in 2023*
 			
@@ -31,11 +58,42 @@ After engaging with the keynote speaker in the main conference, participants als
 			
 
 
-|  |  | 
-| -------- | -------- | 
-| ![](/images/picture2.png)     | ![](/images/picture4.jpg)     | Text     |
-| ![](/images/picture5.jpg) | ![](/images/picture1.jpg) | 
-			
+
+
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        table, td {
+            border: none;
+        }
+        td {
+            padding: 10px;
+        }
+    </style>
+
+
+    <table>
+        <tbody><tr>
+            <td>
+                <img height="200" width="200" alt="Photo 1" src="images/picture2.png">
+            </td>
+            <td>
+                <img height="200" width="200" alt="Photo 2" src="images/picture4.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img height="200" width="200" alt="Photo 3" src="images/picture5.jpg">
+            </td>
+            <td>
+                <img height="200" width="200" alt="Photo 4" src="images/picture1.jpg">
+            </td>
+        </tr>
+    </tbody></table>
+
+
+
 *Clockwise, from top left: HumaniTJourney 2018 to Xi'an, China; Learning journey to Geylang as part of the local HumaniTJourney 2020; THP students enjoying a bubble tea workshop in Taiwan, 2019; Virtual tour to a New Zealand farm during HumaniTJourney 2020*
 	</div></li><li>
     <input type="checkbox" id="accordion3">
