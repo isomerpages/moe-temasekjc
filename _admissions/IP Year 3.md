@@ -3,9 +3,7 @@ title: IP Year 3
 permalink: /admissions/ip-year-3/
 description: ""
 ---
-# IP YEAR 3
-
-#### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2024) IS NOW OPEN**
+### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2024) IS NOW OPEN**
 
 Application for IP Year 3 Admission Exercise 2023 commences from **9 October 2023 (9.00 am, Singapore time) to 27 October 2023 (12.00 pm, Singapore time).**
 
@@ -27,18 +25,23 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 * Click on this link for more information: <a href="https://www.moe.gov.sg/returning-singaporeans/secondary/spers" target="_blank">https://www.moe.gov.sg/returning-singaporeans/secondary/spers</a>
 
+
+
+
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
- <li>
-  <input id="accordion1" type="checkbox">
-	<label for="accordion1">APPLICATION PROCESS </label>
-  <div>
-
-<p style="text-align: justify;"><b><u>1) Application Form</u></b></p>
-<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32024" target="_blank">https://go.gov.sg/tjc-ip32024</a></p>
-
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">APPLICATION PROCESS </label>
+    <div>
+			<p style="text-align: justify;"><b><u>1) Application Form </u></b></p>Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 27 October 2023 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32024" target="_blank">https://go.gov.sg/tjc-ip32024</a><p></p>
 		
 <p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
-
+			
 <p style="text-align: justify;"><b><u>2) Supporting Documents</u></b></p>
 
 •	 PSLE results slip (with subject grades and aggregate score indicated)<br><br>
@@ -63,13 +66,27 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">Test dates: <b>6 Nov 2023</b> (Papers: English &amp; Science) <u>and</u> <b>8 Nov 2023</b> (Paper: Mathematics)</p>
 	
-<p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 		
+<p style="text-align: justify;">Test venue: Temasek Junior College (22 Bedok South Road)</p> 	
 	
-<p style="text-align: justify;"><b>Scope of Tests</b></p>
-<p style="text-align: justify;">•	 English Language: Discursive/Argumentative Essay about Global Issues</p>
-
-<p style="text-align: justify;">•	Mathematics: Secondary 1 and 2 syllabuses<br>
-1. Numbers and their operations<br>
+		
+		
+		
+		
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Scope of Tests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>English Language
+</td>
+<td> Discursive/Argumentative Essay about Global Issues</td>
+</tr>
+<tr>
+<td>Mathematics </td>
+<td>1. Numbers and their operations<br>
 2. Ratio and Proportion<br>
 3. Percentage<br>
 4. Rate and Speed<br>
@@ -79,10 +96,13 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 8. Angles, Triangles and Polygons<br>
 9. Pythagoras’ Theorem and Trigonometry<br>
 10. Mensuration<br>
-11. Data Handling, Data Representations and Analysis <br>
-	
-</p><p style="text-align: justify;">•	Science</p>
-1.	Experimental Design<br>
+11. Data Handling, Data Representations and Analysis 
+<br>
+</td>
+</tr>
+<tr>
+<td>Science</td>
+<td>1. Experimental Design<br>
 2.	Diversity of Matter by their Physical Properties<br>
 3.	Diversity of Matter by their Chemical Composition &amp; using Separation Techniques<br>
 4.	Understanding of Diversity of Living Things<br>
@@ -105,13 +125,11 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 21.	Transport in Humans<br>
 22.	Nutrition in Humans and Enzymes<br>
 23.	Sexual Reproduction in Humans and Plants<br>
-
-
-
-		
-		
-
-
+</td>
+</tr>
+</tbody>
+</table>
+    
 <p style="text-align: justify;">More details will be communicated to applicants at a later date.</p>
 
 <p style="text-align: justify;"><b>Interview (For shortlisted applicants)</b></p>
@@ -122,53 +140,46 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 
 <p style="text-align: justify;">All applicants will be notified of the outcome of their application by <b>30 November 2023.</b></p>
 
+		
+		
+		
+		
 </div>
-</li>
-
-<ul class="jekyllcodex_accordion">
- <li>
- <input id="accordion2" type="checkbox">
- <label for="accordion2">AN IMPORTANT NOTE </label>
-    <div>	
-<p style="text-align: justify;"></p>
-
-•	 	All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278.<br><br>
-
-•	  W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564.<br><br>
-
-•	  Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals.
-	</div>
-	</li>
-	
-<ul class="jekyllcodex_accordion">
+</li> 
   <li>
-    <input id="accordion3" type="checkbox">
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">AN IMPORTANT NOTE</label>
+    <div>
+			<p style="text-align: justify;">• All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278. </p>
+		
+<p style="text-align: justify;">• W.e.f Jan 2024, TJC will be moving to 2 Tampines Avenue 9, Singapore 529564 </p>			
+			
+<p style="text-align: justify;">• Temasek Junior College will be rebuilt as part of MOE’s plan to start a multi-year, multi-phase JC Rejuvenation Programme. This will facilitate collaborative and interactive learning to support the educational needs of our students. The rebuilding works at Temasek Junior College are tentatively planned to be carried out from January 2024 to December 2027. <u>During the rebuilding period, the school will operate at the former Tampines Junior College site located at 2 Tampines Avenue 9, Singapore 529564.</u> <br><br>During this period, the school will put in place the necessary measures to ensure a smooth transition for the students. The Tampines JC site will also be enhanced to help achieve the school’s teaching and learning goals. </p>			
+   </div>
+	</li> 
+	  <li>
+    <input type="checkbox" id="accordion3">
     <label for="accordion3">WHAT ELSE DO I NEED TO KNOW? </label>
-    <div>	
-<p style="text-align: justify;"><b>Points to note:</b></p>
-
-<p style="text-align: justify;">1. Successful applicants admitted to Temasek JC (IP) are expected to honour their commitment to the College for the duration of the programme admitted to.</p>
-
-<p style="text-align: justify;">2. The College:</p>
-
-•	   will not release detailed results of the school-based selection tests or interviews.<br>
+    <div>
+			<p style="text-align: justify;"><b>Points to note: </b></p>
 			
-•	  reserves the right to not reveal the results or reasons for non-selection. <br>
+<p style="text-align: justify;">1. Successful applicants admitted to Temasek JC (IP) are expected to honour their commitment to the College for the duration of the programme admitted to.</p>	
 			
-•	 will not provide the application outcome over the phone.<br>
-</div>
-</li>
-	
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion4" type="checkbox">
+<p style="text-align: justify;">2. The College:</p>	
+
+<p style="text-align: justify;">• will not release detailed results of the school-based selection tests or interviews.</p>				
+<p style="text-align: justify;">• reserves the right to not reveal the results or reasons for non-selection.</p>	
+<p style="text-align: justify;">• will not provide the application outcome over the phone.</p>	
+			
+		
+   </div>
+	</li> 
+	  <li>
+    <input type="checkbox" id="accordion4">
     <label for="accordion4">ENQUIRIES</label>
     <div>
-
-<p style="text-align: justify;"><b></b></p>
-
-If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg
-			
-</div>
-</li>
-</ul></ul></ul></ul>
+			<p style="text-align: justify;">If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg. </p>
+    </div>
+	</li> 
+	
+</ul>
