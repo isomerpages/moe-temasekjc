@@ -35,15 +35,16 @@ description: ""
 
 
 
+    <title>Isomer Italic Text</title>
 
-			
-*From left: Minister Grace Fu speaking virtually at our 2020 conference (Source: Facebook); THP students leading HumaniTEA pre-conference sessions in 2023*
+
+    <p><em>From left: Minister Grace Fu speaking virtually at our 2020 conference (Source: Facebook); THP students leading HumaniTEA pre-conference sessions in 2023 </em></p><p> 
 			
 After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
 			
 
 			
-  </div></li><li>
+  </p></div></li><li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">HUMANITJOURNEY</label>
     <div>
