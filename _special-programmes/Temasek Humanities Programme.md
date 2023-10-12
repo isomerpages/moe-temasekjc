@@ -23,8 +23,7 @@ description: ""
 			</style>
 			<table>
         <tbody><tr>
-            <td style="padding-right: 20px;">
-            <img src="images/image1.jpeg" alt="Photo 1" width="300" height="200">
+            <td style="padding-right: 20px;"><img style="width:100%" src="images/image1.jpeg">
             </td>
             <td>
             <img src="images/image2.jpeg" alt="Photo 2" width="300" height="200">
