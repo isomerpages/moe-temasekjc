@@ -75,11 +75,8 @@ After engaging with the keynote speaker in the main conference, participants als
         </tr>
     </tbody></table>
 
-
-
-
-*Clockwise, from top left: HumaniTJourney 2018 to Xi'an, China; Learning journey to Geylang as part of the local HumaniTJourney 2020; THP students enjoying a bubble tea workshop in Taiwan, 2019; Virtual tour to a New Zealand farm during HumaniTJourney 2020*
-	</div></li><li>
+<p><em>Clockwise, from top left: HumaniTJourney 2018 to Xi'an, China; Learning journey to Geylang as part of the local HumaniTJourney 2020; THP students enjoying a bubble tea workshop in Taiwan, 2019; Virtual tour to a New Zealand farm during HumaniTJourney 2020 </em></p><p> 
+	</p></div></li><li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">CAPSTONE PROJECTS</label>
     <div>
