@@ -38,7 +38,7 @@ description: ""
 
 </p><p> After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
 		
-After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
+
 			
 
 			
@@ -104,10 +104,10 @@ After engaging with the keynote speaker in the main conference, participants als
 	</p><p></p>
 			<img style="width:80%" src="/images/Academic/Special%20programmes/Temasek%20Humanities%20Programme/THP%20students.jpg">
 
-*From left: Kyla Teo (87.75 UAS), Kayzia Foo (85 UAS), Allyson Tutay (90 UAS), Samuel Ong (88.75 UAS) during the 2019 Humanities Trip*
+<p><em>From left: Kyla Teo (87.75 UAS), Kayzia Foo (85 UAS), Allyson Tutay (90 UAS), Samuel Ong (88.75 UAS) during the 2019 Humanities Trip</em></p><p>
 			
 
-  </div></li><li>
+  </p></div></li><li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
