@@ -148,7 +148,7 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 </li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">An IMPORTANT NOTE</label>
+    <label for="accordion2">AN IMPORTANT NOTE</label>
     <div>
 			<p style="text-align: justify;">All DSA tests and interviews will be held on-site in our college campus at 22 Bedok South Road Singapore 469278. </p>
 		
