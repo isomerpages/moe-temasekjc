@@ -127,16 +127,28 @@ Application for IP Year 3 Admission Exercise 2023 commences from **9 October 202
 23.	Sexual Reproduction in Humans and Plants<br>
 </td>
 </tr>
-
-
-
 </tbody>
 </table>
-    </div>
-	</li> 
+    
+<p style="text-align: justify;">More details will be communicated to applicants at a later date.</p>
+
+<p style="text-align: justify;"><b>Interview (For shortlisted applicants)</b></p>
+
+<p style="text-align: justify;">Only shortlisted applicants will be notified via email for an interview. Interviews will be held mid-November 2023 in TJC (22 Bedok South Road). </p>
+
+<p style="text-align: justify;"><b>Outcome of Application</b></p>
+
+<p style="text-align: justify;">All applicants will be notified of the outcome of their application by <b>30 November 2023.</b></p>
+
+		
+		
+		
+		
+</div>
+</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">ONLINE APPEALS APPLICATION</label>
+    <label for="accordion2">An IMPORTANT NOTE</label>
     <div>
 			<p style="text-align: justify;">The appeals application for the 2023 intake has now been closed. </p>
     </div>
