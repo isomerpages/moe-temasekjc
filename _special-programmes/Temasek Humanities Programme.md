@@ -110,7 +110,9 @@ After engaging with the keynote speaker in the main conference, participants als
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
 			<p><b>The Arts Book Award</b></p>
-			<p style="text-align: justify;">The Arts Book Award (JC1) is **automatically awarded, on top of** the&nbsp;<a href="https://www.temasekjc.moe.edu.sg/admissions-1/scholarships-n-awards">Temasek Merit Award</a>&nbsp;to students who:</p>
+			<p style="text-align: justify;">The Arts Book Award (JC1) is 
+    <strong>automatically awarded, on top of</strong> 
+ the&nbsp;<a href="https://www.temasekjc.moe.edu.sg/admissions-1/scholarships-n-awards">Temasek Merit Award</a>&nbsp;to students who:</p>
 			<ul>
 				<li>attain L1R5 7 points or better at the GCE-'O' Levels, and</li>
 				<li>apply to the Arts stream.</li>
