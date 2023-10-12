@@ -13,23 +13,32 @@ description: ""
     <label for="accordion1">The HumaniTEA@TJC</label>
     <div>
 			<p style="text-align: justify;">The HumaniTEA@TJC is an annual conference the THP students organise. Each conference revolves around a theme that the THP students lead their peers in exploring, which leads to a conference with a distinguished speaker in the field of interest.</p>
-		<style>
+		
+
+
+    <style>
         table {
             border-collapse: collapse;
         }
         table, td {
             border: none;
         }
-			</style>
-			<table>
+    </style>
+
+
+    <table>
         <tbody><tr>
-            <td style="padding-right: 20px;"><img style="width:100%" src="images/image1.jpeg">
+            <td style="padding-right: 20px;">
+                <img height="200" width="300" alt="Photo 1" src="images/image1.jpeg">
             </td>
             <td>
-            <img src="images/image2.jpeg" alt="Photo 2" width="300" height="200">
+                <img height="200" width="300" alt="Photo 2" src="images/image2.jpeg">
             </td>
         </tr>
     </tbody></table>
+
+
+
 
 <p><em>From left: Minister Grace Fu speaking virtually at our 2020 conference (Source: Facebook); THP students leading HumaniTEA pre-conference sessions in 2023 </em></p><p> 
 
