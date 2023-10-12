@@ -21,12 +21,24 @@ description: ""
 <tbody>
 <tr>
 <td>English Language
-</td><td> Discursive/Argumentative Essay about Global Issues
-	
 </td>
+<td> Discursive/Argumentative Essay about Global Issues</td>
 </tr>
 <tr>
-<td>2. <a href="/files/Admissions/IP%20Y1%20Registration%20(2023)/2%20General%20Info%202023.pdf" target="_blank">General Information</a></td>
+<td>Mathematics </td>
+<td>1. Numbers and their operations<br>
+2. Ratio and Proportion<br>
+3. Percentage<br>
+4. Rate and Speed<br>
+5. Algebraic Expressions and Formulae<br>
+6. Functions and Graphs<br>
+7. Linear equations, simultaneous equations, linear inequalities, quadratic equations<br>
+8. Angles, Triangles and Polygons<br>
+9. Pythagoras’ Theorem and Trigonometry<br>
+10. Mensuration<br>
+11. Data Handling, Data Representations and Analysis 
+<br>
+</td>
 </tr>
 <tr>
 <td>3. Information on IP1 Induction 2023</td>
