@@ -11,7 +11,7 @@ Kindly access the talk on 25 November using the following details:
 
 **IP Admissions Talk**
 
-**Link:** https://for.edu.sg/tjcipadmtalk 
+**Link:** [https://for.edu.sg/tjcipadmtalk](https://for.edu.sg/tjcipadmtalk)
 
 **Meeting ID:** 884 8928 6075
 
@@ -19,4 +19,4 @@ Kindly access the talk on 25 November using the following details:
 
 Alternatively, you may also scan the following QR code and use the given passcode above to enter the Zoom. 
 
-![](/images/ip%20admissions%20talk%20qr%20code.png)
+ ![](/images/ip%20admissions%20talk%20qr%20code.png)
