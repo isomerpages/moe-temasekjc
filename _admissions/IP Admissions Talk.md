@@ -19,4 +19,4 @@ Kindly access the talk on 25 November using the following details:
 
 Alternatively, you may also scan the following QR code and use the given passcode above to enter the Zoom. 
 
-![](/images/ip%20admissions%20talk%20qr%20code.png)
+ ![](/images/ip%20admissions%20talk%20qr%20code.png)
