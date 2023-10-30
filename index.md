@@ -17,7 +17,7 @@ sections:
           url: https://tinyurl.com/tjccohortreunions
         - title: IP Admissions
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-3/
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ipadmissionstalk/
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
