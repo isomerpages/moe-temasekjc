@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ip admissions talk website banner 301023.png
+      background: /images/ip admissions talk website banner final.png
       key_highlights:
         - title: Heritage Website
           description: ""
