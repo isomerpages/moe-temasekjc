@@ -3,14 +3,21 @@ title: IP Admissions Talk
 permalink: /admissions/permalink/
 description: ""
 ---
-Application for IP Year 3 Admission Exercise 2023 commences from **9 October 2023 (9.00 am, Singapore time) to 27 October 2023 (12.00 pm, Singapore time).**
+# IP ADMISSIONS TALK (FOR 2024 1P1 INTAKE)
 
-**ADMISSION CRITERIA**
+Information on Admissions to the Integrated Programme for the 2024 IP1 intake will be made available during the talk on **25 November 2023 (Saturday) at 9 AM via Zoom**. Join us to find out more!
 
-You are eligible if you are currently a Secondary 2 student _(not admitted via DSA-Sec or AEIS in your current secondary school)_ who has:
+Kindly access the talk on 25 November using the following details:
 
-*   Strong PSLE results
-    
-*   Strong Secondary 1 and 2 results
-    
-*   Strong CCA/VIA records (i.e. achievements, leadership experience and service to community)
+**IP Admissions Talk**
+
+**Link:** https://for.edu.sg/tjcipadmtalk 
+
+**Meeting ID:** 884 8928 6075
+
+**Passcode:** TJC2024
+
+Alternatively, you may also scan the following QR code and use the given passcode above to enter the Zoom. 
+
+![](/images/ip%20admissions%20talk%20qr%20code.png)
+
