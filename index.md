@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ip3 dsa_website carousell banner 2023.png
+      background: /images/ip admissions talk website banner final.png
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -15,9 +15,9 @@ sections:
         - title: Cohort Reunions
           description: ""
           url: https://tinyurl.com/tjccohortreunions
-        - title: IP3 Admissions
+        - title: IP Admissions
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-3/
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ipadmissionstalk/
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
