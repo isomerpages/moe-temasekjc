@@ -33,17 +33,18 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td  style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Bernard%20Thong.png" style="width:100px">Dr Bernard Thong<br>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Bernard%20Thong.png" style="width:100px">Dr Bernard Thong<br>
 Chairman</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Liu%20Earnler%20Honorary%20Secretary%20Principal%20Temasek%20Junior%20College.jpg"  style="width:100px">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Lee%20Suen%20Ming%20Photo%20Member.jpg" style="width:100px">Mr Lee Suen Ming<br>Vice-Chairman</td>
+    
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Gerald%20Heng.png" style="width:100px">COL Gerald Heng<br> Honorary Treasurer</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Ang%20Eng%20Seng%20Photo%20Member.jpg"  style="width:100px">Mr Ang Eng Seng<br>Member</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Liu%20Earnler%20Honorary%20Secretary%20Principal%20Temasek%20Junior%20College.jpg" style="width:100px">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Ang%20Eng%20Seng%20Photo%20Member.jpg" style="width:100px">Mr Ang Eng Seng<br>Honrary Treasurer</td>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Lee%20Suen%20Ming%20Photo%20Member.jpg"  style="width:100px">Mr Lee Suen Ming<br>Member</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Tay%20Miah%20Hiang%20Photo%20Member.jpg"  style="width:100px">Tay Miah Hiang<br>Member</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Lee%20Suen%20Ming%20Photo%20Member.jpg" style="width:100px">Mr Lee Suen Ming<br>Member</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Tay%20Miah%20Hiang%20Photo%20Member.jpg" style="width:100px">Tay Miah Hiang<br>Member</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Koh%20Wee%20Seng.png" style="width:100px">Mr Koh Wee Seng<br>Member</td>
