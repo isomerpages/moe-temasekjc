@@ -40,7 +40,7 @@ Chairman</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Liu%20Earnler%20Honorary%20Secretary%20Principal%20Temasek%20Junior%20College.jpg" style="width:100px">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Ang%20Eng%20Seng%20Photo%20Member.jpg" style="width:100px">Mr Ang Eng Seng<br>Honrary Treasurer</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Ang%20Eng%20Seng%20Photo%20Member.jpg" style="width:100px">Mr Ang Eng Seng<br>Honorary Treasurer</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/maureen%20tseng.jpg" style="width:100px">Ms Maureen Tseng<br>Member</td>
