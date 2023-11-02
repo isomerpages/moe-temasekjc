@@ -43,8 +43,8 @@ Chairman</td>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Ang%20Eng%20Seng%20Photo%20Member.jpg" style="width:100px">Mr Ang Eng Seng<br>Honrary Treasurer</td>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Lee%20Suen%20Ming%20Photo%20Member.jpg" style="width:100px">Mr Lee Suen Ming<br>Member</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Tay%20Miah%20Hiang%20Photo%20Member.jpg" style="width:100px">Tay Miah Hiang<br>Member</td>
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/maureen%20tseng.jpg" style="width:100px">Ms Maureen Tseng<br>Member</td>
+		<td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/edmund%20twohill.jpg" style="width:100px">Mr Edmund Twohill<br>Member</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Koh%20Wee%20Seng.png" style="width:100px">Mr Koh Wee Seng<br>Member</td>
@@ -52,6 +52,7 @@ Chairman</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Sze%20Meng.png" style="width:100px">Mr Soon Sze Meng<br>Member</td>
+		 <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Member</td>
     <td style="text-align: center;"></td>
   </tr>
 </tbody>
