@@ -1108,7 +1108,7 @@ description: ""
     <td>Ms<br></td>
     <td>Kira Lim<br></td>
     <td>Administration Manager</td>
-    <td><a href="mailto:@schools.gov.sg">@schools.gov.sg</a><br></td>
+    <td><a href="mailto:lim_xinyi_b@schools.gov.sg">lim_xinyi_b@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr</td>
