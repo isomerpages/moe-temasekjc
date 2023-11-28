@@ -36,5 +36,5 @@ sections:
       url: /highlights/archive
       image: /images/2022 IP Admissions Talk Thumbnail.png
       alt: Image alt text
-      description: IP ADMISSIONS TALK (FOR 2023 INTAKE)
+      description: IP ADMISSIONS TALK (FOR 2024 INTAKE)
 ---
