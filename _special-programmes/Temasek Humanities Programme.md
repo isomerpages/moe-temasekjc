@@ -2,6 +2,7 @@
 title: Temasek Humanities Programme
 permalink: /academic/special-programmes/temasek-humanities-programme/
 description: ""
+variant: markdown
 ---
 # TEMASEK HUMANITIES PROGRAMME
 
@@ -23,10 +24,10 @@ description: ""
 			</style><table>
         <tbody><tr>
             <td style="padding-right: 20px;">
-            <img width="90" alt="Photo 1" src="images/image1.jpeg">
+            <img width="90" alt="Photo 1" src="/images/image1.jpeg">
             </td>
             <td>
-            <img width="90" alt="Photo 2" src="images/image2.jpeg">
+            <img width="90" alt="Photo 2" src="/images/image2.jpeg">
             </td>
         </tr>
     </tbody></table>
@@ -35,8 +36,7 @@ description: ""
 </p><p> After engaging with the keynote speaker in the main conference, participants also get the chance to hear from JC2 THP students as they share about their Capstone Projects (see below for more info!). Through this conference, our students emerge as confident leaders, ready to engage others in dialogue. 
 		
 
-			
-
+		
 			
   </p></div></li><li>
     <input id="accordion2" type="checkbox">
@@ -57,18 +57,18 @@ description: ""
 			<table>
         <tbody><tr>
             <td>
-                <img src="images/picture2.png" alt="Photo 1" width="90" height="200">
+                <img src="/images/picture2.png" alt="Photo 1" width="90" height="200">
             </td>
             <td>
-                <img src="images/picture4.jpg" alt="Photo 2" width="90" height="200">
+                <img src="/images/picture4.jpg" alt="Photo 2" width="90" height="200">
             </td>
         </tr>
         <tr>
             <td>
-                <img src="images/picture5.jpg" alt="Photo 3" width="300" height="200">
+                <img src="/images/picture5.jpg" alt="Photo 3" width="300" height="200">
             </td>
             <td>
-                <img src="images/picture1.jpg" alt="Photo 4" width="300" height="200">
+                <img src="/images/picture1.jpg" alt="Photo 4" width="300" height="200">
             </td>
         </tr>
     </tbody></table>
