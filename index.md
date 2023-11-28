@@ -33,8 +33,8 @@ sections:
   - infopic:
       title: HIGHLIGHTS
       button: More Highlights
-      url: /highlights/archive
+      url: /admissions/permalink/ipadmissionstalk/
       image: /images/2022 IP Admissions Talk Thumbnail.png
       alt: Image alt text
-      description: IP ADMISSIONS TALK (FOR 2023 INTAKE)
+      description: IP ADMISSIONS TALK (FOR 2024 INTAKE)
 ---
