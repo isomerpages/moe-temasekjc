@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_for_S1_Registration_Announcement_2023.png
+      background: /images/TJC_Tampines_Era_Banner__1920_x_720_px_.png
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: IP Admissions
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ipadmissionstalk/
+      variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
