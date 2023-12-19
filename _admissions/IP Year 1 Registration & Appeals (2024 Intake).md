@@ -13,7 +13,7 @@ variant: markdown
 
 </p><p style="text-align: justify;">1)	Downloading and reading all the documents in the IP1 Registration folder. Please refer to the list of documents below.
 	
-</p><p style="text-align: justify;">2)	Completing and submitting the online IP1 Registration Form by 5.00 p.m. on 22 Dec 2023 (Friday). All students, including those posted to TJC via DSA-Sec, must submit this form. You will be considered to have completed the IP1 Registration Exercise only when you have submitted this form. The form is accessible either via this link: <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or by scanning the following QR code:
+</p><p style="text-align: justify;">2)	Completing and submitting the online IP1 Registration Form by 5.00 p.m. on 21 Dec 2023 (Friday). All students, including those posted to TJC via DSA-Sec, must submit this form. You will be considered to have completed the IP1 Registration Exercise only when you have submitted this form. The form is accessible either via this link: <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or by scanning the following QR code:
 
 
 </p><ul class="jekyllcodex_accordion">
@@ -21,12 +21,41 @@ variant: markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1">IP1 REGISTRATION FOLDER </label>
     <div>
-			<p style="text-align: justify;">1. 
+		<p style="text-align: justify;">1.<a href="/files/Admissions/IP1%20Registration%202024/1__Instructions_for_Completing_the_IP1_Online_Registration_Exercise_2024.pdf">Instructions for Completing the IP1 Online Registration Exercise 2024</a>
 
+</p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202024/2__General_Info_2024.pdf">General Info 2024</a> 
 				
+3.	[](/files/Admissions/IP1%20Registration%202024/3a__2024_IP1_Induction_Schedule.pdf)		
+			
+4.			[](/files/Admissions/IP1%20Registration%202024/4__Booklist__IP1_.pdf)
+			
+5.			[](/files/Admissions/IP1%20Registration%202024/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms.pdf)
 				
-				
-				
-				
+6.[](/files/Admissions/IP1%20Registration%202024/6a__Letter_to_Parents_for_PDLP_Procurement_doc.pdf)
+
+6b.[](/files/Admissions/IP1%20Registration%202024/6b___Parent_Handbook__II__2024_FINAL.pdf)
+	
+7a.[](/files/Admissions/IP1%20Registration%202024/7a__Application_for_TJC_IP_Music_Elective_Programme_FINAL.pdf)
+	
+8a.[](/files/Admissions/IP1%20Registration%202024/8a_MOE_FAS_2024_Instructions_and_Application_Form.pdf)
+	
+9.[](/files/Admissions/IP1%20Registration%202024/8b__MOE_FAS_pamphet_EL.pdf)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </p></div>
-	</li></ul>
+	</li>
+	
+	
+If you are unable to complete the online IP1 Registration Form, or have any other questions, please contact the TJC General Office at 64428066 for assistance.
+
+We look forward to seeing all IP1 students in school on 3 Jan 2024 as you begin your journey in TJC IP!
+</ul>
