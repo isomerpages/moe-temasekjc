@@ -37,6 +37,8 @@ variant: markdown
 	
 </p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202024/7a__Application_for_TJC_IP_Music_Elective_Programme_FINAL.pdf">Application for TJC IP Music Elective Programme</a>
 	
+</p><p style="text-align: justify;">7b. 	
+	
 </p><p style="text-align: justify;">8a.<a href="/files/Admissions/IP1%20Registration%202024/8a_MOE_FAS_2024_Instructions_and_Application_Form.pdf">MOE FAS 2024 Instructions and Application Form</a>
 	
 </p><p style="text-align: justify;">8b. <a href="/files/Admissions/IP1%20Registration%202024/8b__MOE_FAS_pamphet_EL.pdf">MOE FAS Pamphet</a>
