@@ -30,8 +30,6 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">3b. <a href="files/Admissions/IP1%20Registration%202024/3b__IP1_Induction_3_to_5_Jan_2024.pdf">IP1 Induction Schedule 3 to 5_Jan 2024</a>
 	
 </p><p style="text-align: justify;">3c. <img alt="Students' Tshirt Guide" src="/images/3c__2024_IP1_Induction___Students__Tshirt_Guide.jpg">		
-
-	
 			
 </p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202024/4__Booklist__IP1_.pdf">Booklist</a>
 			
@@ -39,7 +37,7 @@ All students who have been posted to TJC, including those who have been posted v
 				
 </p><p style="text-align: justify;">6a. <a href="/files/Admissions/IP1%20Registration%202024/6a__Letter_to_Parents_for_PDLP_Procurement_doc.pdf">Letter to Parents for PDLP Procurement</a>
 
-</p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202024/6b___Parent_Handbook__II__2024_FINAL.pdf">Parent Handbook II 2024</a>
+</p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202024/6b___Parent_Handbook__II__2024_FINAL.pdf">Parent Handbook on Learning with a Personal Device</a>
 	
 </p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202024/7a__Application_for_TJC_IP_Music_Elective_Programme_FINAL.pdf">Application for TJC IP Music Elective Programme</a>
 	
