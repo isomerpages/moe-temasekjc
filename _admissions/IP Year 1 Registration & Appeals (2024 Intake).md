@@ -35,13 +35,15 @@ variant: markdown
 
 </p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202024/6b___Parent_Handbook__II__2024_FINAL.pdf">Parent Handbook II 2024</a>
 	
-</p><p style="text-align: justify;">7a.[](/files/Admissions/IP1%20Registration%202024/7a__Application_for_TJC_IP_Music_Elective_Programme_FINAL.pdf)
+</p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202024/7a__Application_for_TJC_IP_Music_Elective_Programme_FINAL.pdf">Application for TJC IP Music Elective Programme</a>
 	
-</p><p style="text-align: justify;">8a.[](/files/Admissions/IP1%20Registration%202024/8a_MOE_FAS_2024_Instructions_and_Application_Form.pdf)
+</p><p style="text-align: justify;">8a.<a href="/files/Admissions/IP1%20Registration%202024/8a_MOE_FAS_2024_Instructions_and_Application_Form.pdf">MOE FAS 2024 Instructions and Application Form</a>
 	
-</p><p style="text-align: justify;">9.[](/files/Admissions/IP1%20Registration%202024/8b__MOE_FAS_pamphet_EL.pdf)
+</p><p style="text-align: justify;">8b. <a href="/files/Admissions/IP1%20Registration%202024/8b__MOE_FAS_pamphet_EL.pdf">MOE FAS Pamphet</a>
 	
-</p><p style="text-align: justify;">10. 	
+</p><p style="text-align: justify;">9. <a href="/files/Admissions/IP1%20Registration%202024/9__School_Bus_Application_Form.pdf">School Bus Application Form</a>
+	
+</p><p style="text-align: justify;">10.	<a href="/files/Admissions/IP1%20Registration%202024/10__GIRO_application_form.pdf">GIRO Application Form</a>
 	
 	
 	
