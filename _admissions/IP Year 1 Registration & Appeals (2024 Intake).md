@@ -51,6 +51,7 @@ variant: markdown
 	</li>
 	</ul>
 	
-If you are unable to complete the online IP1 Registration Form, or have any other questions, please contact the TJC General Office at 64428066 for assistance.
+<p style="text-align: justify;">If you are unable to complete the online IP1 Registration Form, or have any other questions, please contact the TJC General Office at 64428066 for assistance.
 
-We look forward to seeing all IP1 students in school on 3 Jan 2024 as you begin your journey in TJC IP!
+</p><p style="text-align: justify;">We look forward to seeing all IP1 students in school on 3 Jan 2024 as you begin your journey in TJC IP!
+</p>
