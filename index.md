@@ -14,7 +14,7 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: IP1 Appeals
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ip-year-1-registration-n-appeals-2024-intake/
+          url: https://go.gov.sg/tjc-appeal-ip1-intake2024
         - title: IP1 Registrations
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ip-year-1-registration-n-appeals-2024-intake/
