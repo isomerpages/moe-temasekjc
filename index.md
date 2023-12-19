@@ -18,7 +18,7 @@ sections:
         - title: IP1 Registrations
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2024-intake/
-      variant: image
+      variant: center
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
