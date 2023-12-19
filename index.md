@@ -12,12 +12,12 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: Cohort Reunions
+        - title: IP1 Appeals
           description: ""
-          url: https://tinyurl.com/tjccohortreunions
-        - title: IP Admissions
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ip-year-1-registration-n-appeals-2024-intake/
+        - title: IP1 Registrations
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ipadmissionstalk/
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ip-year-1-registration-n-appeals-2024-intake/
       variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
