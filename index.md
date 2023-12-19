@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TJC_Tampines_Era_Banner__1920_x_720_px_.png
+      background: /images/Website_banner_20_Dec.png
       key_highlights:
         - title: Heritage Website
           description: ""
