@@ -15,7 +15,7 @@ variant: markdown
 	
 </p><p style="text-align: justify;">2)	Completing and submitting the online IP1 Registration Form by 5.00 p.m. on 21 Dec 2023 (Friday). All students, including those posted to TJC via DSA-Sec, must submit this form. You will be considered to have completed the IP1 Registration Exercise only when you have submitted this form. The form is accessible either via this link: <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or by scanning the following QR code:
 
-<img alt="QR Code for IP1 Appeals" src="/images/qr_code_ip1_registration%202024.png">		
+<img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">		
 
 
 	
