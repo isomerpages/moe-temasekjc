@@ -44,21 +44,13 @@ variant: markdown
 	
 </p><p style="text-align: justify;">9. <a href="/files/Admissions/IP1%20Registration%202024/9__School_Bus_Application_Form.pdf">School Bus Application Form</a>
 	
-</p><p style="text-align: justify;">10.	<a href="/files/Admissions/IP1%20Registration%202024/10__GIRO_application_form.pdf">GIRO Application Form</a>
+</p><p style="text-align: justify;">10.	<a href="/files/Admissions/IP1%20Registration%202024/10__GIRO_application_form.pdf">GIRO Application Form</a></p>
 	
 	
-	
-	
-	
-	
-	
-	
-	
-</p></div>
+</div>
 	</li>
-	
+	</ul>
 	
 If you are unable to complete the online IP1 Registration Form, or have any other questions, please contact the TJC General Office at 64428066 for assistance.
 
 We look forward to seeing all IP1 students in school on 3 Jan 2024 as you begin your journey in TJC IP!
-</ul>
