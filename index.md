@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_20_Dec.png
+      background: /images/CONGRATULATIONS_ON_RECEIVING_YOUR_PSLE_RESULTS.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -18,7 +18,7 @@ sections:
         - title: IP1 Registrations
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2024-intake/
-      variant: center
+      variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
