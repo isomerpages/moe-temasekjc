@@ -6,19 +6,14 @@ variant: markdown
 ---
 #### **A Heartiest Welcome to the Temasek Junior College Family!** ####
 
-<p style="text-align: justify;">We understand that this transition stage from primary to secondary school will be a new experience for your child.<br>
-</p><p style="text-align: justify;">We look forward in anticipation to the upcoming years, characterized by opportunities for growth, exploration, and accomplishments, that we will experience together.<br>
-</p><p style="text-align: justify;">As your child takes his/her first step into Temasek JC, we want to ensure a smooth transition; and a crucial aspect of this is the completion of the IP1 E-Registration Exercise.<br>
-</p><p style="text-align: justify;">Please note that you <b>do not need</b> to report to TJC in person on S1 Posting &amp; Registration Day. <br></p><p style="text-align: justify;">Instead, please complete the Online Registration Exercise by:
 
-</p><p style="text-align: justify;">1)	Downloading and reading all the documents in the IP1 Registration folder. Please refer to the list of documents below.
+<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by 5pm on 21 Dec 2023 by submitting the online form, which is accessible via this link <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or the following QR Code: <img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">
 	
-</p><p style="text-align: justify;">2)	Completing and submitting the online IP1 Registration Form by 5.00 p.m. on 21 Dec 2023 (Friday). All students, including those posted to TJC via DSA-Sec, must submit this form. You will be considered to have completed the IP1 Registration Exercise only when you have submitted this form. The form is accessible either via this link: <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or by scanning the following QR code:
-
-<img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">		
-
-
 	
+All students who have been posted to TJC, including those who have been posted via DSA-Sec, must complete the registration.
+
+</p><p style="text-align: justify;">Please read the documents in the IP1 Registration Folder for important information on your child's time in TJC.
+
 	
 	
 </p><ul class="jekyllcodex_accordion">
@@ -30,7 +25,13 @@ variant: markdown
 
 </p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202024/2__General_Info_2024.pdf">General Info 2024</a> 
 				
-</p><p style="text-align: justify;">3. <a href="/files/Admissions/IP1%20Registration%202024/3a__2024_IP1_Induction_Schedule.pdf">IP1 Induction Schedule</a>		
+</p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202024/3a__2024_IP1_Induction_Schedule.pdf">IP1 Induction Schedule</a>		
+			
+</p><p style="text-align: justify;">3b. <a href="files/Admissions/IP1%20Registration%202024/3b__IP1_Induction_3_to_5_Jan_2024.pdf">IP1 Induction Schedule 3 to 5_Jan 2024</a>
+	
+</p><p style="text-align: justify;">3c. <img alt="Students' Tshirt Guide" src="/images/3c__2024_IP1_Induction___Students__Tshirt_Guide.jpg">		
+
+	
 			
 </p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202024/4__Booklist__IP1_.pdf">Booklist</a>
 			
