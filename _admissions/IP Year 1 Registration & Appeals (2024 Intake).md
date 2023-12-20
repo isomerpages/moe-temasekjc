@@ -7,7 +7,7 @@ variant: markdown
 #### **A Heartiest Welcome to the Temasek Junior College Family!** ####
 
 
-<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by 5pm on 21 Dec 2023 by submitting the online form, which is accessible via this link <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or the following QR Code: <img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">
+<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by 5pm on 21 Dec 2023 by submitting the online form, which is accessible via this link <a href="https://go.gov.sg/tjc-ip1registration-2024" target="_blank">https://go.gov.sg/tjc-ip1registration-2024</a> or the following QR Code: <img style="width:200px;height:200px;" alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">
 	
 	
 All students who have been posted to TJC, including those who have been posted via DSA-Sec, must complete the registration.
@@ -66,10 +66,10 @@ All students who have been posted to TJC, including those who have been posted v
 		
 </p><p style="text-align: justify;">Or, scan the QR code below:					
 
-<img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Appeals_2024.png">													 
+<img style="width:200px;height:200px;" alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Appeals_2024.png">											 
 		
 </p><p style="text-align: justify;">The deadline is <b>12pm on 22 December 2023.</b> 
-</p><p style="text-align: justify;"><b>Important: Students must meet the TJC cut-off-point before their appeal will be considered. </b>
+</p><p style="text-align: justify;"><b>Important: Students must meet the TJC cut-off-point of AL8 before their appeal will be considered. </b>
 </p><p style="text-align: justify;">Before filling up the form, please note the following: <br>
 </p><p style="text-align: justify;">1.	Students who have been allocated a confirmed DSA place in another secondary school will not be considered for appeal. 
 </p><p style="text-align: justify;">2.	Students who wish to appeal should prepare the following documents for submission: <br>
