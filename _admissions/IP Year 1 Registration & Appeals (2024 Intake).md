@@ -66,7 +66,7 @@ All students who have been posted to TJC, including those who have been posted v
 		
 </p><p style="text-align: justify;">Or, scan the QR code below:					
 
-<img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Appeals_2024.png">													 
+<img alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Appeals_2024.png">											 
 		
 </p><p style="text-align: justify;">The deadline is <b>12pm on 22 December 2023.</b> 
 </p><p style="text-align: justify;"><b>Important: Students must meet the TJC cut-off-point of 8 before their appeal will be considered. </b>
