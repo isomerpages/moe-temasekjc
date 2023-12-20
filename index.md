@@ -7,17 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TJC_Tampines_Era_Banner__1920_x_720_px_.png
+      background: /images/CONGRATULATIONS_ON_RECEIVING_YOUR_PSLE_RESULTS.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: Cohort Reunions
+        - title: IP1 Appeals
           description: ""
-          url: https://tinyurl.com/tjccohortreunions
-        - title: IP Admissions
+          url: https://go.gov.sg/tjc-appeal-ip1-intake2024
+        - title: IP1 Registrations
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/ipadmissionstalk/
+          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2024-intake/
       variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
