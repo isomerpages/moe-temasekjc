@@ -2,6 +2,7 @@
 title: College Staff
 permalink: /about/college-staff/
 description: ""
+variant: markdown
 ---
 # COLLEGE STAFF
 
@@ -1136,7 +1137,7 @@ description: ""
   </tr>
 	  <tr>
     <td> Ms </td>
-    <td>Peggy</td>
+    <td>Peggy Tan</td>
     <td>Administrative Executive<br></td>
     <td><a href="mailto:tan_puay_jee_peggy@moe.edu.sg">tan_puay_jee_peggy@moe.edu.sg</a> </td>
   </tr>
@@ -1262,12 +1263,7 @@ description: ""
     <td>ICT Manager</td>
     <td><a href="mailto:lim_hock_kwee@moe.edu.sg">lim_hock_kwee@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr</td>
-    <td>Arthur Ng</td>
-    <td>ICT Associate </td>
-    <td><a href="mailto:ng_yian_teck@moe.edu.sg">ng_yian_teck@moe.edu.sg</a> </td>
-  </tr>
+ 
   <tr>
     <td>Ms</td>
     <td>Nur Ayuni binte Sudirmaji </td>
