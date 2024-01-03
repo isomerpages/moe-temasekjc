@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_OPEN_HOUSE_24__MOTD___800_x_580_px___1920_x_720_px___1_.jpg
+      background: /images/Copy_of_OPEN_HOUSE_24__MOTD___800_x_580_px___1920_x_720_px___2_.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
