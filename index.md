@@ -7,14 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CONGRATULATIONS_ON_RECEIVING_YOUR_PSLE_RESULTS.jpg
+      background: /images/Copy_of_OPEN_HOUSE_24__MOTD___800_x_580_px___1920_x_720_px___1_.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: IP1 Registrations
+        - title: JC Open House
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2024-intake/
+          url: https://for.edu.sg/tjcopenhouse2024
       variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
