@@ -57,31 +57,7 @@ All students who have been posted to TJC, including those who have been posted v
 											
 											
 											
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">IP1 APPEALS </label>
-    <div>
-		<p style="text-align: justify;">Students who have not been posted to TJC IP but who wish to submit an appeal, please click on this link: <a href="https://go.gov.sg/tjc-appeal-ip1-intake2024" target="_blank">https://go.gov.sg/tjc-appeal-ip1-intake2024</a>																																														
-		
-</p><p style="text-align: justify;">Or, scan the QR code below:					
 
-<img style="width:200px;height:200px;" alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Appeals_2024.png">											 
-		
-</p><p style="text-align: justify;">The deadline is <b>12pm on 22 December 2023.</b> 
-</p><p style="text-align: justify;"><b>Important: Students must meet the TJC cut-off-point of AL8 before their appeal will be considered. </b>
-</p><p style="text-align: justify;">Before filling up the form, please note the following: <br>
-</p><p style="text-align: justify;">1.	Students who have been allocated a confirmed DSA place in another secondary school will not be considered for appeal. 
-</p><p style="text-align: justify;">2.	Students who wish to appeal should prepare the following documents for submission: <br>
-i)	PSLE Results Slip<br>
-ii)	S1 Option Form <br>
-iii)	P5 &amp; P6 School Results<br>
-iv)	P5 &amp; P6 CCA and VIA Records <br>
-</p><p style="text-align: justify;">3.	Only successful applicants will be notified by 30 Dec 2023.<br>  
-</p><p style="text-align: justify;">Please contact the TJC General Office at 6442 8066 if you need assistance. 
-</p></div>
-	</li>
-	</ul>	
 														
 														
 														
