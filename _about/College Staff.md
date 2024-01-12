@@ -43,13 +43,6 @@ variant: markdown
     <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Ms<br></td>
-    <td>Emmerlyn Ong<br></td>
-    <td>Teacher<br></td>
-    <td>Music<br></td>
-    <td><a href="mailto:ong_hui_ling_emmerlyn@moe.edu.sg">ong_hui_ling_emmerlyn@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Dr<br></td>
     <td>Gary Laycock<br></td>
     <td>Teacher<br></td>
@@ -69,6 +62,27 @@ variant: markdown
     <td>Teacher<br></td>
     <td>Music<br></td>
     <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td>Mr<br></td>
+    <td>Winston Ang<br></td>
+    <td>Teacher<br></td>
+    <td>Music<br></td>
+    <td><a href="mailto:winston_ang_wee_kern@moe.edu.sg">winston_ang_wee_kern@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td>Miss<br></td>
+    <td>Annabelle Tay<br></td>
+    <td>Teacher<br></td>
+    <td>Music<br></td>
+    <td><a href="mailto:"></a></td>
+  </tr>
+	<tr>
+    <td>Ms<br></td>
+    <td>Tan Jeng Suan<br></td>
+    <td>Teacher<br></td>
+    <td>Music<br></td>
+    <td><a href="mailto:tan_jeng_suan@moe.edu.sg">tan_jeng_suan@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -130,13 +144,7 @@ variant: markdown
     <td>Economics<br></td>
     <td><a href="mailto:zeng_wenjie@moe.edu.sg">zeng_wenjie@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Ang Siew Kwai<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:tong_siew_kwai@moe.edu.sg">tong_siew_kwai@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Ms<br></td>
     <td>Gracia Lam<br></td>
@@ -150,13 +158,6 @@ variant: markdown
     <td>Teacher<br></td>
     <td>Economics<br></td>
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Lim Li Lian<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:lim_li_lian_d@moe.edu.sg">lim_li_lian_d@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -193,6 +194,21 @@ variant: markdown
     <td>History<br></td>
     <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
   </tr>
+	 <tr>
+    <td>Mr<br></td>
+    <td>Ian Wong<br></td>
+    <td>Teacher<br></td>
+    <td><br></td>
+    <td><a href="mailto:wong_sing_chung_ian@moe.edu.sg">wong_sing_chung_ian@moe.edu.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Ms<br></td>
+    <td>Teng Xin Yi<br></td>
+    <td>Teacher<br></td>
+    <td><br></td>
+    <td><a href="mailto:teng_xin_yi_a@moe.edu.sg">teng_xin_yi_a@moe.edu.sg</a></td>
+  </tr>
+	
 </tbody>
 </table>
     </div>
@@ -211,6 +227,13 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td>Mrs<br></td>
+    <td>Jean Koh-Woo Kuan Shing<br></td>
+    <td>Dean / Integrated Programme<br></td>
+    <td> <br></td>
+    <td><a href="mailto:woo_kuan_shing_jean@moe.edu.sg">woo_kuan_shing_jean@moe.edu.sg</a><br></td>
+  </tr>
   <tr>
     <td>Mr<br></td>
     <td>Vincent Foo<br></td>
@@ -253,6 +276,13 @@ variant: markdown
     <td> History/Singapore Studies</td>
     <td><a href="mailto:chen_ying@moe.edu.sg">chen_ying@moe.edu.sg</a></td>
   </tr>
+	 <tr>
+    <td>Mrs</td>
+    <td>Peh Shi Yun</td>
+    <td>Teacher </td>
+    <td> </td>
+    <td><a href="mailto:peh_shi_yun@moe.edu.sg">peh_shi_yun@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
     </div>
@@ -284,12 +314,6 @@ variant: markdown
   </tr>
   <tr>
     <td>Mr<br></td>
-    <td>Francis Tong<br></td>
-    <td>Deputy Head /<br>Student<br>Well-Being</td>
-    <td><a href="mailto:tong_chee_beng_francis@moe.edu.sg">tong_chee_beng_francis@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr<br></td>
     <td>Eric Yap<br></td>
     <td>Deputy Head / General Paper<br></td>
     <td><a href="mailto:yap_zong_xing_eric@moe.edu.sg">yap_zong_xing_eric@moe.edu.sg</a><br></td>
@@ -299,12 +323,6 @@ variant: markdown
     <td>Evangeline Ho<br></td>
     <td>Senior Teacher / General Paper<br></td>
     <td><a href="mailto:pung_yuen_mei_evangeline@moe.edu.sg">pung_yuen_mei_evangeline@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Norsheha<br></td>
-    <td>Senior Teacher / General Paper<br></td>
-    <td><a href="mailto:norsheha_abdul_sukor@moe.edu.sg">norsheha_abdul_sukor@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mrs<br></td>
@@ -318,17 +336,11 @@ variant: markdown
     <td>Senior Teacher / Knowledge &amp; Inquiry<br></td>
     <td><a href="mailto:k_veerapandiyan@moe.edu.sg">k_veerapandiyan@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms</td>
-    <td>Bliss Tan </td>
-    <td>Teacher </td>
-    <td><a href="mailto:bliss_tan@moe.edu.sg">bliss_tan@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+	<tr>
     <td>Ms<br></td>
-    <td>Cheah Lee Huang<br></td>
+    <td>Bliss Tan<br></td>
     <td>Teacher<br></td>
-    <td><a href="mailto:cheah_lee_huang@moe.edu.sg">cheah_lee_huang@moe.edu.sg</a><br></td>
+    <td><a href="mailto:bliss_tan@moe.edu.sg">bliss_tan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
@@ -365,7 +377,25 @@ variant: markdown
     <td>Sasha Kaur Dhillon<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:sasha_kaur_dhillon@moe.edu.sg">sasha_kaur_dhillon@moe.edu.sg</a></td>
+			  </tr><tr>
+    <td>Mrs</td>
+    <td>Marlinder Roy</td>
+    <td>Teacher </td>
+    <td><a href="mailto:marlinder_roy_a@moe.edu.sg">marlinder_roy_a@moe.edu.sg</a></td>
   </tr>
+	  <tr>
+    <td>Ms</td>
+    <td>Natasha Raj </td>
+    <td>Teacher </td>
+    <td><a href="mailto:natasha_raj@moe.edu.sg">natasha_raj@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+    <td>Ms</td>
+    <td>Nicole </td>
+    <td>Teacher </td>
+    <td><a href="mailto:weers_nicole_alexandra@moe.edu.sg">weers_nicole_alexandra@moe.edu.sg</a></td>
+  </tr>
+  
 </tbody>
 </table>
     </div>
@@ -426,12 +456,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:tay_kiah_koon_jeremy@moe.edu.sg">tay_kiah_koon_jeremy@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Norzian Md Yunos<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:norzian_bt_mohd_yunos@moe.edu.sg">norzian_bt_mohd_yunos@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>P K Mathimugan<br></td>
@@ -449,6 +474,12 @@ variant: markdown
     <td>Trevor Tay </td>
     <td>Teacher </td>
     <td><a href="mailto:tay_chen_yi_trevor@moe.edu.sg">tay_chen_yi_trevor@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>Ms</td>
+    <td>Florence Ang </td>
+    <td>Teacher </td>
+    <td><a href="mailto:ang_wan_yu_florence@moe.edu.sg">ang_wan_yu_florence@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -527,12 +558,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:deon_chan_tian_wee@moe.edu.sg">deon_chan_tian_wee@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Fong Shi Ning<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:fong_shi_ning@moe.edu.sg">fong_shi_ning@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Kenneth Lim<br></td>
@@ -545,12 +571,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:ng_yon_tek_kevin@moe.edu.sg">ng_yon_tek_kevin@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Koh-Poh Sze Sze<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:POH_SZE_SZE@MOE.EDU.SG">poh_sze_sze@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Leonard Lau<br></td>
@@ -581,17 +602,24 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:pek_qu_zhi@moe.edu.sg">pek_qu_zhi@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Poon Fook Weng<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:poon_fook_weng@moe.edu.sg">poon_fook_weng@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Ms<br></td>
     <td>Rimiko Chuah<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:rimiko_chuah_li_mei@moe.edu.sg">rimiko_chuah_li_mei@moe.edu.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Miss<br></td>
+    <td>Koo Mee Ling<br></td>
+    <td>Teacher<br></td>
+    <td><a href="mailto:koo_mee_ling_a@moe.edu.sg">koo_mee_ling_a@moe.edu.sg</a></td>
+  </tr>
+	 <tr>
+    <td>Ms<br></td>
+    <td>Kimberly Ng<br></td>
+    <td>Teacher<br></td>
+    <td><a href="mailto:ng_mun_puay_kimberly@moe.edu.sg">ng_mun_puay_kimberly@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
