@@ -15,6 +15,9 @@ sections:
         - title: JC Open House
           description: ""
           url: https://for.edu.sg/tjcopenhouse2024
+        - title: JC Subject Combination
+          description: ""
+          url: https://www.temasekjc.moe.edu.sg/academic/junior-college/curriculum-overview/
       variant: image
   - infopic:
       title: INTEGRATED  PROGRAMME
