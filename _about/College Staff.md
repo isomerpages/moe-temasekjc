@@ -659,7 +659,7 @@ variant: markdown
   <tr>
     <td>Mdm<br></td>
     <td>Jiang Hui<br></td>
-    <td>Teacher<br></td>
+    <td>Deputy Head/MTL (JC)<br></td>
     <td><a href="mailto:jiang_hui@moe.edu.sg">jiang_hui@moe.edu.sg</a><br></td>
   </tr>
   <tr>
