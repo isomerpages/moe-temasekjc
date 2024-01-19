@@ -2,6 +2,7 @@
 title: Appeal Application For JC1 (Intake 2023)
 permalink: /admissions/appeal-application-for-JC1-intake-2023/
 description: ""
+variant: markdown
 ---
 # APPEAL APPLICATION FOR JC1 (INTAKE 2023)
 
@@ -11,14 +12,14 @@ Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">APPEAL CRITERIA</label><div>  
-<p>Students must meet our college cut-off point before their Appeal will be considered.&nbsp;The COP for our Science Stream is 8, and the COP for&nbsp;our Arts Stream is 9.</p>  
+<p>Students must meet our college cut-off point (COP) before their Appeal will be considered.&nbsp;The COP in 2023 for our Science Stream is 8, and the COP for&nbsp;our Arts Stream is 9.</p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">APPLICATION PROCESS</label><div>  
 <p> 
 	
-<h5> 1) Application Form </h5>
+</p><h5> 1) Application Form </h5>
 
 <ul> <li>Click <a href="https://matrix.tjc.edu.sg/0/appeal.html" target="\_blank">here</a> After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.</li>
 	
@@ -58,7 +59,7 @@ Please upload the following supporting documents:
 <ul> <li><strong>Only successful applicants</strong> will be notified by <strong>8 February, 2pm</strong>.</li> 
 </ul>
 
-</p>  
+<p></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
