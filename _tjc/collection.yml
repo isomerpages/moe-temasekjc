@@ -1,0 +1,9 @@
+collections:
+  tjc:
+    output: true
+    order:
+      - Students.md
+      - Staff.md
+      - Parents.md
+      - Alumni.md
+      - Contact Us.md

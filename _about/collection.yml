@@ -1,0 +1,14 @@
+collections:
+  about:
+    output: true
+    order:
+      - Principal's Message.md
+      - Values & Mission.md
+      - History & Achievements.md
+      - College Leadership.md
+      - College Staff.md
+      - College Advisory Committee.md
+      - Parents Support Group (PEERS).md
+      - Alumni.md
+      - Junior College Rejuvenation Programme.md
+      - Admin Matters.md

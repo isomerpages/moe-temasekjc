@@ -1,0 +1,24 @@
+logo: /images/tjc_logo.png
+links:
+  - title: About
+    collection: about
+  - title: Academic
+    url: /academic/integrated-programme/enriched-curriculum
+    sublinks:
+      - title: Integrated Programme
+        url: /academic/integrated-programme/enriched-curriculum
+      - title: Junior College
+        url: /academic/junior-college/curriculum-overview
+      - title: Special Programmes
+        url: /academic/special-programmes/chinese-language-elective-programme
+  - title: Temasek Experience
+    collection: temasek-experience
+  - title: Admissions
+    collection: admissions
+  - title: Highlights
+    url: /highlights/archive
+    sublinks:
+      - title: Archive
+        url: /highlights/archive
+      - title: Quick Links
+        url: /tjc/students
