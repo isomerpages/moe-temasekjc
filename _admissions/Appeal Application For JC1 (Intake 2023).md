@@ -2,70 +2,88 @@
 title: Appeal Application For JC1 (Intake 2023)
 permalink: /admissions/appeal-application-for-JC1-intake-2023/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# APPEAL APPLICATION FOR JC1 (INTAKE 2023)
-
-Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;**2**&nbsp;**February, 9am to 8 February, 12pm, Singapore time**.
-
-<ul class="jekyllcodex_accordion">  
-  
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">APPEAL CRITERIA</label><div>  
-<p>Students must meet our college cut-off point (COP) before their Appeal will be considered.&nbsp;The COP in 2023 for our Science Stream is 8, and the COP for&nbsp;our Arts Stream is 9.</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">APPLICATION PROCESS</label><div>  
-<p> 
-	
-</p><h5> 1) Application Form </h5>
-
-<ul> <li>Click <a href="https://matrix.tjc.edu.sg/0/appeal.html" target="\_blank">here</a> After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form.</li>
-	
-<li>After completing all the sections in the online application form, please click on the "Submit My Application Now" button to submit the online form. </li>
-	
+<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2024) IS NOW OPEN</h1>
+<p>Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;<strong>2</strong>&nbsp;<strong>February (Friday), 9am to 8 February (Thursday), 12pm, Singapore time</strong>.</p>
+<h2>APPEAL CRITERIA</h2>
+<ul>
+<li>
+<p>Students must meet our college cut-off point (COP) before their Appeal
+will be considered.&nbsp;</p>
+</li>
 </ul>
-
-<h5> 2) Supporting Documents</h5>
-
-Please upload the following supporting documents:
-
-<ul> 
-<li>2021 GCE O-Level Exam Results Slip</li> 
-<li>Verification Slip (JAE Registration)</li> 
-<li>Form A bearing L1R5 and Subject Grades</li>
-<li>Sec 3 and Sec 4 Exam Result Slips (End-of-Year)</li> 
-<li>CCA Achievements &amp; VIA records</li> 
-<li>Records of additional qualifications (only highest level required), achievements, awards, scholarships etc. (if applicable)</li>
+<h2>APPLICATION PROCESS</h2>
+<h3>1) Application Form</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click&nbsp;<strong><a href="http://matrix.tjc.edu.sg/IPYear1Appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;(
+<a rel="noopener noreferrer nofollow" target="_blank">https://jae.tjc.edu.sg/</a>) to proceed with your online application.&nbsp;
+The application form should take approximately 20 minutes to complete.</p>
+</li>
+<li>
+<p>After completing all the sections in the online application form, please
+click on the <strong>"Submit My Application Now</strong>" button to submit
+the online form.</p>
+</li>
 </ul>
-
-<h5> 3) Important Points </h5>
-
-<ul> 
-<li>All application to be <strong>submitted online</strong> using the link provided above. Application received by fax and email will <strong>NOT</strong> be considered.</li> 
-
-<li>Successful applicants must <strong>bring along the original documents for verification</strong> when collecting the letter of offer from General Office.</li> 
-
-<li>Successful DSA-JC students are <strong>NOT allowed</strong> to transfer to another school after the release of the GCE O-Level Examination results as they are expected to honour their commitment for the full duration of the programme.</li> 
-
-<li>The College reserves the right not to reveal the results or reasons for non-selection.</li>
-
-<li>The College will not provide the application outcome over the phone.</li> 
+<h3>2) Supporting Documents</h3>
+<h4>Please upload the following supporting documents:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 GCE O-Level Exam Result Slip&nbsp;</p>
+</li>
+<li>
+<p>Verification Slip (JAE Registration)</p>
+</li>
+<li>
+<p>Form A bearing L1R5 and Subject Grades</p>
+</li>
+<li>
+<p>Sec 3 and Sec 4 Exam Result Slips&nbsp;(End-of-Year)</p>
+</li>
+<li>
+<p>CCA Achievements &amp; VIA records</p>
+</li>
+<li>
+<p>Records of additional qualifications (only highest level required), achievements,
+awards, scholarships etc. (if applicable)</p>
+</li>
 </ul>
-
-<h5> 4) Outcome of Application </h5>
-
-<ul> <li><strong>Only successful applicants</strong> will be notified by <strong>8 February, 2pm</strong>.</li> 
+<h3>3) Important Points</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>All applications to be submitted online using the link provided above.
+Application received by fax and email will NOT be considered.&nbsp;</p>
+</li>
+<li>
+<p>Successful applicants must bring along the original documents for verification
+when collecting the letter of offer from the General Office.&nbsp;</p>
+</li>
+<li>
+<p>Successful DSA-JC students are&nbsp;<u>NOT allowed</u>&nbsp;to transfer
+to another school after the release of the GCE O-Level Examination results
+as they are expected to honour their commitment for the full duration of
+the programme. &nbsp;</p>
+</li>
+<li>
+<p>The College reserves the right not to reveal the result or reason for
+non-selection.</p>
+</li>
+<li>
+<p>The College will not provide the application outcome over the phone.&nbsp;</p>
+</li>
 </ul>
-
-<p></p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">CONTACT US</label><div>  
-
-<p>If you have any general enquiries regarding the Appeal Application, please contact the TJC General Office at <a href="tel:+6564428066">6442 8066</a> during office hours or email: <a href="mailto:temasek_jc@moe.edu.sg">temasek_jc@moe.edu.sg</a>.</p>
-</div></li>  
-  
+<h4>4) Outcome of Application</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Only successful applicants</strong> will be notified by <strong>8 February (Thursday), 2pm</strong>.</p>
+</li>
 </ul>
+<p></p>
+<h3>CONTACT US</h3>
+<p>If you have any general enquiries regarding the Appeal Application, please
+contact the TJC General Office at&nbsp;64428066&nbsp;during office hours
+or email: <a rel="noopener noreferrer nofollow" target="_blank">temasek_jc@moe.edu.sg</a>
+</p>
+<p></p>
