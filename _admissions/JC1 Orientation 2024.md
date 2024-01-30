@@ -10,7 +10,7 @@ IP Year 5 students!</p>
 <p>Our JC1 Orientation <em>“Aurora: Beauty in the Unknown”</em> will be held
 from 2 Feb to 16 Feb 2024. Please take note of the following important
 information:</p>
-<h4><strong><u>Reporting Details for Students</u></strong></h4>
+<h2><strong><u>Reporting Details for Students</u></strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9 S529564 <a rel="noopener noreferrer nofollow" target="_blank">https://g.co/kgs/PujRxd1</a> ) </strong>on
@@ -33,7 +33,7 @@ with valid reasons must contact the General Office at 64428066 to confirm
 they will take up the place.</p>
 </li>
 </ul>
-<h4><strong><u>What to Bring on 2 Feb 2024</u></strong></h4>
+<h3><strong><u>What to Bring on 2 Feb 2024</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Stationery and writing materials</p>
@@ -47,11 +47,11 @@ they will take up the place.</p>
 </ul>
 <p><em>(Information on what to bring/wear on subsequent days will be provided to you by your OGLs)</em>
 </p>
-<h4><strong><u>How Can I Prepare for Orientation?</u></strong></h4>
+<h3><strong><u>How Can I Prepare for Orientation?</u></strong></h3>
 <p>Please visit our Orientation Padlet <a rel="noopener noreferrer nofollow" target="_blank">https://temasekjc.padlet.org/tjc_slead/tjcaurora2024</a> regularly.
 All relevant information pertaining to the orientation will be hosted on
 the Padlet.</p>
-<h4><strong><u>Purchase of School Uniforms</u></strong></h4>
+<h3><strong><u>Purchase of School Uniforms</u></strong></h3>
 <p>Students will be allocated timings to purchase uniforms at the following
 times/dates. Cash and Paynow payment options are available.</p>
 <ul data-tight="true" class="tight">
@@ -85,17 +85,17 @@ Policy. A sum of $140 should be prepared.</p>
 <p></p>
 <p>The College House T shirt will be available for purchase after 19 Feb
 2024, following the confirmation of your Civics Group and House. &nbsp;</p>
-<h4><strong><u>Meet-the-Parents Session</u></strong></h4>
+<h3><strong><u>Meet-the-Parents Session</u></strong></h3>
 <p>The College will be hosting a <strong>face to face Meet-the-Parents Session on 7 Feb 2024 from 5.30pm to 7pm in the Auditorium</strong>.
 We would like to invite all parents and JC1 students to attend the session.
 We look forward to seeing you at TJC!</p>
 <p></p>
-<h3><strong><u>Appeals</u></strong></h3>
+<h2><strong><u>Appeals</u></strong></h2>
 <p>
 <br>Please click <a href="/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>for
 more information on appealing to TJC or to another JC.</p>
 <p></p>
-<h3><strong><u>Special Aptitude Selections</u></strong></h3>
+<h2><strong><u>Special Aptitude Selections</u></strong></h2>
 <h4><strong>H2 Art aptitude test</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
