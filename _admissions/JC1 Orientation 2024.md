@@ -92,8 +92,8 @@ We look forward to seeing you at TJC!</p>
 <p></p>
 <h3><strong><u>Appeals</u></strong></h3>
 <p>
-<br>Please click here for more information on appealing to TJC or to another
-JC.</p>
+<br>Please click <a href="/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>for
+more information on appealing to TJC or to another JC.</p>
 <p></p>
 <h3><strong><u>Special Aptitude Selections</u></strong></h3>
 <h4><strong>H2 Art aptitude test</strong></h4>
