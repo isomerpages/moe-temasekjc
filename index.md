@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_OPEN_HOUSE_24__MOTD___800_x_580_px___1920_x_720_px___3_.jpg
+      background: /images/TJC_Orientation_Hero_Banner_Final_Website.png
       key_highlights:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: JC Open House
+        - title: JC1 Orientation
           description: ""
           url: https://for.edu.sg/tjcopenhouse2024
         - title: JC Subject Combination
