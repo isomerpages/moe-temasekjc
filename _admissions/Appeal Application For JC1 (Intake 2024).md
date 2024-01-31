@@ -17,10 +17,12 @@ will be considered.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>COURSE</p>
+<p><strong>COURSE</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>CUT-OFF POINT</p>
+<p><strong>CUT-OFF POINT</strong>
+</p>
 </th>
 </tr>
 <tr>
