@@ -14,7 +14,7 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: JC1 Orientation
           description: ""
-          url: https://for.edu.sg/tjcopenhouse2024
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/
         - title: JC Subject Combination
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
