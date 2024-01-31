@@ -13,6 +13,34 @@ variant: tiptap
 will be considered.&nbsp;</p>
 </li>
 </ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>COURSE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CUT-OFF POINT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCIENCE (code: 32S)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARTS (code: 32A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>APPLICATION PROCESS</h2>
 <h3>1) Application Form</h3>
 <ul data-tight="true" class="tight">
