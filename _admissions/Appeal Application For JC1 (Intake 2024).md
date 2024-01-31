@@ -13,36 +13,33 @@ variant: markdown
 will be considered.&nbsp;</p>
 </li>
 </ul>
-<table>
+<style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
+
+<p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
+	
+<table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead>
+<tr>
+<th>COURSE</th><th>CUT-OFF POINT</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>COURSE</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>CUT-OFF POINT</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCIENCE (code: 32S)</p>
+<td class="">SCIENCE (code: 32S)</td>
+<td>7  
 </td>
-<td rowspan="1" colspan="1">
-<p>7</p>
+</tr><tr>
+<td class="">ARTS (code: 32A)</td>
+<td>8 
 </td>
 </tr>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p>ARTS (code: 32A)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
 </tr>
 </tbody>
 </table>
+</div>
+
+
 <h2>APPLICATION PROCESS</h2>
 <h3>1) Application Form</h3>
 <ul data-tight="true" class="tight">
