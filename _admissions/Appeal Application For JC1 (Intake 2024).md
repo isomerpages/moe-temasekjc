@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2024) IS NOW OPEN</h1>
-<p>Appeal Application for admission to JC1 (Intake 2023) commences from&nbsp;<strong>2</strong>&nbsp;<strong>February (Friday), 9am to 8 February (Thursday), 12pm, Singapore time</strong>.</p>
+<p>Appeal Application for admission to JC1 (Intake 2024) commences from&nbsp;<strong>1</strong>&nbsp;<strong>February (Thursday), 9am to 5 February (Monday), 5pm, Singapore time</strong>.</p>
 <h2>APPEAL CRITERIA</h2>
 <ul>
 <li>

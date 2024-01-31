@@ -48,7 +48,7 @@ they will take up the place.</p>
 <p><em>(Information on what to bring/wear on subsequent days will be provided to you by your OGLs)</em>
 </p>
 <h3><strong><u>How Can I Prepare for Orientation?</u></strong></h3>
-<p>Please visit our Orientation Padlet <a rel="noopener noreferrer nofollow" target="_blank">https://temasekjc.padlet.org/tjc_slead/tjcaurora2024</a> regularly.
+<p>Please visit our Orientation Padlet <a href="https://temasekjc.padlet.org/tjc_slead/tjcaurora2024" rel="noopener noreferrer nofollow" target="_blank">https://temasekjc.padlet.org/tjc_slead/tjcaurora2024</a> regularly.
 All relevant information pertaining to the orientation will be hosted on
 the Padlet.</p>
 <h3><strong><u>Purchase of School Uniforms</u></strong></h3>
@@ -69,7 +69,7 @@ times/dates. Cash and Paynow payment options are available.</p>
 </li>
 </ul>
 <p>Students are also highly encouraged to purchase your uniforms online:
-<a rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.com/</a>. Do note the delivery charges and terms
+<a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.com/</a>. Do note the delivery charges and terms
 and conditions.&nbsp;</p>
 <p>Students should purchase the uniforms in accordance with the College Uniform
 Policy. A sum of $140 should be prepared.</p>
@@ -92,7 +92,7 @@ We look forward to seeing you at TJC!</p>
 <p></p>
 <h2><strong><u>Appeals</u></strong></h2>
 <p>
-<br>Please click <a href="/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>for
+<br>Please click <a href="https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on appealing to TJC or to another JC.</p>
 <p></p>
 <h2><strong><u>Special Aptitude Selections</u></strong></h2>
@@ -121,7 +121,7 @@ copies)</p>
 </li>
 </ul>
 <p>Scan the QR code to register your interest here or click on the following
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZwzGe</a>
+link: <a href="https://forms.moe.edu.sg/forms/oZwzGe" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZwzGe</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/H2_Art_QR_Code.png">
@@ -131,7 +131,7 @@ link: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.ed
 may go straight to the art room if you could not register in time.&nbsp;</p>
 <h4><strong>H2 Music</strong></h4>
 <p>If you are intending to offer Music as a H2 subject at TJC, you must fill
-in the following form: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/659f57096bb054001123bcce </a>and
+in the following form: <a href="https://form.gov.sg/admin/form/659f57096bb054001123bcce" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/659f57096bb054001123bcce </a>and
 submit it by Thursday 1 February 2300 hrs.</p>
 <p>You must turn up for a 2-hour written test on Friday 2 February from 1530
 to 1730 hrs. Please wait outside J206 (MEP1) at least 5 minutes before
@@ -150,7 +150,7 @@ not filled out the formsg accurately or submitted it by the deadline indicated.<
 <h4><strong>H2 Further Mathematics</strong></h4>
 <p>Students will sign up to indicate interest and attend the Selection Test
 on 6 Feb 2024 from 3.00pm to 4.30pm on 6 Feb 2024. The venue is LT1. The
-link to sign up is&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oaqdOo</a>.
+link to sign up is&nbsp;<a href="https://forms.moe.edu.sg/forms/oaqdOo" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oaqdOo</a>.
 Students should bring their writing pen (black/blue). A scientific calculator
 is allowed but not necessary. Writing papers and O level formula list will
 be provided.</p>
