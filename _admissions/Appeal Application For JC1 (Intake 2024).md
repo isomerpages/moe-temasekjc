@@ -30,17 +30,7 @@ will be considered.&nbsp;</p>
 </tr><tr>
 <td class="">ARTS (code: 32A)</td>
 <td>8 
-</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-</tbody>
-</table>
-</div>
+</td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
 
 
 <h2>APPLICATION PROCESS</h2>
