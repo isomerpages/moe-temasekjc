@@ -13,7 +13,7 @@ information:</p>
 <h2><strong><u>Reporting Details for Students</u></strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9 S529564) <a rel="noopener noreferrer nofollow" target="_blank">https://g.co/kgs/PujRxd1</a> </strong>on
+<p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9, S529564) </strong>on
 Friday 2 Feb 2024 in your secondary school uniform.</p>
 </li>
 <li>
@@ -109,7 +109,7 @@ more information on appealing to TJC or to another JC.</p>
 </li>
 <li>
 <p>Bring a phone camera or DSLR, and (if you have) a digital tablet with
-stylus pen using any pre-installed app like photoshop, procreate, krita
+stylus pen using any pre-installed app like Photoshop, Procreate, Krita,
 etc.&nbsp;</p>
 </li>
 <li>
