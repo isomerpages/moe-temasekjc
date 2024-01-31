@@ -420,12 +420,7 @@ variant: markdown
     <td>HOD / Language Arts &amp; English Literature<br></td>
     <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Miss<br></td>
-    <td>Erin Woodford<br></td>
-    <td>Dean / Integrated Programme<br></td>
-    <td><a href="mailto:woodford_erin_elizabeth@moe.edu.sg">woodford_erin_elizabeth@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Ms<br></td>
     <td>Kwan Kah Wai<br></td>
