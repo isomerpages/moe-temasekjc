@@ -92,7 +92,7 @@ We look forward to seeing you at TJC!</p>
 <p></p>
 <h2><strong><u>Appeals</u></strong></h2>
 <p>
-<br>Please click <a href="/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>for
+<br>Please click <a href="https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on appealing to TJC or to another JC.</p>
 <p></p>
 <h2><strong><u>Special Aptitude Selections</u></strong></h2>
