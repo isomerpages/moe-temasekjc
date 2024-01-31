@@ -131,7 +131,7 @@ link: <a href="https://forms.moe.edu.sg/forms/oZwzGe" rel="noopener noreferrer n
 may go straight to the art room if you could not register in time.&nbsp;</p>
 <h4><strong>H2 Music</strong></h4>
 <p>If you are intending to offer Music as a H2 subject at TJC, you must fill
-in the following form: <a href="https://form.gov.sg/admin/form/659f57096bb054001123bcce" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/659f57096bb054001123bcce </a>and
+in the following form: <a href="https://form.gov.sg/659f57096bb054001123bcce" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/659f57096bb054001123bcce</a> and
 submit it by Thursday 1 February 2300 hrs.</p>
 <p>You must turn up for a 2-hour written test on Friday 2 February from 1530
 to 1730 hrs. Please wait outside J206 (MEP1) at least 5 minutes before
