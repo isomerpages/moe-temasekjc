@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - JC1 Orientation 2024.md
       - IP Admissions Talk.md
       - IP Year 1 Registration (2024 Intake).md
       - IP Year 1 (DSA Sec).md
@@ -9,4 +10,4 @@ collections:
       - JC Year 1 (DSA JC).md
       - Returning Singaporean & International Students.md
       - Scholarships & Awards.md
-      - Appeal Application For JC1 (Intake 2023).md
+      - Appeal Application For JC1 (Intake 2024).md
