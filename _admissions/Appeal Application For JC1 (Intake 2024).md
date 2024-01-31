@@ -13,7 +13,7 @@ variant: markdown
 will be considered.&nbsp;</p>
 </li>
 </ul>
-<style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
+<style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa;overflow: auto;}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
 
 <p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
 	
