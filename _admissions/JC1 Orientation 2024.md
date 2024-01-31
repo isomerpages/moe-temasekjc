@@ -13,7 +13,7 @@ information:</p>
 <h2><strong><u>Reporting Details for Students</u></strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9 S529564 <a rel="noopener noreferrer nofollow" target="_blank">https://g.co/kgs/PujRxd1</a> ) </strong>on
+<p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9, S529564) </strong>on
 Friday 2 Feb 2024 in your secondary school uniform.</p>
 </li>
 <li>
@@ -86,7 +86,7 @@ Policy. A sum of $140 should be prepared.</p>
 <p>The College House T shirt will be available for purchase after 19 Feb
 2024, following the confirmation of your Civics Group and House. &nbsp;</p>
 <h3><strong><u>Meet-the-Parents Session</u></strong></h3>
-<p>The College will be hosting a <strong>face to face Meet-the-Parents Session on 7 Feb 2024 from 5.30pm to 7pm in the Auditorium</strong>.
+<p>The College will be hosting a <strong>face to face Meet-the-Parents Session on 7 Feb 2024 from 5.30pm to 7.30pm in the Auditorium</strong>.
 We would like to invite all parents and JC1 students to attend the session.
 We look forward to seeing you at TJC!</p>
 <p></p>
@@ -109,7 +109,7 @@ more information on appealing to TJC or to another JC.</p>
 </li>
 <li>
 <p>Bring a phone camera or DSLR, and (if you have) a digital tablet with
-stylus pen using any pre-installed app like photoshop, procreate, krita
+stylus pen using any pre-installed app like Photoshop, Procreate, Krita,
 etc.&nbsp;</p>
 </li>
 <li>
@@ -131,7 +131,7 @@ link: <a href="https://forms.moe.edu.sg/forms/oZwzGe" rel="noopener noreferrer n
 may go straight to the art room if you could not register in time.&nbsp;</p>
 <h4><strong>H2 Music</strong></h4>
 <p>If you are intending to offer Music as a H2 subject at TJC, you must fill
-in the following form: <a href="https://form.gov.sg/admin/form/659f57096bb054001123bcce" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/659f57096bb054001123bcce </a>and
+in the following form: <a href="https://form.gov.sg/659f57096bb054001123bcce" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/659f57096bb054001123bcce</a> and
 submit it by Thursday 1 February 2300 hrs.</p>
 <p>You must turn up for a 2-hour written test on Friday 2 February from 1530
 to 1730 hrs. Please wait outside J206 (MEP1) at least 5 minutes before
