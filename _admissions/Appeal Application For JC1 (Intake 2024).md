@@ -37,7 +37,7 @@ will be considered.&nbsp;</p>
 <h3>1) Application Form</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click&nbsp;<strong><a href="http://matrix.tjc.edu.sg/IPYear1Appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;(
+<p>Click&nbsp;<strong><a href="https://jae.tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;(
 <a rel="noopener noreferrer nofollow" target="_blank">https://jae.tjc.edu.sg/</a>) to proceed with your online application.&nbsp;
 The application form should take approximately 20 minutes to complete.</p>
 </li>
