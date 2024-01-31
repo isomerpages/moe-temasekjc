@@ -18,7 +18,7 @@ will be considered.&nbsp;</p>
 <p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
 	
 <table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead><tr><th>COURSE</th><th>CUT-OFF POINT</th></tr></thead><tbody><tr><td class="">SCIENCE (code: 32S)</td><td>7<br><br>   
-</td></tr></tbody><tbody><tr><td class="">ARTS (code: 32A)</td><td>7<br><br>   
+</td></tr></tbody><tbody><tr><td class="">ARTS (code: 32A)</td><td>8<br><br>   
 </td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
 
 
