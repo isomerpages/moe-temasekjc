@@ -92,6 +92,11 @@ variant: markdown
     <td><a href="mailto:ngoh_kheng_kiat@moe.edu.sg">ngoh_kheng_kiat@moe.edu.sg</a><br></td>
   </tr>
   <tr>
+		<td>HOD / Mother Tongue (IP) <br></td>
+    <td>Mrs Chong Lay Pheng<br></td>
+    <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
     <td>HOD / Mother Tongue (JC) <br></td>
     <td>Mr Chow Chee Wai<br></td>
     <td><a href="mailto:chow_chee_wai@moe.edu.sg">chow_chee_wai@moe.edu.sg</a><br></td>
