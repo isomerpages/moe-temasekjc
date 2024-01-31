@@ -17,14 +17,15 @@ will be considered.&nbsp;</p>
 <h3>1) Application Form</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click&nbsp;<strong><a href="https://jae.tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;(
+<p>Click&nbsp;<strong><a href="https://jae.tjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;(
 <a rel="noopener noreferrer nofollow" target="_blank">https://jae.tjc.edu.sg/</a>) to proceed with your online application.&nbsp;
 The application form should take approximately 20 minutes to complete.</p>
 </li>
 <li>
 <p>After completing all the sections in the online application form, please
 click on the <strong>"Submit My Application Now</strong>" button to submit
-the online form.</p>
+the online form. Appeals will only be processed upon successful submission
+of this online form.</p>
 </li>
 </ul>
 <h3>2) Supporting Documents</h3>
