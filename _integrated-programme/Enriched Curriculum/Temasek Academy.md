@@ -86,8 +86,18 @@ variant: markdown
     <input type="checkbox" id="accordion4">
     <label for="accordion4">MATHEMATICS</label>
     <div>
-			<p style="text-align: justify;">Temasek Academy (Mathematics) aims to expose students to Mathematical ideas, skills and competencies beyond the curriculum. In Year 1, we develop students’ ability to perceive patterns by finding patterns and developing strategies through games. In Year 2, students learn Computational Thinking and programming in different languages to help construct models to test their hypotheses. In Years 3 and 4, students learn applications of mathematics, in particular, probability through Games of Chance.</p>
-			<p style="text-align: justify;">We also progressively guide students to develop the ability to integrate Mathematics with other disciplines. Here, they are exposed to literature such as Operant Conditioning ideas from BF Skinner as well as research skills through Independent Study Modules (ISM). These will stand them in good stead as they take part in Olympiads and other competitions. In all, TA (Mathematics) enables our students to become part of a community of like-minded mathematics researchers sharing and building upon one another's questions, conjectures and theorems.</p>
+			<p style="text-align: justify;">Temasek Academy (Mathematics) is an enrichment programme that aims to develop critical and
+analytical thinkers who can leverage on their abilities to devise out-of-the-box approaches to
+tackle unique problems. Under the tutelage of their tutors, TA (Mathematics) students will learn
+the basics of Python programming through engaging platforms such as Minecraft. With Artificial
+Intelligence (AI) gaining more traction in the near future, TA (Mathematics) students will have
+the opportunity to dive deeper into the mathematics behind how Large Language Models (LLMs)
+function through specially curated modules to gain a better understanding of how Generative AI
+functions and its limitations. Furthermore, they will also be able to pit their wits against other
+like-minded peers in various competitions such as the Singapore Mathematics Project Festival,
+American Mathematics Competition, Australian Mathematics Competition and Singapore
+Mathematical Olympiad.</p>
+			<p style="text-align: justify;"></p>
     </div>
 	</li> 
 	<li>
