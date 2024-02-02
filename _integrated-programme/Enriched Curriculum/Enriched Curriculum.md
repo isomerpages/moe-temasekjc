@@ -3,6 +3,7 @@ title: Enriched Curriculum
 permalink: /academic/integrated-programme/enriched-curriculum/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
 # ENRICHED CURRICULUM
 
@@ -33,7 +34,7 @@ third_nav_title: Enriched Curriculum
     <input type="checkbox" id="accordion1">
     <label for="accordion1">TEMASEK ACADEMY</label>
     <div>
-			<p style="text-align: justify;">Students who display strong aptitude for and talent in a particular academic discipline are invited to stretch themselves through the <a href="https://www.temasekjc.moe.edu.sg/academic-1/integrated-programme/enriched-curriculum/temasek-academy">Temasek Academy Programme</a>, which has five strands:</p>
+			<p style="text-align: justify;">Students who display strong aptitude for and talent in a particular academic discipline are invited to stretch themselves through the <a href="https://www.temasekjc.moe.edu.sg/academic/integrated-programme/enriched-curriculum/temasek-academy/">Temasek Academy Programme</a>, which has five strands:</p>
 			<table>
 <thead>
 <tr>
