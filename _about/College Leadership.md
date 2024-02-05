@@ -149,16 +149,12 @@ variant: markdown
 <thead>
   <tr>
     <th>Deputy Dean / Integrated Programme<br></th>
-    <th>Mr Marcus Goh<br></th>
-    <th><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></th>
+    <th>Miss Rebecca Wu<br></th>
+    <th><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Deputy Dean / Integrated Programme</td>
-    <td>Miss Rebecca Wu </td>
-    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a> <br></td>
-  </tr>
+
 
   <tr>
     <td>Deputy Head / CCE <br></td>
