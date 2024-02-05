@@ -336,6 +336,18 @@ variant: markdown
     <td>Senior Teacher / Knowledge &amp; Inquiry<br></td>
     <td><a href="mailto:k_veerapandiyan@moe.edu.sg">k_veerapandiyan@moe.edu.sg</a><br></td>
   </tr>
+	  <tr>
+    <td>Ms<br></td>
+    <td>Esther Wang<br></td>
+    <td>Senior Teacher /<br>English Literature</td>
+    <td><a href="mailto:wang_yingjie_esther@moe.edu.sg">wang_yingjie_esther@moe.edu.sg</a><br></td>
+  </tr>
+	  <tr>
+    <td>Mr<br></td>
+    <td>Jeremy Tay<br></td>
+    <td>Senior Teacher<br></td>
+    <td><a href="mailto:tay_kiah_koon_jeremy@moe.edu.sg">tay_kiah_koon_jeremy@moe.edu.sg</a><br></td>
+  </tr>
 	<tr>
     <td>Ms<br></td>
     <td>Bliss Tan<br></td>
@@ -433,24 +445,14 @@ variant: markdown
     <td>Deputy Head / <br>Language Arts &amp; English Literature </td>
     <td><a href="mailto:nuryani_suneh@moe.edu.sg">nuryani_suneh@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Esther Wang<br></td>
-    <td>Senior Teacher /<br>English Literature</td>
-    <td><a href="mailto:wang_yingjie_esther@moe.edu.sg">wang_yingjie_esther@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Ms</td>
     <td>Christine Chia </td>
     <td>Teacher</td>
     <td><a href="mailto:chia_yueh_chin@moe.edu.sg">chia_yueh_chin@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Jeremy Tay<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:tay_kiah_koon_jeremy@moe.edu.sg">tay_kiah_koon_jeremy@moe.edu.sg</a><br></td>
-  </tr>
+
 
   <tr>
     <td>Mr<br></td>
@@ -508,7 +510,7 @@ variant: markdown
   <tr>
     <td>Mr</td>
     <td>Marcus Goh </td>
-    <td>HOD / Mathematics (IP)<br>&amp; Deputy Head / <br>Integrated Programme</td>
+    <td>HOD / Mathematics (IP)<br></td>
     <td><a href="mailto:goh_chengwei_marcus@moe.edu.sg">goh_chengwei_marcus@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -641,7 +643,7 @@ variant: markdown
   </tr>
    <tr>
     <td>Mrs<br></td>
-    <td>Chong Lay Pheng<br></td>
+    <td>Ong Lay Pheng<br></td>
     <td>HOD / MTL (IP)<br></td>
     <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
   </tr>
@@ -983,7 +985,7 @@ variant: markdown
   <tr>
     <td>Mrs<br></td>
     <td>Jismyl Lam<br></td>
-    <td>Senior Teacher / Biology<br></td>
+    <td>Deputy Head / Biology<br></td>
     <td>Biology<br></td>
     <td><a href="mailto:ang_lai_neo_jismyl@moe.edu.sg">ang_lai_neo_jismyl@moe.edu.sg</a><br></td>
   </tr>
