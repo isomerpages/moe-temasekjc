@@ -282,7 +282,7 @@ come with casual sex</p>
 <p><strong>Below are the Sexuality Education lessons that will be taught in JC2 in <u>2024</u>:</strong>
 </p>
 <p></p>
-<p><strong>PRE-U YEAR 2 / IP YEAR 6</strong>
+<p><strong>PRE-U YEAR 2 / IP YEAR 6</strong> 
 <br>
 </p>
 <table>
