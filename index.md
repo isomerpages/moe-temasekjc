@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TJC_Orientation_Hero_Banner_Final_Website.png
+      background: /images/Version_1__7_.png
       key_highlights:
         - title: Heritage Website
           description: ""
