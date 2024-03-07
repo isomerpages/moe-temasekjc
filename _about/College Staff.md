@@ -807,13 +807,13 @@ variant: markdown
   <tr>
     <td>Mr<br></td>
     <td>Francis Lee<br></td>
-    <td>Deputy Head / CCE<br></td>
+    <td>Teacher<br></td>
     <td><a href="mailto:lee_weng_sun_francis@moe.edu.sg">lee_weng_sun_francis@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
     <td>Esther Mok<br></td>
-    <td>Deputy Student Leadership (VIA)<br></td>
+    <td>Deputy Head Student Leadership (VIA)<br></td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a><br></td>
   </tr>
   <tr>
