@@ -1320,7 +1320,7 @@ variant: markdown
   <tr>
     <td>Ms</td>
     <td>Peng Chai Tin </td>
-    <td>STEM Instructor <br>(IP Science Lab)</td>
+    <td>STEM Instructor </td>
     <td><a href="mailto:peng_chai_tin@moe.edu.sg">peng_chai_tin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -1363,25 +1363,25 @@ variant: markdown
   <tr>
     <td>Ms</td>
     <td>Adeline Fang </td>
-    <td>STEM Instructor<br>(IP Science Lab) </td>
+    <td>STEM Instructor </td>
     <td><a href="mailto:fang_lishan_adeline@moe.edu.sg">fang_lishan_adeline@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Ms<br></td>
     <td>Lim Ting<br></td>
-    <td>STEM Instructor<br>(JC Chemistry Science Lab)</td>
+    <td>STEM Instructor </td>
     <td><a href="mailto:lim_ting@moe.edu.sg">lim_ting@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms<br></td>
     <td>Lisa Tang<br></td>
-    <td>STEM Instructor<br>(JC Chemistry Science Lab)</td>
+    <td>STEM Instructor </td>
     <td><a href="mailto:tang_lee_fa@moe.edu.sg">tang_lee_fa@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr<br></td>
     <td>Razali Jantan<br></td>
-    <td>STEM Instructor<br>(JC Physics Science Lab)</td>
+    <td>STEM Instructor</td>
     <td><a href="mailto:razali_jantan@moe.edu.sg">razali_jantan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
