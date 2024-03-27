@@ -102,7 +102,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Guitar%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Zeng Wenjie</p><p><b>Email</b><br>zeng_wenjie@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Nicolette Teo</p><p><b>Email</b><br>teo_yin_ling_nicolette@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -162,7 +162,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Modern%20Dance%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Janice Chan</p><p><b>Email</b><br>chan_yan_ying_janice@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mdm Haslinda</p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -182,7 +182,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/String%20Ensemble%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Miss Emmerlyn Ong</p><p><b>Email</b><br>ong_hui_ling_emmerlyn@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mdm Lin Luyuan Jane</p><p><b>Email</b><br>lin_luyuan_jane@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -202,7 +202,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Symphonic%20Band%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Seah Cheng Tat</p><p><b>Email</b><br>seah_cheng_tat@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
