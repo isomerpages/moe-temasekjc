@@ -3,8 +3,9 @@ title: Sports & Adventure
 permalink: /temasek-experience/co-curricular-activities/junior-college/sports-n-adventure/
 description: ""
 third_nav_title: Junior College
+variant: markdown
 ---
-# SPORTS & ADVENTURE
+# SPORTS &amp; ADVENTURE
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -20,8 +21,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Badminton.png"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mrs Shirley Goh</p><p><b>Email</b><br>teo_yew_ing_shirley@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Badminton.png" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mrs Gay-Lin Wenjie</p><p><b>Email</b><br>lin_wenjie_a@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -40,8 +41,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Basketball%20Thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Eric Yap</p><p><b>Email</b><br>yap_zong_xing_eric@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Basketball%20Thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Wong Kok Wye Danny</p><p><b>Email</b><br>wong_kok_wye_danny@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -60,8 +61,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Bowling%20Thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Kevin Ng</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Bowling%20Thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Ng Yon Tek Kevin</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -80,8 +81,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Floorball%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Glendon Phua</p><p><b>Email</b><br>zhi_ming_glendon_phua@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Floorball%20thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lau Fook Choy</p><p><b>Email</b><br>lau_fook_choy@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -100,8 +101,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Football%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Francis Tong</p><p><b>Email</b><br>tong_chee_beng_francis@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Football%20thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lee Weng Sun Francis </p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -120,7 +121,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Netball.png"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Netball.png" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Rimiko Chuah</p><p><b>Email</b><br>rimiko_chuah_li_mei@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -140,8 +141,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Outdoor%20Adventure%20Club%20thumbnail.jpeg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Koh Rui Yang</p><p><b>Email</b><br>rui_yang_koh@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Outdoor%20Adventure%20Club%20thumbnail.jpeg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -160,7 +161,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Shooting.png"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Shooting.png" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Fauzana Abdullah</p><p><b>Email</b><br>fauzana_abdullah@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -180,7 +181,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Swimming%20thumbnail.jpeg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Swimming%20thumbnail.jpeg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Esther Mok</p><p><b>Email</b><br>mok_yuerong_esther@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -200,8 +201,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Table%20Tennis.png"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Tan Ying En</p><p><b>Email</b><br>tan_ying_en@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Table%20Tennis.png" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Ang Wan Yu Florence</p><p><b>Email</b><br>ang_wan_yu_florence@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -220,8 +221,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Taekwondo%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Francis Lee</p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Taekwondo%20thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Hao Deyi</p><p><b>Email</b><br>hao_deyi@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -240,7 +241,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Tennis%20Thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Tennis%20Thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mr Wong Jee Pheng</p><p><b>Email</b><br>wong_jee_pheng@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -260,8 +261,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&%20Adventure/Volleyball%20Thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Quek Siew Ling</p><p><b>Email</b><br>quek_siew_ling@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Volleyball%20Thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Fung Chong Lin</p><p><b>Email</b><br>fung_chong_lin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
