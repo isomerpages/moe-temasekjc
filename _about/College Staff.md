@@ -155,7 +155,7 @@ variant: markdown
   <tr>
     <td>Mr<br></td>
     <td>Koh Rui Yang<br></td>
-    <td>Teacher<br></td>
+    <td>Deputy CCE<br></td>
     <td>Economics<br></td>
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
   </tr>
@@ -183,7 +183,7 @@ variant: markdown
   <tr>
     <td>Ms<br></td>
     <td>Janice Chan<br></td>
-    <td>Teacher<br></td>
+    <td>Deputy Student Leadership<br></td>
     <td>History<br></td>
     <td><a href="mailto:chan_yan_ying_janice@moe.edu.sg">chan_yan_ying_janice@moe.edu.sg</a><br></td>
   </tr>
