@@ -3,8 +3,9 @@ title: Service & Enrichment
 permalink: /temasek-experience/co-curricular-activities/junior-college/service-n-enrichment/
 description: ""
 third_nav_title: Junior College
+variant: markdown
 ---
-# SERVICE & ENRICHMENT
+# SERVICE &amp; ENRICHMENT
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -20,7 +21,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Debate%20thumbnail.jpeg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/Debate%20thumbnail.jpeg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mr K. Veerapandiyan</p><p><b>Email</b><br>k_veerapandiyan@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -40,7 +41,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/First%20Aid%20Unit%20thumbnail.jpeg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/First%20Aid%20Unit%20thumbnail.jpeg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mrs Chua Yock Lan</p><p><b>Email</b><br>ng_yock_lan@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -60,8 +61,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Infocomm%20thumbnail.png"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Fong Shi Ning</p><p><b>Email</b><br>fong_shi_ning@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/Infocomm%20thumbnail.png" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lim Ann lee</p><p><b>Email</b><br>lim_ann_lee@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -80,7 +81,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Leo%20Club%20thumbnail.png"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/Leo%20Club%20thumbnail.png" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Ng Wei Ling</p><p><b>Email</b><br>ng_wei_ling@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -100,7 +101,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&%20Enrichment/Students%20Council%20thumbnail.jpeg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/Students%20Council%20thumbnail.jpeg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
   </tr>
 </tbody>
