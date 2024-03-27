@@ -3,6 +3,7 @@ title: Sports
 permalink: /temasek-experience/co-curricular-activities/integrated-programme/sports/
 description: ""
 third_nav_title: Integrated Programme
+variant: markdown
 ---
 # SPORTS
 
@@ -20,9 +21,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Badminton.png"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Kwok Zhen Yuan
-</p><p><b>Email</b><br>kwok_zhen_yuan@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Badminton.png" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mrs Gay-Lin Wenjie
+</p><p><b>Email</b><br>lin_wenjie_a@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -41,9 +42,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Basketball%20IP.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Lee Chun Hsien
-</p><p><b>Email</b><br>lee_chun-hsien@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Basketball%20IP.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Wong Kok Wye Danny
+</p><p><b>Email</b><br>wong_kok_wye_danny@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -62,9 +63,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Bowling%20IP.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Ng Seng Chang
-</p><p><b>Email</b><br>ng_seng_chang@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Bowling%20IP.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Ng Yon Tek
+</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -83,9 +84,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Football.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Kenneth Lim
-</p><p><b>Email</b><br>lim_yuan_yi_kenneth@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Football.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Francis Lee Weng Sun
+</p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -104,7 +105,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Swimming%20IP.jpeg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Swimming%20IP.jpeg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Miss Esther Mok
 </p><p><b>Email</b><br>mok_yuerong_esther@moe.edu.sg</p></td>
   </tr>
@@ -125,9 +126,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Taekwondo%20IP.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Francis Lee
-</p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Taekwondo%20IP.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Hao Deyi
+</p><p><b>Email</b><br>hao_deyi@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -146,7 +147,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Volleyball%20IP.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Sports/Volleyball%20IP.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mr Fung Chong Lin
 </p><p><b>Email</b><br>fung_chong_lin@moe.edu.sg</p></td>
   </tr>
