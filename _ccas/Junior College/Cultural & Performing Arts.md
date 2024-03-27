@@ -3,8 +3,9 @@ title: Cultural & Performing Arts
 permalink: /temasek-experience/co-curricular-activities/junior-college/cultural-n-performing-arts/
 description: ""
 third_nav_title: Junior College
+variant: markdown
 ---
-# CULTURAL & PERFORMING ARTS
+# CULTURAL &amp; PERFORMING ARTS
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -20,7 +21,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Chinese%20Drama%20thumbnail.png"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Chinese%20Drama%20thumbnail.png" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mr Pan Xu</p><p><b>Email</b><br>pan_xu@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -40,8 +41,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Chinese%20Orchestra%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Tan Yi Jie</p><p><b>Email</b><br>tan_yi_jie@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Chinese%20Orchestra%20thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Tan Minyi Shawn</p><p><b>Email</b><br>tan_minyi_shawn@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -60,7 +61,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Choir%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Choir%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -80,8 +81,8 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Drama%20thumbnail.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Norzian Mohamed Yunos</p><p><b>Email</b><br>norzian_bt_mohd_yunos@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Drama%20thumbnail.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Ms Mariya Binte Ahmad</p><p><b>Email</b><br>mariya_ahmad_yunos@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -100,7 +101,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Guitar%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Guitar%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Zeng Wenjie</p><p><b>Email</b><br>zeng_wenjie@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -120,7 +121,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Indian%20Cultural%20Society%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Indian%20Cultural%20Society%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mrs Soodikkodutthal</p><p><b>Email</b><br>soodikkodutthal_ganesan@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -140,7 +141,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/MCS.png"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/MCS.png" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Elina Abdul Rashid</p><p><b>Email</b><br>elina_abdul_rashid@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -160,7 +161,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Modern%20Dance%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Modern%20Dance%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Janice Chan</p><p><b>Email</b><br>chan_yan_ying_janice@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -180,7 +181,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/String%20Ensemble%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/String%20Ensemble%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Miss Emmerlyn Ong</p><p><b>Email</b><br>ong_hui_ling_emmerlyn@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -200,7 +201,7 @@ third_nav_title: Junior College
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&%20Performing%20Arts/Symphonic%20Band%20thumbnail.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Symphonic%20Band%20thumbnail.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
   </tr>
 </tbody>
