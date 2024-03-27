@@ -62,7 +62,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Bowling%20Thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Kevin Ng</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Ng Yon Tek Kevin</p><p><b>Email</b><br>ng_yon_tek_kevin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Floorball%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Glendon Phua</p><p><b>Email</b><br>zhi_ming_glendon_phua@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lau Fook Choy</p><p><b>Email</b><br>lau_fook_choy@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -102,7 +102,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Football%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Francis Tong</p><p><b>Email</b><br>tong_chee_beng_francis@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lee Weng Sun Francis </p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +142,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Outdoor%20Adventure%20Club%20thumbnail.jpeg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Koh Rui Yang</p><p><b>Email</b><br>rui_yang_koh@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Miss Sasha Kaur Dhillon</p><p><b>Email</b><br>sasha_kaur_dhillon@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -202,7 +202,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Table%20Tennis.png" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Tan Ying En</p><p><b>Email</b><br>tan_ying_en@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Ang Wan Yu Florence</p><p><b>Email</b><br>ang_wan_yu_florence@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -222,7 +222,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Taekwondo%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Francis Lee</p><p><b>Email</b><br>lee_weng_sun_francis@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Hao Deyi</p><p><b>Email</b><br>hao_deyi@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -262,7 +262,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Volleyball%20Thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Quek Siew Ling</p><p><b>Email</b><br>quek_siew_ling@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Fung Chong Lin</p><p><b>Email</b><br>fung_chong_lin@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
