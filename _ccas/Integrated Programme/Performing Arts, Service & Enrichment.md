@@ -3,8 +3,9 @@ title: Performing Arts, Service & Enrichment
 permalink: /temasek-experience/co-curricular-activities/integrated-programme/performing-arts-service-enrichment/
 description: ""
 third_nav_title: Integrated Programme
+variant: markdown
 ---
-# PERFORMING ARTS, SERVICE & ENRICHMENT
+# PERFORMING ARTS, SERVICE &amp; ENRICHMENT
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -20,7 +21,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Choir%20IP.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Choir%20IP.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
   </tr>
 </tbody>
@@ -40,7 +41,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Guitar%20IP.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Guitar%20IP.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Miss Nicolette Teo
 </p><p><b>Email</b><br>teo_yen_ling_nicolette@moe.edu.sg</p></td>
   </tr>
@@ -61,9 +62,9 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Infocomm%20IP.jpg"  style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Tan Seng Kwang
-</p><p><b>Email</b><br>tan_seng_kwang@moe.edu.sg</p></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Infocomm%20IP.jpg" style="width:307px"></td>
+		<td><p><b>Teacher I/C</b><br>Mr Lim Ann Lee
+</p><p><b>Email</b><br>lim_ann_lee@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -82,7 +83,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Modern%20Dance%20IP.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Modern%20Dance%20IP.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Mdm Haslinda Ali
 </p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
   </tr>
@@ -103,7 +104,7 @@ third_nav_title: Integrated Programme
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Students%20Council%20IP.jpg"  style="width:307px"></td>
+    <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Students%20Council%20IP.jpg" style="width:307px"></td>
 		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
   </tr>
 </tbody>
