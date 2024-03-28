@@ -978,14 +978,14 @@ variant: markdown
   <tr>
     <td>Mrs<br></td>
     <td>Aileen Lim<br></td>
-    <td>Senior Teacher / Chemistry<br></td>
+    <td>Teacher / Chemistry<br></td>
     <td>Chemistry<br></td>
     <td><a href="mailto:nam_aileen@moe.edu.sg">nam_aileen@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mrs<br></td>
     <td>Jismyl Lam<br></td>
-    <td>Deputy Head / Biology<br></td>
+    <td>Senior Teacher / Biology<br></td>
     <td>Biology<br></td>
     <td><a href="mailto:ang_lai_neo_jismyl@moe.edu.sg">ang_lai_neo_jismyl@moe.edu.sg</a><br></td>
   </tr>
@@ -1064,7 +1064,7 @@ variant: markdown
     <td>Grace Lim  </td>
     <td>Teacher </td>
     <td>Chemistry </td>
-    <td><a href="mailto:lim_june_hui_grace@moe.edu.sg">lim_june_hui_grace@moe.edu.sg</a></td>
+    <td><a href="mailto:lim_june_hui_grace_a@moe.edu.sg">lim_june_hui_grace_a@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -1138,13 +1138,6 @@ variant: markdown
     <td><a href="mailto:neo_kian_siah@moe.edu.sg">neo_kian_siah@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Mrs<br></td>
-    <td>Poon Siew Cheng<br></td>
-    <td>Teacher<br></td>
-    <td>Physics<br></td>
-    <td><a href="mailto:kee_siew_cheng@moe.edu.sg">kee_siew_cheng@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>Mr</td>
     <td>Tan Jing Long </td>
     <td>Teacher </td>
@@ -1155,7 +1148,7 @@ variant: markdown
     <td>Mr</td>
     <td>Azahar Bin Dahlan </td>
     <td>Teacher </td>
-    <td></td>
+    <td>Biology</td>
     <td><a href="mailto:azahar_dahlan@moe.edu.sg">azahar_dahlan@moe.edu.sg</a></td>
   </tr>
 	 <tr>
@@ -1169,7 +1162,7 @@ variant: markdown
     <td>Miss</td>
     <td>Aliya Ansari </td>
     <td>Teacher </td>
-    <td></td>
+    <td>Biology</td>
     <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">aliya_yusaf_ansari@moe.edu.sg</a></td>
   </tr>
 </tbody>
