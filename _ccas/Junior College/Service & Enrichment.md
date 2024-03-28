@@ -29,26 +29,6 @@ variant: markdown
     </div>
 	</li> 
 	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">FIRST AID UNIT</label>
-    <div>
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/First%20Aid%20Unit%20thumbnail.jpeg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mrs Chua Yock Lan</p><p><b>Email</b><br>ng_yock_lan@moe.edu.sg</p></td>
-  </tr>
-</tbody>
-</table>
-    </div>
-	</li> 
-	  <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">INFOCOMM CLUB</label>
     <div>
