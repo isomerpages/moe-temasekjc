@@ -1151,20 +1151,14 @@ variant: markdown
     <td>Biology</td>
     <td><a href="mailto:azahar_dahlan@moe.edu.sg">azahar_dahlan@moe.edu.sg</a></td>
   </tr>
-	 <tr>
-    <td>Ms</td>
-    <td>Choong Peiyun </td>
-    <td>Teacher </td>
-    <td></td>
-    <td><a href="mailto:choong_peiyun@moe.edu.sgg">choong_peiyun@moe.edu.sg</a></td>
-  </tr>
-	 <tr>
+	<tr>
     <td>Miss</td>
     <td>Aliya Ansari </td>
     <td>Teacher </td>
     <td>Biology</td>
     <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">aliya_yusaf_ansari@moe.edu.sg</a></td>
   </tr>
+	
 </tbody>
 </table>
     </div>
