@@ -2,6 +2,7 @@
 title: Music Elective Programme
 permalink: /academic/special-programmes/music-elective-programme/
 description: ""
+variant: markdown
 ---
 # MUSIC ELECTIVE PROGRAMME
 
@@ -12,7 +13,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">MEP IN THE INTEGRATED PROGRAMME (IP)</label>
     <div>
-			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
+			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our MEP is a 4-year programme offered to the 6-Year IP students from Year 1. In this subject, students are exposed to a diverse range of musical genres and cultures, and will be engaged in musical activities that integrate the three core skills of holistic musicianship: performing, composing and listening. Students will have an in-depth engagement with music by learning music in relation to its historical and cultural context, perform and compose in these different styles, and draw links across different traditions and the other arts.</p>
 			<p style="text-align: justify;"><b>ENTRY REQUIREMENTS</b><br>Students will indicate their interest in joining the TJC MEP during the IP1 Orientation. All interested applicants will undergo a written diagnostic test and an audition-cum-interview. </p>
 			<p style="text-align: justify;">Written diagnostic test:<br></p><ul>
