@@ -2,6 +2,7 @@
 title: Music Elective Programme
 permalink: /academic/special-programmes/music-elective-programme/
 description: ""
+variant: markdown
 ---
 # MUSIC ELECTIVE PROGRAMME
 
@@ -12,7 +13,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">MEP IN THE INTEGRATED PROGRAMME (IP)</label>
     <div>
-			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics, religion and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
+			<p style="text-align: justify;">Innovative in its interdisciplinary approach, the TJC Music Elective Programme (MEP) for IP students guides them to explore music in relation to art, literature, politics and theatre. In this subject, students will be exposed to music repertoire of both the Western traditions and non-Western traditions. Such an emphasis on multi-culturalism allows for the appreciation, analysis and critique of a diverse spectrum of works, and equips each student to become a musician skilled in analysis, composition, performing, and research.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our MEP is a 4-year programme offered to the 6-Year IP students from Year 1. In this subject, students are exposed to a diverse range of musical genres and cultures, and will be engaged in musical activities that integrate the three core skills of holistic musicianship: performing, composing and listening. Students will have an in-depth engagement with music by learning music in relation to its historical and cultural context, perform and compose in these different styles, and draw links across different traditions and the other arts.</p>
 			<p style="text-align: justify;"><b>ENTRY REQUIREMENTS</b><br>Students will indicate their interest in joining the TJC MEP during the IP1 Orientation. All interested applicants will undergo a written diagnostic test and an audition-cum-interview. </p>
 			<p style="text-align: justify;">Written diagnostic test:<br></p><ul>
@@ -37,7 +38,7 @@ description: ""
     <label for="accordion2">'A' LEVEL MUSIC (JC)</label>
     <div>
 			<p style="text-align: justify;">The GCE 'A' Level Music syllabus approaches the study of Music through Music Studies and Music Making. In TJC, our students will learn from tutors specialising in the different components of the paper, namely Asian Music, Western Art Music and Jazz, Creating (Free composition and arrangement), and will also have lectures and personal consultations in their Performing component. As they assemble their individual portfolios in free composition and arrangement, our students will acquire essential 21st Century skills in music technology through the use of music notation and sound recording software. Beyond the curriculum, authentic learning experiences are provided to equip our students to be practitioners and advocates of the arts, and to apprise them of areas of study at tertiary music institutions and career opportunities in the music industry.</p>
-			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="/files/Academic/Music%20Elective%20Programme/9753_y23_sy.pdf" target="_blank">2023 A-Level Syllabus (H2 Music)</a><br><a href="/files/Academic/Music%20Elective%20Programme/9819_y23_sy.pdf" target="_blank">2023 A-Level Syllabus (H3 Music)</a></p>
+			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="/files/Academic/Music%20Elective%20Programme/9753_y25_sy.pdf" target="_blank">2024 A-Level Syllabus (H2 Music)</a><br><a href="/files/Academic/Music%20Elective%20Programme/9819_y25_sy.pdf" target="_blank">2024 A-Level Syllabus (H3 Music)</a></p>
 			<p style="text-align: justify;"><b>MUSIC ELECTIVE SCHOLARSHIP
 </b><br>To find out more about the Music Elective Scholarship, click <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" target="_blank">here</a>.</p>
     </div>
