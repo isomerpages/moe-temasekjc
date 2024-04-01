@@ -30,10 +30,10 @@ variant: markdown
   </tr>
   <tr>
     <td>Mdm<br></td>
-    <td>Coelho Sophia<br></td>
+    <td>Nurhuda <br></td>
     <td>Teacher<br></td>
     <td>Art<br></td>
-    <td><a href="mailto:coelho_sophia@moe.edu.sg">coelho_sophia@moe.edu.sg</a><br></td>
+    <td><a href="mailto:nurhuda_mohamed_khamis@moe.edu.sg">nurhuda_mohamed_khamis@moe.edu.sg</a><br></td>
   </tr>
 	  <tr>
     <td>Ms<br></td>
@@ -62,20 +62,6 @@ variant: markdown
     <td>Teacher<br></td>
     <td>Music<br></td>
     <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-    <td>Mr<br></td>
-    <td>Winston Ang<br></td>
-    <td>Teacher<br></td>
-    <td>Music<br></td>
-    <td><a href="mailto:winston_ang_wee_kern@moe.edu.sg">winston_ang_wee_kern@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-    <td>Miss<br></td>
-    <td>Annabelle Tay<br></td>
-    <td>Teacher<br></td>
-    <td>Music<br></td>
-    <td><a href="mailto:"></a></td>
   </tr>
 	<tr>
     <td>Ms<br></td>
