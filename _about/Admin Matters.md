@@ -2,10 +2,11 @@
 title: Admin Matters
 permalink: /about/admin-matters/
 description: ""
+variant: markdown
 ---
 # School Canteen Advertisement
 
-<p style="text-align: justify;">Temasek Junior College will be moving to Tampines in 2024. We are looking for 5 new canteen stalls to join us. Stall holders are to provide a variety of healthy food and beverage choices that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
+<p style="text-align: justify;">Temasek Junior College is looking for a Cut Fruit / Acai stall to provide a variety of healthy food that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
 <br>
 
 <table>
@@ -18,39 +19,18 @@ description: ""
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;">Chinese Cuisine</td>
-<td style="text-align: center;">16 October 2023, 5pm</td>
-<td style="text-align: center;">Chinese Noodles/Fusion Food <br>(To have vegetarian options)</td>
+<td style="text-align: center;">Cut Fruits/Açaí</td>
+<td style="text-align: center;">12 April 2024, 5pm</td>
+<td style="text-align: center;">Cut Fruits/Açaí <br></td>
 </tr>
-	<tr>
-<td style="text-align: center;">Drinks &amp; Snacks</td>
-<td style="text-align: center;">16 October 2023, 5pm</td>
-<td style="text-align: center;">Hot and Cold Drinks <br>and Snacks</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Muslim Cuisine (Halal)</td>
-<td style="text-align: center;">16 October 2023, 5pm</td>
-<td style="text-align: center;">Mixed Rice/Noodles </td>
-</tr>
-	<tr>
-<td style="text-align: center;">Muslim/Indian Cuisine
-<br>(Halal)
-</td>
-<td style="text-align: center;">16 October 2023, 5pm</td>
-<td style="text-align: center;">Noodles/Mixed Rice/ Fusion Food/Indian Food<br>(To have vegetarian options)
-</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Asia Cusine</td>
-<td style="text-align: center;">16 October 2023, 5pm</td>
-<td style="text-align: center;">Chinese, International, Japanese/Fusion Food<br>(To have vegetarian options) </td>
-</tr>
+
+
 </tbody>
 </table>
 
 <p style="text-align: justify;"><b>Application Procedure</b></p>
 
-<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office at 22 Bedok South Road, Singapore 469278</p>
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office at 2 Tampines Avenue 9, Singapore 529564​.</p>
 
 *   <p><a href="/files/About/Canteen/application form for canteen stalls.pdf">Application Form for Canteen Stalls</a></p>
 
@@ -78,22 +58,19 @@ description: ""
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 22 Bedok South Road, Singapore 469278 by <b>Monday, 16 October 2023, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Friday, 12 April 2024, 5pm.</b></p>
 
 * Contact No: 6442 8066
 
-* Email: osman_aspari@schools.gov.sg
+* Email: sartha_kanisha@schools.gov.sg
 
-* Contact Person: Mr Osman
+* Contact Person: Ms Sartha Kanisha
 
-<p style="text-align: justify;"><b><u>Canteen Stalls Operating Address in 2024</u></b></p>
+<p style="text-align: justify;"><b><u>How to Get Here</u></b></p>
 
-<p style="text-align: justify;"> Temasek Junior College now in Bedok, will be moving to Tampines in Dec 2023. The canteen stalls will be located at 2 Tampines Avenue 9, Singapore 529564. All canteen stalls will need to be operational from 8 Jan 2024.
-<br>
-<br>
 Nearest MRT: Tampines East MRT (DT33 line) Exit D
 <br>
 Buses: 18, 29, 29A (Bus Stop Number 76371)
 <br>
 Buses: 3, 4, 9, 12, 12e, 17, 18, 19, 21, 29, 34, 37, 39, 59, 81, 293, 518 (Bus Stop Number 76231)
-</p>
+<p></p>
