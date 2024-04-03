@@ -1208,7 +1208,7 @@ variant: markdown
     <td> Mdm </td>
     <td>Nur Fitriaina</td>
     <td>Administrative Executive<br></td>
-    <td><a href="mailto:nur_fitriaina_abdul_shmad@moe.edu.sg">nur_fitriaina_abdul_shmad@moe.edu.sg</a> </td>
+    <td><a href="mailto:nur_fitriaina_abdul_samad@moe.edu.sg">nur_fitriaina_abdul_samad@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Miss<br></td>
