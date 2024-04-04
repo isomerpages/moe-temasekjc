@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /academic/junior-college/curriculum-overview/aesthetics/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # AESTHETICS
 
@@ -24,16 +25,14 @@ third_nav_title: Curriculum Overview
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20work_%20Shannon%20Fong.jpg" style="width:70%">Student Work: Shannon Fong CG03/19</td>
-    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20Work_%20Julius%20Sng.jpg"
-     style="width:50%">Student work: Julius Sng CG03/19</td>
+    <td style="text-align: center;"><img src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20Work_%20Julius%20Sng.jpg" style="width:50%">Student work: Julius Sng CG03/19</td>
   </tr>
 </tbody>
 </table>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Art students will be exposed to various forms of representations, artists and artworks in the Study of Visual Arts (SOVA) and explore a wide range of artistic media during studio and coursework sessions in 2-dimensional and 3-dimensional praxis. The SOVA component addresses and challenges students’ visual literacy skills, studio, and coursework sessions reflect students’ artistic journey, documenting the process that leads up to a final work of art.</p>
 			<p style="text-align: justify;"><b>ENRICHMENT
 				</b></p>
-			<img src="/images/Academic/Curriculum%20Overview/Aesthetics/Amanda%20Heng%20Artist%20Talk.jpg"
-     style="width:80%">
+			<img src="/images/Academic/Curriculum%20Overview/Aesthetics/Amanda%20Heng%20Artist%20Talk.jpg" style="width:80%">
 			<center>Talk by Artist Amanda Heng</center>
 			<p style="text-align: justify;">This committee aims to support in the planning and implementation of College-initiated or PEERS-initiated activities that may be organised during the year. Such events may arise due to special occasions (e.g. commemorative events).</p>
 			<p style="text-align: justify;"><b>SYLLABUS</b><br><a href="/files/Academic/Curriculum/9750_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Art)</a></p>
@@ -47,12 +46,11 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our syllabus approaches the study of Music through Music Studies and Music Making. Students will learn different components of the paper, namely Asian Music, Western Music, Composition (Stylistic imitation and Free composition), and will also have lecture recitals and personal consultations for their performing component. They will acquire essential 21st Century music skills in music technology, such as music notation software and sound recording, in the process of creating their individual composition portfolios.</p>
 			<p style="text-align: justify;">TJC’s MEP also offers H3 Music, an intellectually challenging course which exposes students to a wider scope of music as a discipline, and taught via a multi-dimensional approach to elicit discussion and critical thinking.</p>
 			<p style="text-align: justify;"><b>ENRICHMENT</b></p>
-						<img src="/images/Academic/Curriculum%20Overview/Aesthetics/Emily%20Koh%20Visiting%20Artist%20Talk.jpg"
-     style="width:70%">
+						<img src="/images/Academic/Curriculum%20Overview/Aesthetics/Emily%20Koh%20Visiting%20Artist%20Talk.jpg" style="width:70%">
 			<center>MEP Visiting Artists Series 2020: MEP Alumni Emily Koh (2019 NAC Young Artist Award) with our JC MEP students</center>
 				<p style="text-align: justify;">The TJC MEP Visiting Artists Series connects students with eminent professors and illustrious alumni from prestigious music institutions and music practitioners active in the contemporary musical landscape. It aims to develop our students' skills in the areas of musicology, composition, performance and Asian music, while nurturing MEP students to become ambassadors of the arts by deepening their insights into arts management, tertiary music education and potential career pathways related to the arts.</p>
 					<p style="text-align: justify;">In addition, students are provided with regular performance opportunities on various musical platforms: lecture recitals, the annual MEP MOTIF concert series, competitions and the biennial MEP combined concert.</p>
-			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/9753_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Music)</a><br><a href="/files/Academic/Curriculum/9819_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Music)</a></p>
+			<p style="text-align: justify;"><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/9753_y21_sy.pdf" target="_blank">2024 A-Level Syllabus (H2 Music)</a><br><a href="/files/Academic/Curriculum/9819_y21_sy.pdf" target="_blank">2024 A-Level Syllabus (H3 Music)</a></p>
     </div>
 	</li> 
 	</ul>
