@@ -37,16 +37,26 @@ as creative and critical thinking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20work_%20Shannon%20Fong.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Ngoh_Ki_Ern.png">
 </div>
-<p>Student Work: Shannon Fong CG03/19</p>
+<p>Student Work: Ngoh Ki Ern</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Wen_Zi_Xuan_Sharon___1_.png">
+</div>
+<p>Student Work: Wen Zi Xuan Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Aesthetics/Student%20Work_%20Julius%20Sng.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Tan_Qian_Xun.png">
 </div>
-<p>Student work: Julius Sng CG03/19</p>
+<p>Student work: Tan Qian Xun</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Christalyn Tan Xin Hui" src="/images/Academic/Curriculum Overview/Aesthetics/Christalyn_Tan_Xin_Hui.png">
+</div>
+<p>Student Work: Christalyn Tan Xin Hui</p>
 </td>
 </tr>
 </tbody>
