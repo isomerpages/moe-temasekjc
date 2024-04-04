@@ -43,7 +43,7 @@ as creative and critical thinking.</p>
 </div>
 <p>Student Work: Ngoh Ki Ern</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Wen_Zi_Xuan_Sharon___1_.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Wen_Zi_Xuan_Sharon___1_.png">
 </div>
 <p>Student Work: Wen Zi Xuan Sharon</p>
 </td>
@@ -54,7 +54,7 @@ as creative and critical thinking.</p>
 </div>
 <p>Student work: Tan Qian Xun</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Christalyn Tan Xin Hui" src="/images/Academic/Curriculum Overview/Aesthetics/Christalyn_Tan_Xin_Hui.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Christalyn Tan Xin Hui" src="/images/Academic/Curriculum Overview/Aesthetics/Christalyn_Tan_Xin_Hui.png">
 </div>
 <p>Student Work: Christalyn Tan Xin Hui</p>
 </td>
