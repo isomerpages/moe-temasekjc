@@ -41,22 +41,26 @@ as creative and critical thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Ngoh_Ki_Ern.png">
 </div>
-<p>Student Work: Ngoh Ki Ern</p>
+<p><sup>Student Work: Ngoh Ki Ern</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Wen_Zi_Xuan_Sharon___1_.png">
 </div>
-<p>Student Work: Wen Zi Xuan Sharon</p>
+<p><sup>Student Work: Wen Zi Xuan Sharon</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Tan_Qian_Xun.png">
 </div>
-<p>Student work: Tan Qian Xun</p>
+<p><sup>Student work: Tan Qian Xun</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Christalyn Tan Xin Hui" src="/images/Academic/Curriculum Overview/Aesthetics/Christalyn_Tan_Xin_Hui.png">
 </div>
-<p>Student Work: Christalyn Tan Xin Hui</p>
+<p><sup>Student Work: Christalyn Tan Xin Hui</sup>
+</p>
 </td>
 </tr>
 </tbody>
