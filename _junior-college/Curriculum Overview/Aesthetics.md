@@ -52,10 +52,9 @@ as creative and critical thinking.</p>
 </tbody>
 </table>
 <p><strong>CURRICULUM</strong> 
-<br>Art students will be exposed to various forms of representations, artists
-and artworks in the Study of Visual Arts (SOVA) and explore a wide range
-of artistic media during studio and coursework sessions in 2-dimensional
-and 3-dimensional praxis. The SOVA component addresses and challenges students’
+<br>Students will gain knowledge and potential application through the appreciation
+and understanding of various art forms in 2-dimensional or 3-dimensional
+and moving media. The SOVA component addresses and challenges students’
 visual literacy skills, studio, and coursework sessions reflect students’
 artistic journey, documenting the process that leads up to a final work
 of art.</p>
