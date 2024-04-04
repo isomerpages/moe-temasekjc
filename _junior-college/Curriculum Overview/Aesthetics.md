@@ -68,15 +68,11 @@ and moving media. The SOVA component addresses and challenges students’
 visual literacy skills, studio, and coursework sessions reflect students’
 artistic journey, documenting the process that leads up to a final work
 of art.</p>
-<p><strong>ENRICHMENT</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Aesthetics/Amanda%20Heng%20Artist%20Talk.jpg">
 </div>
-<p>Talk by Artist Amanda Heng</p>
-<p>This committee aims to support in the planning and implementation of College-initiated
-or PEERS-initiated activities that may be organised during the year. Such
-events may arise due to special occasions (e.g. commemorative events).</p>
+<p></p>
 <p><strong>SYLLABUS</strong> 
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9750_y22_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2022 A-Level Syllabus (H2 Arts).</a>
 </p>
