@@ -50,7 +50,7 @@ as creative and critical thinking.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>CURRICULUM</strong>
+<p><strong>CURRICULUM</strong> 
 <br>Art students will be exposed to various forms of representations, artists
 and artworks in the Study of Visual Arts (SOVA) and explore a wide range
 of artistic media during studio and coursework sessions in 2-dimensional
@@ -67,7 +67,7 @@ of art.</p>
 <p>This committee aims to support in the planning and implementation of College-initiated
 or PEERS-initiated activities that may be organised during the year. Such
 events may arise due to special occasions (e.g. commemorative events).</p>
-<p><strong>SYLLABUS</strong>
+<p><strong>SYLLABUS</strong> 
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9750_y22_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2022 A-Level Syllabus (H2 Arts).</a>
 </p>
 <p></p>
@@ -82,7 +82,7 @@ the study and application of Music are provided to enable students to attain
 advanced levels of musicianship, and to deepen their passion and understanding.
 Each student will become a musician in the truest sense of the word – as
 an analyst, composer, performer, critic, and researcher.</p>
-<p><strong>CURRICULUM</strong>
+<p><strong>CURRICULUM</strong> 
 <br>Our syllabus approaches the study of Music through Music Studies and Music
 Making. Students will learn different components of the paper, namely Asian
 Music, Western Music, Composition (Stylistic imitation and Free composition),
@@ -110,8 +110,8 @@ career pathways related to the arts.</p>
 <p>In addition, students are provided with regular performance opportunities
 on various musical platforms: lecture recitals, the annual MEP MOTIF concert
 series, competitions and the biennial MEP combined concert.</p>
-<p><strong>SYLLABUSES</strong>
-<br><a href="/files/Academic/Curriculum/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 A-Level Syllabus (H2 Music)</a>
+<p><strong>SYLLABUSES</strong> 
+<br><a href="/files/Academic/Curriculum/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 A-Level Syllabus (H2 Music)</a> 
 <br><a href="/files/Academic/Curriculum/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 A-Level Syllabus (H3 Music)</a>
 </p>
 </li>
