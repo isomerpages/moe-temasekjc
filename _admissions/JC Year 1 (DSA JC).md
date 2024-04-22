@@ -11,7 +11,7 @@ variant: markdown
     <input id="accordion1" type="checkbox">
 <label for="accordion1">APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2025) </label>
   <div>
-<p style="text-align: justify;">The application for the DSA-JC Exercise (2023) will commence from <b>7 May 2024 to 28 Jun 2024 (5:00 pm, Singapore time).</b></p>
+<p style="text-align: justify;">The application for the DSA-JC Exercise (2024) will commence from <b>7 May 2024 to 28 Jun 2024 (5:00 pm, Singapore time).</b></p>
 <p>
 If you are sitting for the GCE 'O' Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.</p>
 <p></p>
