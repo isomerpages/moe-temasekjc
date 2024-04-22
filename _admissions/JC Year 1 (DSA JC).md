@@ -110,9 +110,9 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 
 <p><b>1) Application Period</b></p>
 			
-<p>Application opens on <b>4 May 2023</b>, and closes on<b> Friday, 30 Jun 2023, (5.00 pm, Singapore time).</b> </p>
+<p>Application opens on <u>7 May 2024</u>, and closes on<b> Friday, 28 Jun 2024, (5.00 pm, Singapore time).</b></p>
 
-<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
+
 	
 
 
@@ -120,16 +120,16 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 
 <b>Applicants should submit the following supporting documents:</b>
 <ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
-<li><b>Sec 4 academic</b>results slips (Till the latest available; including CA/WA)</li>
+<li><b>Sec 4</b> academic results slips (Till the latest available; including CA/WA)</li>
 <li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
 
 <p><b>3) Selection &amp; Interview Sessions</b></p>
 
-<br>Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between <b>15 May and 14 July 2023.</b><br>
+<br>Only shortlisted applicants will be notified via e-mail / telephone to attend in-person interview sessions/selection tests between <b>13 May and 12 July 2024.</b><br>
 
 <p><b>4) Outcome of Application</b></p>
 
-<p>All applicants will be notified of the outcome of their application via e-mail by <b>15 August 2023.</b></p> 
+<p>All applicants will be notified of the outcome of their application via e-mail by <b>14 August 2024.</b></p> 
 
 <p><b>Important Points</b></p>
 			
@@ -137,19 +137,19 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 
 <li>Students are <u>NOT allowed</u> to accept more than one Confirmed Offer at any time.</li>
 
-<li>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</li>
+<li>Successful DSA-JC candidates will <b>not be allowed</b> to participate in the Joint Admissions Exercise. They will also <b>not be allowed</b> to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</li>
 
 <li>The College will not release detailed results of the selection tests and interviews. The College also reserves the right not to reveal the results or reasons for non-selection. The College will not be able to provide the application results over the phone.</li>
 	
-<li>Please refer to MOE's website at www.moe.gov.sg/dsa-jc for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website.</li>
+<li>Please refer to MOE's website at <u>www.moe.gov.sg/dsa-jc</u> for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website.</li>
 	
 <li>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.</li> 
  
 			
-<p><b>The school will relocate to 2 Tampines Avenue 9, Singapore 529564, from January 2024 to December 2027 (tentative), as the current campus will be undergoing upgrading.</b></p>	</ul>
 
 
- </div></li><li>
+
+ </ul></div></li><li>
     <input id="accordion6" type="checkbox">
 	 <label for="accordion6">CONTACT US</label>
     <div>				
@@ -158,7 +158,7 @@ If you are sitting for the GCE 'O' Level examinations at the end of this year an
 <ul><li><b>Performing Arts CCAs</b> <br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg</li>
 
 <li><b>Sports CCAs</b> 
-<br>Ms Jonique Ang - ang_yam_hui_jonique@moe.edu.sg</li>
+<br>Mr Tan Teck Joo - tan_teck_joo@moe.edu.sg</li>
 
 <li><b>Humanities Programme</b>
 <br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg
