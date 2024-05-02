@@ -8,7 +8,7 @@ variant: markdown
 
 ### APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2025) IS NOW OPEN! ###
 
-#### Application for DSA-Sec Exercise 2024 commences from: #### 
+#### <center>Application for DSA-Sec Exercise 2024 commences from: #### 
 
 <p style="text-align: justify;"><b></b></p><center><b>7 May 2024 (11am, Singapore time) to <br>
 	3 June 2024 (3pm, Singapore time)</b></center><p></p>
@@ -180,25 +180,10 @@ Please note the following:
 * Mathematics: Mr Marcus Goh [goh_chengwei_marcus@moe.edu.sg](mailto:goh_chengwei_marcus@moe.edu.sg)
 * Science: Mr Low Kian Seh [low_kian_seh@moe.edu.sg](mailto:low_kian_seh@moe.edu.sg)
 * MEP: Ms Serene Tan  [tan_su_ling_serene@moe.edu.sg](mailto:tan_su_ling_serene@moe.edu.sg) &amp; Mr Marcus Tay [tay_hiong_kiat_marcus@moe.edu.sg](mailto:tan_su_ling_serene@moe.edu.sg)
-* Concert Band: Mr Daniel Yee  [daniel_yee@moe.edu.sg](mailto:(daniel_yee@moe.edu.sg)&amp; Mdm Yani [nuryani_suneh@moe.edu.sg](mailto:nuryani_suneh@moe.edu.sg)
+* Concert Band: Mr Daniel Yee  [daniel_yee@moe.edu.sg](mailto:daniel_yee@moe.edu.sg) &amp; Mdm Yani [nuryani_suneh@moe.edu.sg](mailto:nuryani_suneh@moe.edu.sg)
 * Badminton: Mrs Evelyn Lim  [ng_ee_lin_evelyn@moe.edu.sg](mailto:ng_ee_lin_evelyn@moe.edu.sg)
 * Basketball: Mr Danny Wong [wong_kok_wye_danny@moe.edu.sg](mailto:wong_kok_wye_danny@moe.edu.sg)
 * Bowling: Mr Ng Seng Chang  [ng_seng_chang@moe.edu.sg](mailto:ng_seng_chang@moe.edu.sg)
 * Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
-* For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
+For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**</center>
