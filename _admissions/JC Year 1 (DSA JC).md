@@ -17,13 +17,13 @@ variant: markdown
 		
  </div>
 </li> 
-	
+
 <ul class="jekyllcodex_accordion">
  <li>
-  <input id="accordion2" type="checkbox">
-  <label for="accordion2">ABOUT DSA-JC</label>
-   <div>
-	<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at <a href="www.moe.gov.sg/dsa-jc" target="_blank">www.moe.gov.sg/dsa-jc</a></b></p>
+<input id="accordion2" type="checkbox">
+<label for="accordion2">ABOUT DSA-JC</label>
+<div>
+<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at www.moe.gov.sg/dsa-jc</b></p>
 
 </div>
 </li>
