@@ -14,47 +14,58 @@ variant: markdown
   <div>
 <p style="text-align: justify;">The application for the DSA-JC Exercise (2024) will commence from <b>7 May 2024 to 28 Jun 2024 (5:00 pm, Singapore time).</b></p>
 <p style="text-align: justify;">If you are sitting for the GCE 'O' Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.</p>
-    </div>
-	</li> 
+		
+ </div>
+</li> 
 	
-	<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
  <li>
   <input id="accordion2" type="checkbox">
   <label for="accordion2">ABOUT DSA-JC</label>
    <div>
-	<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at <u>www.moe.gov.sg/dsa-jc</u></b></p>
+	<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at <a href="www.moe.gov.sg/dsa-jc" target="_blank">www.moe.gov.sg/dsa-jc</a></b></p>
 
-</div></li><li>
+</div>
+</li>
+
+<li>
 <input id="accordion3" type="checkbox">
 <label for="accordion3">DSA-JC ENGAGEMENT SESSION</label>
 <div>
-<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 10 May 2024 (Friday) at 4pm. More details of the engagement session will be provided later.</p>
+<p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 10 May 2024 (Friday) at 4pm. Please find the details of the engagement session below:</p>
+	
+<p style="text-align: justify;"><a href="https://moe-singapore.zoom.us/j/85008193597" target="_blank">https://moe-singapore.zoom.us/j/85008193597</a></p>
+<p style="text-align: justify;">Meeting ID: 85008193597<br>Passcode: 936197</p>
+
+	
 </div>
-	</li> 
+</li> 
 		 
 <li>
     <input id="accordion4" type="checkbox">
 		<label for="accordion4">ADMISSION CRITERIA</label>
     <div>
-			<p style="text-align: justify;">You are eligible if you are currently a Secondary 4 (Express) and Secondary 5 (Normal) student in our mainstream schools. You can apply through the following DSA domains</p>
-		<ul>
-			<li>	CCA – Performing Arts		
-			<ul>
-			<li>Choir, Concert Band, Guitar Ensemble, Modern Dance, String Ensemble
-		</li>
-		</ul>
+			<p style="text-align: justify;">You are eligible if you are currently a Secondary 4 (Express) and Secondary 5 (Normal) student in our mainstream schools. You can apply through the following DSA domains:</p>
+<ul>
+	<li>	CCA – Performing Arts		
+	<ul>
+	<li>Choir, Concert Band, Guitar Ensemble, Modern Dance, String Ensemble
 	</li>
-		<li>CCA – Sports
-			<ul>
-			<li>Badminton, Basketball, Bowling, Floorball <b>(Boys)</b>, Football <b>(Boys)</b>, Netball <b>(Girls)</b>, Shooting, Taekwondo, Volleyball <b>(Girls)</b></li>
-					</ul>
-				</li>
-				<li>Humanities Programme</li>
-				<li>Leadership</li>
-				<li>Music Elective Programme (MEP)</li>
+	</ul>
+	</li>
+	
+<li>CCA – Sports
+	<ul>
+	<li>Badminton, Basketball, Bowling, Floorball <b>(Boys)</b>, Football <b>(Boys)</b>, Netball <b>(Girls)</b>, Shooting, Taekwondo, Volleyball <b>(Girls)</b>
+	</li>
+	</ul>
+	</li>
+	
+<li>Humanities Programme</li>
+	<li>Leadership</li>
+	<li>Music Elective Programme (MEP)</li>
 
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -76,24 +87,27 @@ variant: markdown
 <col style="width: 344px">
 </colgroup>
 <thead>
-  <tr>
-    <th class="tg-4l67"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">DSA Domains</span></th>
-    <th class="tg-4ytf"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Selection Requirements</span></th>
-  </tr>
+ <tr>
+  <th class="tg-4l67"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">DSA Domains</span></th>
+  <th class="tg-4ytf"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Selection Requirements</span></th>
+</tr>
 </thead>
 <tbody>
 <tr>
- <td class="tg-fguf"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> We are looking for talented students who can contribute in the following areas:  </span><br><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA - Performing Arts </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.      Choir</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2.      Concert Band</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3.      Guitar Ensemble</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4.      Modern Dance</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5.      String Ensemble</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA - Sports </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.      Badminton</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2.      Basketball</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3.      Bowling</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4.      Floorball (Boys)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5.      Football (Boys)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6.      Netball (Girls)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">7.      Shooting</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8.      Taekwondo</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9. Volleyball (Girls)</span>
-	</td>
+ <td class="tg-fguf">
+<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> We are looking for talented students who can contribute in the following areas:  </span><br><br>
+<span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA - Performing Arts </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.      Choir</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2.      Concert Band</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3.      Guitar Ensemble</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4.      Modern Dance</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5.      String Ensemble</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CCA - Sports </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.      Badminton</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2.      Basketball</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3.      Bowling</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4.      Floorball (Boys)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5.      Football (Boys)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6.      Netball (Girls)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">7.      Shooting</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8.      Taekwondo</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9. Volleyball (Girls)</span>
+	</span></td>
    
 <td class="tg-fguf"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Achievements related to the relevant performing arts / sports </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Academic performance from Sec 3 to 4/5 </span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        </span><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Shortlisted applicants </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">will be notified via e-mail / telephone call to attend an in-person selection trial and interview which will be conducted from </span><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">13 May to 12 July 2024</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Successful applicants through DSA (Performing Arts / Sports) are expected to join a Performing Arts or Sports CCA respectively from JC1 to JC2</span></td>
   </tr>
 
 <tr>
- <td class="tg-cjd4"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Humanities Programme</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        We are seeking out applicants with a strong passion and aptitude in the Humanities.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        We value students with experience and achievements in humanities-based competitions, such as the MOE History Challenge, NUS Geography Challenge, MUNs, Commonwealth Essay Writing Competition, National Schools Literature Festival.</span><br>
+<td class="tg-cjd4"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Humanities Programme</span><br>
+<span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        We are seeking out applicants with a strong passion and aptitude in the Humanities.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        We value students with experience and achievements in humanities-based competitions, such as the MOE History Challenge, NUS Geography Challenge, MUNs, Commonwealth Essay Writing Competition, National Schools Literature Festival.</span><br>
 	 
 <span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        We also value experience in MOE’s secondary school Talent Development Programmes (TDP) such as the Geography/History TDP, and MOE’s Creative Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE’s Humanities and Social Science Research Programmes) are also highly valued.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Applicants should be well read on national and global issues and have a strong personal voice.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span>
-<br>&gt;<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        More details of the Temasek Humanities Programme can be found here:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+<br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        More details of the Temasek Humanities Programme can be found here:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
  
 <td class="tg-fguf"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Consistently strong academic performance from Sec 3 to 4/5</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Achievements and stretch experiences related to the Humanities. This can include national/international Humanities-related competitions and programmes            </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Summary of leadership experience</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        </span><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Shortlisted applicants </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">will be notified via e-mail / telephone call to attend an in-person interview which will be conducted from </span><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">13 May to 12 July 2024</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">▪        Successful applicants will be expected to apply for the MOE Humanities Scholarship and will be placed in the Temasek Humanities Programme</span></td>
   </tr>
@@ -129,7 +143,7 @@ variant: markdown
 <p><b>2) Supporting Documents</b></p>
 
 <b>Applicants should submit the following supporting documents:</b>
-<ul><li><b>Sec 3</b> academic results slips (Mid-Year and End-of-Year)</li>
+<ul><li><b>Sec 3</b> academic results slips</li>
 <li><b>Sec 4</b> academic results slips (Till the latest available; including CA/WA)</li>
 <li>Sec 1 to Sec 4 <b>CCA records</b> (Till the latest available)</li><li>Records of additional qualifications <b>(only highest level required)</b>, achievements, awards, scholarships, etc. (if applicable)<br></li></ul>
 
