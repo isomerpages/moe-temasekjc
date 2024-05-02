@@ -8,7 +8,7 @@ variant: markdown
 
 ### APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2025) IS NOW OPEN! ###
 
-#### <center>Application for DSA-Sec Exercise 2024 commences from: #### 
+#### <center>Application for DSA-Sec Exercise 2024 commences from: </center>
 
 <p style="text-align: justify;"><b></b></p><center><b>7 May 2024 (11am, Singapore time) to <br>
 	3 June 2024 (3pm, Singapore time)</b></center><p></p>
@@ -186,4 +186,4 @@ Please note the following:
 * Bowling: Mr Ng Seng Chang  [ng_seng_chang@moe.edu.sg](mailto:ng_seng_chang@moe.edu.sg)
 * Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
-For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**</center>
+For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
