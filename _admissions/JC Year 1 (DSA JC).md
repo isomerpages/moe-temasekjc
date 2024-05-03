@@ -14,6 +14,8 @@ variant: markdown
   <div>
 <p style="text-align: justify;">The application for the DSA-JC Exercise (2024) will commence from <b>7 May 2024 to 28 Jun 2024 (5:00 pm, Singapore time).</b></p>
 <p style="text-align: justify;">If you are sitting for the GCE 'O' Level examinations at the end of this year and possess talents in the humanities, music, performing arts, sports, or have strong leadership qualities - TJC is the place for you to consider for your Junior College years! In TJC, we help every TJCian develop holistically and fulfil their potential through our robust curriculum and student development programmes.</p>
+
+<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
 		
  </div>
 </li> 
@@ -136,6 +138,7 @@ variant: markdown
 <p><b>1) Application Period</b></p>
 <p>Application opens on <u>7 May 2024</u>, and closes on<b> Friday, 28 Jun 2024, (5.00 pm, Singapore time).</b></p>
 
+<p style="text-align: justify;">Please click <a href="https://dsa.tjc.edu.sg/"><b>here</b></a> to apply.</p>
 
 	
 
