@@ -25,10 +25,10 @@ variant: markdown
 <input id="accordion2" type="checkbox">
 <label for="accordion2">ABOUT DSA-JC</label>
 <div>
-<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at www.moe.gov.sg/dsa-jc</b></p>
+<p style="text-align: justify;">The Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students seeking admission to a JC can consider applying through DSA-JC based on your achievements and talents. You can also apply through the Joint Admissions Exercise (JAE) after the release of your GCE O-level results if you cannot decide at this juncture.  <br><br><b>For more information on DSA-JC, please refer to the MOE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" target="_blank">www.moe.gov.sg/dsa-jc</a></b></p><b>
 
-</div>
-</li>
+</b></div><b>
+</b></li><b>
 
 <li>
 <input id="accordion3" type="checkbox">
@@ -168,7 +168,7 @@ variant: markdown
 
 <li>The College will not release detailed results of the selection tests and interviews. The College also reserves the right not to reveal the results or reasons for non-selection. The College will not be able to provide the application results over the phone.</li>
 	
-<li>Please refer to MOE's website at <u>www.moe.gov.sg/dsa-jc</u> for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website.</li>
+<li>Please refer to MOE's website at <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" target="_blank">www.moe.gov.sg/dsa-jc</a> for more information. You are encouraged to read the Frequently Asked Questions (FAQs) provided at the website.</li>
 	
 <li>Parents and students are encouraged to choose schools wisely based on the students' aptitudes and strengths, taking into consideration the range of programmes offered in various schools.</li> 
 </ul>
@@ -202,7 +202,8 @@ variant: markdown
 <li>
 <b>Music Elective Programme</b>
 <br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg</li>
-
+<br>
+<br>	
 If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  [registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)
 
 	
@@ -212,4 +213,4 @@ If you have any general enquiries regarding the DSA-JC application, please conta
 
 
 
-</ul></div></li></ul></ul>
+</ul></div></li></b></ul></ul>
