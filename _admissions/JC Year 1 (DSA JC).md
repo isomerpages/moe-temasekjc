@@ -184,24 +184,28 @@ variant: markdown
 <ul>
 <li>
 <b>Performing Arts CCAs</b>
-<br>Ms Serene Tan - tan_su_ling_serene@moe.edu.sg
+	<br>Ms Serene Tan  – <a href="mailto:tan_su_ling_serene@moe.edu.sg" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
 </li>
 
 <li>
 <b>Sports CCAs</b> 
-<br>Mr Tan Teck Joo - tan_teck_joo@moe.edu.sg</li>
+<br>Mr Tan Teck Joo  – <a href="mailto:tan_teck_joo@moe.edu.sg" target="_blank">tan_teck_joo@moe.edu.sg</a>
+</li>
 
 <li>
 <b>Humanities Programme</b>
-<br>Mr Jared Wong – wong_wei_ming_jared@moe.edu.sg</li>
+<br>Mr Jared Wong – <a href="mailto:wong_wei_ming_jared@moe.edu.sg" target="_blank">wong_wei_ming_jared@moe.edu.sg</a>
+</li>
 	
 <li>
 <b>Leadership</b>
-<br>Mr Han Songguang - han_song_guang@moe.edu.sg</li>          
+<br>Mr Han Songguang  – <a href="mailto:han_song_guang@moe.edu.sg" target="_blank">han_song_guang@moe.edu.sg</a>	
+</li>          
 
 <li>
 <b>Music Elective Programme</b>
-<br>Dr Gary Laycock – laycock_eng_yeow_gary@moe.edu.sg</li>
+<br>Dr Gary Laycock – <a href="mailto:laycock_eng_yeow_gary@moe.edu.sg" target="_blank"> laycock_eng_yeow_gary@moe.edu.sg</a>	
+</li>
 <br>
 <br>	
 If you have any general enquiries regarding the DSA-JC application, please contact the TJC General Office at <b>64428066</b> during office hours or email:  [registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)
