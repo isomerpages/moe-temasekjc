@@ -17,7 +17,7 @@ variant: markdown
 <b>For Admission to TJC Integrated Programme (IP) Year 1 in 2025</b>
 <p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
 
-<p style="text-align: justify;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</p>
+<p style="text-align: justify;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the <i>potential</i> of the applicants.</p>
 
 <p style="text-align: justify;">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
@@ -47,9 +47,9 @@ variant: markdown
 <tr>
 <td class="">● Chinese Language <br>● English Language<br> ● Mathematics <br>● Science</td>
 <td>●	Excellent academic results <br><br>● Relevant achievements in the subject area<br> </td>
-<td>•	All shortlisted applicants must sit for an individual written selection test.
+	<td>•	All shortlisted applicants must sit for an <b>individual written selection test.</b>
 <br><br>•	This will focus on knowledge and skills in the talent area, some part of which might extend beyond the regular school curriculum.
-<br><br>•	Applicants who are further shortlisted will attend an interview.	
+		<br><br>•	Applicants who are further shortlisted will attend an <b>interview.</b>	
 <br>
 </td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
 
@@ -57,7 +57,7 @@ variant: markdown
 
 <p style="text-align: justify;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). </p>
 
-<p></p><p style="text-align: justify;">Students who enrol through DSA-Music will join the MEP <b><u>and</u></b> take up Music as one of their subjects <b><u>and</u></b> join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
+<p></p><p style="text-align: justify;">Students who enrol through DSA-Music will join the MEP <b><u><i>and</i></u></b> take up Music as one of their subjects <b><u><i>and</i></u></b> join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
 
 
 <style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
