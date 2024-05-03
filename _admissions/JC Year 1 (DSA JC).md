@@ -34,11 +34,14 @@ variant: markdown
 <input id="accordion3" type="checkbox">
 <label for="accordion3">DSA-JC ENGAGEMENT SESSION</label>
 <div>
+<img style="width:300px;height:300px;" alt="DSA Engagement Session" src="/images/2024_DSA_JC_engagement_session.jpg">
+	
 <p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 10 May 2024 (Friday) at 4pm. Please find the details of the engagement session below:</p>
 	
 <p style="text-align: justify;"><a href="https://moe-singapore.zoom.us/j/85008193597" target="_blank">https://moe-singapore.zoom.us/j/85008193597</a></p>
 <p style="text-align: justify;">Meeting ID: 85008193597<br>Passcode: 936197</p>
 
+	
 	
 </div>
 </li> 
