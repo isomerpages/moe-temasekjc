@@ -147,7 +147,7 @@ Please note the following:
 
 **Dates for Selection Tests/Auditions/Trials/Interviews:**
 	
-* The selection tests/auditions/trials will be held from **25 June to 2 Aug 2024.**
+* The selection tests/auditions/trials will be held from **28 June to 2 Aug 2024.**
 * All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u>
 * <u>Only shortlisted applicants</u> will be notified via email and/or SMS for a selection test/audition/trial.
 * <u>Applicants who are further shortlisted</u> after these selection tests/auditions/trials will be invited to attend an **interview in July - August 2024.**
