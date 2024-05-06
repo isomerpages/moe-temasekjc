@@ -12,9 +12,9 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: JC1 Orientation
+        - title: DSA-JC Engagement Session
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/
+          url: https://www.temasekjc.moe.edu.sg/admissions/jc-year-1-dsa-jc/
         - title: JC Subject Combination
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
