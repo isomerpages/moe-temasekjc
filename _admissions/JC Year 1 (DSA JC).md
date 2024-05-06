@@ -34,6 +34,10 @@ variant: markdown
 <input id="accordion3" type="checkbox">
 <label for="accordion3">DSA-JC ENGAGEMENT SESSION</label>
 <div>
+<p style="text-align: justify;"><font size="-1"><i>“I chose to join TJC through DSA (Leadership) because of its strong academic reputation and the vibrant school culture I experienced during past visits. I wanted to be part of a nurturing community where I could contribute to something larger than myself, and grow alongside like-minded peers. 
+
+Transitioning to TJC has been an exciting journey! The community here is welcoming, providing a conducive environment for both my leadership and academic growth. The experiences I have had so far have empowered me to explore my potential and hopefully make meaningful contributions within the school community and beyond.”</i> - Felysha A’in Mohamed Shahril, President of TJC’s 48th Students’ Council, alumna of St Anthony’s Canossian Secondary School</font></p>
+	
 <img style="width:300px;height:300px;" alt="DSA Engagement Session" src="/images/2024_DSA_JC_engagement_session.jpg">
 	
 <p style="text-align: justify;">The college will be conducting a DSA-JC engagement session for interested students (via Zoom) on 10 May 2024 (Friday) at 4pm. Please find the details of the engagement session below:</p>
