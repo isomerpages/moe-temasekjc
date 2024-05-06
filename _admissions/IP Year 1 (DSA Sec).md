@@ -186,4 +186,4 @@ Please note the following:
 * Bowling: Mr Ng Seng Chang  [ng_seng_chang@moe.edu.sg](mailto:ng_seng_chang@moe.edu.sg)
 * Leadership: Mr Han Songguuang [han_song_guang@moe.edu.sg](mailto:han_song_guang@moe.edu.sg)
 
-For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[registrar@tjc.edu.sg](mailto:registrar@tjc.edu.sg)**
+For any enquiries on the **DSA Application,** please contact the TJC General Office at 6442 8066 during office hours or email: **[DSA_IP@temasekjc.moe.edu.sg](mailto:DSA_IP@temasekjc.moe.edu.sg)**
