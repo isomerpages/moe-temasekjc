@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Version_1__5_.png
+      background: /images/TJC_DSA_JC_Engagement_2024_Banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
