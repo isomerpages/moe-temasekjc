@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TJC_DSA_JC_Engagement_2024_Banner.png
+      background: /images/TJC_College_Day_2024___Website_Banner__final___1_.png
       key_highlights:
         - title: Heritage Website
           description: ""
