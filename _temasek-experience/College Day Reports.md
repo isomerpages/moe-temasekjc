@@ -6,3 +6,6 @@ variant: markdown
 ---
 ## COLLEGE DAY
 
+College Day Report - 2024
+
+For best viewing experience, please download the file here.
