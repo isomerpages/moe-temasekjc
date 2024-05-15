@@ -143,7 +143,7 @@ to join a Performing Arts or Sports CCA respectively from JC1 to JC2</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities Programme</strong>
+<p><strong>Humanities Programme</strong> 
 <br><strong> </strong>
 <br>▪ We are seeking out applicants with a strong passion and aptitude in
 the Humanities.
@@ -164,7 +164,7 @@ Humanities and Social Science Research Programmes) are also highly valued.
 a strong personal voice.
 <br>
 <br>▪ More details of the Temasek Humanities Programme can be found here:
-<br> <a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme</u></a>
+<br><a href="https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.temasekjc.moe.edu.sg/academic/special-programmes/temasek-humanities-programme</u></a> 
 <br>
 </p>
 </td>
@@ -177,7 +177,7 @@ programmes
 <br>▪ Summary of leadership experience
 <br>
 <br>▪ <u>Shortlisted applicants </u>will be notified via e-mail / telephone
-call to attend an in-person interview which will be conducted from <strong>13 May to 12 July 2024</strong>
+call to attend an in-person interview which will be conducted from <strong>13 May to 12 July 2024</strong> 
 <br>
 <br>▪ Successful applicants will be expected to apply for the MOE Humanities
 Scholarship and will be placed in the Temasek Humanities Programme</p>
@@ -208,7 +208,7 @@ their journey in TJC.</p>
 <br>
 <br>▪ Academic performance from Sec 3 to 4/5
 <br>▪ <u>Shortlisted applicants </u>will be notified via e-mail / telephone
-call to attend an in-person interview which will be conducted from <strong>13 May to 12 July 2024</strong>
+call to attend an in-person interview which will be conducted from <strong>13 May to 12 July 2024</strong> 
 <br>
 <br>▪ Successful applicants will be expected to take up a leadership role
 in TJC Students’ Council</p>
@@ -244,7 +244,7 @@ or international level
 documents as stated on the college website.
 <br>
 <br>▪ Shortlisted applicants will be notified via e-mail and / or telephone
-to attend an in-person selection test and interview from <strong>13 May to 12 July 2024</strong>
+to attend an in-person selection test and interview from <strong>13 May to 12 July 2024</strong> 
 <br>
 </p>
 </td>
@@ -288,7 +288,7 @@ achievements, awards, scholarships, etc. (if applicable)
 </p>
 <p>
 <br>Only shortlisted applicants will be notified via e-mail / telephone to
-attend in-person interview sessions/selection tests between <strong>13 May and 12 July 2024.</strong>
+attend in-person interview sessions/selection tests between <strong>13 May and 12 July 2024.</strong> 
 <br>
 </p>
 <p><strong>4) Outcome of Application</strong>
