@@ -1327,6 +1327,14 @@ variant: markdown
     <td><a href="mailto:lim_hock_kwee@moe.edu.sg">lim_hock_kwee@moe.edu.sg</a><br></td>
   </tr>
  
+<tr>
+  <td>Mr<br></td>
+  <td>Sung Wong Chiang<br></td>
+  <td>ICT Manager</td>
+  <td><a href="mailto:sung_wong_chiang@moe.edu.sg">sung_wong_chiang@moe.edu.sg</a><br>
+</td>
+ </tr>
+	
   <tr>
     <td>Ms</td>
     <td>Nur Ayuni binte Sudirmaji </td>
@@ -1359,9 +1367,9 @@ variant: markdown
   </tr>
   <tr>
     <td>Ms </td>
-    <td>Shafiqah </td>
+    <td>Aishah </td>
     <td>School Librarian </td>
-    <td><a href="mailto:">.</a> </td>
+    <td><a href="mailto:nur_aishah_abdullah_c@moe.edu.sg">nur_aishah_abdullah_c@moe.edu.sg</a> </td>
   </tr>
 </tbody>
 </table>
