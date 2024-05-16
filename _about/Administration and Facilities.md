@@ -40,7 +40,7 @@ variant: markdown
 
 *   <p><a href="/files/About/Canteen/application form for canteen stalls.pdf">Application Form for Canteen Stalls</a></p>
 
-<p style="text-align: justify;">2. Attached the following documents together with the application form:</p>
+<p style="text-align: justify;">2. Attach the following documents together with the application form:</p>
 
 * Photocopy of the NRIC (front and back)
 
