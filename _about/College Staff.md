@@ -629,7 +629,7 @@ variant: markdown
   </tr>
    <tr>
     <td>Mrs<br></td>
-    <td>Ong Lay Pheng<br></td>
+    <td>Chong Lay Pheng<br></td>
     <td>HOD / MTL (IP)<br></td>
     <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
   </tr>
