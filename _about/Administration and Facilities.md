@@ -6,7 +6,7 @@ variant: markdown
 ---
 # School Canteen Advertisement
 
-<p style="text-align: justify;">Temasek Junior College is looking for a Cut Fruit / Acai stall to provide a variety of healthy food that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
+<p style="text-align: justify;">Temasek Junior College is looking for a Western and Non-Halal stall to provide a variety of healthy food that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
 <br>
 
 <table>
@@ -19,22 +19,28 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;">Cut Fruits/Açaí</td>
-<td style="text-align: center;">12 April 2024, 5pm</td>
-<td style="text-align: center;">Cut Fruits/Açaí <br></td>
+<td style="text-align: center;">Western Food</td>
+<td style="text-align: center;">23 May 2024, 5pm</td>
+<td style="text-align: center;">Nil <br></td>
 </tr>
 
+<tr>
+<td style="text-align: center;">Non-Halal <br>(Open to Proposal)</td>
+<td style="text-align: center;">23 May 2024, 5pm</td>
+<td style="text-align: center;">Rice and/or Noodles Food Stall <br></td>
+</tr>
+	
 
 </tbody>
 </table>
 
 <p style="text-align: justify;"><b>Application Procedure</b></p>
 
-<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office at 2 Tampines Avenue 9, Singapore 529564​.</p>
+<p style="text-align: justify;">1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office at 2 Tampines Avenue 9, Singapore 529564.</p>
 
 *   <p><a href="/files/About/Canteen/application form for canteen stalls.pdf">Application Form for Canteen Stalls</a></p>
 
-<p style="text-align: justify;">2. Attached the following documents together with the application form:</p>
+<p style="text-align: justify;">2. Attach the following documents together with the application form:</p>
 
 * Photocopy of the NRIC (front and back)
 
@@ -58,7 +64,7 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Friday, 12 April 2024, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Thursday, 23 May 2024, 5pm.</b></p>
 
 * Contact No: 6442 8066
 
