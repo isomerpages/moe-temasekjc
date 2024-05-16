@@ -38,4 +38,13 @@ sections:
       image: /images/2022 IP Admissions Talk Thumbnail.png
       alt: Image alt text
       description: IP ADMISSIONS TALK (FOR 2024 INTAKE)
+  - infopic:
+      title: "Virtual 360° Tour: Bedok Campus"
+      subtitle: DOWN MEMORY LANE...
+      id: infopic
+      description: Commemorating the 45-year history of our beloved Bedok campus
+      button: Explore
+      url: https://360theredmarker.com/vt/TemasekJC/
+      image: /images/651ac1f3e7ff9ef9ba716bf4_Splash_Screen.png
+      alt: Image alt text
 ---
