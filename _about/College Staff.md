@@ -264,9 +264,9 @@ variant: markdown
   </tr>
 	 <tr>
     <td>Mrs</td>
-    <td>Peh Shi Yun</td>
+    <td>Chiam Shi Yun</td>
     <td>Teacher </td>
-    <td> </td>
+    <td>Geography</td>
     <td><a href="mailto:peh_shi_yun@moe.edu.sg">peh_shi_yun@moe.edu.sg</a></td>
   </tr>
 </tbody>
