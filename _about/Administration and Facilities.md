@@ -6,7 +6,7 @@ variant: markdown
 ---
 # School Canteen Advertisement
 
-<p style="text-align: justify;">Temasek Junior College is looking for a Western and Non-Halal stall to provide a variety of healthy food that provides nutrition for our staff and students. If you are keen, do submit your application and join us.</p>
+<p style="text-align: justify;">Are you passionate about serving delicious and nutritious food for our staff and students? Do you specialize in Indian Food with vegetarian options or Mixed Economic Rice? Temasek Junior College invites you to submit your Stall application and be a part of our School Community!</p>
 <br>
 
 <table>
@@ -19,16 +19,13 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;">Western Food</td>
-<td style="text-align: center;">23 May 2024, 5pm</td>
-<td style="text-align: center;">Nil <br></td>
+<td style="text-align: center;">Halal/Non-Halal Indian Food or Mixed Economic Rice</td>
+<td style="text-align: center;">10 June 2024, 5pm (Monday)</td>
+<td style="text-align: center;">With vegetarian options<br></td>
 </tr>
 
-<tr>
-<td style="text-align: center;">Non-Halal <br>(Open to Proposal)</td>
-<td style="text-align: center;">23 May 2024, 5pm</td>
-<td style="text-align: center;">Rice and/or Noodles Food Stall <br></td>
-</tr>
+
+
 	
 
 </tbody>
@@ -64,7 +61,7 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Thursday, 23 May 2024, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>10 June 2024, 5pm (Monday).</b></p>
 
 * Contact No: 6442 8066
 
