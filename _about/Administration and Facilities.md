@@ -20,7 +20,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="text-align: center;">Halal/Non-Halal Indian Food or Mixed Economic Rice</td>
-<td style="text-align: center;">10 June 2024, 5pm (Monday)</td>
+<td style="text-align: center;">17 June 2024, 5pm (Monday)</td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
 
@@ -61,7 +61,7 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>10 June 2024, 5pm (Monday).</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>17 June 2024, 5pm (Monday).</b></p>
 
 * Contact No: 6442 8066
 
