@@ -93,7 +93,7 @@ variant: markdown
   </tr>
   <tr>
 		<td>HOD / Mother Tongue (IP) <br></td>
-    <td>Mrs Ong Lay Pheng<br></td>
+    <td>Mrs Chong Lay Pheng<br></td>
     <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
   </tr>
   <tr>
