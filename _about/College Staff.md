@@ -42,21 +42,15 @@ variant: markdown
     <td>Art<br></td>
     <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
+ <tr>
     <td>Dr<br></td>
     <td>Gary Laycock<br></td>
     <td>Teacher<br></td>
     <td>Music<br></td>
     <td><a href="mailto:laycock_eng_yeow_gary@moe.edu.sg">laycock_eng_yeow_gary@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Seah Cheng Tat<br></td>
-    <td>Teacher<br></td>
-    <td>Music<br></td>
-    <td><a href="mailto:seah_cheng_tat@moe.edu.sg">seah_cheng_tat@moe.edu.sg</a></td>
-  </tr>
-	<tr>
+
+<tr>
     <td>Mr<br></td>
     <td>Marcus Tay<br></td>
     <td>Teacher<br></td>
@@ -131,14 +125,8 @@ variant: markdown
     <td><a href="mailto:zeng_wenjie@moe.edu.sg">zeng_wenjie@moe.edu.sg</a><br></td>
   </tr>
 
-  <tr>
-    <td>Ms<br></td>
-    <td>Gracia Lam<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:lam_pei_en_gracia@moe.edu.sg">lam_pei_en_gracia@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+
+<tr>
     <td>Mr<br></td>
     <td>Koh Rui Yang<br></td>
     <td>Deputy CCE<br></td>
@@ -446,13 +434,8 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:p_k_mathimugan@moe.edu.sg">p_k_mathimugan@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Miss<br></td>
-    <td>Teoh Yu Han<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:teoh_yu_han@moe.edu.sg">teoh_yu_han@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+
+<tr>
     <td>Mr</td>
     <td>Trevor Tay </td>
     <td>Teacher </td>
