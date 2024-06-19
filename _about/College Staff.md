@@ -117,13 +117,7 @@ variant: markdown
     <td>Geography<br></td>
     <td><a href="mailto:cheng_ying_chua@moe.edu.sg">cheng_ying_chua@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Zeng Wenjie<br></td>
-    <td>Senior Teacher / Economics<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:zeng_wenjie@moe.edu.sg">zeng_wenjie@moe.edu.sg</a><br></td>
-  </tr>
+
 
 
 <tr>
@@ -1049,14 +1043,8 @@ variant: markdown
     <td>Chemistry<br></td>
     <td><a href="mailto:ng_wei_ling@moe.edu.sg">ng_wei_ling@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms</td>
-    <td>Premala Suresh </td>
-    <td>Teacher </td>
-    <td>Chemistry</td>
-    <td><a href="mailto:premala_krishnadas@moe.edu.sg">premala_krishnadas@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+
+ <tr>
     <td>Ms<br></td>
     <td>Shawn Tan<br></td>
     <td>Teacher<br></td>
