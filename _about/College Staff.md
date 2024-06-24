@@ -194,8 +194,8 @@ variant: markdown
     <td><br></td>
     <td><a href="mailto:teng_xin_yi_a@moe.edu.sg">teng_xin_yi_a@moe.edu.sg</a></td>
   </tr>
-  
-	 <tr>
+
+<tr>
     <td>Ms<br></td>
     <td>Niki Lee Xiuli<br></td>
     <td>Teacher<br></td>
@@ -854,7 +854,7 @@ variant: markdown
     <td>Ms </td>
     <td>Wai Lin</td>
     <td>Teacher </td>
-    <td><a href="mailto:"></a>.</td>
+    <td><a href="mailto:lam_wai_lin@schools.gov.sg">lam_wai_lin@schools.gov.sg</a></td>
   </tr>
 	
 </tbody>
