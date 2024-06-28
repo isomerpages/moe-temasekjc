@@ -125,8 +125,8 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Band%20IP.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Seah Cheng Tat
-</p><p><b>Email</b><br>seah_cheng_tat@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Daniel Yee
+</p><p><b>Email</b><br>daniel_yee@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
