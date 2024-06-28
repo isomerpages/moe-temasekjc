@@ -202,7 +202,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Symphonic%20Band%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Seah Cheng Tat</p><p><b>Email</b><br>seah_cheng_tat@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Daniel Yee</p><p><b>Email</b><br>daniel_yee@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
