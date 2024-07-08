@@ -52,7 +52,7 @@ variant: markdown
 				<li>Supporting documents on Personal Achievements and Awards/Prizes won (if any)</li>
 				<li>Testimonials or References (optional)</li>
 			</ul>
-			<p style="text-align: justify;">Note: For technical support on application of SPERS via SEAB's Candidates Portal (CP), applicant may raise a case using the online form in CP under <a href="https://myexams.seab.gov.sg/auth/login" target="_blank">Non-national exams</a>.</p>
+			<p style="text-align: justify;">Note: For <a href="https://myexams.seab.gov.sg/auth/login" target="_blank">technical support</a> on application of SPERS via SEAB's Candidates Portal (CP), applicant may raise a case using the online form in CP under "Non-national exams".</p>
     </div>
 	</li> 
 	  <li>
