@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TJC_Mural_6.png
+      background: /images/TJC_Mural_7.png
       key_highlights:
         - title: Heritage Website
           description: ""
