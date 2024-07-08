@@ -6,7 +6,7 @@ variant: markdown
 ---
 # RETURNING SINGAPOREAN &amp; INTERNATIONAL STUDENTS
 
-**APPLICATION FOR ADMISSION OF RETURNING SINGAPOREAN (RS) &amp; INTERNATIONAL STUDENTS(IS) JC YEAR 1 - INTAKE 2024**
+**APPLICATION FOR ADMISSION OF RETURNING SINGAPOREAN (RS) &amp; INTERNATIONAL STUDENTS(IS) JC YEAR 1 - INTAKE 2025**
 
 <p style="text-align: justify;">Admission of RS/IS into mainstream schools is subject to availability of school vacancies, the student meeting the school’s admission criteria and the student’s successful application of a Student’s Pass (STP) from the Immigration &amp; Checkpoints Authority (ICA), if necessary.&nbsp;</p>
 
@@ -40,7 +40,7 @@ variant: markdown
     <label for="accordion3">RS/IS APPLICATION PROCESS</label>
     <div>
 			<p style="text-align: justify;">1.  On-line Application Form</p>
-			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>27 December 2023 (12.00pm, Singapore time)</b>. Application received by fax and/or email as well as late applications will <b><u>NOT</u></b> be considered.</p>
+			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 18 October 2024 (12.00pm, Singapore time)</b>. Application received by fax and/or email as well as late applications will <b><u>NOT</u></b> be considered.</p>
 			<p style="text-align: justify;">Click on this&nbsp;<a href="https://form.gov.sg/6584f684e6382400126bfcda" target="_blank">link</a>&nbsp;to proceed with the online&nbsp;application. The application form should take approximately 20 minutes to&nbsp;complete.</p>
 			<p style="text-align: justify;">2. <u>Supporting Documents</u> (Please pdf and upload as one file, size limit 7MB)</p>
 			<ul>
@@ -52,17 +52,17 @@ variant: markdown
 				<li>Supporting documents on Personal Achievements and Awards/Prizes won (if any)</li>
 				<li>Testimonials or References (optional)</li>
 			</ul>
-			<p style="text-align: justify;">Note: Please email the supporting documents to <a href="mailto:registrar@tjc.edu.sg">registrar@tjc.edu.sg</a> if you encounter any error, e.g. file size ˃ 7MB.</p>
+			<p style="text-align: justify;">Note: For technical support on application of SPERS via SEAB's Candidates Portal (CP), applicant may raise a case using the online form in CP under <a href="https://myexams.seab.gov.sg/auth/login" target="_blank">Non-national exams</a>.</p>
     </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">SELECTION PROCESS</label>
     <div>
-			<p style="text-align: justify;"><u>Shortlisted applicants</u> will be notified to undergo selection test for English and Mathematics, and an interview. Only applicants who meet our selection criteria in the tests would be offered a place in our college for the next academic year, starting in January/February 2024, based on results of the test and available school vacancies after JAE.</p>
+			<p style="text-align: justify;"><u>Shortlisted applicants</u> will be notified to undergo selection test for English and Mathematics, and an interview. Only applicants who meet our selection criteria in the tests would be offered a place in our college for the next academic year, starting in January/February 2025, based on results of the test and available school vacancies after JAE.</p>
 			<p style="text-align: justify;">The schedule for the selection test will be made known via email to shortlisted applicants. The test will be conducted in person and will be held in Singapore. Thus, if you are currently overseas, you should submit an application only if you can comply with the prevailing Public Health as well as Entry Requirements listed on the&nbsp;<a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank">Singapore Immigration &amp; Checkpoints Authority (ICA) website</a>. Please also refer to the&nbsp;<a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health Advisory</a>&nbsp;on latest COVID-19 measures within Singapore for more details.</p>
 			<p style="text-align: justify;">The selection test fee applies to non-Singaporeans, i.e. the rate for the first subject is S$44 and every additional subject is S$22 (inclusive of GST). The selection test can only be taken once, and the test results will not be disclosed to applicants. The scope of the test will be further communicated to shortlisted applicants.</p>
-			<p style="text-align: justify;">Selection test period: <b>Mid January 2024</b></p>
+			<p style="text-align: justify;">Selection test period: <b>Mid January 2025</b></p>
     </div>
 	</li> 
 	</ul>
