@@ -4,7 +4,7 @@ permalink: /admissions/returning-singaporean-n-international-students/
 description: ""
 variant: markdown
 ---
-# RETURNING SINGAPOREAN &amp; INTERNATIONAL STUDENTS
+# RETURNING SINGAPOREANS &amp; INTERNATIONAL STUDENTS
 
 **APPLICATION FOR ADMISSION OF RETURNING SINGAPOREAN (RS) &amp; INTERNATIONAL STUDENTS(IS) JC YEAR 1 - INTAKE 2025**
 
