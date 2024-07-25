@@ -74,5 +74,9 @@ variant: tiptap
 <p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVLJbsIwEP2VyHeSOCwBiyBRUFUkSiNCe%2BjNxBOw5Nipx6Ht3zcEKugB1Ov4bTPPY%2BSliio2rd1er%2BGjBnTeV6k0stNLQmqrmeEokWleAjKXs2z6vGSRH7LKGmdyo4g3RQTrpNEzo7EuwWZgDzKH1%2FUyIXvnKmRBgGgg8ksDPojax12g%2BaHiO%2FCFId68sZaaHzUuDC4K9DHfG6PwmnicBwoD4j0am0MbPyEFVwjEW8wTkq1m%2FTjsi1G%2FP4ziARVdDjFEvTiOhgOxLWKaN0BMOaI8wIWKWMNCo%2BPaJSQKI9qhYYeONuGQ9Sjr9vwBHb4TLz0v%2FiC1kHp3%2F0rbEwjZ02aTdtKXbNMKHKQAu2rQ%2FzzQG1hsj9Noksm47Ye1ge11Zfez8N%2BeyOSW6Ti4lj4bVeyYdDFPjZL5tzdVynzOLHDXpHe2hraIkrvb7tSn7USKTtFCWa2xglwWEgQJJmfbv39x8gM%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="_blank">SSOE Portal</a>
 </p>
 </li>
+<li>
+<p><a href="https://pair.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">Pair Chat</a>
+</p>
+</li>
 </ul>
 <p></p>
