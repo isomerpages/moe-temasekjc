@@ -22,3 +22,6 @@ links:
         url: /highlights/archive
       - title: Quick Links
         url: /tjc/students
+  - title: Archive
+    url: /highlights/archive
+    sublinks: []
