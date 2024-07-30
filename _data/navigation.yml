@@ -15,10 +15,7 @@ links:
     collection: temasek-experience
   - title: Admissions
     collection: admissions
-  - title: Highlights
-    url: /highlights/archive
-    sublinks:
-      - title: Archive
-        url: /highlights/archive
-      - title: Quick Links
-        url: /tjc/students
+  - title: Archive
+    collection: highlights
+  - title: Quick Links
+    collection: tjc
