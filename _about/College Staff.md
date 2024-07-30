@@ -147,7 +147,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Kat Kar Hwee<br></td>
     <td>Senior Teacher<br></td>
-    <td><br></td>
+    <td>Economics<br></td>
     <td><a href="mailto:kat_kar_hwee@moe.edu.sg">kat_kar_hwee@moe.edu.sg</a></td>
   </tr>
 	
@@ -263,7 +263,7 @@ variant: markdown
   <tr>
     <td>Mr </td>
     <td>Brendon Chee </td>
-    <td>Senior Teacher / History </td>
+    <td>Lead Teacher / History </td>
     <td>History</td>
     <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg">chee_yao_rong_brendon@moe.edu.sg</a><br></td>
   </tr>
@@ -943,11 +943,25 @@ variant: markdown
     <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Ms<br></td>
-    <td>Lee Lin Hoon<br></td>
-    <td>School Staff Developer<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a><br></td>
+    <td> Ms</td>
+    <td>Kok Hui Ching</td>
+    <td>Deputy Head / Science (IP) </td>
+    <td>Physics </td>
+    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td> Ms</td>
+    <td>Liew Shuxian </td>
+    <td>Deputy Head / Chemistry </td>
+    <td> Chemistry</td>
+    <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
+  </tr>
+   <tr>
+    <td>Mrs</td>
+    <td>Gay-Lin Wenjie </td>
+    <td>Deputy Head / Science (Biology) </td>
+    <td>Biology</td>
+    <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -963,26 +977,20 @@ variant: markdown
     <td>Chemistry<br></td>
     <td><a href="mailto:tan_yi_jie@moe.edu.sg">tan_yi_jie@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td> Ms</td>
-    <td>Liew Shuxian </td>
-    <td>Deputy Head / Chemistry </td>
-    <td> Chemistry</td>
-    <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
-  </tr>
-  <tr>
-    <td> Ms</td>
-    <td>Kok Hui Ching</td>
-    <td>Deputy Head /Science (IP) </td>
-    <td>Physics </td>
-    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a> </td>
-  </tr>
+
+
   <tr>
     <td>Mr<br></td>
     <td>Alan Varella<br></td>
     <td>Lead Teacher /<br>Physics</td>
     <td>Physics<br></td>
     <td><a href="mailto:varella_alan_joseph@moe.edu.sg">varella_alan_joseph@moe.edu.sg</a><br></td>
+  </tr>
+	<tr><td>Ms<br></td>
+    <td>Lee Lin Hoon<br></td>
+    <td>School Staff Developer<br></td>
+    <td>Chemistry<br></td>
+    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mrs<br></td>
@@ -1012,13 +1020,7 @@ variant: markdown
     <td>Biology</td>
     <td><a href="mailto:daniel_yee@moe.edu.sg">daniel_yee@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mrs</td>
-    <td>Gay-Lin Wenjie </td>
-    <td>Teacher </td>
-    <td>Biology</td>
-    <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a></td>
-  </tr>
+ 
   <tr>
     <td>Ms </td>
     <td>Ivy Liew </td>
