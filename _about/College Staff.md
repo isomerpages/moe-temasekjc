@@ -202,7 +202,13 @@ variant: markdown
     <td><br></td>
     <td><a href="mailto:lee_xiuli@moe.edu.sg">lee_xiuli@moe.edu.sg</a></td>
   </tr>
-  
+  <tr>
+    <td>Ms<br></td>
+    <td>Kwan Sin Min<br></td>
+    <td>Teacher<br></td>
+    <td><br></td>
+    <td><a href="mailto:kwan_sin_min@moe.edu.sg">kwan_sin_min@moe.edu.sg</a></td>
+  </tr>
 	
 	
 	
@@ -557,12 +563,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:ang_mei_ling_a@moe.edu.sg">ang_mei_ling_a@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Deon Chan Tian Wee<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:deon_chan_tian_wee@moe.edu.sg">deon_chan_tian_wee@moe.edu.sg</a><br></td>
-  </tr>
+
 
   <tr>
     <td>Mr<br></td>
@@ -908,7 +909,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Yvonne Lau<br></td>
     <td>Teacher<br></td>
-    <td><a href="mailto:.">.</a><br></td>
+    <td><a href="mailto:yvonne_lau_jie_ling@moe.edu.sg">yvonne_lau_jie_ling@moe.edu.sg</a><br></td>
   </tr>
 </tbody>
 </table>
@@ -1185,31 +1186,31 @@ variant: markdown
     <td>Ms<br></td>
     <td>Dawn Wong<br></td>
     <td>Administration Manager</td>
-    <td><a href="mailto:dawn_wong_mei_fun@schools.gov.sg">dawn_wong_mei_fun@schools.gov.sg</a><br></td>
+    <td><a href="mailto:dawn_wong_mei_fun@moe.edu.sg">dawn_wong_mei_fun@moe.edu.sg</a><br></td>
   </tr>
 	<tr>
     <td>Ms<br></td>
     <td>Kira Lim<br></td>
     <td>Administration Manager</td>
-    <td><a href="mailto:lim_xinyi_b@schools.gov.sg">lim_xinyi_b@schools.gov.sg</a><br></td>
+    <td><a href="mailto:lim_xinyi_b@moe.edu.sg">lim_xinyi_b@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr</td>
     <td>Faizal Johan  </td>
     <td>Operations Manager</td>
-    <td><a href="mailto:faizal_johan@schools.gov.sg">faizal_johan@schools.gov.sg</a></td>
+    <td><a href="mailto:faizal_johan@moe.edu.sg">faizal_johan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr</td>
     <td>Osman Aspari</td>
     <td>Operations Manager </td>
-    <td><a href="mailto:osman_aspari@schools.gov.sg">osman_aspari@schools.gov.sg</a> </td>
+    <td><a href="mailto:osman_aspari@moe.edu.sg">osman_aspari@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Ms<br></td>
     <td>Janet Peh<br></td>
     <td>Administrative Executive<br></td>
-    <td><a href="mailto:janet_peh@schools.gov.sg">janet_peh@schools.gov.sg</a><br></td>
+    <td><a href="mailto:janet_peh@moe.edu.sg">janet_peh@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td> Ms </td>
@@ -1233,7 +1234,7 @@ variant: markdown
     <td>Miss<br></td>
     <td>Yeo Pei Ling<br></td>
     <td>Corporate Support Officer<br></td>
-    <td><a href="mailto:yeo_pei_ling@schools.gov.sg">yeo_pei_ling@schools.gov.sg</a><br></td>
+    <td><a href="mailto:yeo_pei_ling@moe.edu.sg">yeo_pei_ling@moe.edu.sg</a><br></td>
   </tr>
  
  <tr>
@@ -1263,19 +1264,19 @@ variant: markdown
   </tr>
   <tr>
     <td>Mr </td>
-    <td>Cheong Wah Cheong </td>
+    <td>Ricky</td>
     <td>Operations Support Officer</td>
     <td><a href="mailto:cheong_wah_cheong_@moe.edu.sg">cheong_wah_cheong_@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Mdm<br></td>
-    <td>Lee Gek Ong<br></td>
+    <td>Yi Fong<br></td>
     <td>Operations Support Officer<br></td>
     <td><a href="mailto:lee_gek_ong@moe.edu.sg">lee_gek_ong@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mdm<br></td>
-    <td>Tan Poh Heong<br></td>
+    <td>Ah Heong<br></td>
     <td>Operations Support Officer<br></td>
     <td><a href="mailto:tan_poh_heong@moe.edu.sg">tan_poh_heong@moe.edu.sg</a><br></td>
   </tr>
@@ -1343,7 +1344,7 @@ variant: markdown
  
 <tr>
   <td>Mr<br></td>
-  <td>Sung Wong Chiang<br></td>
+  <td>Alex Sung<br></td>
   <td>ICT Manager</td>
   <td><a href="mailto:sung_wong_chiang@moe.edu.sg">sung_wong_chiang@moe.edu.sg</a><br>
 </td>
@@ -1351,7 +1352,7 @@ variant: markdown
 	
   <tr>
     <td>Ms</td>
-    <td>Nur Ayuni binte Sudirmaji </td>
+    <td>Nur Ayuni </td>
     <td>STEM Instructor </td>
     <td><a href="mailto:nur_ayuni_sudirmaji@moe.edu.sg">nur_ayuni_sudirmaji@moe.edu.sg</a></td>
   </tr>
