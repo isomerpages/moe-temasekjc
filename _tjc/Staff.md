@@ -82,6 +82,10 @@ variant: tiptap
 <p><a href="https://for.edu.sg/#/" rel="noopener noreferrer nofollow" target="_blank">For.Edu.Sg</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Transcribe for Staff</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p></p>
