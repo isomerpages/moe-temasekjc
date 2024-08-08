@@ -206,11 +206,7 @@ variant: markdown
     <td>Ms Low Kia Sze</td>
     <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Deputy Head / Mother Tongue (JC)<br></td>
-    <td>Mdm Jiang Hui<br></td>
-    <td><a href="mailto:jiang_hui@moe.edu.sg">jiang_hui@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Deputy Head / Physical Education &amp; CCA <br></td>
     <td>Ms Jonique Ang</td>
