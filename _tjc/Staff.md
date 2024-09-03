@@ -95,6 +95,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.smartcompose.gov.sg/" rel="noopener nofollow" target="_blank">SmartCompose</a>
+</p>
+</li>
+<li>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2v6SbgaIsgGwjCZycTyiRefOeL6kN2gUyrVWcqE7AzOOqCQ/viewform" rel="noopener noreferrer nofollow" target="_blank">ICT Request Form</a>
 </p>
 </li>
