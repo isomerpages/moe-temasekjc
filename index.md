@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_Banner_NDP_2024_TJC.png
+      background: /images/TJC_Mural_7.png
       key_highlights:
         - title: Heritage Website
           description: ""
