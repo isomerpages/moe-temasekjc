@@ -210,13 +210,8 @@ variant: markdown
     <td><br></td>
     <td><a href="mailto:lee_xiuli@moe.edu.sg">lee_xiuli@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Kwan Sin Min<br></td>
-    <td>Teacher<br></td>
-    <td><br></td>
-    <td><a href="mailto:kwan_sin_min@moe.edu.sg">kwan_sin_min@moe.edu.sg</a></td>
-  </tr>
+
+
 	
 	
 	
