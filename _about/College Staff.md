@@ -1266,7 +1266,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td>Ms </td>
-    <td>Doreen</td>
+    <td>Doreen Ng</td>
     <td>Corporate Support Officer</td>
     <td><a href="mailto:doreen_ng_pei_shi@moe.edu.sg">doreen_ng_pei_shi@moe.edu.sg</a> </td>
   </tr>
