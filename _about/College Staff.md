@@ -1264,6 +1264,14 @@ variant: markdown
     <td>Corporate Support Officer</td>
     <td><a href="mailto:faridah_shukor@moe.edu.sg">faridah_shukor@moe.edu.sg</a> </td>
   </tr>
+	 <tr>
+    <td>Ms </td>
+    <td>Doreen Ng</td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:doreen_ng_pei_shi@moe.edu.sg">doreen_ng_pei_shi@moe.edu.sg</a> </td>
+  </tr>
+	
+	
   <tr>
     <td>Mr </td>
     <td>Ricky</td>
@@ -1375,12 +1383,6 @@ variant: markdown
     <td>Lisa Tang<br></td>
     <td>STEM Instructor </td>
     <td><a href="mailto:tang_lee_fa@moe.edu.sg">tang_lee_fa@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Razali Jantan<br></td>
-    <td>STEM Instructor</td>
-    <td><a href="mailto:razali_jantan@moe.edu.sg">razali_jantan@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms </td>
