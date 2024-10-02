@@ -2,6 +2,7 @@
 title: College Advisory Committee
 permalink: /about/college-advisory-committee/
 description: ""
+variant: markdown
 ---
 # COLLEGE ADVISORY COMMITTEE
 
@@ -51,8 +52,7 @@ Chairman</td>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Prof%20David%20Tan%20Photo%20Member.jpg" style="width:100px">Prof David Tan<br>Member</td>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Sze%20Meng.png" style="width:100px">Mr Soon Sze Meng<br>Member</td>
-		 <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Member</td>
+<td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Member</td>
     <td style="text-align: center;"></td>
   </tr>
 </tbody>
