@@ -18,7 +18,7 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
 
 * Strong CCA/VIA records (i.e. achievements, leadership experience and service to community)
 
-<p style="text-align: justify;">All applicants must sit the selection tests. Only shortlisted applicants will have to attend an interview.</p>
+<p style="text-align: justify;">All applicants must sit for the selection tests. Only shortlisted applicants will have to attend an interview.</p>
 
 <p style="text-align: justify;"><b>Students not studying in Mainstream schools</b></p>
 
