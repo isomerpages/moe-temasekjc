@@ -93,7 +93,7 @@ Application for IP Year 3 Admission Exercise 2025 commences from **7 October 202
 4. Rate and Speed<br>
 5. Algebraic Expressions and Formulae<br>
 6. Functions and Graphs<br>
-7. Linear equations, simultaneous equations, linear inequalities, quadratic equations<br>
+7. Linear equations, simultaneous equations (linear and non-linear), linear inequalities, quadratic equations<br>
 8. Angles, Triangles and Polygons<br>
 9. Pythagoras’ Theorem and Trigonometry<br>
 10. Mensuration<br>
