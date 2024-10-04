@@ -60,11 +60,12 @@ Application for IP Year 3 Admission Exercise 2025 commences from **7 October 202
 <p style="text-align: justify;"><b>School-based Selection Tests</b></p>
 
 <p style="text-align: justify;">All applicants are to sit the <b>school-based selection</b> tests comprising the following:</p>
-
+	
+<p style="color: darkblue;">			
 •	  English Language<br>
 •	  Mathematics<br>
 •	  Science<br>
-
+</p>
 <p style="text-align: justify;">Test dates: <b>4 Nov 2024, Mon</b> (Papers: English &amp; Science) <u>and</u> <b>6 Nov 2024, Wed</b> (Paper: Mathematics)</p>
 	
 <p style="text-align: justify;">Test venue: Temasek Junior College (2 Tampines Ave 9, Singapore 529564)</p> 	
