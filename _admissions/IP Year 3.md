@@ -73,13 +73,33 @@ Application for IP Year 3 Admission Exercise 2025 commences from **7 October 202
 		
 		
 		
+
+    
+    
+    <title>Simple Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2
+        }
+    </style>
+
+
+
 <table>
-<thead>
-<tr>
-<th style="text-align: center;">Scope of Tests</th>
+    <tbody><tr>
+	<th colspan="2">Scope of Tests</th>
 </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
 <tr>
 <td>English Language
 </td>
