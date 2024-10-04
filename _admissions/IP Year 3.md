@@ -76,7 +76,7 @@ Application for IP Year 3 Admission Exercise 2025 commences from **7 October 202
 
     
     
-    <title>Simple Table</title>
+   <title>Simple Table</title>
     <style>
         table {
             width: 100%;
