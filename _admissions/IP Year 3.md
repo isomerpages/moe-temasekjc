@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2025) IS NOW OPEN**
 
-Application for IP Year 3 Admission Exercise 2025 commences from **7 October 2024 (9.00 am, Singapore time) to 25 October 2024 (12.00 pm, Singapore time).**
+Application for IP Year 3 Admission Exercise 2024 commences from **7 October 2024 (9.00 am, Singapore time) to 25 October 2024 (12.00 pm, Singapore time).**
 
 <p style="text-align: justify;"><b>ADMISSION CRITERIA</b></p>
 
