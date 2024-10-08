@@ -31,6 +31,9 @@ variant: markdown
 </b></p>
 			<p style="text-align: justify;">Please refer to the following document for more details on subject combinations:<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf" target="_blank">JC1 Subject Combination (2025)
 </a></p>
-    </div>
+			
+			
+			
+</div>
 	</li> 
 	</ul>
