@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /temasek-experience/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 # CO-CURRICULAR ACTIVITIES
 
@@ -21,8 +22,8 @@ description: ""
 <td style="text-align: center;" width="258"><a href="/temasek-experience/co-curricular-activities/integrated-programme/sports"><strong>Sports</strong></a></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="270">Choir<br />Guitar<br />Infocomm Club<br />Modern Dance<br />Students' Council<br />Symphonic Band</td>
-<td style="text-align: center;" width="258">Badminton<br />Basketball<br />Bowling<br />Football (Boys)<br />Swimming<br />Taekwondo<br />Volleyball (Girls)</td>
+<td style="text-align: center;" width="270">Choir<br>Guitar<br>Infocomm Club<br>Modern Dance<br>Students' Council<br>Symphonic Band</td>
+<td style="text-align: center;" width="258">Badminton<br>Basketball<br>Bowling<br>Football (Boys)<br>Swimming<br>Taekwondo<br>Volleyball (Girls)</td>
 </tr>
 </tbody>
 </table>
@@ -40,9 +41,9 @@ description: ""
 <td style="text-align: center;" width="214"><a href="/temasek-experience/co-curricular-activities/junior-college/service-n-enrichment"><strong>Service &amp; Enrichment</strong></a></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="196">Chinese Drama<br />Chinese Orchestra<br />Choir<br />Drama Club<br />Guitar Ensemble<br />Indian Cultural Society<br />Malay Cultural Club<br />Modern Dance<br />String Ensemble<br />Symphonic Band</td>
-<td style="text-align: center;" width="198">Badminton<br />Basketball<br />Bowling<br />Floorball (Boys)<br />Football (Boys)<br />Netball<br />Outdoor Adventure Club<br />Shooting<br />Table Tennis<br />Taekwondo<br />Tennis<br />Volleyball</td>
-<td style="text-align: center;" width="214">Debate<br />Infocomm Club<br />Leo Club<br />Students&rsquo; Council</td>
+<td style="text-align: center;" width="196">Chinese Drama<br>Choir<br>Drama Club<br>Guitar Ensemble<br>Indian Cultural Society<br>Malay Cultural Club<br>Modern Dance<br>String Ensemble<br>Symphonic Band</td>
+<td style="text-align: center;" width="198">Badminton<br>Basketball<br>Bowling<br>Floorball (Boys)<br>Football (Boys)<br>Netball<br>Outdoor Adventure Club<br>Shooting<br>Table Tennis<br>Taekwondo<br>Tennis<br>Volleyball</td>
+<td style="text-align: center;" width="214">Debate<br>Infocomm Club<br>Leo Club<br>Students’ Council</td>
 </tr>
 </tbody>
 </table>
