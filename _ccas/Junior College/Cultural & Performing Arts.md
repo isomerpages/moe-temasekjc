@@ -28,27 +28,15 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">CHINESE ORCHESTRA</label>
-    <div>
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Chinese%20Orchestra%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Tan Minyi Shawn</p><p><b>Email</b><br>tan_minyi_shawn@moe.edu.sg</p></td>
-  </tr>
-</tbody>
-</table>
-    </div>
-	</li> 
-	  <li>
+	 
+	
+	
+
+	
+	
+	
+	
+<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">CHOIR</label>
     <div>
@@ -68,7 +56,10 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	  
+	
+	
+<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">DRAMA CLUB</label>
     <div>
@@ -88,7 +79,10 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	  
+
+	
+<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">GUITAR ENSEMBLE</label>
     <div>
@@ -108,7 +102,10 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	 
+	
+	
+<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">INDIAN CULTURAL SOCIETY</label>
     <div>
@@ -128,7 +125,10 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	 
+	
+	
+<li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">MALAY CULTURAL CLUB</label>
     <div>
@@ -148,7 +148,9 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	 
+	
+<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">MODERN DANCE</label>
     <div>
@@ -168,7 +170,9 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	  
+	
+<li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">STRING ENSEMBLE</label>
     <div>
@@ -188,7 +192,10 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
+	  
+	
+	
+<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">SYMPHONIC BAND</label>
     <div>
