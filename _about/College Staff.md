@@ -397,12 +397,7 @@ variant: markdown
     <td>Sasha Kaur Dhillon<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:sasha_kaur_dhillon@moe.edu.sg">sasha_kaur_dhillon@moe.edu.sg</a></td>
-			  </tr><tr>
-    <td>Mrs</td>
-    <td>Marlinder Roy</td>
-    <td>Teacher </td>
-    <td><a href="mailto:marlinder_roy_a@moe.edu.sg">marlinder_roy_a@moe.edu.sg</a></td>
-  </tr>
+		</tr>
 	  <tr>
     <td>Ms</td>
     <td>Natasha Raj </td>
