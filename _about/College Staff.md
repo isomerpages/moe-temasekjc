@@ -728,13 +728,8 @@ variant: markdown
     <td><a href="mailto:zhang_jiao@moe.edu.sg">zhang_jiao@moe.edu.sg</a></td>
   </tr>
 
-  <tr>
-    <td>Mdm</td>
-    <td>Ong Mui Hua</td>
-    <td>Teacher</td>
-    <td><a href="mailto:ong_mui_hua@moe.edu.sg">ong_mui_hua@moe.edu.sg</a></td>
-  </tr>
-		  <tr>
+
+<tr>
     <td>Ms</td>
     <td>Zhang Hao</td>
     <td>Teacher</td>
@@ -746,31 +741,14 @@ variant: markdown
     <td>Teacher</td>
     <td><a href="mailto:lin_pei-chen@moe.edu.sg">lin_pei-chen@moe.edu.sg</a></td>
   </tr>
-	  <tr>
-    <td>Mdm</td>
-    <td>Ong Lay Seng</td>
-    <td>Teacher</td>
-    <td><a href="mailto:ong_lay_seng@moe.edu.sg">ong_lay_seng@moe.edu.sg</a></td>
-  </tr>
-		  <tr>
+
+<tr>
 	 <td>Mdm</td>
     <td>Ma Yanping</td>
     <td>Teacher</td>
     <td><a href="mailto:ma_yanping@moe.edu.sg">ma_yanping@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-	 <td>Mrs</td>
-    <td>Raja</td>
-    <td>Teacher</td>
-    <td><a href="mailto:vijaya_lakshimi_rajaratanam@moe.edu.sg">vijaya_lakshimi_rajaratanam@moe.edu.sg</a></td>
-  </tr>
-		<tr>
-    <td>Mdm</td>
-    <td>Filza Mohamed Omar</td>
-    <td>Teacher</td>
-    <td><a href="mailto:filza_mohamed_omar@moe.edu.sg">filza_mohamed_omar@moe.edu.sg</a></td>
-  </tr>
-	<tr>
+
+	</tr><tr>
     <td>Mdm</td>
     <td>Santha</td>
     <td>Teacher</td>
