@@ -25,10 +25,12 @@ is a Centre of Excellence for Research and an established Centre for the
 MOE Humanities Scholarship Programme, the Music Elective Programme and
 the Chinese Language Elective Programme.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TJC history: Key milestones and leadership" src="/images/Historical_milestones.svg">
+<img style="width: 100%" height="auto" width="100%" alt="TJC's history: key milestones &amp; leadership" src="/images/Historical_milestones__1_.svg">
 </div>
-<p>Key milestones in our history</p>
+<p>TJC's history: key milestones &amp; leadership</p>
+<p></p>
 <ul>
 <li>
 <p>COLLEGE CREST</p>
