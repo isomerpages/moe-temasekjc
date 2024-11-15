@@ -2,6 +2,7 @@ collections:
   tjc:
     output: true
     order:
+      - School Calendar.md
       - Students.md
       - Staff.md
       - Parents.md
