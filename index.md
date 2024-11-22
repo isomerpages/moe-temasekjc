@@ -19,6 +19,13 @@ sections:
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
       variant: image
+  - infobar:
+      title: IP Admissions Talk (2025 Intake)
+      id: infobar
+      description: "Meeting ID: 812 2870 1002  Passcode: TJC"
+      button: Zoom Link
+      url: https://moe-singapore.zoom.us/j/81228701002
+      subtitle: 22 November 2024, Friday, 5PM
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
