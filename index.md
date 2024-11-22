@@ -19,6 +19,12 @@ sections:
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
       variant: image
+  - infobar:
+      title: IP Admissions Talk (2025 Intake)
+      id: infobar
+      description: 22 November 2024, Friday, 5PM
+      button: Zoom Link
+      url: https://moe-singapore.zoom.us/j/81228701002
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
