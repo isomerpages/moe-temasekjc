@@ -22,9 +22,9 @@ sections:
   - infobar:
       title: IP Admissions Talk (2025 Intake)
       id: infobar
-      description: "Meeting ID: 812 2870 1002  Passcode: TJC"
-      button: Zoom Link
-      url: https://moe-singapore.zoom.us/j/81228701002
+      description: View the recording of the IP Admissions Talk via the link below
+      button: CLICK HERE
+      url: https://drive.google.com/file/d/1VGxES5tXfBu9q1Q1CLAJdbqcsqAICh1H/view?usp=drive_link
       subtitle: 22 November 2024, Friday, 5PM
   - infopic:
       title: INTEGRATED  PROGRAMME
