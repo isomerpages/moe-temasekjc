@@ -18,6 +18,9 @@ sections:
         - title: JC Subject Combination
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
+        - title: IP1 Registration 2025
+          description: ""
+          url: ""
       variant: image
   - infobar:
       title: IP Admissions Talk (2025 Intake)
