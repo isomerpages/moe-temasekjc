@@ -4,7 +4,7 @@ permalink: /appeal-application-for-ip-year-1-registration-2025-intake/
 variant: tiptap
 description: ""
 ---
-<h1>Appeal Application for IP Year 1 Registration (2025 Intake)</h1>
+<h1>Appeal Application For IP Year 1 Registration (2025 Intake)</h1>
 <p>MOE is committed to supporting holistic education and providing our students
 with multiple pathways and opportunities to pursue an education best suited
 to their needs and strengths, while remaining consistent with our key principles
@@ -91,7 +91,7 @@ for submission:</p>
 form personally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
+<img style="width: 25%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
 <p>Only successful applicants will be informed by <strong>31 December 2024.</strong>
