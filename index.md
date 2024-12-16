@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Temasek_Junior_College_IP_Admissions_Talk__for_2025_intake__banner_November_2024__Friday_500pm_via_Zoom.png
+      background: /images/Admissions/2025_IP_Reg_banner_resized.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
