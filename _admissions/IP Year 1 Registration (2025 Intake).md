@@ -7,7 +7,9 @@ variant: markdown
 #### **A Heartiest Welcome to the Temasek Junior College Family!** ####
 
 
-<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by 22 Dec 2024, 5pm by submitting the online form, which is accessible via this link  <a href="https://go.gov.sg/tjc-ip12025" target="_blank">https://go.gov.sg/tjc-ip12025</a> or the following QR Code: <img style="width:200px;height:200px;" alt="QR Code for IP1 Appeals" src="/images/QR_Code_IP1_Registration.png">
+<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by 22 December 2024, 5pm by submitting the online form, which is accessible via this link  <a href="https://go.gov.sg/tjc-ip12025" target="_blank">https://go.gov.sg/tjc-ip12025</a> or the following QR Code: <img style="width:200px;height:200px;" alt="QR Code for IP1 Registration" src="/images/Admissions/2025_IP1_Reg_Code.png">
+	
+
 	
 	
 All students who have been posted to TJC, including those who have been posted via DSA-Sec, must complete the registration. 
@@ -65,5 +67,5 @@ All students who have been posted to TJC, including those who have been posted v
 														
 <p style="text-align: justify;">If you are unable to complete the online IP1 Registration Form, or have any other questions, please contact the TJC General Office at 64428066 for assistance.
 
-</p><p style="text-align: justify;">We look forward to seeing all IP1 students in school on 7 Jan 2025 as you begin your journey in TJC IP!
+</p><p style="text-align: justify;">We look forward to seeing all IP1 students in school on 7 January 2025 as you begin your journey in TJC IP!
 </p>
