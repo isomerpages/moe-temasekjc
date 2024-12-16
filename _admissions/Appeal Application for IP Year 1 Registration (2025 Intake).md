@@ -65,8 +65,8 @@ for the entire duration of the programme.</p>
 applicants will be informed.</p>
 <p><strong>Before applying, please note the following:</strong>
 </p>
-<p>1. Students who <strong>have been successfully allocated</strong> a DSA
-place in another secondary school will not be considered for appeal.</p>
+<p>1. Students who have been successfully allocated a DSA place in another
+secondary school will not be considered for appeal.</p>
 <p>2. Students who wish to appeal should prepare the following documents
 for submission:</p>
 <ul data-tight="true" class="tight">
