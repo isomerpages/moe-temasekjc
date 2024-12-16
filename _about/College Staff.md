@@ -362,13 +362,8 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:cheng_elim@moe.edu.sg">cheng_elim@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Fauzana Abdullah<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:fauzana_abdullah@moe.edu.sg">fauzana_abdullah@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+
+<tr>
     <td>Ms<br></td>
     <td>Jane Lin <br></td>
     <td>Teacher<br></td>
@@ -666,12 +661,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:haslinda_ali@moe.edu.sg">haslinda_ali@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mdm<br></td>
-    <td>Koh Swang Cheng<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:koh_swang_cheng@moe.edu.sg">koh_swang_cheng@moe.edu.sg</a><br></td>
-  </tr>
+
 
   <tr>
     <td>Ms</td>
