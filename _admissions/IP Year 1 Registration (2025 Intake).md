@@ -38,7 +38,8 @@ All students who have been posted to TJC, including those who have been posted v
 								
 			
 </p><p style="text-align: justify;">5. <a href="/files/Admissions/IP1%20Registration%202025/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms.pdf">Instructions for Purchasing of Textbooks and Uniforms</a>
-
+			
+			
 </p><p style="text-align: justify;">6a. Letter to Parents for PDLP Procurement (information will be shared by end of Dec 2024)
 	
 </p><p style="text-align: justify;">6b. Parent Handbook (information will be shared by end of Dec 2024)
