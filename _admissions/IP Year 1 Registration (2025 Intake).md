@@ -41,7 +41,7 @@ All students who have been posted to TJC, including those who have been posted v
 
 </p><p style="text-align: justify;">6a. Letter to Parents for PDLP Procurement (information will be shared by end of Dec 2024)
 	
-</p><p style="text-align: justify;">6b. Parent Handbook (information will be shared by end of Decr 2024)
+</p><p style="text-align: justify;">6b. Parent Handbook (information will be shared by end of Dec 2024)
 	
 </p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202025/7a__Application_for_TJC_IP_Music_Elective_Programme_2025.pdf">Application for TJC IP Music Elective Programme 2025</a>
 
