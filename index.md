@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Temasek_Junior_College_IP_Admissions_Talk__for_2025_intake__banner_November_2024__Friday_500pm_via_Zoom.png
+      background: /images/Admissions/2025_IP_Reg_banner_resized.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -15,6 +15,9 @@ sections:
         - title: DSA-JC Engagement Session
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/jc-year-1-dsa-jc/
+        - title: IP1 Registration 2025
+          description: ""
+          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2025-intake/
         - title: JC Subject Combination
           description: ""
           url: https://www.temasekjc.moe.edu.sg/files/Academic/jc1%20subject%20combination%20(2024)_update.pdf
