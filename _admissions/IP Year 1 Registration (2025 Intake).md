@@ -27,7 +27,9 @@ All students who have been posted to TJC, including those who have been posted v
 <p style="text-align: justify;">1. <a href="/files/Admissions/IP1%20Registration%202025/1__Instructions_for_Completing_the_IP1_Online_Registration_Exercise_2025__Updated_13_Dec_.pdf">Instructions for Completing the IP1 Online Registration Exercise 2025</a>
 			
 
-</p><p style="text-align: justify;">2. <a href="">General Info 2025</a> 				
+</p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202025/2__General_Info_2025_1.pdf">General Info 2025</a> 				
+
+			
 			
 </p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202025/3__2025_IP1_Induction_Schedule.pdf">IP1 Induction Schedule 2025</a>		
 			
@@ -37,8 +39,8 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202025/4__Booklist_2025_IP_Year_1.pdf">Booklist 2025</a>
 								
 			
-</p><p style="text-align: justify;">5. <a href="">Instructions for Purchasing of Textbooks and Uniforms</a>
-			
+</p><p style="text-align: justify;">5. <a href="/files/Admissions/IP1%20Registration%202025/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms_1.pdf">Instructions for Purchasing of Textbooks and Uniforms</a>
+
 			
 </p><p style="text-align: justify;">6a. Letter to Parents for PDLP Procurement (information will be shared by end of Dec 2024)
 	
