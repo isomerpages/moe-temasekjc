@@ -75,9 +75,10 @@ for submission:</p>
 </ul>
 <hr>
 <h4><strong>How to Apply?</strong></h4>
-<p>Application is to be done <strong><u>strictly online</u></strong> via:
-<a href="https://go.gov.sg/tjcip12025" rel="noopener nofollow" target="_blank">https://go.gov.sg/tjcip12025.</a>
+<p>Application is to be done <strong><u>strictly online</u></strong> via: [https://go.gov.sg/tjcip12025](https://go.gov.sg/tjcip12025)
 </p>
+
+
 <p>It is <strong><u>not </u></strong>necessary to submit any hardcopy appeal
 form personally.</p>
 <p></p>
