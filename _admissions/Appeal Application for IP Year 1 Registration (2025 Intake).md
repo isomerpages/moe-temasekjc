@@ -1,7 +1,7 @@
 ---
 title: Appeal Application for IP Year 1 Registration (2025 Intake)
 permalink: /appeal-application-for-ip-year-1-registration-2025-intake/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h1>Appeal Application For IP Year 1 Registration (2025 Intake)</h1>
@@ -75,13 +75,16 @@ for submission:</p>
 </ul>
 <hr>
 <h4><strong>How to Apply?</strong></h4>
-<p>Application is to be done <strong><u>strictly online</u></strong> via:
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tjcip12025</a>.</p>
+<p>Application is to be done <strong><u>strictly online</u></strong> via: 
+<a href="https://go.gov.sg/tjcip12025" target="_blank">https://go.gov.sg/tjcip12025</a>	
+</p>
+
+
 <p>It is <strong><u>not </u></strong>necessary to submit any hardcopy appeal
 form personally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
 <p>Only successful applicants will be informed by <strong>31 December 2024.</strong>
