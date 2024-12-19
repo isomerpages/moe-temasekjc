@@ -82,7 +82,7 @@ for submission:</p>
 form personally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
 <p>Only successful applicants will be informed by <strong>31 December 2024.</strong>
