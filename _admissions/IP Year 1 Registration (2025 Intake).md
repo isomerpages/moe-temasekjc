@@ -30,7 +30,8 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202025/2_General_Information_2025.pdf">General Info 2025</a> 				
 
 			
-</p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202025/3__2025_IP1_Induction_Schedule.pdf">IP1 Induction Schedule 2025</a>		
+</p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202025/2025_IP1_Induction_Schedule.pdf">IP1 Induction Schedule 2025</a>		
+
 			
 
 </p><p style="text-align: justify;">3b. <img alt="Students' Tshirt Guide" src="/images/3c__2024_IP1_Induction___Students__Tshirt_Guide.jpg">		
