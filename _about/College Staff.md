@@ -144,14 +144,8 @@ variant: markdown
     <td>Economics<br></td>
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Janice Chan<br></td>
-    <td>Deputy Student Leadership<br></td>
-    <td>History<br></td>
-    <td><a href="mailto:chan_yan_ying_janice@moe.edu.sg">chan_yan_ying_janice@moe.edu.sg</a><br></td>
-  </tr>	
-	<tr>
+
+<tr>
     <td>Ms<br></td>
     <td>Kat Kar Hwee<br></td>
     <td>Senior Teacher<br></td>
@@ -649,12 +643,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:elina_abdul_rashid@moe.edu.sg">elina_abdul_rashid@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Hao Deyi<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:hao_deyi@moe.edu.sg">hao_deyi@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mdm<br></td>
     <td>Haslinda Ali<br></td>
@@ -742,12 +731,7 @@ variant: markdown
     <td>Deputy Head / PE &amp; CCA 1</td>
     <td><a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Shirley Goh<br></td>
-    <td>Deputy Head / PE &amp; CCA 2<br></td>
-    <td><a href="mailto:teo_yew_ing_shirley@moe.edu.sg">teo_yew_ing_shirley@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Francis Lee<br></td>
@@ -972,13 +956,7 @@ variant: markdown
     <td> Biology </td>
     <td><a href="mailto:tan_zhen_zhi_a@moe.edu.sg">tan_zhen_zhi_a@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Chua Yock Lan<br></td>
-    <td>Teacher<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:ng_yock_lan@moe.edu.sg">ng_yock_lan@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr</td>
     <td>Joel Chung</td>
@@ -1245,12 +1223,7 @@ variant: markdown
     <td>School Counsellor  </td>
     <td><a href="mailto:sahlan_selamat@moe.edu.sg">sahlan_selamat@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td>Mr</td>
-    <td>Kwek Baozhi Andy</td>
-    <td>SEN Officer - Learning Support Educator </td>
-    <td><a href="mailto:kwek_baozhi_andy@moe.edu.sg">kwek_baozhi_andy@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Lim Hock Kwee<br></td>
