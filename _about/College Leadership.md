@@ -11,8 +11,8 @@ variant: markdown
 |                 |                  |                             |
 |--------------|------------------|-----------|
 | Principal                          | Mr Liu Earnler   | [earnler\_liu@schools.gov.sg](mailto:earnler_liu@schools.gov.sg)  |
-| Vice Principal 1                   | Mrs Lim Kia Huan | [tan\_kia\_huan@schools.gov.sg](mailto:tan_kia_huan@schools.gov.sg) |
-| Vice Principal 2                   | Mrs Wendy Goh  | [wendy\_goh@schools.gov.sg](mailto:wendy_goh@schools.gov.sg) |
+| Vice Principal 1                   | Mrs Wendy Goh | [wendy\_goh@schools.gov.sg](mailto:wendy_goh@schools.gov.sg) |
+| Vice Principal 2                   | Mr Kenneth Quek   | [Kenneth_quek@schools.gov.sg](mailto:Kenneth_QUEK@schools.gov.sg) |
 | Vice Principal<br>(Administration) | Mr Mark Chan     | [mark\_chan@schools.gov.sg](mailto:mark_chan@schools.gov.sg)    |
 
 
@@ -24,9 +24,9 @@ variant: markdown
 <table>
 <thead>
   <tr>
-    <th>Dean / Integrated Programme<br></th>
-    <th>Mrs Jean Koh-Woo Kuan Shing<br></th>
-    <th><a href="mailto:woo_kuan_shing_jean@moe.edu.sg">woo_kuan_shing_jean@moe.edu.sg</a><br></th>
+    <td>Dean / Integrated Programme<br></td>
+    <td>Mrs Jean Koh-Woo Kuan Shing<br></td>
+    <td><a href="mailto:woo_kuan_shing_jean@moe.edu.sg">woo_kuan_shing_jean@moe.edu.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
@@ -101,12 +101,8 @@ variant: markdown
     <td>Mr Chow Chee Wai<br></td>
     <td><a href="mailto:chow_chee_wai@moe.edu.sg">chow_chee_wai@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Physical Education</td>
-    <td>Mr Tan Teck Joo</td>
-    <td><a href="mailto:tan_teck_joo@moe.edu.sg">tan_teck_joo@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+
+ <tr>
     <td>HOD / Project Work<br></td>
     <td>Ms Jolene Zhou<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
@@ -147,9 +143,9 @@ variant: markdown
 		 <table>
 <thead>
   <tr>
-    <th>Deputy Dean / Integrated Programme<br></th>
-    <th>Miss Rebecca Wu<br></th>
-    <th><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></th>
+    <td>Deputy Dean / Integrated Programme<br></td>
+    <td>Miss Rebecca Wu<br></td>
+    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
@@ -160,6 +156,14 @@ variant: markdown
     <td>Mr Koh Rui Yang<br></td>
     <td><a href="mailto:rui_yang_koh@moe.edu.sg">rui_yang_koh@moe.edu.sg</a><br></td>
   </tr>
+	
+<tr>
+    <td>Deputy Head / CCE <br></td>
+    <td>Mr Marcus Tay<br></td>
+    <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a><br></td>
+  </tr>
+	
+	
   <tr>
     <td>Deputy Head / Student Well-Being<br></td>
     <td>Ms Tan Yi Jie<br></td>
@@ -212,11 +216,7 @@ variant: markdown
     <td>Ms Jonique Ang</td>
     <td><a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Deputy Head / Physical Education &amp; CCA  </td>
-    <td>Mrs Shirley Goh</td>
-    <td><a href="mailto:teo_yew_ing_shirley@moe.edu.sg">teo_yew_ing_shirley@moe.edu.sg</a></td>
-  </tr>
+
   <tr>
     <td>Deputy Head / Project Work </td>
     <td>Ms Anna Maria  </td>
@@ -232,17 +232,9 @@ variant: markdown
     <td>Ms Kok Hui Ching</td>
     <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Deputy Head / Student Leadership </td>
-    <td>Ms Chua Cheng Ying </td>
-    <td><a href="mailto:cheng_ying_chua@moe.edu.sg">cheng_ying_chua@moe.edu.sg</a></td>
-  </tr>
-	  <tr>
-    <td>Deputy Head / Talent Development </td>
-    <td>Ms Janice Chan </td>
-    <td><a href="mailto:chan_yan_ying_janice@moe.edu.sg">chan_yan_ying_janice@moe.edu.sg</a></td>
-  </tr>
-		  <tr>
+
+
+<tr>
     <td>Deputy Head / VIA </td>
     <td>Ms Esther Mok </td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a></td>
