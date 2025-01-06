@@ -11,8 +11,8 @@ variant: markdown
 |                 |                  |                             |
 |--------------|------------------|-----------|
 | Principal                          | Mr Liu Earnler   | [earnler\_liu@schools.gov.sg](mailto:earnler_liu@schools.gov.sg)  |
-| Vice Principal 1                   | Mrs Lim Kia Huan | [tan\_kia\_huan@schools.gov.sg](mailto:tan_kia_huan@schools.gov.sg) |
-| Vice Principal 2                   | Mrs Wendy Goh  | [wendy\_goh@schools.gov.sg](mailto:wendy_goh@schools.gov.sg) |
+| Vice Principal 1                   | Mrs Wendy Goh | [wendy\_goh@schools.gov.sg](mailto:wendy_goh@schools.gov.sg) |
+| Vice Principal 2                   | Mr Kenneth Quek   | [Kenneth_quek@schools.gov.sg](mailto:Kenneth_QUEK@schools.gov.sg) |
 | Vice Principal<br>(Administration) | Mr Mark Chan     | [mark\_chan@schools.gov.sg](mailto:mark_chan@schools.gov.sg)    |
 
 
