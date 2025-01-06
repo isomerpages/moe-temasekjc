@@ -24,9 +24,9 @@ variant: markdown
 <table>
 <thead>
   <tr>
-    <th>Dean / Integrated Programme<br></th>
-    <th>Mrs Jean Koh-Woo Kuan Shing<br></th>
-    <th><a href="mailto:woo_kuan_shing_jean@moe.edu.sg">woo_kuan_shing_jean@moe.edu.sg</a><br></th>
+    <td>Dean / Integrated Programme<br></td>
+    <td>Mrs Jean Koh-Woo Kuan Shing<br></td>
+    <td><a href="mailto:woo_kuan_shing_jean@moe.edu.sg">woo_kuan_shing_jean@moe.edu.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
@@ -147,9 +147,9 @@ variant: markdown
 		 <table>
 <thead>
   <tr>
-    <th>Deputy Dean / Integrated Programme<br></th>
-    <th>Miss Rebecca Wu<br></th>
-    <th><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></th>
+    <td>Deputy Dean / Integrated Programme<br></td>
+    <td>Miss Rebecca Wu<br></td>
+    <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
