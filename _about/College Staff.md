@@ -74,13 +74,7 @@ variant: markdown
     <td>Aesthetics<br></td>
     <td><a href="mailto:abigail_sim_shin_yi@moe.edu.sg">abigail_sim_shin_yi@moe.edu.sg</a></td>
   </tr>	
-	<tr>
-    <td>Mr<br></td>
-    <td>Winston Ang<br></td>
-    <td>Teacher<br></td>
-    <td>Aesthetics<br></td>
-    <td><a href="mailto:winston_ang_wee_kern@moe.edu.sg">winston_ang_wee_kern@moe.edu.sg</a></td>
-  </tr>	
+	
 	
 	
 	
@@ -772,12 +766,14 @@ variant: markdown
     <td>Teacher </td>
     <td><a href="mailto:wong_kok_wye_danny@moe.edu.sg">wong_kok_wye_danny@moe.edu.sg</a></td>
   </tr>
-	 <tr>
-    <td>Ms </td>
-    <td>Wai Lin</td>
-    <td>Teacher </td>
-    <td><a href="mailto:lam_wai_lin@schools.gov.sg">lam_wai_lin@schools.gov.sg</a></td>
-  </tr>
+
+
+<tr>
+  <td>Mr<br></td>
+ <td>Winston Ang<br></td>
+ <td>Teacher<br></td>
+<td><a href="mailto:winston_ang_wee_kern@moe.edu.sg">winston_ang_wee_kern@moe.edu.sg</a></td>
+ </tr>
 	
 </tbody>
 </table>
