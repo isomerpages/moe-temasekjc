@@ -42,9 +42,11 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">5. <a href="/files/Admissions/IP1%20Registration%202025/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms_1.pdf">Instructions for Purchasing of Textbooks and Uniforms</a>
 
 			
-</p><p style="text-align: justify;">6a. Letter to Parents for PDLP Procurement (information will be shared by end of Dec 2024)
+</p><p style="text-align: justify;">6a. <a href="/files/Admissions/IP1%20Registration%202025/6a__National_Digital_Literacy_Programme_2025.pdf"> Letter to Parents for PDLP Procurement </a>
 	
-</p><p style="text-align: justify;">6b. Parent Handbook (information will be shared by end of Dec 2024)
+</p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202025/6b__Parent_Handbook_on_Learning_with_a_Personal_Learning_Device_2025.pdf">Parent Handbook on Learning with a Personal Learning Device 2025</a>
+			
+</p><p style="text-align: justify;">6c.  <a href="/files/Admissions/IP1%20Registration%202025/6c__IP1_NDLP_Slides_for_Parents.pdf">IP1 NDLP Slides for Parents</a>
 	
 </p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202025/7a__Application_for_TJC_IP_Music_Elective_Programme_2025.pdf">Application for TJC IP Music Elective Programme 2025</a>
 
