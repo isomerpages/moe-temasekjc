@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Admissions/2025_IP_Reg_banner_resized.jpg
+      background: /images/JC_Open_House_website_banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
