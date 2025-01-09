@@ -35,7 +35,12 @@ variant: markdown
     <td>Dean / Junior College<br></td>
     <td>Mrs Lim Kai Teng<br></td>
     <td><a href="mailto:fan_kai_teng@moe.edu.sg">fan_kai_teng@moe.edu.sg</a><br></td>
-  </tr>	
+  </tr>
+	<tr>
+    <td>Dean (JC) <br>HOD / Humanities (JC)<br></td>
+    <td>Mr Jared Wong<br></td>
+    <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
+  </tr>
   <tr>
     <td>HOD / Total Curriculum<br></td>
     <td>Mr Hsi Han Yin<br></td>
@@ -67,11 +72,7 @@ variant: markdown
     <td>Mr Vincent Foo<br></td>
     <td><a href="mailto:foo_koon_tet@moe.edu.sg">foo_koon_tet@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Humanities (JC)<br></td>
-    <td>Mr Jared Wong<br></td>
-    <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
-  </tr>
+  
   <tr>
     <td>HOD / ICT<br></td>
     <td>Mr Lau Wee Lip Jonathan<br></td>
