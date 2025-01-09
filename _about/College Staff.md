@@ -113,7 +113,7 @@ variant: markdown
 <tr>
     <td>Ms<br></td>
     <td>Priscilla Chong<br></td>
-    <td>Deputy Head / Student Well-Being<br></td>
+    <td>Deputy Head / Student Well-Being (Discipline)<br></td>
     <td>Economics<br></td>
     <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a><br></td>
   </tr>
@@ -642,17 +642,12 @@ variant: markdown
     <td>HOD / MTL (IP)<br></td>
     <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
   </tr>
-	  <tr>
-    <td>Ms</td>
-    <td>Low Kia Sze</td>
-    <td>Deputy Head / MTL (IP)</td>
-    <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a></td>
-  </tr>
+
  <tr>
     <td>Mdm</td>
     <td>Jiang Hui</td>
-    <td>Deputy Head / MTL</td>
-    <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a></td>
+    <td>Deputy Head / MTL (JC) </td>
+    <td><a href="mailto:jiang_hui@moe.edu.sg">jiang_hui@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -660,7 +655,7 @@ variant: markdown
     <td>Senior Teacher / Chinese Language<br></td>
     <td><a href="mailto:tang_youbin@moe.edu.sg">tang_youbin@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
+  	<tr>
     <td>Ms<br></td>
     <td>Elina Abdul Rashid<br></td>
     <td>Teacher<br></td>
@@ -680,6 +675,13 @@ variant: markdown
     <td>Lok Chui Hui</td>
     <td>Teacher </td>
     <td><a href="mailto:lok_chui_hui@moe.edu.sg">lok_chui_hui@moe.edu.sg</a> </td>
+  </tr>
+
+<tr>
+    <td>Ms</td>
+    <td>Low Kia Sze</td>
+    <td>Teacher</td>
+    <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr<br></td>
@@ -725,6 +727,14 @@ variant: markdown
     <td>Teacher</td>
     <td><a href="mailto:r_santha@moe.edu.sg">r_santha@moe.edu.sg</a></td>
   </tr>
+	<tr>
+    <td>Ms</td>
+    <td>Li Shuwen</td>
+    <td>Teacher</td>
+    <td><a href="mailto:li_shuwen_b@moe.edu.sg">li_shuwen_b@moe.edu.sg</a></td>
+  </tr>
+
+	
 </tbody>
 </table>
     </div>
