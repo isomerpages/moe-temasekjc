@@ -106,7 +106,7 @@ variant: markdown
 <tr>
     <td>Mr<br></td>
     <td>Jared Wong<br></td>
-    <td>Dean (JC) / HOD Humanities (JC)<br></td>
+    <td>Dean (JC) / <br>HOD Humanities (JC)<br></td>
     <td>Geography<br></td>
     <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
   </tr> 
