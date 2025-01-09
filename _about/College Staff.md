@@ -324,24 +324,26 @@ variant: markdown
     <td>Deputy Head / General Paper<br></td>
     <td><a href="mailto:yap_zong_xing_eric@moe.edu.sg">yap_zong_xing_eric@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Evangeline Ho<br></td>
-    <td>Senior Teacher / General Paper<br></td>
-    <td><a href="mailto:pung_yuen_mei_evangeline@moe.edu.sg">pung_yuen_mei_evangeline@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Salama Noordin<br></td>
-    <td>Senior Teacher / General Paper<br></td>
-    <td><a href="mailto:salama_ishak@moe.edu.sg">salama_ishak@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+<tr>
     <td>Mr<br></td>
     <td>K. Veerapandiyan<br></td>
     <td>Senior Teacher / Knowledge &amp; Inquiry<br></td>
     <td><a href="mailto:k_veerapandiyan@moe.edu.sg">k_veerapandiyan@moe.edu.sg</a><br></td>
   </tr>
+	
+  <tr>
+    <td>Mrs<br></td>
+    <td>Evangeline Ho<br></td>
+    <td>Teacher <br></td>
+    <td><a href="mailto:pung_yuen_mei_evangeline@moe.edu.sg">pung_yuen_mei_evangeline@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Mrs<br></td>
+    <td>Salama Noordin<br></td>
+    <td>Teacher <br></td>
+    <td><a href="mailto:salama_ishak@moe.edu.sg">salama_ishak@moe.edu.sg</a><br></td>
+  </tr>
+  
 
  <tr>
     <td>Ms<br></td>
@@ -1108,14 +1110,14 @@ variant: markdown
     <td>Ms</td>
     <td>Veron Lee</td>
     <td>Teacher </td>
-    <td></td>
-    <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">.</a></td>
+    <td>Chemistry</td>
+    <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">lee_mui_keow@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td>Ms</td>
     <td>Joanne Tan</td>
     <td>Teacher </td>
-    <td></td>
+    <td>Chemistry</td>
     <td><a href="mailto:tan_siu_hwei_joanne@moe.edu.sg">tan_siu_hwei_joanne@moe.edu.sg</a></td>
   </tr>	
 <tr>
@@ -1266,15 +1268,21 @@ variant: markdown
   <tr>
     <td>Mdm<br></td>
     <td>Hamedah A Latiff<br></td>
-    <td>Operations Support Officer<br>(JC Physics Science Lab)</td>
-    <td><a href="mailto:hamedah_a_latiff@moe.edu.sg">hamedah_a_latiff@moe.edu.sg</a><br></td>
+    <td>Operations Support Officer<br>(JC Science Lab)</td>
+    <td><a href="">NIL</a><br></td>
   </tr>
   <tr>
     <td>Mdm<br></td>
     <td>Joheriah Md Jak<br></td>
     <td>Operations Support Officer<br>(JC Science Lab)</td>
-    <td><a href="mailto:joheriah_md_jak@moe.edu.sg">joheriah_md_jak@moe.edu.sg</a><br></td>
+    <td><a href="">NIL</a><br></td>
   </tr>
+  <tr>
+    <td>Mdm<br></td>
+    <td>Jaimah<br></td>
+    <td>Operations Support Officer<br>(JC Science Lab)</td>
+    <td><a href="">NIL</a><br></td>
+  </tr>	
   <tr>
     <td>Ms</td>
     <td>Peng Chai Tin </td>
@@ -1300,10 +1308,23 @@ variant: markdown
     <td><a href="mailto:sahlan_selamat@moe.edu.sg">sahlan_selamat@moe.edu.sg</a> </td>
   </tr>
 <tr>
+    <td>Ms </td>
+    <td>Jacqueline Lim </td>
+    <td>School Counsellor  </td>
+    <td><a href="mailto:lim_jia_qi_jacqueline@moe.edu.sg">lim_jia_qi_jacqueline@moe.edu.sg</a> </td>
+  </tr>
+<tr>
+    <td>Ms </td>
+    <td>Louisa Tan </td>
+    <td>School Counsellor  </td>
+    <td><a href="mailto:tan_toh_khin_louisa_a@moe.edu.sg">tan_toh_khin_louisa_a@moe.edu.sg</a> </td>
+  </tr>	
+	
+<tr>
     <td>Mr </td>
-    <td>Bakar </td>
-    <td>Special Educational Needs Officer  </td>
-    <td><a href="mailto:sahlan_selamat@moe.edu.sg">.</a> </td>
+    <td>Abu Bakar </td>
+    <td>Learning Support Officer (SEN) </td>
+    <td><a href="mailto:abu_bakar_agil@moe.edu.sg">abu_bakar_agil@moe.edu.sg</a> </td>
   </tr>
 	
 	
