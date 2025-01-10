@@ -1099,11 +1099,18 @@ variant: markdown
     <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">aliya_yusaf_ansari@moe.edu.sg</a></td>
   </tr>
 <tr>
+    <td>Mrs</td>
+    <td>Lisa Tan</td>
+    <td>Teacher </td>
+    <td>Physics</td>
+    <td><a href="mailto:choo_keng_kim_lisa@moe.edu.sg">choo_keng_kim_lisa@moe.edu.sg</a></td>
+  </tr>	
+<tr>
     <td>Ms</td>
     <td>Veron Lee</td>
     <td>Teacher </td>
     <td>Chemistry</td>
-    <td><a href="mailto:aliya_yusaf_ansari@moe.edu.sg">lee_mui_keow@moe.edu.sg</a></td>
+    <td><a href="mailto:lee_mui_keow@moe.edu.sg">lee_mui_keow@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td>Ms</td>
