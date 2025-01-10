@@ -33,14 +33,20 @@ variant: markdown
 
   <tr>
     <td>Dean / Junior College<br></td>
-    <td>Mr Hsi Han Yin<br></td>
-    <td><a href="mailto:hsi_han_yin@moe.edu.sg">hsi_han_yin@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Dean / Junior College<br></td>
     <td>Mrs Lim Kai Teng<br></td>
     <td><a href="mailto:fan_kai_teng@moe.edu.sg">fan_kai_teng@moe.edu.sg</a><br></td>
   </tr>
+	<tr>
+    <td>Dean (JC) <br>HOD / Humanities (JC)<br></td>
+    <td>Mr Jared Wong<br></td>
+    <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>HOD / Total Curriculum<br></td>
+    <td>Mr Hsi Han Yin<br></td>
+    <td><a href="mailto:hsi_han_yin@moe.edu.sg">hsi_han_yin@moe.edu.sg</a><br></td>
+  </tr>
+
   <tr>
     <td>HOD / Aesthetics<br></td>
     <td>Ms Serene Tan<br></td>
@@ -66,11 +72,7 @@ variant: markdown
     <td>Mr Vincent Foo<br></td>
     <td><a href="mailto:foo_koon_tet@moe.edu.sg">foo_koon_tet@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Humanities (JC)<br></td>
-    <td>Mr Jared Wong<br></td>
-    <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
-  </tr>
+  
   <tr>
     <td>HOD / ICT<br></td>
     <td>Mr Lau Wee Lip Jonathan<br></td>
@@ -103,7 +105,7 @@ variant: markdown
   </tr>
 
  <tr>
-    <td>HOD / Project Work<br></td>
+    <td>HOD / LEAPS<br></td>
     <td>Ms Jolene Zhou<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>
@@ -119,8 +121,8 @@ variant: markdown
   </tr>
   <tr>
     <td>HOD / Student Well-Being</td>
-    <td>Ms Wong Ying Ying</td>
-    <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a></td>
+    <td>Teo Chew Bee Joyce</td>
+    <td><a href="mailto:teo_chew_bee_joyce@moe.edu.sg">teo_chew_bee_joyce@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>HOD / Student Leadership<br></td>
