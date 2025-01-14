@@ -188,7 +188,7 @@ variant: markdown
 			<p style="text-align: justify;"><i>‘History in TJC definitely involves the typical JC grind, but tutors here spiced lectures up with videos and group work at tutorials. Towards the actual A’s, we got a lot of help in many timed practices, extra consults and food ‘encouragement’ from the tutors, which helped us push through despite the tiredness.</i></p>
 						<p style="text-align: justify;"><i>And it’s not all studies, we have a fun annual party called History Evening! There’s a different theme every year, with Fascist Feast and Eastern Bloc snacks and Cold War movies, but most importantly a fun experience to enjoy History with your classmates!</i></p>
 			<p style="text-align: right;"><i>Jeremy Fong, 2019/2020<br>Attained 90 UAS at A Levels, applying to read History at Cambridge University</i></p>
-					<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at<a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
+					<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
 	</ul>
