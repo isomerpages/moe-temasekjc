@@ -9,7 +9,8 @@ variant: tiptap
 Students can access the <a href="https://ecg.temasekjc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance website</a><strong> </strong>to
 obtain the necessary information and guidance to stand them in good stead
 to achieve their aspirations while they are in TJC or even when they have
-graduated. ECG counselling is also available at the Student Services Hub.&nbsp;</p>
+graduated. ECG counselling is also available at the Temasek Guidance Hub
+.&nbsp;</p>
 <p>TJC offers numerous opportunities for students to explore the infinite
 possibilities of what life can hold for them when they graduate. We conduct
 workshops and classes on how to write an effective Statement and how to
