@@ -3,6 +3,7 @@ title: Humanities
 permalink: /academic/junior-college/curriculum-overview/humanities/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # HUMANITIES
 
@@ -56,7 +57,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-			<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8823_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9757_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9809_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/8823_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9757_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Economics)</a><br><a href="/files/Academic/Curriculum/Humanities/9809_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Economics)</a></p>
+			<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br><br></p>
     </div>
 	</li> 
   <li>
@@ -82,7 +83,7 @@ third_nav_title: Curriculum Overview
   </tr>
 </tbody>
 </table>
-						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8832_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9509_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 English Literature)</a><br><a href="/files/Academic/Curriculum/Humanities/9805_y21_sy_schoolcandidates.pdf" target="_blank">2021 A-Level Syllabus (H3 English Literature)</a></p>
+						<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
   <li>
@@ -111,8 +112,9 @@ third_nav_title: Curriculum Overview
 </tbody>
 </table>
 			<center>Listen to what our TJC Geographers have to say!</center>
-			<p><b>CONNECT WITH US</b><br>Our Geography@TJC <a href="https://www.facebook.com/geographyattjc/" target="_blank">FaceBook</a> and <a href="https://www.instagram.com/geogattjc/" target="_blank">Instagram</a> pages are our way to keep you and our proud TJC Geography alumni in the loop with all matters Geography-related.</p>
-						<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/8813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9751_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Geography)</a><br><a href="/files/Academic/Curriculum/Humanities/9822_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Geography)</a></p>
+			<p><b>CONNECT WITH US</b><br>Our Geography@TJC&nbsp;<a href="https://www.facebook.com/geographyattjc/" target="_blank">FaceBook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/geogattjc/" target="_blank">Instagram</a>&nbsp;pages are our way to keep you and our proud TJC Geography alumni in the loop with all matters Geography-related.</p>
+				
+<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
   <li>
@@ -186,7 +188,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><i>‘History in TJC definitely involves the typical JC grind, but tutors here spiced lectures up with videos and group work at tutorials. Towards the actual A’s, we got a lot of help in many timed practices, extra consults and food ‘encouragement’ from the tutors, which helped us push through despite the tiredness.</i></p>
 						<p style="text-align: justify;"><i>And it’s not all studies, we have a fun annual party called History Evening! There’s a different theme every year, with Fascist Feast and Eastern Bloc snacks and Cold War movies, but most importantly a fun experience to enjoy History with your classmates!</i></p>
 			<p style="text-align: right;"><i>Jeremy Fong, 2019/2020<br>Attained 90 UAS at A Levels, applying to read History at Cambridge University</i></p>
-					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Humanities/8821_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9752_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 History)</a><br><a href="/files/Academic/Curriculum/Humanities/9823_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 History)</a></p>
+					<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at<a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
 	</ul>
