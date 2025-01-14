@@ -3,10 +3,11 @@ title: Computing
 permalink: /academic/junior-college/curriculum-overview/computing/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # COMPUTING
 
-<p style="text-align: justify;">Our H2 Computing programme aims to infuse the broad ideas of systems thinking and computational thinking inherent in the study of Computing through a multi-dimensional approach of Computer <i>as a Tool, Computer in Society and Computer as a Science</i>. Students will acquire 21st century skills from the use of various applications, and be cognizant of the ethical and legal issues arising from technology.</p>
+<p style="text-align: justify;">Our H2 Computing programme aims to infuse the broad ideas of systems thinking and computational thinking inherent in the study of Computing through a multi-dimensional approach of Computer&nbsp;<i>as a Tool, Computer in Society and Computer as a Science</i>. Students will acquire 21st&nbsp;century skills from the use of various applications, and be cognizant of the ethical and legal issues arising from technology.</p>
 
 **CURRICULUM**
 
@@ -24,7 +25,7 @@ third_nav_title: Curriculum Overview
 
 <p style="text-align: justify;">We curate enrichment opportunities that are appropriate to your competencies and interest to provide you a holistic learning experience beyond the classroom. These include local and global competitions, opportunities to learn from AI Singapore + Data Camp, MongoDB University and to attend conferences and forums such as FOSSASIA, BuildingBloCS and PyConSG.</p>
 
-<p style="text-align: justify;">Eligible Singapore Citizens who are students enrolled in H2 Computing can also apply for the <a href="https://www.csit.gov.sg/internships-scholarships/csit-computing-scholarship" target="_blank"><b>CSIT Computing Scholarship</b></a>, which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry.</p>
+<p style="text-align: justify;">Eligible Singapore Citizens who are students enrolled in H2 Computing can also apply for the&nbsp;<a href="https://www.csit.gov.sg/internships-scholarships/csit-computing-scholarship" target="_blank"><b>CSIT Computing Scholarship</b></a>, which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry.</p>
 
 **SYLLABUS**   
-<a href="/files/Academic/Curriculum/9569_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Computing)</a>
+For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates</a>
