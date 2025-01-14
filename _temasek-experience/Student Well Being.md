@@ -49,7 +49,7 @@ and empowering them to be active learners.</p>
 <p>COUNSELLING</p>
 <p>Counselling provides a safe space for students to discuss their challenges.
 The College Counsellor and Part-Time College Counsellor are located at
-the Student Services Hub (E108). For more information, students can refer
+the Temasek Guidance Hub (E108). For more information, students can refer
 to the Student Well-Being noticeboard.</p>
 <p></p>
 </li>

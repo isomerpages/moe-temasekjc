@@ -833,7 +833,7 @@ variant: markdown
 	<tr>
     <td> Ms</td>
     <td>Anna Maria </td>
-    <td>Deputy Head / LEAPS </td>
+    <td>Deputy Head / LEAPS (PW)</td>
     <td><a href="mailto:anna_maria@moe.edu.sg">anna_maria@moe.edu.sg</a> </td>
   </tr>
 <tr>

@@ -3,6 +3,7 @@ title: Science
 permalink: /academic/junior-college/curriculum-overview/science/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # SCIENCE
 
@@ -56,7 +57,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Exciting learning journeys to Pulau Semakau and Lee Kong Chian Natural History Museum serve as experiential learning opportunities for our students. Students learn beyond the classroom and laboratories, where they hear from professionals in niche areas and higher institutions of learning and research. We also engage local and overseas university professors and our very own TJC Alumni to give talks for our students to raise awareness on their career prospects, and enhance their scientific literacy.</p>
 			<img src="/images/Academic/Curriculum%20Overview/Science/TJC%20Bio_LKCNHM.jpg" style="width:60%">
 			<center>Learning journey to Lee Kong Chian Natural History Museum</center>	
-								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/9744_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Biology)</a><br><a href="/files/Academic/Curriculum/Science/8876_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Biology)</a><br><a href="/files/Academic/Curriculum/Science/9744_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Biology)</a><br><a href="/files/Academic/Curriculum/Science/8876_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Biology)</a></p>
+								<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
 	  <li>
@@ -70,7 +71,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Our students are provided with many opportunities for learning beyond the classroom. These learning experiences develop the students in the understanding, skills, ethics and attitudes relevant to the practice of science. The aim is for our students to become scientifically literate and useful citizens who are well-prepared for the challenges of the 21st century.<br>Research opportunities are available for students who wish to enrich their learning and deepen their knowledge of the sciences. These projects can be carried out within college or with an institute of higher learning in science.</p>
 			<img src="/images/Academic/Curriculum%20Overview/Science/Visit%20to%20NUS%20Dept%20Chem.jpg" style="width:60%">
 			<center>Our students' visit to NUS Department of Chemistry</center>	
-								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/9729_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/8873_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/9813_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/9729_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/8873_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Chemistry)</a><br><a href="/files/Academic/Curriculum/Science/9813_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Chemistry)</a></p>
+								<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br><br></p>
     </div>
 	</li> 
 	  <li>
@@ -82,7 +83,7 @@ third_nav_title: Curriculum Overview
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>We conduct training programmes and provide strong support for students to participate in the Singapore Physics Olympiad and other physics-related competitions and fairs. Our students also benefit from a variety of enrichment programmes offered by the many partnerships that the Physics department has established over the years. Students take part in competitions, overseas experiential programmes and hands-on workshops and seminars, which deepen their interest and knowledge in the subject, sharpening their learning at an advanced level.</p>
 					<img src="/images/Academic/Curriculum%20Overview/Science/Exploring%20Physics%20Concepts.png" style="width:70%">
 			<center>Exploring physics concepts in a pleasant and encouraging environment</center>	
-								<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Science/8867_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Physics)</a><br><a href="/files/Academic/Curriculum/Science/9749_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H2 Physics)</a><br><a href="/files/Academic/Curriculum/Science/9814_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H3 Physics)</a></p>
+								<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br></p>
     </div>
 	</li> 
 	  <li>
@@ -91,9 +92,9 @@ third_nav_title: Curriculum Overview
     <div>
 			<p style="text-align: justify;">We identify and mentor talented students to represent our college in the various competitions and Science Fairs. They have done our college proud by clinching numerous awards. Below are just some of the highlights of our students’ achievements.</p>
 			<p><b>Nanyang Research Programme (Symposium)</b><br><b>2020</b>: 1 Gold, 1 Silver</p>
-			<p><b>Singapore Chemistry Olympiad</b><br><b>2021</b>: 1 Gold* (Best Student), 1 Silver & 6 Bronze<br><b>2020</b>: 1 Gold, 1 Silver & 6 Bronze</p>
-			<p><b>Singapore Physics Olympiad</b><br><b>2021</b>: 2 Bronze<br><b>2020</b>: 2 Silver & 1 Bronze</p>
-			<p><b>Singapore Science & Engineering Fair (SSEF)</b><br><b>2021</b>: 1 Bronze & Special Award (SAAS)<br><b>2020</b>: 1 Bronze & Special Award (Yale-NUS)</p>
+			<p><b>Singapore Chemistry Olympiad</b><br><b>2021</b>: 1 Gold* (Best Student), 1 Silver &amp; 6 Bronze<br><b>2020</b>: 1 Gold, 1 Silver &amp; 6 Bronze</p>
+			<p><b>Singapore Physics Olympiad</b><br><b>2021</b>: 2 Bronze<br><b>2020</b>: 2 Silver &amp; 1 Bronze</p>
+			<p><b>Singapore Science &amp; Engineering Fair (SSEF)</b><br><b>2021</b>: 1 Bronze &amp; Special Award (SAAS)<br><b>2020</b>: 1 Bronze &amp; Special Award (Yale-NUS)</p>
     </div>
 	</li> 
 	</ul>
