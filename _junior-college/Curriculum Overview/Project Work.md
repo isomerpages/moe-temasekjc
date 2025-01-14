@@ -3,6 +3,7 @@ title: Project Work
 permalink: /academic/junior-college/curriculum-overview/project-work/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # PROJECT WORK
 
@@ -35,4 +36,4 @@ third_nav_title: Curriculum Overview
 
 
 **SYLLABUS**    
-<a href="/files/Academic/Curriculum/8808_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Project Work)</a>
+For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a>
