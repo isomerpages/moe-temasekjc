@@ -25,7 +25,11 @@ find their own artistic and creative inclinations, styles and techniques
 to express themselves in the most powerful way. Students will also discover
 and traverse through a journey of self-discovery, time management as well
 as creative and critical thinking.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,7 +82,8 @@ of art.</p>
 </div>
 <p></p>
 <p><strong>SYLLABUS</strong> 
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9750_y22_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2022 A-Level Syllabus (H2 Arts).</a>
+<br>For more information on each subject, please refer to the subject syllabuses
+at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a>
 </p>
 <p></p>
 </li>
@@ -121,8 +126,8 @@ career pathways related to the arts.</p>
 on various musical platforms: lecture recitals, the annual MEP MOTIF concert
 series, competitions and the biennial MEP combined concert.</p>
 <p><strong>SYLLABUSES</strong> 
-<br><a href="/files/Academic/Curriculum/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 A-Level Syllabus (H2 Music)</a> 
-<br><a href="/files/Academic/Curriculum/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 A-Level Syllabus (H3 Music)</a>
+<br>For more information on each subject, please refer to the subject syllabuses
+at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a>
 </p>
 </li>
 </ul>
