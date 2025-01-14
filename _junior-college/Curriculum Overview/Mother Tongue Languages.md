@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /academic/junior-college/curriculum-overview/mother-tongue-languages/
 description: ""
 third_nav_title: Curriculum Overview
+variant: markdown
 ---
 # MOTHER TONGUE LANGUAGES
 
@@ -19,17 +20,17 @@ Be Sparkled by the Wonders of our Cultures</b></center>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">H1 MOTHER TONGUE LANGUAGES & Mother Tongue ‘B’</label>
+    <label for="accordion1">H1 MOTHER TONGUE LANGUAGES &amp; Mother Tongue ‘B’</label>
     <div>
 			<p style="text-align: justify;">With the objective of nurturing active learners and proficient users of the Mother Tongue Languages (MTL), we adopt entertaining yet meaningful student-oriented teaching pedagogies and employ engaging materials and activities to guide them to be self-directed and collaborative learners. We aim to nurture effectively bilingual, open-minded, analytical, vocal, passionate and responsible talents who are ready for current and future challenges.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Our programmes are intricately designed to cultivate the ability of our students to use the language to fluently communicate their ideas, opinions and feelings in daily conversation on life-related topics, and to be clear and structured when describing their views or situations around them. The curriculum is also imbued with elements to cultivate the person, in aspects of moral character and values, and to have care and love for family, society and country. The subject matter helps students to recognise and embrace the legacy of our rich cultures, and helps them become globally aware and personally concerned</p>
-			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The Mother Tongue Fortnight Programme is a key department event, which encompasses two weeks in the month of April, to nurture students to be active learners and proficient users of the language. Activities include Pledge taking in MTLs & sharing of MTL songs during morning assembly, cultural camp, talks by alumni and external speakers, competitions and quizzes etc.</p>
-					<p><b>SYLLABUSES</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8655_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H1 Chinese Language)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8656_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Malay Language)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/8657_y21_sy.pdf" target="_blank">2021 A-Level Syllabus (H1 Tamil Language)</a></p>
-    </div>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>The Mother Tongue Fortnight Programme is a key department event, which encompasses two weeks in the month of April, to nurture students to be active learners and proficient users of the language. Activities include Pledge taking in MTLs &amp; sharing of MTL songs during morning assembly, cultural camp, talks by alumni and external speakers, competitions and quizzes etc.</p>
+					<p><b>SYLLABUSES</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br>
+    </p></div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">H2 CHINESE LANGUAGE & LITERATURE</label>
+    <label for="accordion2">H2 CHINESE LANGUAGE &amp; LITERATURE</label>
     <div>
 			<p style="text-align: justify;">It is our vision to develop students’ maturity of thought, critical thinking skills, and their evaluation of arguments and opinions. In so doing, we aim to foster a passion for reading a wide variety of Chinese literary works, and to have a sensitivity to the Chinese language. This will broaden the global outlook of our students, and equip them with an additional set of wings to soar when they take off into the world.</p>
 			<p style="text-align: justify;">For the past few years, our JC2 cohorts have achieved excellent results in the A Level Chinese Language and Literature examination, with more than 80% of the students achieving A and B grades. The good results have helped our students to achieve a good University Admission Score, and gave them greater choices in university course selection, as well as scholarship applications.</p>
@@ -49,8 +50,8 @@ Be Sparkled by the Wonders of our Cultures</b></center>
   </tr>
 </tbody>
 </table>
-					<p><b>EXAMINATION SYLLABUS</b><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9575_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H2 Chinese Language & Literature)</a><br><a href="/files/Academic/Curriculum/Mother%20Tongue%20Languages/9901_y22_sy.pdf" target="_blank">2022 A-Level Syllabus (H3 Chinese Language & Literature)</a></p>
-    </div>
+					<p><b>EXAMINATION SYLLABUS</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a><br>
+    </p></div>
 		</li> 
   <li>
     <input type="checkbox" id="accordion3">
