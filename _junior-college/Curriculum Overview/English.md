@@ -15,8 +15,8 @@ variant: markdown
     <label for="accordion1">GENERAL PAPER</label>
     <div>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>The General Paper (GP) programme builds up our students’ knowledge of current affairs and develops their understanding of the world. We seek to develop a keen awareness of political, social and ethical issues in our students. They will broaden their global outlook while remaining mindful of the unique circumstances within Singapore. Our students will also cultivate maturity of thought through making informed judgement and critical evaluation of various issues and perspectives, before reconciling and articulating their viewpoints through the proficient use of the English language.</p>
-			<p style="text-align: justify;"><b>ENRICHMENT</b><br>To enrich their GP experience, our students participate in programmes and competitions such as the Pre-University Seminar, the YMCA Plain Speaking English Awards competition and The Queen's Commonwealth Essay competition. In addition, all JC1 students undergo an oral communication skills training programme to hone their public speaking and presentation skills.</p>
-			<p style="text-align: justify;"><b>SYLLABUS</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates</a></p>
+		
+<p style="text-align: justify;"><b>SYLLABUS</b><br>For more information on each subject, please refer to the subject syllabuses at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates</a></p>
     </div>
 	</li> 
   <li>
