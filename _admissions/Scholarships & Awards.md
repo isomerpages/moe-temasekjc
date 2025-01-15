@@ -37,7 +37,7 @@ variant: markdown
 				<li><p style="text-align: justify;">Singaporeans or Singapore Permanent Residents only</p></li>
 				<li><p style="text-align: justify;">Value of award: $2,400 and a place in the Talent Development Programme</p></li>
 				</ul>
-						<p style="text-align: justify;"><b>TJC Academic Excellence Scholarship (JC1)</b><br>A prestigious College-based award offered to outstanding JC1 students admitted to TJC via JAE or DSA-JC:</p>
+						<p style="text-align: justify;"><b>TJC Academic Merit Award (JC1)</b><br>A prestigious College-based award offered to outstanding JC1 students admitted to TJC via JAE or DSA-JC:</p>
 			<ul>
 				<li><p style="text-align: justify;">Students with L1R5 = 7 (raw)</p></li>
 				<li><p style="text-align: justify;">Singaporeans or Singapore Permanent Residents only</p></li>
