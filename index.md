@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/JC_Open_House_website_banner.png
+      background: /images/TJC_generic_1.png
       key_highlights:
         - title: Heritage Website
           description: ""
