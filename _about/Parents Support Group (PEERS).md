@@ -2,8 +2,9 @@
 title: Parents Support Group (PEERS)
 permalink: /about/parents-support-group-peers/
 description: ""
+variant: markdown
 ---
-![](/images/About/PEERS/PEERS%20banner%20pic.jpg)
+![](/images/About/PEERS/peers%20banner%202025.jpg)
 
 # PARENTS SUPPORT GROUP (PEERS)
 
@@ -19,29 +20,30 @@ description: ""
 <p style="text-align: justify;">The PEERS Committee invites all parents of TJCians to join them in their activities! For any enquiries about PEERS, please email them to: <a href="mailto:PEERS.temasekjc@gmail.com">PEERS.temasekjc@gmail.com</a></p>
 
 
-<center><b>23/24 PEERS EXECUTIVE COMMITTEE MEMBERS</b></center>
+<center><b>PEERS COMMITTEE</b></center>
 
 | Role | Name |
 |:---|:---|
-| Chairperson | Mrs Jennifer Kwok |
-| Co-Chairperson | Mrs Sophia Tang |
-| Executive Committee Member | Mdm Sharbari Sengupta |
-| Executive Committee Member | Ms Nishi |
-| Executive Committee Member | Ms Serene Liew |
-| Executive Committee Member | Ms Grace Chua |
-| Executive Committee Member | Mrs Chong Yen Yen |
-| Alumni Chairperson | Ms Serene Lai |
-| Alumni Co-Chairperson | Ms Gayathri Bhat |
+| Co-Chairperson | Ms Goh Yen Yen |
+| Co-Chairperson | Ms Vivien Lim Aye Sim |
+| Vice Chairperson | Mr Wang Shi Tah |
+| Vice Chairperson | Ms Goh Lian Siang |
+| Executive Committee Member | Ms Naik Nishitaben Hasmukhlal |
+| Executive Committee Member | Ms Zou Jin |
+| Executive Committee Member | Ms Kris Ho |
+| Executive Committee Member | Ms Hon Wai |
+| Executive Committee Member | Ms Voon Sze Yin |
+| Executive Committee Member | Mr Gunai Kann |
+| Executive Committee Member | Ms Fathima |
+| Executive Committee Member | Ms Aru |
+| Executive Committee Member | Ms Tunula Chewang |
+| Committee Member | Ms Soo Theng Theng |
+| Committee Member | Ms Jessie Lim  |
+| Committee Member  | Ms Sharon Tai Kwee Fong |
+| Committee Member  | Ms Teh Huai Ning |
+| Committee Member | Ms Ruchi Rohit Agrawal |
+| Committee Member  | Ms Chee Mun Fen |
 
-<center><b>23/24 PEERS COMMITTEE MEMBERS</b></center>
-
-| Role | Name |
-|:---|:---|
-| Committee Member | Mr Wang Shi Tah |
-| Committee Member | Ms Jo Zou  |
-| Committee Member  | Ms Vivien Lim |
-| Committee Member  | Ms Kris Ho |
-| Committee Member | Ms Goh Lian Siang |
 
 
 <ul class="jekyllcodex_accordion">

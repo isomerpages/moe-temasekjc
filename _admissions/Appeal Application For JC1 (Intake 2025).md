@@ -1,19 +1,27 @@
 ---
-title: Appeal Application For JC1 (Intake 2024)
-permalink: /admissions/appeal-application-for-jc1-intake-2024/
+title: Appeal Application For JC1 (Intake 2025)
+permalink: /admissions/appeal-application-for-jc1-intake-2025/
 description: ""
 variant: tiptap
 ---
-<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2024) IS NOW OPEN</h1>
-<p>Appeal Application for admission to JC1 (Intake 2024) commences from&nbsp;<strong>1</strong>&nbsp;<strong>February (Thursday), 9am to 5 February (Monday), 5pm, Singapore time</strong>.</p>
+<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2025) IS NOW OPEN</h1>
+<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>4 February 2025 (Tuesday), 9am to 10 February 2025 (Monday), 5pm, Singapore time</strong>.</p>
 <h2>APPEAL CRITERIA</h2>
 <ul>
 <li>
 <p>Students must meet our college cut-off point (COP) before their Appeal
 will be considered.&nbsp;</p>
 </li>
+<li>
+<p>The COP in year 2024 for our Science Stream is 7, and the COP for our
+Arts Stream is 8.</p>
+</li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,15 +60,14 @@ The application form should take approximately 20 minutes to complete.</p>
 <li>
 <p>After completing all the sections in the online application form, please
 click on the <strong>"Submit My Application Now</strong>" button to submit
-the online form. Appeals will only be processed upon successful submission
-of this online form.</p>
+the online form.</p>
 </li>
 </ul>
 <h3>2) Supporting Documents</h3>
 <h4>Please upload the following supporting documents:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 GCE O-Level Exam Result Slip&nbsp;</p>
+<p>2024 GCE O-Level Exam Result Slip&nbsp;</p>
 </li>
 <li>
 <p>Verification Slip (JAE Registration)</p>
@@ -90,10 +97,10 @@ Application received by fax and email will NOT be considered.&nbsp;</p>
 when collecting the letter of offer from the General Office.&nbsp;</p>
 </li>
 <li>
-<p>Successful DSA-JC students are&nbsp;<u>NOT allowed</u>&nbsp;to transfer
-to another school after the release of the GCE O-Level Examination results
-as they are expected to honour their commitment for the full duration of
-the programme. &nbsp;</p>
+<p>Successful DSA-JC students are&nbsp;<strong><u>NOT allowed</u></strong>&nbsp;to
+transfer to another school after the release of the GCE O-Level Examination
+results as they are expected to honour their commitment for the full duration
+of the programme. &nbsp;</p>
 </li>
 <li>
 <p>The College reserves the right not to reveal the result or reason for
@@ -106,7 +113,8 @@ non-selection.</p>
 <h4>4) Outcome of Application</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Only successful applicants</strong> will be notified by <strong>8 February (Thursday), 2pm</strong>.</p>
+<p><strong>Only successful applicants</strong> will be notified by <strong>10 February 2025 (Monday), 5pm.</strong>
+</p>
 </li>
 </ul>
 <p></p>
