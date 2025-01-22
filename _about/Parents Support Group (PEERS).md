@@ -4,7 +4,7 @@ permalink: /about/parents-support-group-peers/
 description: ""
 variant: markdown
 ---
-![](/images/About/PEERS/PEERS%20banner%20pic.jpg)
+![](/images/About/PEERS/peers%20banner%202025.jpg)
 
 # PARENTS SUPPORT GROUP (PEERS)
 
