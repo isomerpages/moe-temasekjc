@@ -879,8 +879,8 @@ to parents at the start of the year and is also downloadable <strong><a href="/f
 completed form is to be submitted by 31/01/2025.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form via Parent’s Gateway. This form will be communicated
-to parents at the start of the year and is also downloadable <strong><a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-<a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>The completed form is to be submitted by 31/01/2025.</p>
+to parents at the start of the year and is also downloadable <strong><a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here.</a></strong> The
+completed form is to be submitted by 31/01/2025.</p>
 <p>13. Parents can contact the school at 6442 8066 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p></p>
