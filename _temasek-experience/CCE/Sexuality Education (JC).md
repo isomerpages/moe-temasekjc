@@ -295,14 +295,16 @@ and choosing to do what is right.</p>
 <p><em>How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</em>
 </p>
 <p></p>
-<p>This lesson will help students recognise that some segments of society
+<p>In this lesson, students will recognise that some segments of society
 may inaccurately reflect the efforts needed to maintain healthy relationships,
 leading to skewed assumptions of sexual messages and connotations within
-relationships. Students will understand how societal influences can skew
-one’s understanding of gender stereotypes (e.g. boys should not cry, and
-are to suppress emotional sensitivity so as not to seem weak; girls are
-physically weak and unathletic, and downplay achievements so as to fit
-in).</p>
+relationships.</p>
+<p></p>
+<p>Students will understand how societal influences can skew one’s understanding
+of gender stereotypes (e.g. boys should not cry, and are to suppress emotional
+sensitivity so as not to seem weak; girls are physically weak and unathletic,
+and downplay achievements so as to fit in), which can affect interactions
+and relationships in ways that are harmful to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 2 Week 2</strong>
@@ -321,18 +323,17 @@ in).</p>
 collaboration with the Ministry of Education, to provide JC/MI Year 1 students
 with accurate information on STI/HIV and protection from a health perspective.
 The desired outcome of the eTeens programme is that students are empowered
-to make wise, informed, and sensible decisions.&nbsp;</p>
+to make wise, informed, and sensible decisions.</p>
 <p></p>
 </li>
 <li>
-<p>Students learn the <em>health</em>, social and financial implications of
-STIs/HIV on an individual and the family, and the importance of responsible
-decision-making and seeking help. Abstinence and upholding family values
-are the key messages.&nbsp;</p>
+<p>Students learn the health, social and financial implications of STIs/HIV
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in&nbsp;<u>2024</u>:</strong>
+<p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
 </p>
 <p>
 <br>
@@ -361,7 +362,7 @@ are the key messages.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor&nbsp;</p>
+<p>Mass Talk by HPB pre-recorded video from Semester 2 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -385,7 +386,7 @@ correct and consistent use of condoms</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 3 Week 6</strong>
+<p><strong>Term 3 Week 5</strong>
 </p>
 </td>
 </tr>
@@ -395,7 +396,8 @@ correct and consistent use of condoms</p>
 <p></p>
 </li>
 <li>
-<p>INFORMATION FOR PARENTS</p>
+<p><strong>INFORMATION FOR PARENTS</strong>
+</p>
 </li>
 </ul>
 <ol start="8">
@@ -409,8 +411,9 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education</strong>  <strong>lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start if tge year and is also <strong>downloadable <a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.&nbsp;
-The completed form is to be submitted by 19/2/24 (JC2) and 04/03/24 (JC1).&nbsp;</p>
+at the start of the year and is also <strong>downloadable <a href="/files/Temasek Experience/Sex_Ed_Opt_out_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+&nbsp;The completed form is to be submitted by 24/2/25 (JC2) and 10/03/25
+(JC1).&nbsp;</p>
 </li>
 </ol>
 <p></p>
@@ -418,15 +421,15 @@ The completed form is to be submitted by 19/2/24 (JC2) and 04/03/24 (JC1).&nbsp;
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also <strong>downloadable <a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
-The completed form is to be submitted by 04/03/24.&nbsp;</p>
+at the start of the year and is also <strong>downloadable <a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed form is to be submitted by 10/03/25.&nbsp;</p>
 </li>
 </ol>
 <p></p>
 <ol start="11">
 <li>
 <p>Parents can contact the school at 6442 8066 for discussion or to seek
-clarification about the school’s sexuality education programme.</p>
+clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
