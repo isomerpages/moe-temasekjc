@@ -13,7 +13,7 @@ Feb 2025. Please take note of the following important information:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are to report to <strong>Temasek Junior College (2 Tampines Avenue 9, S529564) </strong>on
-Wednesday 5 Feb 2025 in your secondary school uniform. Please report to
+Wednesday, 5 Feb 2025 in your secondary school uniform. Please report to
 the College Hall.</p>
 </li>
 <li>
