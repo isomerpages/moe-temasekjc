@@ -7,8 +7,8 @@ description: ""
 <h1>JC1 Orientation 2025</h1>
 <p>A warm welcome to all our new JC1 students! Also, welcome back to our
 IP Year 5 students!</p>
-<p>Our JC1 Orientation “Solstice” will be held from 5 Feb to 14 Feb 2025.
-Please take note of the following important information:</p>
+<p>Our JC1 Orientation “<em>Solstice</em>” will be held from 5 Feb to 14
+Feb 2025. Please take note of the following important information:</p>
 <h2><strong><u>Reporting Details for Students</u></strong></h2>
 <ul data-tight="true" class="tight">
 <li>
