@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2025) IS NOW OPEN</h1>
-<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>4 February 2025 (Tuesday), 9am to 7 February 2025 (Friday), 4pm, Singapore time</strong>.</p>
+<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>Tuesday, 4 February 2025 9am to Friday, 7 February 2025  4pm, Singapore time.</strong>
+</p>
 <p>Late submissions <strong><u>will not be accepted</u></strong>. Please ensure
 that all applications are submitted within the stipulated period.</p>
 <h2>APPEAL CRITERIA</h2>
@@ -15,7 +16,7 @@ that all applications are submitted within the stipulated period.</p>
 will be considered.&nbsp;</p>
 </li>
 <li>
-<p>The COP in year 2024 for our Science Stream is 7, and the COP for our
+<p>The COP in year 2025 for our Science Stream is 7, and the COP for our
 Arts Stream is 8.</p>
 </li>
 </ul>
@@ -92,7 +93,7 @@ awards, scholarships etc. (if applicable)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All applications to be submitted online using the link provided above.
-Application received by fax and email will NOT be considered.&nbsp;</p>
+Applications received by fax and email will NOT be considered.&nbsp;</p>
 </li>
 <li>
 <p>Successful applicants must bring along the original documents for verification
@@ -105,6 +106,12 @@ results as they are expected to honour their commitment for the full duration
 of the programme. &nbsp;</p>
 </li>
 <li>
+<p>Students are only allowed to accept a single JC appeal offer. Students
+who have previously accepted an appeal to another JC will not be considered.
+Students who accept TJC’s offer are not allowed to accept a later appeal
+offer from another JC.</p>
+</li>
+<li>
 <p>The College reserves the right not to reveal the result or reason for
 non-selection.</p>
 </li>
@@ -115,11 +122,12 @@ non-selection.</p>
 <h4>4) Outcome of Application</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Only successful applicants</strong> will be notified by <strong>10 February 2025 (Monday), 5pm.</strong>
+<p><strong>Only successful applicants</strong> will be notified by <strong>Monday, 10 February 2025, 5pm.</strong>
 </p>
 </li>
 </ul>
-<p></p>
+<p>Students must accept the offer within the stipulated timeframe. If the
+offer is not accepted within the given timeframe, the offer will be rescinded.</p>
 <h3>CONTACT US</h3>
 <p>If you have any general enquiries regarding the Appeal Application, please
 contact the TJC General Office at&nbsp;64428066&nbsp;during office hours
