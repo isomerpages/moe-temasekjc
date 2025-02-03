@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2025) IS NOW OPEN</h1>
-<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>Tuesday, 4 February 2025 9am to Friday, 7 February 2025  4pm, Singapore time.</strong>
+<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>Tuesday, 4 February 2025 9am to Friday, 7 February 2025 4pm, Singapore time.</strong>
 </p>
 <p>Late submissions <strong><u>will not be accepted</u></strong>. Please ensure
 that all applications are submitted within the stipulated period.</p>
@@ -16,7 +16,7 @@ that all applications are submitted within the stipulated period.</p>
 will be considered.&nbsp;</p>
 </li>
 <li>
-<p>The COP in year 2025 for our Science Stream is 7, and the COP for our
+<p>The COP in year 2024 for our Science Stream is 7, and the COP for our
 Arts Stream is 8.</p>
 </li>
 </ul>
@@ -39,7 +39,7 @@ Arts Stream is 8.</p>
 <p>SCIENCE (code: 32S)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ Arts Stream is 8.</p>
 <p>ARTS (code: 32A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p></p>
 </td>
 </tr>
 </tbody>
