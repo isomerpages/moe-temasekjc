@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CNY_website_banner.png
+      background: /images/Solstice_Banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
