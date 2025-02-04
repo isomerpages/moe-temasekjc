@@ -152,10 +152,9 @@ is no alternative timing for this written test.</p>
 submission would also invalidate your application.</p>
 <p></p>
 <h4><strong>H2 Knowledge and Inquiry</strong></h4>
-<p>Please note there will be a KI selection test from 2pm to 3.30pm at E201
-on 6 Feb 2025.</p>
-<p>There will be interviews on 7 Feb 2025 for shortlisted students who will
-be informed separately.</p>
+<p>Please note there will be a KI sample lesson and aptitude test from 2pm
+to 3.30pm at Wee Heng Tin Seminar Room on 6 Feb 2025. There will be interviews
+on 7 Feb 2025 for shortlisted students who will be informed separately.</p>
 <p></p>
 <h4><strong>H2 Computing</strong></h4>
 <p>Please note there will be a H2 Computing Aptitude Selection Test from
