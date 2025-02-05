@@ -115,7 +115,7 @@ variant: markdown
     <td>Priscilla Chong<br></td>
     <td>Deputy Head / Student Well-Being (Discipline)<br></td>
     <td>Economics<br></td>
-    <td><a href="mailto:wong_ying_ying@moe.edu.sg">wong_ying_ying@moe.edu.sg</a><br></td>
+    <td><a href="mailto:chong_soo_hui_priscilla@moe.edu.sg">chong_soo_hui_priscilla@moe.edu.sg</a><br></td>
   </tr>
   
   <tr>
