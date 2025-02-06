@@ -741,9 +741,17 @@ variant: markdown
     <td>Ms</td>
     <td>Jane Ho</td>
     <td>Teacher </td>
-
-   <td><a href="mailto:ho_jia_xuan_jane@moe.edu.sg">ho_jia_xuan_jane@moe.edu.sg</a></td>
+<td><a href="mailto:ho_jia_xuan_jane@moe.edu.sg">ho_jia_xuan_jane@moe.edu.sg</a></td>
   </tr>	
+
+<tr>
+    <td>Ms</td>
+    <td>Li Ruxin</td>
+    <td>Teacher</td>
+    <td><a href="mailto:Li_ruxin@moe.edu.sg">Li_ruxin@moe.edu.sg</a></td>
+  </tr>
+	
+	
 	
 </tbody>
 </table>
