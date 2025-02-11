@@ -152,7 +152,12 @@ variant: markdown
 </thead>
 <tbody>
 
-
+ <tr>
+    <td>Deputy Dean / Integrated Programme <br></td>
+    <td>Ms Ivy Liew <br></td>
+    <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a><br></td>
+  </tr>
+	
   <tr>
     <td>Deputy Head / CCE <br></td>
     <td>Mr Koh Rui Yang<br></td>
@@ -171,16 +176,33 @@ variant: markdown
     <td>Ms Tan Yi Jie<br></td>
     <td><a href="mailto:tan_yi_jie@moe.edu.sg">tan_yi_jie@moe.edu.sg</a><br></td>
   </tr>
-
+ <tr>
+    <td>Deputy Head / Discipline </td>
+    <td>Ms Priscilla Chong </td>
+    <td><a href="mailto:chong_soo_hui_priscilla@moe.edu.sg">chong_soo_hui_priscilla@moe.edu.sg</a> </td>
+  </tr>
   <tr>
     <td>Deputy Head / Chemistry </td>
     <td>Ms Liew Shuxian </td>
     <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
   </tr>
+
+<tr>
+    <td>Deputy Head / Biology  </td>
+    <td>Mrs Gay-Lin Wenjie  </td>
+    <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a> </td>
+  </tr>
+	
   <tr>
     <td>Deputy Head / Economics<br></td>
     <td>Ms Melissa Teo<br></td>
     <td><a href="mailto:teo_li_san_melissa@moe.edu.sg">teo_li_san_melissa@moe.edu.sg</a><br></td>
+  </tr>
+
+<tr>
+    <td>Deputy Head / Humanities<br></td>
+    <td>Mr Khairul Anwar bin Ali <br></td>
+    <td><a href="mailto:khairul_anwar_ali@moe.edu.sg">khairul_anwar_ali@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Deputy Head / English Language </td>
@@ -208,9 +230,9 @@ variant: markdown
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td>Deputy Head / Mother Tongue (IP) </td>
-    <td>Ms Low Kia Sze</td>
-    <td><a href="mailto:low_kia_sze@moe.edu.sg">low_kia_sze@moe.edu.sg</a><br></td>
+    <td>Deputy Head / Mother Tongue (JC) </td>
+    <td>Ms Jiang Hui </td>
+    <td><a href="mailto:mailto:Jiang_hui@moe.edu.sg">Jiang_hui@moe.edu.sg</a><br></td>
   </tr>
 
   <tr>
