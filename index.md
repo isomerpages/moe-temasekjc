@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Solstice_Banner.png
+      background: /images/total_defence_day.png
       key_highlights:
         - title: Heritage Website
           description: ""
