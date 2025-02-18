@@ -4,6 +4,8 @@ permalink: /temasek-experience/college-yearbooks/
 description: ""
 variant: tiptap
 ---
+<h3>Annual Yearbook - 2024</h3>
+<p>For best viewing experience, please download the file&nbsp;<a href="https://drive.google.com/file/d/1kIL2WIH-iJZu5R2PQH3OA7m4r1-krS3z/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Annual Yearbook - 2023</h3>
 <p>For best viewing experience, please download the file&nbsp;<a href="https://drive.google.com/file/d/1Ut7KpX8Iujwi6rOLXeG6RbO-Y_5GaFe1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Annual Yearbook - 2022</h3>
