@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Class_of_2024_banner.png
+      background: /images/Class_of_2024_banner__1_.png
       key_highlights:
         - title: Heritage Website
           description: ""
