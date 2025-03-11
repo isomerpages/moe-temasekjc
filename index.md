@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Class_of_2024_banner__1_.png
+      background: /images/Copy_of_COS_Renewed_Campus_Social_Media_Post__3_.png
       key_highlights:
         - title: Heritage Website
           description: ""
