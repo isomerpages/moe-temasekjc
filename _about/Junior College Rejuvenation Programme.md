@@ -5,10 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>JUNIOR COLLEGE REJUVENATION PROGRAMME</h1>
-<p><em>A Future Reimagined, A Legacy Reborn!</em>
+<p><strong><em>A Future Reimagined, A Legacy Reborn!</em></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COS_Renewed_Campus_Social_Media_Post__1_.png">
 </div>
 <p>We are sooooo excited to share with the TJ Family the latest update on
 our Bedok Rebuilt Campus (BRC)! Here’s a bird’s eye view of our new campus,
@@ -23,8 +24,9 @@ community), Architecture (distinctive brickwork) and Heritage (iconic ‘mushroo
 structure).</p>
 <p>The TJ Family is absolutely delighted about our new campus – let’s reimagine
 our future back where the TJ legacy first began.</p>
-<p><em>New Horizons, Same TJ Spirit!</em>
+<p><strong><em>New Horizons, Same TJ Spirit!</em></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
@@ -48,8 +50,9 @@ staff well-being.&nbsp;</p>
 <p>We certainly look forward to moving back to our (new) home, a place where
 staff and students learn together, grow together and care for one another.
 Let’s continue to write the next chapter of TJ’s history as a TJ Family!!</p>
-<p><em>New Spaces, Endless Possibilities!</em>
+<p><strong><em>New Spaces, Endless Possibilities!</em></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
