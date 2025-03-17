@@ -125,13 +125,7 @@ variant: markdown
     <td>Economics<br></td>
     <td><a href="mailto:teo_li_san_melissa@moe.edu.sg">teo_li_san_melissa@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Chua Cheng Ying<br></td>
-    <td>Deputy Head / Student Leadership<br></td>
-    <td>Geography<br></td>
-    <td><a href="mailto:cheng_ying_chua@moe.edu.sg">cheng_ying_chua@moe.edu.sg</a><br></td>
-  </tr>
+  
 
 
 
