@@ -777,7 +777,7 @@ variant: markdown
     <td>Mdm</td>
     <td>Teoh Hee San</td>
     <td>Teacher </td>
-<td><a href="mailto:">.</a></td>
+<td><a href="mailto:">N.A.</a></td>
   </tr>
 	
 	
@@ -1181,7 +1181,7 @@ variant: markdown
     <td>Khyati Kothari</td>
     <td>Teacher </td>
     <td></td>
-    <td><a href="mailto:">.</a></td>
+    <td><a href="mailto:"></a>N.A.</td>
   </tr>
 	
 
