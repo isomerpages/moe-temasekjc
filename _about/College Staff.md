@@ -125,13 +125,7 @@ variant: markdown
     <td>Economics<br></td>
     <td><a href="mailto:teo_li_san_melissa@moe.edu.sg">teo_li_san_melissa@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Chua Cheng Ying<br></td>
-    <td>Deputy Head / Student Leadership<br></td>
-    <td>Geography<br></td>
-    <td><a href="mailto:cheng_ying_chua@moe.edu.sg">cheng_ying_chua@moe.edu.sg</a><br></td>
-  </tr>
+  
 
 
 
@@ -614,6 +608,20 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:tan_kia_huan@moe.edu.sg">tan_kia_huan@moe.edu.sg</a></td>
   </tr>	
+
+<tr>
+    <td>Mrs<br></td>
+    <td>Lee Soo Cheng<br></td>
+    <td>Teacher<br></td>
+    <td><a href="mailto:chia_soo_cheng_1@moe.edu.sg">chia_soo_cheng_1@moe.edu.sg</a></td>
+  </tr>
+
+<tr>
+    <td>Ms<br></td>
+    <td>Li Jiawen<br></td>
+    <td>Teacher<br></td>
+    <td><a href="mailto:li_jiawen_c@moe.edu.sg">li_jiawen_c@moe.edu.sg</a></td>
+  </tr>	
 	
 	
 </tbody>
@@ -750,8 +758,30 @@ variant: markdown
     <td>Teacher</td>
     <td><a href="mailto:Li_ruxin@moe.edu.sg">Li_ruxin@moe.edu.sg</a></td>
   </tr>
+
+<tr>
+    <td>Mdm</td>
+    <td>Filza Mohamed Omar</td>
+    <td>Teacher </td>
+<td><a href="mailto:filza_mohamed_omar@moe.edu.sg">filza_mohamed_omar@moe.edu.sg</a></td>
+  </tr>
+	
+<tr>
+    <td>Mrs</td>
+    <td>Raja</td>
+    <td>Teacher </td>
+<td><a href="mailto:vijaya_lakshimi_rajaratanam@moe.edu.sg">vijaya_lakshimi_rajaratanam@moe.edu.sg</a></td>
+  </tr>
+
+<tr>
+    <td>Mdm</td>
+    <td>Teoh Hee San</td>
+    <td>Teacher </td>
+<td><a href="mailto:">N.A.</a></td>
+  </tr>
 	
 	
+
 	
 </tbody>
 </table>
@@ -813,6 +843,24 @@ variant: markdown
  <td>Teacher<br></td>
 <td><a href="mailto:winston_ang_wee_kern@moe.edu.sg">winston_ang_wee_kern@moe.edu.sg</a></td>
  </tr>
+
+ <tr>
+    <td>Ms </td>
+    <td>Lim Ju Lee</td>
+    <td>Teacher </td>
+    <td><a href="mailto:lim_ju_lee@moe.edu.sg">lim_ju_lee@moe.edu.sg</a></td>
+  </tr>	
+	
+ <tr>
+    <td>Ms </td>
+    <td>Tan Ying En</td>
+    <td>Teacher </td>
+    <td><a href="mailto:tan_ying_en@moe.edu.sg">tan_ying_en@moe.edu.sg</a></td>
+  </tr>	
+	
+	
+	
+	
 	
 </tbody>
 </table>
@@ -820,7 +868,7 @@ variant: markdown
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">LEARNING, EXTENSION AND APPLICATIONS (LEAPS)</label>
+    <label for="accordion9">LEARNING, EXTENSION AND APPLICATION (LEAPS)</label>
     <div>
 <table>
 <thead>
@@ -1127,6 +1175,14 @@ variant: markdown
     <td>Chemistry</td>
     <td><a href="mailto:tan_siu_hwei_joanne@moe.edu.sg">tan_siu_hwei_joanne@moe.edu.sg</a></td>
   </tr>	
+
+<tr>
+    <td>Ms</td>
+    <td>Khyati Kothari</td>
+    <td>Teacher </td>
+    <td></td>
+    <td><a href="mailto:"></a>N.A.</td>
+  </tr>
 	
 
 	
