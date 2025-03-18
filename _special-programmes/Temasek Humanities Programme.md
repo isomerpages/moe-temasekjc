@@ -107,16 +107,7 @@ variant: markdown
     <input id="accordion5" type="checkbox">
     <label for="accordion5">SCHOLARSHIPS AND AWARDS</label>
     <div>
-			<p><b>The Arts Book Award</b></p>
-			<p style="text-align: justify;">The Arts Book Award (JC1) is 
-    <strong>automatically awarded, on top of</strong> 
- the&nbsp;<a href="https://www.temasekjc.moe.edu.sg/admissions/scholarships-n-awards/">Temasek Merit Award</a>&nbsp;to students who:</p>
-			<ul>
-				<li>attain L1R5 7 points or better at the GCE-'O' Levels, and</li>
-				<li>apply to the Arts stream.</li>
-			</ul>
-			<p style="text-align: justify;">Awardees must offer four H2 subjects of which three must comprise: Economics, Literature, History or Geography, Chinese Language and Literature, Music or Art. This award is valued at $300.</p>
-			<p><b>The MOE Humanities Scholarship</b><br>For more information on the MOE Humanities Scholarship, click&nbsp;<a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme">here</a>.</p>
+		<p><b>The MOE Humanities Scholarship</b><br>For more information on the MOE Humanities Scholarship, click&nbsp;<a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme">here</a>.</p>
     </div>
 	</li> 
 	</ul>
