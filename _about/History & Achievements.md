@@ -45,29 +45,7 @@ The divisions in the cross-bar of the T stand for the five national ideals
 of justice, equality, happiness, prosperity and progress. The segments
 in the trunk of that letter symbolise the four major races working in unison
 towards these ideals.</p>
-</li>
-<li>
-<p>COLLEGE ACHIEVEMENTS</p>
-<p><strong>SCHOOL DISTINCTION AWARD</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/About/HISTORY%20&amp;%20ACHIEVEMENTS/School%20Distinction%20Award.jpg">
-</div>
-<p>In 2015, TJC was awarded the School Distinction Award (SDA) which recognises
-high-achieving schools with exemplary school processes and practices. On
-top of the SDA, TJC also clinched Best Practices awards in Teaching and
-Learning, Student All-Round Development, Staff Well-Being and Development,
-Character and Citizenship Education and Partnership.</p>
-<p><strong>SCHOOL EXCELLENCE AWARD</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/About/HISTORY%20&amp;%20ACHIEVEMENTS/School%20Excellence%20Award.jpg">
-</div>
-<p>In 2008, TJC received the prestigious School Excellence Award (SEA) from
-the Ministry of Education. The SEA recognizes schools for their excellence
-in both education processes and outcomes. It serves as a mark of distinction
-for schools that have achieved sustained achievements in a wide spectrum
-of student development processes.</p>
+<p></p>
 <p></p>
 <p></p>
 </li>
