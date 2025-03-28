@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_COS_Renewed_Campus_Social_Media_Post__3_.png
+      background: /images/Hari_Raya.png
       key_highlights:
         - title: Heritage Website
           description: ""
