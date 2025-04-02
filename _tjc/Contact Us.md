@@ -10,6 +10,10 @@ variant: tiptap
 <p><a href="mailto:temasek_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </li>
+</ul>
+<p><strong>Emails will be responded to within 3 to 5 working days. Requests related to certification of documents or academic matters may take up to 5 working days to process. We appreciate your patience and encourage you to plan accordingly.</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.facebook.com/Temasek.Junior.College/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
