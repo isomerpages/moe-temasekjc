@@ -7,7 +7,9 @@ variant: tiptap
 <h1>CONTACT US</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:temasek_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:temasek_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email </a>
+</p>
+<p><em>Emails will be responded to within <u>3 to 5 working days</u>. Requests related to certification of documents or academic matters may take up to <u>5 working days</u> to process. We appreciate your patience and encourage you to plan accordingly.</em>
 </p>
 </li>
 <li>

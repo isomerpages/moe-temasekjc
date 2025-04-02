@@ -654,12 +654,7 @@ variant: markdown
     <td><a href="mailto:ong_lay_pheng_a@moe.edu.sg">ong_lay_pheng_a@moe.edu.sg</a><br></td>
   </tr>
 
- <tr>
-    <td>Mdm</td>
-    <td>Jiang Hui</td>
-    <td>Deputy Head / MTL (JC) </td>
-    <td><a href="mailto:jiang_hui@moe.edu.sg">jiang_hui@moe.edu.sg</a></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Tang Youbin<br></td>
