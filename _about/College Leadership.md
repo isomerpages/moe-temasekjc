@@ -229,11 +229,7 @@ variant: markdown
     <td>Mrs Goh Siew Choon<br></td>
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Deputy Head / Mother Tongue (JC) </td>
-    <td>Ms Jiang Hui </td>
-    <td><a href="mailto:mailto:Jiang_hui@moe.edu.sg">Jiang_hui@moe.edu.sg</a><br></td>
-  </tr>
+
 
   <tr>
     <td>Deputy Head / Physical Education &amp; CCA <br></td>
