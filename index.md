@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hari_Raya.png
+      background: /images/IP_Open_House_Website_Banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
