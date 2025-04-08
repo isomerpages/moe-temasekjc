@@ -105,7 +105,7 @@ variant: markdown
   </tr>
 
  <tr>
-    <td>HOD / LEAPS<br></td>
+    <td>HOD / LEAPs<br></td>
     <td>Ms Jolene Zhou<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>

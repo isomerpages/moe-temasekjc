@@ -863,7 +863,7 @@ variant: markdown
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">LEARNING, EXTENSION AND APPLICATION (LEAPS)</label>
+    <label for="accordion9">LEARNING, EXTENSION AND APPLICATION (LEAPs)</label>
     <div>
 <table>
 <thead>
@@ -878,19 +878,19 @@ variant: markdown
 <tr>
     <td>Ms<br></td>
     <td>Jolene Zhou<br></td>
-    <td>HOD / LEAPS<br></td>
+    <td>HOD / LEAPs<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>
 	<tr>
     <td> Ms</td>
     <td>Anna Maria </td>
-    <td>Deputy Head / LEAPS (PW)</td>
+    <td>Deputy Head / LEAPs (PW)</td>
     <td><a href="mailto:anna_maria@moe.edu.sg">anna_maria@moe.edu.sg</a> </td>
   </tr>
 <tr>
     <td>Ms<br></td>
     <td>Esther Mok<br></td>
-    <td>Deputy Head / LEAPS<br></td>
+    <td>Deputy Head / LEAPs<br></td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a><br></td>
   </tr>	
 <tr>
