@@ -97,18 +97,12 @@ variant: markdown
     <input type="checkbox" id="accordion4">
     <label for="accordion4">MATHEMATICS</label>
     <div>
-			<p style="text-align: justify;">Temasek Academy (Mathematics) is an enrichment programme that aims to develop critical and
-analytical thinkers who can leverage on their abilities to devise out-of-the-box approaches to
-tackle unique problems. Under the tutelage of their tutors, TA (Mathematics) students will learn
-the basics of Python programming through engaging platforms such as Minecraft. With Artificial
-Intelligence (AI) gaining more traction in the near future, TA (Mathematics) students will have
-the opportunity to dive deeper into the mathematics behind how Large Language Models (LLMs)
-function through specially curated modules to gain a better understanding of how Generative AI
-functions and its limitations. Furthermore, they will also be able to pit their wits against other
-like-minded peers in various competitions such as the Singapore Mathematics Project Festival,
-American Mathematics Competition, Australian Mathematics Competition and Singapore
-Mathematical Olympiad.</p>
-			<p style="text-align: justify;"></p>
+			<p style="text-align: justify;">Temasek Academy (Mathematics) is an enrichment programme that aims to develop critical and analytical thinkers who can leverage on their abilities to devise out-of-the-box approaches to tackle unique problems. Under the tutelage of their tutors, TA (Mathematics) students will learn the basics of Python programming through engaging platforms such as Coursemology. With the increased emphasis on STEM, TA (Mathematics) students will have the opportunity to leverage on the College’s Makerspace to learn more about the programming behind 3D printing and create their own unique prototypes. In addition, with Artificial Intelligence (AI) gaining more traction, TA (Mathematics) students will dive deeper into the mathematics behind how Large Language Models (LLMs) function through specially curated modules to gain a better understanding of how Generative AI functions and its limitations. Furthermore, they will also be able to pit their wits against other like-minded peers in various competitions such as the Singapore Mathematics Project Festival, American Mathematics Competition, Australian Mathematics Competition and Singapore Mathematical Olympiad.</p>
+			
+<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TAMA_1.jpg" style="width:80%;"> 
+			
+			
+<p style="text-align: justify;"></p>
     </div>
 	</li> 
 	<li>
