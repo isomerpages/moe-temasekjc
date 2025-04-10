@@ -23,26 +23,25 @@ variant: markdown
     <label for="accordion1">LANGUAGE ARTS</label>
     <div>
 			<p style="text-align: justify;">Temasek Academy (Language Arts) is an enrichment programme that develops academically talented IP1 and IP2 students in English language and literary skills. We aim to nurture students’ ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
-			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in literary analysis, creative writing, speaking, drama and journalism. Students will also have the opportunity to be mentored by established writers, journalists and relevant industry practitioners. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios.</p>
-			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/2019%20Learning%20Journey%20to%20a%20PhotoJournalism%20Exhibition%20(World%20Press%20Photo).jpg" style="width:80%;">
-			<center>Our students on a learning journey to a PhotoJournalism Exhibition (World Press Photo)
+			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in literary analysis, creative writing, speaking, drama and journalism. Students will also have the opportunity to be mentored by established writers, journalists and relevant industry practitioners through the Creative Arts Programme and the Literature Seminar. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios and have opportunities to interact and network with other likeminded students in other schools. For example, the Creative Writing Seminar held annually is an event jointly organized by Temasek Junior College, Dunman High School, Victoria School, Cedar Girls School and St Nicholas Girls’ School to build a strong community of avid readers and writers.</p>
+			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TALA_1.jpg" style="width:80%;"> 
+			<center>The students at the Creative Writing Seminar 2023 featuring local poet, Mr Tse Hao Guang
 </center>
-	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/2019%20E-Journalism%20and%20broadcasting%20workshop%20by%20TJC%20Alumni,%20Ang%20Yiying.jpeg" style="width:80%;">
-			<center>Our students participating in an e-journalism and broadcasting workshop conducted by TJC alumna, Ms Ang Yiying</center>
-	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TJC%20School%20team%202019%20NSLF.jpeg" style="width:80%;">
-			<center>Our school team at the 2019 National Schools Literature Festival</center>
-    </div>
+	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TALA_2.jpg" style="width:80%;">
+			<center>Our students at a writing workshop run by Singlit station with Singaporean writer, Mr Daryl Yam</center>
+ 
+  </div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">HUMANITIES</label>
     <div>
-			<p style="text-align: justify;">All students enrolled in our Temasek Academy (Language Arts) programme will advance to Temasek Academy (Humanities) when they enter Year 3. TA (Humanities) aims to develop talented students who are passionate about the Humanities. The programme nurtures students who think clearly, feel deeply and speak confidently.</p>
-			<p>Here, students participate in these core learning experiences:</p>
+			<p style="text-align: justify;">Students in our Temasek Academy (Language Arts) programme seamlessly transition into Temasek Academy (Humanities) in Year 3, embarking on an exciting journey that nurtures students who think clearly, feel deeply and speak confidently. TA (Humanities) is designed for passionate and talented individuals eager to explore the complexities of human society through rigorous inquiry and meaningful discourse.</p>
+			<p>In this dynamic programme, students engage in enriching experiences that challenge and inspire them:</p>
 			<ul>
-				<li><p style="text-align: justify;">Humanities research via the Humanities and Social Science Research Programme (HSSRP), Moot Parliament Programme or internal Capstone papers;</p></li>
-					<li><p style="text-align: justify;">Philosophy research via our internal Philosophy of Thought Programme where students are taught critical thinking and dialoguing skills, culminating in a joint symposium with Nanyang Girls' High School and Raffles Institution; and</p></li>
-				<li><p style="text-align: justify;">Humanities fieldwork via planning and participation in an Overseas Humanities Trip.</p></li>
+				<li><p style="text-align: justify;"><b>Broadening Horizons</b>: Gain exposure to Humanities disciplines beyond the core curriculum, such as Economics and Philosophy, to develop a well-rounded understanding of the world;</p></li>
+				<li><p style="text-align: justify;"><b>Deep Diving into Discovery</b>: Pursue in-depth research on Humanities topics of choice through prestigious programmes like the Humanities and Social Science Research Programme (HSSRP), the Moot Parliament Programme, or internal Capstone papers; and</p></li>
+	<li><p style="text-align: justify;"><b>Learning Beyond the Classroom</b>: Apply classroom knowledge in the real world through hands-on fieldwork and immersive learning journeys that bring Humanities to life.</p></li>
 			</ul>
 		<table>
 <thead>
