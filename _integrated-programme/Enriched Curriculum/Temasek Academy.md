@@ -109,9 +109,10 @@ variant: markdown
     <input type="checkbox" id="accordion5">
     <label for="accordion5">SCIENCE</label>
     <div>
-			<p style="text-align: justify;">Temasek Academy (Science) develops academically talented students to investigate, reflect and problem-solve using the Design-based Inquiry approach and Borton’s model of reflection. We design our activities based on the 4E Instructional Model: Engage, Explore, Explain and Extend. Here, students learn to (i)<b><i>E</i></b>ngage though developmental workshops, talks, reading and discussion; (ii)&nbsp;<b><i>E</i></b>xplore through research and experimentation; (iii)&nbsp;<b><i>E</i></b>xplain through presentation and competition platforms; and (iv)&nbsp;<b><i>E</i></b>xtend by learning from peers and experts on authentic hands-on research work through Overseas Science Expedition, organising Science competitions and contributing back to the community.</p>
-			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Tier%203%20Ip%20Science%20Enrichment.png" style="width:80%;">
-					<table>
+			<p style="text-align: justify;">Temasek Academy (Science) develops science-inclined and intellectually curious students to investigate, reflect and problem-solve through a systematic progression from IP1 to IP4. The structured experiences, designed based on Renzulli’s Enrichment Triad Model, equips them with the necessary skills and sharpen their competencies in research areas in Science, Technology, Engineering and Mathematics (STEM).</p>
+
+			
+<table>
 <thead>
   <tr>
     <th></th>
@@ -120,20 +121,27 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2%20TA%20SC%203D%20Printing.jpeg" style="width:85%;">Our IP2 students working with a 3D printer as part of their Flight Programme project</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP4%20TA%20SC%20Science%20Mentorship%20Programme%20with%20Science%20Centre.jpg" style="width:85%;">Our IP4 students under the guidance of their Research Mentor from Science Centre Singapore</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP3_MFC.jpg" style="width:85%;">IP3 Microbial Fuel Cell</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP4_SIR.jpg" style="width:80%;">IP4 Sustainability Investigative Research project</td>
   </tr>
 </tbody>
 </table>
-				<p style="text-align: justify;">Students offer core and elective modules that equip them with the necessary skills and sharpen their competencies in research areas in Science, Technology, Engineering and Mathematics (STEM). We have designed these tiered modules based on Renzulli’s Enrichment Triad model and here are some selected highlights:</p>
-			<ul>
-				<li><p style="text-align: justify;">Type I enrichment activities such as workshops and learning journeys organised by Defence Science and Technology Agency (DSTA);</p></li>
-					<li><p style="text-align: justify;">Type II activities such as Science Olympiads, Young Defence Scientists Programme (YDSP), Science and Technology Camps; and</p></li>
-				<li><p style="text-align: justify;">Type III activities such as Youth Science Ambassador Programme by Science Centre Singapore, Science Mentorship Programme by MOE Gifted Education Branch and Nanyang Research Programme (Junior) by NTU, where students expand their horizons and benefit under the mentorship of an external researcher.</p></li>
-			</ul>
-			<p style="text-align: justify;">Temasek Academy (Science) programmes and THINK© Challenge are sponsored by:</p>
-			<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/THINK%20Challenge%20Sponsors.png" style="width:85%;">
-			<p style="text-align: justify;">Check on this video by our TA (Science) students documenting their Science Expedition to Japan</p>
-    </div>
+			<p style="text-align: justify;">The core activities for each cohort gradually step up our students’ development of a scientific mindset and disposition:</p>
+		
+<ul>
+				<li><p style="text-align: justify;">In IP1, students explore a soap-making process, in which they experiment with their own selected variations of factors and parameters, going beyond the typical prescribed experiments in the curriculum.</p></li>
+					<li><p style="text-align: justify;">In IP2, students experience the joy of making, and work with physical prototypes. Our students learn about flight by working with wood-based aircraft, and acquire 3D-modelling skills, experimenting with the College’s 3D printers and laser cutter.</p></li>
+				<li><p style="text-align: justify;">In IP3, students make use of all the skills they picked up in IP1 and IP2 in the Microbial Fuel Cell programme, in which they experiment with self-selected parameters, design and 3D-print their own fuel cells for an exploration that integrates concepts across the three sciences of Biology, Chemistry and Physics.</p></li>
+				<li><p style="text-align: justify;">In IP4, the experience culminates in a Sustainability Investigative Research (SIR) project after some preparatory groundwork at the end of IP3. Students propose a research project based on their own interest areas, with guidance by our Science teachers and STEM Instructor mentors, and carry out research over the first two terms. Some projects may then be fielded for relevant competitions thereafter.</p></li>
+
+<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2_TA_Science_LJ.jpg" style="width:80%;">
+	<center>IP2 TA (Science) students’ Learning Journey to Hyundai Motor Group Innovation Centre Singapore<center>		
+			</center></center></ul>
+			
+<p style="text-align: justify;">As a finale to their TA (Science) journey, our IP4 students contribute back to the College community by partnering the teachers to co-organise the annual e-THINK© Challenge, a science competition for Primary School students.  This event is supported by the following sponsors:</p>		
+
+<img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/THINK%20Challenge%20Sponsors.png" style="width:85%;">
+
+ </div>
 	</li> 
 	</ul>
