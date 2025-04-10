@@ -74,13 +74,22 @@ variant: markdown
   <tr>
     <th></th>
     <th></th>
+		<th></th>
+		<th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Voice%20Dubbing%20Activity.jpeg" style="width:95%;">Our students at Nanyang Girls’ High for the National Chinese Challenge</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Radio%20Script%20Writing.jpeg" style="width:90%;">Our IP3 students attending Traditional Chinese Medicine workshop</td>
-  </tr>
+ <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/National_Chinese_Challenge_1.jpg" style="width:100%;">Our students at Nanyang Girls’ High for the National Chinese Challenge</td>
+
+ <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TCM_1.jpg" style="width:90%;">Our IP3 students attending Traditional Chinese Medicine workshop</td>
+		
+<td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TCM_2.jpg" style="width:95%;">Our IP3 students attending Traditional Chinese Medicine workshop</td>
+
+<td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TCM_3.jpg" style="width:85%;">Our IP3 students attending Traditional Chinese Medicine workshop</td>
+
+		
+ </tr>
 </tbody>
 </table>
     </div>
