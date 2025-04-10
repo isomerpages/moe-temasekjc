@@ -64,9 +64,12 @@ variant: markdown
     <input type="checkbox" id="accordion3">
 		<label for="accordion3">CHINESE LANGUAGE</label>
     <div>
-			<p style="text-align: justify;">Temasek Academy (Chinese Language) is a talent development programme for students who have the interest in and aptitude for the language. It develops these talented students in Chinese Language by honing their ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts.</p>
-			<p style="text-align: justify;">Through workshops and seminars, students sharpen their skills in creative writing, speaking, literary analysis, drama and journalism. They will also have the opportunity to go on learning journeys as well as engage with local and overseas writers, journalists and relevant industry practitioners. All TA (Chinese Language) students will have the opportunity to join the MOE Chinese Language Elective Programme (CLEP) from Year 3, where they learn literary analysis in depth, attain a higher level of proficiency and a better understanding of Chinese Language &amp; Literature. Outstanding students may then go on to offer CLEP at the JC level.</p>
-					<table>
+			<p style="text-align: justify;">Temasek Academy (Chinese Language) is a talent development programme that develops talented IP students with aptitude and keen interest in the Chinese language, literature and culture. We aim to nurture students’ ability to write and speak with eloquence and conviction, and to engage critically and creatively with a wide variety of literary texts and learning experiences.</p>
+			<p style="text-align: justify;">Through a series of workshops and seminars, students will hone their skills in creative writing, speaking, translation, literary analysis, drama and journalism. Students will also have the opportunity to go on learning journeys as well as engage with local and overseas writers, journalists and relevant industry practitioners. In addition, students will participate in a variety of external competitions and programmes to build up their personal portfolios and have opportunities to interact and network with other likeminded students in other schools. For example, National Bilingual Creative Writing Competition, National Chinese Challenge, National Text Recital Competition and Young Reporter News Challenge.</p>
+	<p style="text-align: justify;">All TA (Chinese Language) students will have the opportunity to join the MOE Chinese Language Elective Programme (CLEP) from Year 3, where they learn literary analysis in depth, attain a higher level of proficiency and a better understanding of Chinese Language &amp; Literature. Outstanding students who offer JC subject H2 CLL may then enroll in CLEP at the JC level.</p>
+			
+			
+<table>
 <thead>
   <tr>
     <th></th>
@@ -75,8 +78,8 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Voice%20Dubbing%20Activity.jpeg" style="width:95%;">Our IP1 students working on their voice dubbing task</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Radio%20Script%20Writing.jpeg" style="width:90%;">Our IP2 students at a radio script writing and recording workshop</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Voice%20Dubbing%20Activity.jpeg" style="width:95%;">Our students at Nanyang Girls’ High for the National Chinese Challenge</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Radio%20Script%20Writing.jpeg" style="width:90%;">Our IP3 students attending Traditional Chinese Medicine workshop</td>
   </tr>
 </tbody>
 </table>
