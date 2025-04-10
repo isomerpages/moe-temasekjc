@@ -111,7 +111,13 @@ variant: markdown
     <div>
 			<p style="text-align: justify;">Temasek Academy (Science) develops science-inclined and intellectually curious students to investigate, reflect and problem-solve through a systematic progression from IP1 to IP4. The structured experiences, designed based on Renzulli’s Enrichment Triad Model, equips them with the necessary skills and sharpen their competencies in research areas in Science, Technology, Engineering and Mathematics (STEM).</p>
 
-			
+<p style="text-align: justify;">The core activities for each cohort gradually step up our students’ development of a scientific mindset and disposition:</p>
+<ul>
+<li><p style="text-align: justify;">In IP1, students explore a soap-making process, in which they experiment with their own selected variations of factors and parameters, going beyond the typical prescribed experiments in the curriculum.</p></li>
+<li><p style="text-align: justify;">In IP2, students experience the joy of making, and work with physical prototypes. Our students learn about flight by working with wood-based aircraft, and acquire 3D-modelling skills, experimenting with the College’s 3D printers and laser cutter.</p></li>
+<li><p style="text-align: justify;">In IP3, students make use of all the skills they picked up in IP1 and IP2 in the Microbial Fuel Cell programme, in which they experiment with self-selected parameters, design and 3D-print their own fuel cells for an exploration that integrates concepts across the three sciences of Biology, Chemistry and Physics.</p></li>
+<li><p style="text-align: justify;">In IP4, the experience culminates in a Sustainability Investigative Research (SIR) project after some preparatory groundwork at the end of IP3. Students propose a research project based on their own interest areas, with guidance by our Science teachers and STEM Instructor mentors, and carry out research over the first two terms. Some projects may then be fielded for relevant competitions thereafter.</p></li>
+	</ul>
 <table>
 <thead>
   <tr>
@@ -126,13 +132,13 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;">The core activities for each cohort gradually step up our students’ development of a scientific mindset and disposition:</p>
+			<p style="text-align: justify;">Our TA (Science) students also typically participate in the following types of activities, some of which may be open to other students, as categorized by the Renzulli’s Enrichment Triad Model:</p>
 		
 <ul>
-				<li><p style="text-align: justify;">In IP1, students explore a soap-making process, in which they experiment with their own selected variations of factors and parameters, going beyond the typical prescribed experiments in the curriculum.</p></li>
-					<li><p style="text-align: justify;">In IP2, students experience the joy of making, and work with physical prototypes. Our students learn about flight by working with wood-based aircraft, and acquire 3D-modelling skills, experimenting with the College’s 3D printers and laser cutter.</p></li>
-				<li><p style="text-align: justify;">In IP3, students make use of all the skills they picked up in IP1 and IP2 in the Microbial Fuel Cell programme, in which they experiment with self-selected parameters, design and 3D-print their own fuel cells for an exploration that integrates concepts across the three sciences of Biology, Chemistry and Physics.</p></li>
-				<li><p style="text-align: justify;">In IP4, the experience culminates in a Sustainability Investigative Research (SIR) project after some preparatory groundwork at the end of IP3. Students propose a research project based on their own interest areas, with guidance by our Science teachers and STEM Instructor mentors, and carry out research over the first two terms. Some projects may then be fielded for relevant competitions thereafter.</p></li>
+				<li><p style="text-align: justify;">Type I enrichment activities such as workshops and learning journeys;</p></li>
+					<li><p style="text-align: justify;">Type II activities such as Junior Olympiads and other competitions for the three sciences, Young Defence Scientists Programme (YDSP), Science and Technology Camps; and</p></li>
+				<li><p style="text-align: justify;">Type III activities such as Youth Science Ambassador Programme by Science Centre Singapore, Science Mentorship Programme by MOE Gifted Education Branch and Nanyang Research Programme (Junior) by NTU, where students expand their horizons and benefit under the mentorship of an external researcher.</p></li>
+
 
 <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/IP2_TA_Science_LJ.jpg" style="width:80%;">
 	<center>IP2 TA (Science) students’ Learning Journey to Hyundai Motor Group Innovation Centre Singapore<center>		
