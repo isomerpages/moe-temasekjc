@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IP_Open_House_Website_Banner.png
+      background: /images/IP_Open_House_Website_Banner_final.png
       key_highlights:
         - title: Heritage Website
           description: ""
