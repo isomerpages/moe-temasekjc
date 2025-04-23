@@ -4,7 +4,7 @@ permalink: /admissions/jc-year-1-dsa-jc/
 description: ""
 variant: tiptap
 ---
-<h4><strong>INFORMATION ON DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2026)</strong></h4>
+<h3><strong>INFORMATION ON DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2026)</strong></h3>
 <h4><strong>DSA-JC ENGAGEMENT SESSION</strong></h4>
 <p>The college will be conducting a DSA-JC engagement session for interested
 students (via MS Teams) on 15 May 2025 (Thursday) at 4pm. More details
