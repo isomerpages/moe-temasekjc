@@ -90,39 +90,6 @@ of which might extend beyond the regular school curriculum.
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Music Elective Programme</strong>
@@ -199,39 +166,6 @@ engagements and/or achievements (non-school-based), if any.
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Performing Arts - Concert Band</strong>
@@ -299,17 +233,6 @@ in their online application in MOE’s DSA-Sec portal.
 <br>
 <br>Applicants who are further shortlisted will attend an <strong>interview.</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -545,7 +468,7 @@ form. Please ensure that your contact details are accurate.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All applicants will be notified of the outcome of their application via
-email <strong>between 25 August and 4 September 2025.</strong> 
+email <strong>between 25 August and 4 September 2025.</strong>
 </p>
 </li>
 </ul>
@@ -566,7 +489,7 @@ in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p>
 <p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to transfer
 to another school after the release of the PSLE results. Students who are
 successfully admitted to the school via DSA <strong>are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme</strong>,
-and <strong>participate in the activities related to the talent they are selected for from year 1-4.</strong> 
+and <strong>participate in the activities related to the talent they are selected for from year 1-4.</strong>
 </p>
 </li>
 <li>
@@ -618,7 +541,7 @@ contact:</p>
 </li>
 <li>
 <p>MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
-Ms Serene Tan  <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
+Ms Serene Tan <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
 </p>
 </li>
 <li>
