@@ -6,15 +6,15 @@ variant: markdown
 ---
 # IP YEAR 1 (DSA-SEC)
 
-### APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2025) IS NOW OPEN! ###
+### **APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2026) IS NOW OPEN!** ###
 
-#### <center>Application for DSA-Sec Exercise 2024 commences from: </center>
+#### <center>Application for DSA-Sec Exercise 2025 commences from: </center>
 
-<p style="text-align: justify;"><b></b></p><center><b>7 May 2024 (11am, Singapore time) to <br>
-	3 June 2024 (3pm, Singapore time)</b></center><p></p>
+<p style="text-align: justify;"><b></b></p><center><b>7 May 2025 (11am, Singapore time) to <br>
+	3 June 2025 (3pm, Singapore time)</b></center><p></p>
 
 <br>
-<b>For Admission to TJC Integrated Programme (IP) Year 1 in 2025</b>
+<b>For Admission to TJC Integrated Programme (IP) Year 1 in 2026</b>
 <p style="text-align: justify;">If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
 
 <p style="text-align: justify;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the <i>potential</i> of the applicants.</p>
@@ -57,12 +57,14 @@ variant: markdown
 
 <p style="text-align: justify;">We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). </p>
 
-<p></p><p style="text-align: justify;">Students who enrol through DSA-Music will join the MEP <b><u><i>and</i></u></b> take up Music as one of their subjects <b><u><i>and</i></u></b> join one of the Performing Arts CCAs (Music) in TJC. IP MEP is a four-year commitment and is an examinable subject. The instrument used during the DSA audition will be taken to be their main instrument in the programme. 
+<p style="text-align: justify;">Students who enrol through DSA-Music will need to fulfil the following two conditions:<br>1.	join the MEP and take up Music <u>as one of their examinable</u> subjects<br>2.	join one of the Music-related Performing Arts CCAs in TJC. 
+
+</p><p style="text-align: justify;">IP MEP is a <b>four-year commitment and is an examinable subject.</b> The instrument used during the DSA audition will be taken to be their main instrument in the programme.</p>
 
 
 <style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
 
-</p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
+<p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
 	
 <table class="mmt-table mmt-table-custom selected" id="TABLE-1">
 	
@@ -76,17 +78,39 @@ variant: markdown
 <tbody>
 <tr>
 <td class="">Music Elective Programme (MEP)</td>
-<td>● Selection is based on students’ knowledge of musical concepts and skills covered in the primary school Music syllabus. <br><br>●	Students need to be competent in performance skills that can be developed through music CCAs or through other musical experiences (for example, display basic fluency and sound fundamental techniques).</td>
-<td>All shortlisted applicants for MEP must go through a <b>Selection Exercise</b>, which comprises:<br><br>•	A written listening test <br>•	An audition, which also consists of aural tests and a short interview.<br><br>For the audition, applicants are to prepare:<br><br> 1) Two contrasting pieces on the instrument(s)/voice of their choice, with a duration of 5 minutes in total.<br><br> 2) Students may also submit their scores or recordings if they have composed music.<br><br>Applicants are to submit supporting documents of relevant musical qualifications, engagements and/or achievements (school-based and non-school-based) as well as music scores of their audition repertoire before the audition, via email, to:<br><br>Mr Marcus Tay  (tay_hiong_kiat_marcus@moe.edu.sg)<br>and<br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg)<br><br>Applicants who are further shortlisted will attend an <b>interview.</b></td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
+<td>● Selection is based on students’ knowledge of musical concepts and skills covered in the primary school Music syllabus. <br><br>● Students need to be competent in performance skills (for example, display basic fluency and sound fundamental techniques) that can be developed through music CCAs or through other musical experiences.</td>
+<td>In your online application via MOE’s DSA-Sec portal, applicants are to state your music background or relevant skill sets (if any) as accompanying information. <br><br>All shortlisted applicants for MEP must go through a <b>Selection Exercise</b>, which comprises:<br><br>•	A written listening test <br>•	An audition, which also consists of aural tests and a short interview.<br><br>For the audition, applicants are to prepare: <b>Two contrasting pieces on the instrument(s)/voice of their choice</b>, with a duration of 5 minutes in total.  <br><br>Applicants are to submit via email: <br> 1) Music scores of their audition repertoire<br>2)	Their scores or recordings if they have composed music.<br><br>Applicants are to email music scores of the audition repertoire at least <b>2 working days <u>before</u></b> the audition to:<br><br>Ms Abigail Sim (abigail_sim_shin_yi@moe.edu.sg) <br><i>and</i><br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg)<br><br>Applicants may submit supporting documents of relevant musical qualifications, engagements and/or achievements (non-school-based), if any. <br><br>Applicants who are further shortlisted will attend an <b>interview.</b></td></tr><tr></tr><tr></tr><tr></tr></tbody></table></div>
 
 **Performing Arts - Concert Band**
 
 <p style="text-align: justify;">We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.</p>
 
-<p style="text-align: justify;">Students who enrol through DSA-Concert Band will join the Symphonic Band CCA in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
+<p style="text-align: justify;">Students who enrol through DSA-Concert Band <b>will join the <u>Symphonic Band CCA</u></b> in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. </p>
 
-<style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style><p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12"><table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead><tr><th>TALENT AREA</th><th>SELECTION CRITERIA</th><th>SELECTION PROCESS</th></tr></thead><tbody><tr><td class="">Concert Band </td><td>●	Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, French horn, trombone, euphonium, tuba or any band percussion instruments. <br><br>●	Participation in music competitions, and/or Singapore Youth Festival (SYF) Arts Presentation preferred. <br><br>●	Very good CCA records<br><br>●	Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal</td>
-<td>All shortlisted applicants for Concert Band must go through a <b>Selection Exercise</b>, which comprises: <br><br>●	An audition, which also consists of sight reading and a short interview.<br><br>For the audition, applicants are to:<br><br>  ●	Prepare two contrasting pieces on a band instrument, or band instruments, of their choice.  <br>●	Submit relevant documents of school-based and non-school based achievements as well as music scores of their audition repertoire before the audition, via email to: <br><br>   Mr Daniel Yee (daniel_yee@moe.edu.sg)    <br>and <br>Mdm Yani (nuryani_suneh@moe.edu.sg) <br><br>Applicants who are further shortlisted will attend an <b>interview.</b> </td></tr><tr></tr></tbody></table></div>
+<style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style>
+<p></p>
+<div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
+<table class="mmt-table mmt-table-custom selected" id="TABLE-1">
+<thead>
+<tr>
+<th>TALENT AREA</th>
+<th>SELECTION CRITERIA</th>
+<th>SELECTION PROCESS</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="">Concert Band </td>
+<td>●	Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, French horn, trombone, euphonium, tuba or any symphonic band percussion instruments. <br><br>●		Symphonic band percussion instruments include the snare drum, timpani and mallet percussion instruments like the xylophone, glockenspiel etc. <u>Drum set/kit will not be considered.</u> <br><br>●	Very good CCA records<br><br>
+</td>
+<td>All shortlisted applicants for band must go through a <b>Selection Exercise</b>, which comprises: <br>●	An audition, which also consists of sight reading and a short interview.<br><br>For the audition, applicants are to:<br>  ●	Prepare two contrasting pieces on a symphonic band instrument, or instruments; of a total of not more than 5 minutes. <br><br>Applicants are to submit via email: <br>●	music scores of their audition repertoire at least <b>2 working days <u>before</u></b> the audition to:  <br><br>   Mr Daniel Yee (daniel_yee@moe.edu.sg)    <br><i>and</i><br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg) <br><br>Applicants may include relevant non-school-based achievements and/or engagements in their online application in MOE’s DSA-Sec portal. <br><br>Applicants who are further shortlisted will attend an <b>interview.</b> 
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+</div>
 
 **Sports**
 
