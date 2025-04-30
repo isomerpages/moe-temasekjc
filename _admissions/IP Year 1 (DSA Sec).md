@@ -116,7 +116,7 @@ variant: markdown
 
 <p style="text-align: justify;">We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.
 
-</p><p style="text-align: justify;">Students who enrol through DSA-Sports will join the CCA of their respective sport. They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. 
+</p><p style="text-align: justify;">Students who <b>enrol through DSA-Sports <u>will join the CCA of their respective sport.</u></b> They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate.  
 
 <style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
 <table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead>
@@ -128,34 +128,37 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-<td class="">Badminton<br> Basketball<br> Ten-Pin Bowling<br> Taekwondo (TKD)</td><td>● Very Good CCA records <br>● Prior competition experience (NSG or other relevant competitions) <br>● For TKD applicants only: Blue belt and above, with strong foundations (e.g good basic kicks)</td><td>All shortlisted applicants must attend a <b>Selection Exercise</b>.<br><br><u>Badminton</u> <br>Bring your badminton racket and be in proper court shoes. <br><br>The trial will consist of: <br>1. Fitness tests <br>2. Footwork drills <br>3. Singles match play <br><br><u>Basketball</u><br> Be in proper sport shoes, preferably mid / high-cut basketball shoes. <br><br>The trial will consist of: <br>1. Dribbling skills <br>2. Layup n shooting drills <br>3. 5v5 game play <br><br><u>Bowling</u><br> Bring your personal equipment for the trial <b>(to be conducted at SuperBowl SAFRA Tampines).</b> <br><br>The trial will consist of: <br>Bowling skill sets over 10 frames in a game <br><br> <u>Taekwondo</u><br> Be in Taekwondo uniform (Dobok).<br><br> The trial will consist of:<br> Demonstration of relevant poomsae patterns and kicks<br><br> Applicants who are further shortlisted will attend an <b>interview.</b></td></tr><tr></tr></tbody></table></div>
+<td class="">Badminton<br> Basketball<br>Bowling<br> Taekwondo</td><td>● Very good CCA records <br>●	Participation and prior experience in relevant talent areas <br>● Demonstrate ability and skills relevant to the talent area </td>
+<td>All shortlisted applicants must attend a <b>Selection Exercise</b>.<br><br><u>Badminton</u> <br>Bring your badminton racket and be in proper court shoes. <br><br>The trial will consist of: <br>1. Fitness tests <br>2. Footwork drills <br>3. Singles match play <br><br><u>Basketball</u><br> Be in proper sport shoes, preferably mid / high-cut basketball shoes. <br><br>The trial will consist of: <br>1. Dribbling skills <br>2. Layup n shooting drills <br>3. 5v5 game play <br><br><u>Bowling</u><br> Bring your personal equipment for the trial <b>(to be conducted at SuperBowl SAFRA Tampines).</b> <br><br>The trial will consist of: <br>1. Bowling skill sets over 10 frames in a game <br><br> <u>Taekwondo</u><br> Be in Taekwondo uniform (Dobok).<br><br> The trial will consist of:<br> 1. Demonstration of relevant poomsae patterns and kicks, followed by a short interview <br><br>Applicants may include relevant non-school-based achievements and/or engagements in their online application in MOE’s DSA-Sec portal.<br><br> Applicants who are further shortlisted will attend an <b>interview.</b></td></tr><tr></tr></tbody></table></div>
 
 **Leadership**
 
-<p style="text-align: justify;">TJC nurtures leaders of the future who are passionate and purposeful in what they do, in line with our College motto “For College, For Nation”. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference in your community and country.  </p>
+<p style="text-align: justify;">TJC nurtures leaders of the future who are passionate and purposeful in what they do, in line with our College motto “For College, For Nation”. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference to the College, your community and our country.   </p>
 
-<p style="text-align: justify;">Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2. </p>
+<p style="text-align: justify;">Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills, as well as to grow their leadership competencies. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2. </p>
 
 <style>.mmt-table,.mmt-table-custom{width:100%;table-layout:fixed;}.mmt-table tr td, .mmt-table thead tr th{height:24px!important;padding:4px;border:1px solid #aaa;overflow: auto;} .mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}.mmt-table-custom-parent{margin:0;padding:4px}.mmt-table tr:nth-child(odd) {background: #ffffff} .mmt-table tr:nth-child(even) {background: #ffffff} .mmt-table td:nth-child(odd) {color: #545454} .mmt-table td:nth-child(even) {color: #000000}.mmt-table tr td, .mmt-table thead tr th {border : 1px solid #aaaaaa}.mmt-table thead tr th {background: #e8a647; color: #fff; text-align: inherit;}</style><p></p><div class="mmt-custom-content col-sm-12 mmt-table-custom-parent col-lg-12">
 <table class="mmt-table mmt-table-custom selected" id="TABLE-1"><thead>
 <tr>
-<th>TALENT AREA</th><th>SELECTION CRITERIA</th><th>SELECTION PROCESS</th>
+<th>TALENT AREA</th>
+<th>SELECTION CRITERIA</th>
+<th>SELECTION PROCESS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td class="">Leadership </td>
-<td>●	Applicants should be role models who have demonstrated excellent leadership skills and potential through their experiences in key leadership positions in primary school (Executive Committee member in the Prefectorial Board or equivalent, CCA leader etc)  <b>OR</b> have led projects that have impacted the community.   <br><br>●	Applicants should indicate non-school-based achievements in their online application in MOE’s DSA portal</td>
-<td>All shortlisted applicants will attend an <b>interview.</b> 
+<td>●	Applicants should be exemplary role models who have demonstrated excellent leadership skills and potential to contribute to the College through their experiences in key leadership positions in primary school (Executive Committee member in the Prefectorial Board/Students’ Council or equivalent, CCA leader etc) <b>OR</b> have led projects that have impacted the community.  <br><br>
+</td><td>All shortlisted applicants will attend an <b>interview.</b><br><br> ●	Applicants may include non-school-based achievements in their online application in MOE’s DSA-Sec portal.
 </td></tr><tr></tr></tbody></table></div>
 
-**_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. This is due to different profiles of applicants, selection/shortlisting trends that may differ year on year._**
+**_Please note that meeting all the criteria does not guarantee that the student will be shortlisted/given an offer. This is due to different profiles of applicants, selection/shortlisting trends that may differ year on year._**
 	
 	
 #### **APPLICATION PROCESS**
 
 	
-<b>The Application Period is from 11.00 a.m. on 7 May 2024 to 3.00 p.m. on 3 June 2024.</b><br>
+<b>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</b><br>
 <br>
 For more details, please refer to: <b>[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)</b>
 <br><br>
@@ -170,7 +173,8 @@ Please note the following:
 * International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to [https://www.moe.gov.sg/international-students/aeis/](https://www.moe.gov.sg/international-students/aeis/) apply for details.
 
 **Dates for Selection Tests/Auditions/Trials/Interviews:**
-	
+
+Applicants will receive notification from Temasek Junior College from 4 July to the end of July 2025, if they are shortlisted for the DSA selection process.
 * The selection tests/auditions/trials will be held from **28 June to 2 Aug 2024.**
 * All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u>
 * <u>Only shortlisted applicants</u> will be notified via email and/or SMS for a selection test/audition/trial.
