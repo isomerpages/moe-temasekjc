@@ -47,21 +47,21 @@ Temasek Academy. This programme develops students’ intellectual abilities
 beyond the typical curriculum and exposes students to a wide range of opportunities
 that allows their talents to flourish.</p>
 <p></p>
+	
+	
+
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</tbody></table><table border="1">
+<tbody><tr>
+<th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION PROCESS</p>
 </th>
 </tr>
@@ -112,13 +112,13 @@ instrument in the programme.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION PROCESS</p>
 </th>
 </tr>
@@ -184,13 +184,13 @@ allocated in the Symphonic Band.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION PROCESS</p>
 </th>
 </tr>
@@ -253,13 +253,13 @@ at the Zonal / National level and international exposure where appropriate.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION PROCESS</p>
 </th>
 </tr>
@@ -351,13 +351,13 @@ Year 2.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
 </th>
-<th rowspan="1" colspan="1">
+<th bgcolor="MediumSeaGreen">
 <p>SELECTION PROCESS</p>
 </th>
 </tr>
