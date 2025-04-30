@@ -617,13 +617,13 @@ contact:</p>
 </p>
 </li>
 <li>
-<p>MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a> &amp;
-Mr Marcus Tay <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hiong_kiat_marcus@moe.edu.sg</a>
+<p>MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
+Ms Serene Tan  <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
 </p>
 </li>
 <li>
 <p>Concert Band: Mr Daniel Yee <a href="mailto:daniel_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_yee@moe.edu.sg</a> &amp; Ms Tan
-Jeng Suan (<a href="mailto:nuryani_suneh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuryani_suneh@moe.edu.sg</a>
+Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jeng_suan@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -648,5 +648,5 @@ Jeng Suan (<a href="mailto:nuryani_suneh@moe.edu.sg" rel="noopener noreferrer no
 </li>
 </ul>
 <p>For any enquiries on the <strong>DSA Application,</strong> please contact
-the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">DSA_IP@temasekjc.moe.edu.sg</a></strong>
+the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">registrar@tjc.edu.sg</a></strong>
 </p>
