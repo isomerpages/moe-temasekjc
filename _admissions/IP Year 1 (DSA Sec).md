@@ -110,8 +110,8 @@ instrument in the programme.</p>
 <col>
 <col>
 </colgroup>
-<tbody>
-<tr>
+<tbody></tbody></table><table border="1">
+<tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
@@ -182,8 +182,8 @@ allocated in the Symphonic Band.</p>
 <col>
 <col>
 </colgroup>
-<tbody>
-<tr>
+<tbody></tbody></table><table border="1">
+<tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
@@ -251,8 +251,8 @@ at the Zonal / National level and international exposure where appropriate.</p>
 <col>
 <col>
 </colgroup>
-<tbody>
-<tr>
+<tbody></tbody></table><table border="1">
+<tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
@@ -349,8 +349,8 @@ Year 2.</p>
 <col>
 <col>
 </colgroup>
-<tbody>
-<tr>
+<tbody></tbody></table><table border="1">
+<tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
 </th>
