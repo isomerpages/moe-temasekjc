@@ -6,10 +6,10 @@ variant: markdown
 ---
 <h1>IP YEAR 1 (DSA-SEC)</h1>
 <h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2026) IS NOW OPEN!</strong></h3>
-<h4>Application for DSA-Sec Exercise 2025 commences from:</h4>
+<h4><center>Application for DSA-Sec Exercise 2025 commences from:</center></h4>
 <p></p>
-<p><strong>7 May 2025 (11am, Singapore time) to <br>3 June 2025 (3pm, Singapore time)</strong>
-</p>
+<p></p><center><strong>7 May 2025 (11am, Singapore time) to <br>3 June 2025 (3pm, Singapore time)</strong></center>
+<p></p>
 <p></p>
 <p>
 <br><strong>For Admission to TJC Integrated Programme (IP) Year 1 in 2026</strong>
