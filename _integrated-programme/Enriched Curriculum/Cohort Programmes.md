@@ -3,10 +3,11 @@ title: Cohort Programmes
 permalink: /academic/integrated-programme/enriched-curriculum/cohort-programmes/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
 # COHORT PROGRAMMES
 
-<p style="text-align: justify;">Cohort Programmes <b>extend our students' learning beyond the classroom</b>. Designed to give all students the opportunity to experience Type I and II enrichment under the Renzulli Enrichment Triad framework, they provide opportunities for students to apply what they have learned in <b>authentic and dynamic environments</b>. Through our cohort programmes, students learn future-ready skills, develop a deep understanding of the world around them, and grow into confident, forward-thinking leaders who are anchored in a sense of community. Most of all, these hands-on programmes encourage students to experience the joy of learning and discovery in engaging and exciting ways!</p>
+<p style="text-align: justify;">Cohort Programmes extend our students' learning beyond the classroom. Designed to give all students the opportunity to experience Type I and II enrichment under the Renzulli Enrichment Triad framework, they provide opportunities for students to apply what they have learned in authentic and dynamic environments. Through our cohort programmes, students learn future-ready skills, develop a deep understanding of the world around them, and grow into confident, forward-thinking leaders who are anchored in a sense of community. Most of all, these hands-on programmes encourage students to experience the joy of learning and discovery in engaging and exciting ways!</p>
 
 
 <ul class="jekyllcodex_accordion">
@@ -55,7 +56,7 @@ third_nav_title: Enriched Curriculum
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">INNOVATION & RESEARCH PROJECT</label>
+    <label for="accordion3">INNOVATION &amp; RESEARCH PROJECT</label>
     <div>
 			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/IRP%20design%20thinking%20programme.png" style="width:80%">
 			<p style="text-align: justify;">The Innovation and Research Project (IRP) is a cutting-edge design thinking programme inspired by Stanford University's Hasso Plattner Institute of Design or more popularly known as d.school, and the award-winning design firm IDEO. The Design Thinking approach seeks to solve problems by first understanding users' needs, followed by the development of insights to meet those needs. In IRP, our students unlock their inner creativity and take an interdisciplinary approach that is empathy-driven and end-user centric to address the most complex problems. Through the IRP, our IP Year 3 students will understand the basics of design thinking and engage in actual innovation that meet users' needs, wants and desires.</p>
