@@ -386,12 +386,8 @@ application in MOE’s DSA-Sec portal.</p>
 
 
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">APPLICATION PROCESS </label>
-    <div>
 
+<h5><strong>APPLICATION PROCESS </strong></h5>
 <p><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong>
 <br>
 <br>For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
@@ -467,17 +463,11 @@ email <strong>between 25 August and 4 September 2025.</strong>
 </li>
 </ul>
 
-<ul class="jekyllcodex_accordion">
- <li>
- <input type="checkbox" id="accordion2">
- <label for="accordion2">WHAT ELSE DO I NEED TO KNOW? </label>
-  <div>		
-			
-			
-			
-			
+
 			
 
+ <h5><strong>WHAT ELSE DO I NEED TO KNOW?</strong></h5>
+ 
 <p><strong>Points to note:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -526,13 +516,7 @@ the area of talent.</p>
 		
 		
 		
-		
-<ul class="jekyllcodex_accordion">
- <li>
- <input type="checkbox" id="accordion3">
- <label for="accordion3">ENQUIRIES </label>
- <div>				
-		
+
 <h5><strong>ENQUIRIES</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -589,7 +573,4 @@ Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nof
 <p>For any enquiries on the <strong>DSA Application,</strong> please contact
 the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">registrar@tjc.edu.sg</a></strong>
 </p>
-</div></li>
-</ul></div>
-		
-</li></ul>	</div></li></ul>
+
