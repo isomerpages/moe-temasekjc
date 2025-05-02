@@ -105,12 +105,8 @@ instrument used during the DSA audition will be taken to be their main
 instrument in the programme.</p>
 <p></p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
@@ -177,12 +173,7 @@ TJC. The instrument/s used during the audition will be their instrument/s
 allocated in the Symphonic Band.</p>
 <p></p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
@@ -246,12 +237,7 @@ will undergo rigorous training to develop them to their fullest potential,
 including opportunities to represent the school at sporting competitions
 at the Zonal / National level and international exposure where appropriate.</p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
