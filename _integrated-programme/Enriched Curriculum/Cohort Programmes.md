@@ -53,7 +53,7 @@ variant: markdown
     <input type="checkbox" id="accordion2">
     <label for="accordion2">WORLD WITHOUT BORDERS</label>
     <div>
-			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/WWB.jpg" style="width:80%">
+			<img src="/images/Academic/Enriched%20Curriculum/Cohort%20Programmes/WWB.jpg" style="width:70%">
 			<p style="text-align: justify;">In World Without Borders (WwB), IP Year 2 students explore communities and neighbourhoods across Singapore through an interdisciplinary approach that integrates thematic inquiry, design thinking, and ethnographic research methods. This process enables them to develop a nuanced understanding of the forces that shape communities—their dynamics, underlying tensions, historical evolution, and ongoing adaptations to contemporary challenges. Through the programme, students cultivate essential tools and dispositions that foster empathy, critical insight, and thoughtful observation. These skills empower them to engage meaningfully with the world around them and prepare them to navigate an increasingly complex and interconnected global landscape.</p>
     </div>
 	</li> 
