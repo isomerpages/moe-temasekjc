@@ -105,12 +105,8 @@ instrument used during the DSA audition will be taken to be their main
 instrument in the programme.</p>
 <p></p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
@@ -177,12 +173,7 @@ TJC. The instrument/s used during the audition will be their instrument/s
 allocated in the Symphonic Band.</p>
 <p></p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
@@ -246,12 +237,7 @@ will undergo rigorous training to develop them to their fullest potential,
 including opportunities to represent the school at sporting competitions
 at the Zonal / National level and international exposure where appropriate.</p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody></table><table border="1">
+</table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
 <p>TALENT AREA</p>
@@ -397,7 +383,11 @@ application in MOE’s DSA-Sec portal.</p>
 </table>
 <p><strong><em>Please note that meeting all the criteria does not guarantee that the student will be shortlisted/given an offer. This is due to different profiles of applicants, selection/shortlisting trends that may differ year on year.</em></strong>
 </p>
-<h4><strong>APPLICATION PROCESS</strong></h4>
+
+
+
+
+<h5><strong>APPLICATION PROCESS </strong></h5>
 <p><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong>
 <br>
 <br>For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
@@ -472,7 +462,12 @@ email <strong>between 25 August and 4 September 2025.</strong>
 </p>
 </li>
 </ul>
-<h5><strong>WHAT ELSE DO I NEED TO KNOW?</strong></h5>
+
+
+			
+
+ <h5><strong>WHAT ELSE DO I NEED TO KNOW?</strong></h5>
+ 
 <p><strong>Points to note:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -517,6 +512,11 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 </li>
 </ul>
+		
+		
+		
+		
+
 <h5><strong>ENQUIRIES</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -573,3 +573,4 @@ Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nof
 <p>For any enquiries on the <strong>DSA Application,</strong> please contact
 the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">registrar@tjc.edu.sg</a></strong>
 </p>
+
