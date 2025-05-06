@@ -245,7 +245,7 @@ the trials/audition/interview for our school’s JC Direct School Admission
 </p>
 <p>Application opens on <u>7 May 2025</u>, and closes on <strong>Monday, 30 Jun 2025, (5.00 pm, Singapore time).</strong>
 </p>
-<p>Please click <a href="https://matrix.tjc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">HERE</a> to
+<p>Please click <a href="https://dsa.tjc.edu.sg" rel="noopener nofollow" target="_blank">HERE</a> to
 apply.</p>
 <p><strong>2) Supporting Documents</strong>
 </p>
