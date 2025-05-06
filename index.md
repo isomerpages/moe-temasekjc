@@ -20,12 +20,12 @@ sections:
           url: https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2025/
       variant: image
   - infobar:
-      title: IP Admissions Talk (2025 Intake)
+      title: DSA-JC Engagement Session (2026 Intake)
       id: infobar
-      description: View the recording of the IP Admissions Talk via the link below
+      description: "Meeting ID: 411 669 005 691 7  Passcode: T9wV6w6L"
       button: CLICK HERE
-      url: https://drive.google.com/file/d/1VGxES5tXfBu9q1Q1CLAJdbqcsqAICh1H/view?usp=drive_link
-      subtitle: 22 November 2024, Friday, 5PM
+      url: https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_ZmE0MWIwYmUtYjdiZS00ZmVlLWEzZmUtNTk0OWFkYTM2NzVi@thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22815a6667-2d25-43ac-88e8-6a13e390ee79%22%7d&anon=true&deeplinkId=867f4dde-ea6b-4d7c-a172-a9deff316c45
+      subtitle: 10 May 2025, Thursday, 4pm
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
