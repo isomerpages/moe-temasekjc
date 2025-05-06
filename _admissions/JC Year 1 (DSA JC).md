@@ -73,7 +73,7 @@ Netball <strong>(Girls)</strong>, Shooting, Taekwondo, Volleyball <strong>(Girls
 <p>Music Elective Programme (MEP)</p>
 </li>
 </ul>
-<p>________________________________________</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,7 +93,7 @@ Netball <strong>(Girls)</strong>, Shooting, Taekwondo, Volleyball <strong>(Girls
 <p>We are looking for talented students who can contribute in the following
 areas:</p>
 <p></p>
-<p><strong>CCA - Performing Arts</strong> 
+<p><strong>CCA - Performing Arts</strong>
 </p>
 <p>1. Chinese Drama
 <br>2. Choir
@@ -103,7 +103,7 @@ areas:</p>
 <br>6. Modern Dance
 <br>7. String Ensemble</p>
 <p></p>
-<p><strong>CCA - Sports</strong> 
+<p><strong>CCA - Sports</strong>
 </p>
 <p>1. Badminton
 <br>2. Basketball
@@ -120,7 +120,7 @@ areas:</p>
 <p>▪ Academic performance (eg. WA &amp; EOY results) from Sec 3 to 4 / 5</p>
 <p>▪ Shortlisted applicants will be notified via e-mail / telephone call
 to attend an in-person selection trial and interview which will be conducted
-from <strong>19 May to 25 July 2025</strong> 
+from <strong>19 May to 25 July 2025</strong>
 </p>
 <p>▪ Successful applicants through DSA (Performing Arts / Sports) are expected
 to join and commit to the relevant Performing Arts or Sports CCA respectively
@@ -167,7 +167,7 @@ Scholarship and will be placed in the Temasek Humanities Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership Excellence </strong> 
+<p><strong>Leadership Excellence</strong>
 </p>
 <p>▪ We are looking for applicants who have demonstrated excellent leadership
 competencies and possess the potential to have a positive impact to TJC
@@ -201,7 +201,7 @@ in the TJC Students’ Council or equivalent leadership platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Music Elective Programme (MEP)</strong> 
+<p><strong>Music Elective Programme (MEP)</strong>
 </p>
 <p>▪ Students with strong musical interest and aptitude will have opportunities
 to hone their musical skills with well-equipped music facilities, and engage
@@ -243,7 +243,7 @@ the trials/audition/interview for our school’s JC Direct School Admission
 <h4><strong>APPLICATION PROCESS</strong></h4>
 <p><strong>1) Application Period</strong>
 </p>
-<p>Application opens on <u>7 May 2025</u>, and closes on <strong>Monday, 30 Jun 2025, (5.00 pm, Singapore time).</strong> 
+<p>Application opens on <u>7 May 2025</u>, and closes on <strong>Monday, 30 Jun 2025, (5.00 pm, Singapore time).</strong>
 </p>
 <p>Please click <a href="https://matrix.tjc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">HERE</a> to
 apply.</p>
@@ -306,20 +306,20 @@ of programmes offered in various schools.</p>
 <h4><strong>CONTACT US</strong></h4>
 <p>If you have any enquiries regarding the DSA application, please contact
 the following:</p>
-<p>●	<strong>Performing Arts CCAs</strong> 
-<br>Ms Serene Tan - <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a> 
+<p>● <strong>Performing Arts CCAs</strong> 
+<br>Ms Serene Tan - <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
 </p>
-<p>●	<strong>Sports CCAs</strong> 
+<p>● <strong>Sports CCAs</strong> 
 <br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
 <br>Ms Jonique Ang - <a href="mailto:ang_yam_hui_jonique@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yam_hui_jonique@moe.edu.sg</a>
 </p>
-<p>●	<strong>Humanities Programme</strong>
-<br>Ms Caroline Sng – <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a> 
+<p>● <strong>Humanities Programme</strong>
+<br>Ms Caroline Sng – <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a>
 </p>
-<p>●	<strong>Leadership</strong>
-<br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a> 
+<p>● <strong>Leadership</strong>
+<br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
 </p>
-<p>●	<strong>Music Elective Programm</strong>e
+<p>● <strong>Music Elective Programm</strong>e
 <br>Dr Gary Laycock – <a href="mailto:laycock_eng_yeow_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laycock_eng_yeow_gary@moe.edu.sg</a>
 </p>
 <p>If you have any general enquiries regarding the DSA-JC application, please
