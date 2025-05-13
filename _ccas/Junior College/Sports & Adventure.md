@@ -162,33 +162,14 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Shooting.png" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Fauzana Abdullah</p><p><b>Email</b><br>fauzana_abdullah@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Samuel Liu</p><p><b>Email</b><br>samuel_liu_yi_xiang@@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
     </div>
 	</li> 
-	  <li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">SWIMMING</label>
-    <div>
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Swimming%20thumbnail.jpeg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Esther Mok</p><p><b>Email</b><br>mok_yuerong_esther@moe.edu.sg</p></td>
-  </tr>
-</tbody>
-</table>
-    </div>
-	</li> 
-	  <li>
+	  
+<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">TABLE TENNIS</label>
     <div>
@@ -222,7 +203,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Taekwondo%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Hao Deyi</p><p><b>Email</b><br>hao_deyi@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Lin Pei-Chen</p><p><b>Email</b><br>lin_pei-chen@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -242,7 +223,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Tennis%20Thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Wong Jee Pheng</p><p><b>Email</b><br>wong_jee_pheng@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Esther Wang</p><p><b>Email</b><br>wang_yingjie_esther@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>

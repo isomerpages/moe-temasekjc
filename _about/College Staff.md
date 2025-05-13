@@ -1389,7 +1389,7 @@ variant: markdown
  
 <tr>
   <td>Mr<br></td>
-  <td>Alex Sung<br></td>
+  <td>Sung Wong Chiang<br></td>
   <td>ICT Manager</td>
   <td><a href="mailto:sung_wong_chiang@moe.edu.sg">sung_wong_chiang@moe.edu.sg</a><br>
 </td>

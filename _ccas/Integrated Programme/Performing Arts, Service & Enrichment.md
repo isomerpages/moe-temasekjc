@@ -84,8 +84,8 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Modern%20Dance%20IP.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mdm Haslinda Ali
-</p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Chen Ying
+</p><p><b>Email</b><br>chen_ying@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +105,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Perf%20Arts,%20Service,%20Enrichment/Students%20Council%20IP.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Han Song Guang</p><p><b>Email</b><br>han_song_guang@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>

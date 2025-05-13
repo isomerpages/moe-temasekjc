@@ -23,7 +23,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;" width="270">Choir<br>Guitar<br>Infocomm Club<br>Modern Dance<br>Students' Council<br>Symphonic Band</td>
-<td style="text-align: center;" width="258">Badminton<br>Basketball<br>Bowling<br>Football (Boys)<br>Swimming<br>Taekwondo<br>Volleyball (Girls)</td>
+<td style="text-align: center;" width="258">Badminton<br>Basketball<br>Bowling<br>Football (Boys)<br>Taekwondo<br>Volleyball (Girls)</td>
 </tr>
 </tbody>
 </table>
