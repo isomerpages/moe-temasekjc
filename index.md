@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IP_Open_House_Website_Banner_final.png
+      background: /images/WhatsApp_Image_2025_05_13_at_2_52_15_PM.jpg
       key_highlights:
         - title: Heritage Website
           description: ""
