@@ -82,7 +82,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Service%20&amp;%20Enrichment/Students%20Council%20thumbnail.jpeg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Chua Cheng Ying</p><p><b>Email</b><br>cheng_ying_chua@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mr Han Song Guang</p><p><b>Email</b><br>han_songguang@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
