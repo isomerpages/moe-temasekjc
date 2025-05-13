@@ -107,8 +107,8 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports/Taekwondo%20IP.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Hao Deyi
-</p><p><b>Email</b><br>hao_deyi@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Lin Pei-Chen
+</p><p><b>Email</b><br>lin_pei-chen@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
