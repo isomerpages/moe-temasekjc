@@ -92,28 +92,8 @@ variant: markdown
 </table>
     </div>
 	</li> 
-	  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">SWIMMING</label>
-    <div>
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Temasek%20Experience/Sports/Swimming%20IP.jpeg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Miss Esther Mok
-</p><p><b>Email</b><br>mok_yuerong_esther@moe.edu.sg</p></td>
-  </tr>
-</tbody>
-</table>
-    </div>
-	</li> 
-	  <li>
+	  
+<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">TAEKWONDO</label>
     <div>
