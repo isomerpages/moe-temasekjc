@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - JC DSA Engagement Videos.md
+      - DSA JC Engagement Videos.md
       - JC1 Orientation 2025.md
       - Appeal Application For JC1 (Intake 2025).md
       - IP Year 1 Registration (2025 Intake).md
