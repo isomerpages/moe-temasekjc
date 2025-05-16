@@ -54,9 +54,4 @@ sections:
       url: https://360theredmarker.com/vt/TemasekJC/
       image: /images/651ac1f3e7ff9ef9ba716bf4_Splash_Screen.png
       alt: Image alt text
-  - infobar:
-      title: TJC DSA-JC Engagement Session 2025
-      id: infobar
-      button: Click to view
-      url: https://youtu.be/NDlDcmXdEVU
 ---
