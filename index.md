@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2025_05_13_at_2_52_15_PM.jpg
+      background: /images/47th_College_Day_2025___Website_Banner.png
       key_highlights:
         - title: Heritage Website
           description: ""
