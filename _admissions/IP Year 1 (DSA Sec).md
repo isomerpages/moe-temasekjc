@@ -400,7 +400,7 @@ application in MOE’s DSA-Sec portal.</p>
 <label for="accordion2">APPLICATION PROCESS </label>
 <div>
 <p style="text-align: justify;"><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong></p>	
-<br>For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
+For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
 <br>
 <br>Please note the following:<p></p>
 <ul data-tight="true" class="tight">
