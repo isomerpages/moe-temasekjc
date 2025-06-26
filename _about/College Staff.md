@@ -174,13 +174,7 @@ variant: markdown
     <td>History<br></td>
     <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
   </tr>
-	 <tr>
-    <td>Mr<br></td>
-    <td>Ian Wong<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:wong_sing_chung_ian@moe.edu.sg">wong_sing_chung_ian@moe.edu.sg</a></td>
-  </tr>
+	 
 
 
 <tr>
