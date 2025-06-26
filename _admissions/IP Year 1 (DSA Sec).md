@@ -55,60 +55,7 @@ beyond the typical curriculum and exposes students to a wide range of opportunit
 that allows their talents to flourish.</p>
 <p></p>
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-
-
-
-
-
-
-
-
-
-<p><strong>TALENT AREAS</strong>
-</p>
-<p>All talent areas offered by TJC, together with selection criteria and
-selection process, are detailed below.</p>
-<p><strong>Academic</strong>
-</p>
-<p>We welcome students who show a strong passion for their chosen academic
-area and who want to nurture their talent to their highest potential in
-TJC.</p>
-<p>Students who enrol through any of our 4 academic talent areas will join
-our Talent Development Programme and our pinnacle academic enrichment programme,
-Temasek Academy. This programme develops students’ intellectual abilities
-beyond the typical curriculum and exposes students to a wide range of opportunities
-that allows their talents to flourish.</p>
-<p></p>
 	
-	
-
 <table style="minWidth: 75px">
 
 <tbody>
@@ -442,17 +389,18 @@ application in MOE’s DSA-Sec portal.</p>
 </table>
 <p><strong><em>Please note that meeting all the criteria does not guarantee that the student will be shortlisted/given an offer. This is due to different profiles of applicants, selection/shortlisting trends that may differ year on year.</em></strong>
 </p>
+
+
+		
+		
+
+</div></li>
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">APPLICATION PROCESS </label>
+<div>
 <br>
-
-		
-		
-
-</div></li><li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">APPLICATION PROCESS </label>
-    <div>
-			<p style="text-align: justify;"><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong></p>	
-		<br>
+<p style="text-align: justify;"><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong></p>	
 <br>For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
 <br>
 <br>Please note the following:<p></p>
@@ -537,89 +485,17 @@ email <strong>between 25 August and 4 September 2025.</strong>
 		
 
 
-<h5><strong>APPLICATION PROCESS </strong></h5>
-<p><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong>
-<br>
-<br>For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
-<br>
-<br>Please note the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An applicant can indicate <u>up to three choices.</u>
-</p>
-</li>
-<li>
-<p>Each choice consists of a secondary school and a talent area offered by
-that secondary school.</p>
-</li>
-<li>
-<p>Of the three choices, an applicant may use a <u>maximum of two choices</u> to
-apply to the same school, for two different talent areas of that school.</p>
-</li>
-</ul>
-<p><strong>Candidates Not Studying in Mainstream Schools</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Candidates (<em>Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR))</em> who
-are not studying in MOE mainstream schools, are required to apply for a
-Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec
-Portal. Please refer to <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
-</li>
-<li>
-<p>International students (IS) who are not studying in MOE mainstream schools
-are also required to take the AEIS (Admissions Exercise for International
-Students) test before applying for DSA. Refer to <a href="https://www.moe.gov.sg/international-students/aeis/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis/</a> apply
-for details.</p>
-</li>
-</ul>
-<p><strong>Dates for Selection Tests/Auditions/Trials/Interviews:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Applicants will receive notification from Temasek Junior College from
-4 July to the end of July 2025, if they are shortlisted for the DSA selection
-process.</p>
-</li>
-<li>
-<p>The selection tests/auditions/trials will be held from <strong>9 July to 7 Aug 2025.</strong>
-</p>
-</li>
-<li>
-<p>All selection tests/auditions/trials/interviews will be <u>conducted in-person at Temasek Junior College or a relevant sports venue.</u>
-</p>
-</li>
-<li>
-<p><u>Only shortlisted applicants</u> will be notified via email and/or SMS
-for a selection test/audition/trial.</p>
-</li>
-<li>
-<p><u>Applicants who are </u><em><u>further shortlisted</u></em> after these
-selection tests/auditions/trials will be invited to attend an <strong>interview in July to August 2025.</strong>
-</p>
-</li>
-<li>
-<p>You will be notified directly through the contact details in your application
-form. Please ensure that your contact details are accurate.</p>
-</li>
-</ul>
-<p><strong>Outcome of Application</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All applicants will be notified of the outcome of their application via
-email <strong>between 25 August and 4 September 2025.</strong>
-</p>
-</li>
-</ul>
+
 
 
 			
-</div></li><li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">WHAT ELSE DO I NEED TO KNOW? </label>
-    <div>
-			<p style="text-align: justify;"><b>Points to note: </b></p>
+</div></li>
+<li>
+ <input type="checkbox" id="accordion3">
+ <label for="accordion3">WHAT ELSE DO I NEED TO KNOW? </label>
+  <div>
+	<br>
+	<p style="text-align: justify;"><b>Points to note: </b></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The General Ability Test (GAT) is not used as part of our selection process
@@ -667,64 +543,18 @@ the area of talent.</p>
 			
 			
 			
- <h5><strong>WHAT ELSE DO I NEED TO KNOW?</strong></h5>
  
-<p><strong>Points to note:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The General Ability Test (GAT) is not used as part of our selection process
-for the Direct School Admission Exercise. Applicants do not need to register
-for the GAT.</p>
-</li>
-<li>
-<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to participate
-in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p>
-</li>
-<li>
-<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to transfer
-to another school after the release of the PSLE results. Students who are
-successfully admitted to the school via DSA <strong>are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme</strong>,
-and <strong>participate in the activities related to the talent they are selected for from year 1-4.</strong>
-</p>
-</li>
-<li>
-<p>The College</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>reserves the right not to reveal the results or reasons for non-selection.</p>
-</li>
-<li>
-<p>will not provide the application outcome over the telephone.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Please refer to MOE’s website at https://<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-</li>
-<li>
-<p>You are encouraged to read the Frequently Asked Questions (FAQs) provided
-on the website if you have further queries.</p>
-</li>
-<li>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-</li>
-</ul>
 		
 		
 		
-</div></li><li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">ENQUIRIES</label>
-    <div>
-			<p style="text-align: justify;">For any enquiries on the <strong>respective talent areas,</strong> please
-contact:</p>	
 </div></li>
 <li>
-<p>Chinese Language: Mrs Chong-Ong Lay Pheng <a href="mailto:ong_lay_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_a@moe.edu.sg</a>
+ <input type="checkbox" id="accordion4">
+ <label for="accordion4">ENQUIRIES</label>
+<div>
+<p style="text-align: justify;">For any enquiries on the <strong>respective talent areas,</strong> please
+contact:</p>	
+</div></li><li><p>Chinese Language: Mrs Chong-Ong Lay Pheng <a href="mailto:ong_lay_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_a@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -789,59 +619,3 @@ the TJC General Office at 6442 8066 during office hours or email: <strong><a hre
 			
 			
 
-<h5><strong>ENQUIRIES</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>For any enquiries on the <strong>respective talent areas,</strong> please
-contact:</p>
-</li>
-<li>
-<p>Chinese Language: Mrs Chong-Ong Lay Pheng <a href="mailto:ong_lay_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_a@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>English Language: Ms Caroline Sng <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Mathematics: Mr Marcus Goh <a href="mailto:goh_chengwei_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chengwei_marcus@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Science: Mr Low Kian Seh <a href="mailto:low_kian_seh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kian_seh@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
-Ms Serene Tan <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Concert Band: Mr Daniel Yee <a href="mailto:daniel_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_yee@moe.edu.sg</a> &amp; Ms Tan
-Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jeng_suan@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Badminton: Mrs Evelyn Lim <a href="mailto:ng_ee_lin_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lin_evelyn@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Basketball: Mr Danny Wong <a href="mailto:wong_kok_wye_danny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_wye_danny@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Bowling: Mr Ng Seng Chang <a href="mailto:ng_seng_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_seng_chang@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Taekwondo: Ms Lin Pei-Chen <a href="mailto:lin_pei-chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei-chen@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Leadership: Mr Han Songguang <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
-</p>
-</li>
-</ul>
-<p>For any enquiries on the <strong>DSA Application,</strong> please contact
-the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">registrar@tjc.edu.sg</a></strong>
-</p>
