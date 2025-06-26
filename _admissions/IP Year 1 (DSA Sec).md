@@ -552,39 +552,39 @@ the area of talent.</p>
 <div>
 <p style="text-align: justify;">For any enquiries on the <strong>respective talent areas,</strong> please
 contact:</p>	
-<p>Chinese Language: Mrs Chong-Ong Lay Pheng <a href="mailto:ong_lay_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_a@moe.edu.sg</a>
+<p>• Chinese Language: Mrs Chong-Ong Lay Pheng <a href="mailto:ong_lay_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_pheng_a@moe.edu.sg</a>
 </p>
 
-<p>English Language: Ms Caroline Sng <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a>
+<p>• English Language: Ms Caroline Sng <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a>
 </p>
 
-<p>Mathematics: Mr Marcus Goh <a href="mailto:goh_chengwei_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chengwei_marcus@moe.edu.sg</a>
+<p>• Mathematics: Mr Marcus Goh <a href="mailto:goh_chengwei_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chengwei_marcus@moe.edu.sg</a>
 </p>
 
-<p>Science: Mr Low Kian Seh <a href="mailto:low_kian_seh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kian_seh@moe.edu.sg</a>
+<p>• Science: Mr Low Kian Seh <a href="mailto:low_kian_seh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kian_seh@moe.edu.sg</a>
 </p>
 
-<p>MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
+<p>• MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
 Ms Serene Tan <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
 </p>
 
-<p>Concert Band: Mr Daniel Yee <a href="mailto:daniel_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_yee@moe.edu.sg</a> &amp; Ms Tan
+<p>• Concert Band: Mr Daniel Yee <a href="mailto:daniel_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_yee@moe.edu.sg</a> &amp; Ms Tan
 Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jeng_suan@moe.edu.sg</a>
 </p>
 
-<p>Badminton: Mrs Evelyn Lim <a href="mailto:ng_ee_lin_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lin_evelyn@moe.edu.sg</a>
+<p>• Badminton: Mrs Evelyn Lim <a href="mailto:ng_ee_lin_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lin_evelyn@moe.edu.sg</a>
 </p>
 
-<p>Basketball: Mr Danny Wong <a href="mailto:wong_kok_wye_danny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_wye_danny@moe.edu.sg</a>
+<p>• Basketball: Mr Danny Wong <a href="mailto:wong_kok_wye_danny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_wye_danny@moe.edu.sg</a>
 </p>
 
-<p>Bowling: Mr Ng Seng Chang <a href="mailto:ng_seng_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_seng_chang@moe.edu.sg</a>
+<p>• Bowling: Mr Ng Seng Chang <a href="mailto:ng_seng_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_seng_chang@moe.edu.sg</a>
 </p>
 
-<p>Taekwondo: Ms Lin Pei-Chen <a href="mailto:lin_pei-chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei-chen@moe.edu.sg</a>
+<p>• Taekwondo: Ms Lin Pei-Chen <a href="mailto:lin_pei-chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei-chen@moe.edu.sg</a>
 </p>
 
-<p>Leadership: Mr Han Songguang <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
+<p>• Leadership: Mr Han Songguang <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
 </p>
 
 <p>For any enquiries on the <strong>DSA Application,</strong> please contact
