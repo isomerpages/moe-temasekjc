@@ -145,13 +145,7 @@ variant: markdown
     <td><a href="mailto:kat_kar_hwee@moe.edu.sg">kat_kar_hwee@moe.edu.sg</a></td>
   </tr>
 	
-  <tr>
-    <td>Mr<br></td>
-    <td>Yeo Kai Xiang<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:yeo_kai_xiang_a@moe.edu.sg">yeo_kai_xiang_a@moe.edu.sg</a><br></td>
-  </tr>
+  
   <tr>
     <td>Mr<br></td>
     <td>Julian Chang<br></td>
@@ -1112,14 +1106,8 @@ variant: markdown
     <td>Physics<br></td>
     <td><a href="mailto:neo_kian_siah@moe.edu.sg">neo_kian_siah@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr</td>
-    <td>Tan Jing Long </td>
-    <td>Teacher </td>
-    <td>Physics</td>
-    <td><a href="mailto:tan_jing_long@moe.edu.sg">tan_jing_long@moe.edu.sg</a></td>
-  </tr>
-	 <tr>
+  
+<tr>
     <td>Mr</td>
     <td>Azahar Bin Dahlan </td>
     <td>Teacher </td>
@@ -1385,13 +1373,7 @@ variant: markdown
     <td>STEM Instructor </td>
     <td><a href="mailto:nur_ayuni_sudirmaji@moe.edu.sg">nur_ayuni_sudirmaji@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Ms</td>
-    <td>Adeline Fang </td>
-    <td>STEM Instructor </td>
-    <td><a href="mailto:fang_lishan_adeline@moe.edu.sg">fang_lishan_adeline@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+<tr>
     <td>Ms<br></td>
     <td>Lim Ting<br></td>
     <td>STEM Instructor </td>
