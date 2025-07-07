@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/47th_College_Day_2025___Website_Banner.png
+      background: /images/Temasek_Junior_College_generic_3.png
       key_highlights:
         - title: Heritage Website
           description: ""
