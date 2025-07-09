@@ -599,12 +599,7 @@ variant: markdown
 
 
 
-<tr>
-    <td>Ms<br></td>
-    <td>Li Jiawen<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:li_jiawen_c@moe.edu.sg">li_jiawen_c@moe.edu.sg</a></td>
-  </tr>	
+	
 	
 	
 </tbody>
