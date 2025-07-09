@@ -8,6 +8,9 @@ variant: markdown
 
 **APPLICATION FOR ADMISSION OF RETURNING SINGAPOREAN (RS) &amp; INTERNATIONAL STUDENTS (IS) JC YEAR 1 - INTAKE 2026**
 
+<h5><center>Applications for RS and IS Intake 2026 will commence from:</center></h5>
+<p></p>
+
 <p style="text-align: justify;">Admission of into mainstream schools is subject to availability of school vacancies, the student meeting the school’s admission criteria and the student’s successful application of a Student’s Pass (STP) from the Immigration &amp; Checkpoints Authority (ICA), if necessary.&nbsp;</p>
 
 <p style="text-align: justify;">This admissions exercise is an alternative to seek admission if you wish to continue your pre-university education in a Junior College.</p>
