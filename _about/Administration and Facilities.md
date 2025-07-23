@@ -6,7 +6,7 @@ variant: markdown
 ---
 # School Canteen Advertisement
 
-<p style="text-align: justify;">Are you passionate about serving delicious and nutritious food for our staff and students? Do you specialize in Mixed Economic Rice or similar dishes to Mixed Economic Rice? Temasek Junior College invites you to submit your Stall application and be a part of our School Community!</p>
+<p style="text-align: justify;">Are you passionate about serving delicious and nutritious food for our staff and students? Do you specialize in wanton noodles, laksa, fishball noodles, or similar favourites? Temasek Junior College invites you to submit your Stall application and be a part of our School Community!</p>
 <br>
 
 <table>
@@ -19,8 +19,8 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;">Mixed Economic Rice / Similar dishes to Mixed Economic Rice</td>
-	<td style="text-align: center;"><b>2 April 2025, 5pm (Wednesday)</b></td>
+<td style="text-align: center;">Chinese Noodles</td>
+	<td style="text-align: center;"><b>31 July 2025, 5pm (Thursday)</b></td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
 
@@ -61,7 +61,7 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Wednesday, 2 April 2025, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Thursday, 31 July 2025, 5pm.</b></p>
 
 * Contact No: 6442 8066
 
