@@ -20,7 +20,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="text-align: center;">Chinese Noodles</td>
-	<td style="text-align: center;"><b>31 July 2025, 5pm (Thursday)</b></td>
+	<td style="text-align: center;"><b>22 Auguest 2025, 5pm (Friday)</b></td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
 
