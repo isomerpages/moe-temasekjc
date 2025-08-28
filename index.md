@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/National_Day.png
+      background: /images/Temasek_Junior_College_generic_2.png
       key_highlights:
         - title: Heritage Website
           description: ""
