@@ -6,23 +6,23 @@ variant: markdown
 ---
 ### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2025) IS NOW OPEN**
 
-Application for IP Year 3 Admission Exercise 2024 commences from **7 October 2024 (9.00 am, Singapore time) to 25 October 2024 (12.00 pm, Singapore time).**
+Application for IP Year 3 Admission Exercise 2025 commences from **6 October 2025 (9.00 am, Singapore time) to 24 October 2025 (12.00 pm, Singapore time).**
 
 <p style="text-align: justify;"><b>ADMISSION CRITERIA</b></p>
 
 <p style="text-align: justify;">You are eligible if you are currently a Secondary 2 student <i><u>(not admitted via DSA-Sec or AEIS in your current secondary school)</u></i> who has:</p>
 
-* Strong PSLE results
+* <b>Strong PSLE results</b>
 
-* Strong Secondary 1 and 2 results
+* <b>Strong Secondary 1 and 2 results</b>
 
-* Strong CCA/VIA records (i.e. achievements, leadership experience and service to community)
+* <b>Strong CCA/VIA records</b> (i.e. achievements, leadership experience and service to community)
 
 <p style="text-align: justify;">All applicants must sit for the selection tests. Only shortlisted applicants will have to attend an interview.</p>
 
 <p style="text-align: justify;"><b>Students not studying in Mainstream schools</b></p>
 
-* Returning Singaporeans are strongly encouraged to apply under the Supplementary Placement Exercise (SPE) which is a centralised posting exercise by MOE for the convenience of Returning Singaporeans who wish to join Secondary 1, 2 or 3 at the beginning of the next academic year. 
+* <b>Returning Singaporeans</b> are strongly encouraged to apply under the Supplementary Placement Exercise (SPE) which is a centralised posting exercise by MOE for the convenience of Returning Singaporeans who wish to join Secondary 1, 2 or 3 at the beginning of the next academic year. 
 
 * Click on this link for more information: <a href="https://www.moe.gov.sg/returning-singaporeans/secondary/spe" target="_blank">https://www.moe.gov.sg/returning-singaporeans/secondary/spe</a>
 
@@ -39,7 +39,7 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
     <input type="checkbox" id="accordion1">
     <label for="accordion1">APPLICATION PROCESS </label>
     <div>
-			<p style="text-align: justify;"><b><u>1) Application Form </u></b></p>Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 25 October 2024 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32025" target="_blank">https://go.gov.sg/tjc-ip32025</a><p></p>
+			<p style="text-align: justify;"><b><u>1) Application Form </u></b></p>Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 24 October 2025 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32026" target="_blank">https://go.gov.sg/tjc-ip32026</a><p></p>
 		
 <p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
 			
@@ -66,9 +66,9 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
 •	  Mathematics<br>
 •	  Science<br>
 </p>
-<p style="text-align: justify;">Test dates: <b>4 Nov 2024, Mon</b> (Papers: English &amp; Science) <u>and</u> <b>6 Nov 2024, Wed</b> (Paper: Mathematics)</p>
+<p style="text-align: justify;">Test dates: <b>3 Nov 2025, Mon (PM)</b> (Papers: English &amp; Science) <u><b>and</b></u> <b>5 Nov 2025, Wed (PM)</b> (Paper: Mathematics)</p>
 	
-<p style="text-align: justify;">Test venue: Temasek Junior College (2 Tampines Ave 9, Singapore 529564)</p> 	
+<p style="text-align: justify;">Test venue: <b>Temasek Junior College (2 Tampines Ave 9, Singapore 529564)</b></p> 	
 	
 		
 		
@@ -114,7 +114,7 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
 4. Rate and Speed<br>
 5. Algebraic Expressions and Formulae<br>
 6. Functions and Graphs<br>
-7. Linear equations, simultaneous equations (linear and non-linear), linear inequalities, quadratic equations<br>
+7. Linear equations, simultaneous equations, linear inequalities, quadratic equations<br>
 8. Angles, Triangles and Polygons<br>
 9. Pythagoras’ Theorem and Trigonometry<br>
 10. Mensuration<br>
@@ -156,11 +156,11 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
 
 <p style="text-align: justify;"><b>Interview (For shortlisted applicants)</b></p>
 
-<p style="text-align: justify;">Only <u>shortlisted applicants</u> will be notified via email for an interview. Interviews will be held mid-November 2024 in TJC (2 Tampines Ave 9, Singapore 529564). </p>
+<p style="text-align: justify;">Only <u>shortlisted applicants</u> will be notified via email for an interview. Interviews will be held in <b>mid-November 2025 in TJC (2 Tampines Ave 9, Singapore 529564).</b> </p>
 
 <p style="text-align: justify;"><b>Outcome of Application</b></p>
 
-<p style="text-align: justify;">All applicants will be notified of the outcome of their application by <b>28 November 2024.</b></p>
+<p style="text-align: justify;">All applicants will be notified of the outcome of their application by <b>27 November 2025.</b></p>
 
 		
 		
@@ -190,7 +190,7 @@ Application for IP Year 3 Admission Exercise 2024 commences from **7 October 202
     <input type="checkbox" id="accordion4">
     <label for="accordion4">ENQUIRIES</label>
     <div>
-			<p style="text-align: justify;">If you have any enquiries regarding the application, please contact the TJC General Office at 64428066 during office hours or email: temasek_jc@moe.edu.sg. </p>
+			<p style="text-align: justify;">If you have any enquiries regarding the application, please contact the TJC General Office at <b>64428066</b> during office hours or email: temasek_jc@moe.edu.sg. </p>
     </div>
 	</li> 
 	
