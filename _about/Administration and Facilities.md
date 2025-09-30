@@ -6,12 +6,13 @@ variant: markdown
 ---
 # School Canteen Advertisement
 
-<p style="text-align: justify;">Are you passionate about serving delicious and nutritious food for our staff and students? Do you specialize in wanton noodles, laksa, fishball noodles, or similar favourites? Temasek Junior College invites you to submit your Stall application and be a part of our School Community!</p>
+<p style="text-align: justify;">Are you passionate about serving delicious and nutritious food for our staff and students? Temasek Junior College invites you to submit your Stall application and be a part of our School Community for year 2026.</p>
 <br>
 
 <table>
 <thead>
 <tr>
+	
 <th style="text-align: center;">Type of Stall</th>
 <th style="text-align: center;">Closing Date</th>
 <th style="text-align: center;">Requirements</th>
@@ -20,11 +21,19 @@ variant: markdown
 <tbody>
 <tr>
 <td style="text-align: center;">Chinese Noodles</td>
-	<td style="text-align: center;"><b>22 Auguest 2025, 5pm (Friday)</b></td>
+<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
-
-
+<tr>
+<td style="text-align: center;">Halal Rice Stall</td>
+	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
+<td style="text-align: center;">With vegetarian options<br></td>
+</tr>
+<tr>
+<td style="text-align: center;">Halal Noodles Stall</td>
+	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
+<td style="text-align: center;">With vegetarian options<br></td>
+</tr>
 
 	
 
@@ -61,7 +70,7 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Thursday, 31 July 2025, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Friday, 31 October 2025, 5pm.</b></p>
 
 * Contact No: 6442 8066
 
