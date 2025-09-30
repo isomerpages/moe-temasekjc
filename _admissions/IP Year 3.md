@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **APPLICATION FOR ADMISSION TO IP YEAR 3 (INTAKE 2025) IS NOW OPEN**
 
-Application for IP Year 3 Admission Exercise 2025 commences from **6 October 2025 (9.00 am, Singapore time) to 24 October 2025 (12.00 pm, Singapore time).**
+Application for IP Year 3 Admission Exercise 2025 commences from **6 October 2024 (9.00 am, Singapore time) to 24 October 2024 (12.00 pm, Singapore time).**
 
 <p style="text-align: justify;"><b>ADMISSION CRITERIA</b></p>
 
@@ -39,7 +39,7 @@ Application for IP Year 3 Admission Exercise 2025 commences from **6 October 202
     <input type="checkbox" id="accordion1">
     <label for="accordion1">APPLICATION PROCESS </label>
     <div>
-			<p style="text-align: justify;"><b><u>1) Application Form </u></b></p>Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 24 October 2025 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32026" target="_blank">https://go.gov.sg/tjc-ip32026</a><p></p>
+			<p style="text-align: justify;"><b><u>1) Application Form </u></b></p>Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 24 October 2024 (12.00 pm, Singapore time) via this link: </b><a href="https://go.gov.sg/tjc-ip32025" target="_blank">https://go.gov.sg/tjc-ip32025</a><p></p>
 		
 <p style="text-align: justify;">Application received by fax and email will NOT be considered.</p>
 			
