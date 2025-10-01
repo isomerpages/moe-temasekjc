@@ -1316,7 +1316,7 @@ variant: markdown
   <tr>
     <td>Ms</td>
     <td>Irene Ng Ee Yen </td>
-    <td>ECG Counsellor</td>
+    <td>Education and Career Guidance Counsellor</td>
     <td><a href="mailto:irene_ng_ee_yen@schools.gov.sg">irene_ng_ee_yen@schools.gov.sg</a></td>
   </tr>
   <tr>
