@@ -1325,12 +1325,7 @@ variant: markdown
     <td>School Counsellor </td>
     <td><a href="mailto:danyel_ong_wei@moe.edu.sg">danyel_ong_wei@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Mr </td>
-    <td>Sahlan Selamat </td>
-    <td>School Counsellor  </td>
-    <td><a href="mailto:sahlan_selamat@moe.edu.sg">sahlan_selamat@moe.edu.sg</a> </td>
-  </tr>
+  
 <tr>
     <td>Ms </td>
     <td>Jacqueline Lim </td>
