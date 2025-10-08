@@ -30,7 +30,7 @@ boldness, energy and patience - proven for maximising students’ potential
 and uncovering hidden talents while ensuring that ethical principles and
 values are nurtured at the same time.</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Overview%20GCE%20A-Level%20Curriculum.jpg">
+<img style="width:70%" height="auto" width="100%" alt="Overview of the GCE A-Level Curriculum" src="/images/Academic/Curriculum%20Overview/Overview%20GCE%20A-Level%20Curriculum.jpg">
 </div>
 <p>Overview of the GCE A-Level Curriculum</p>
 <hr>
@@ -48,16 +48,16 @@ which present diverse learning opportunities for in-depth study.</p>
 <p><strong>Arts Stream</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Arts_Stream_Subject_Combi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Arts Stream Subject Combi" src="/images/Academic/Curriculum Overview/Arts_Stream_Subject_Combi.jpg">
 </div>
 <p><strong>Science Stream</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Science_Stream_Subject_Combi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science Stream Subject Combi" src="/images/Academic/Curriculum Overview/Science_Stream_Subject_Combi.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Subject_Combi_Legend.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Subject Combi Legend" src="/images/Academic/Curriculum Overview/Subject_Combi_Legend.jpg">
 </div>
 <p></p>
 <p></p>
