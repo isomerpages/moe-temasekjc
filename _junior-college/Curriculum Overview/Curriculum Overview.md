@@ -33,7 +33,7 @@ values are nurtured at the same time.</p>
 <img style="width:70%" height="auto" width="100%" alt="Overview of the GCE A-Level Curriculum" src="/images/Academic/Curriculum%20Overview/Overview%20GCE%20A-Level%20Curriculum.jpg">
 </div>
 <p style="text-align: center;">Overview of the GCE A-Level Curriculum</p>
-<hr>
+
 
 
 <ul class="jekyllcodex_accordion">
@@ -42,9 +42,9 @@ values are nurtured at the same time.</p>
   <label for="accordion1">SUBJECT COMBINATIONS </label>
  <div>
 <p style="text-align: justify;">We offer a wide range of subjects at H1 and H2 levels in different subject combinations which have been carefully aligned to the GCE 'A' Level curriculum to prepare students and allow them varied options for university courses. Our subject combinations allow students to pursue their areas of interest and to specialise in the domains of the Sciences or the Arts, but at the same time maintaining a broad exposure, by offering contrasting subjects, and building key knowledge skills via core subjects like General Paper and Project Work. Eligible students can also offer subjects at H3 level which present diverse learning opportunities for in-depth study.</p>
-<h4>SUBJECT COMBINATION CHOICES</h4>
-<p><strong>Arts Stream</strong>
-</p>
+
+<p><strong>SUBJECT COMBINATION CHOICES</strong></p>
+<p><strong>Arts Stream</strong></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Arts Stream Subject Combi" src="/images/Academic/Curriculum Overview/Arts_Stream_Subject_Combi.jpg">
 </div>
