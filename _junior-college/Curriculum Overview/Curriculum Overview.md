@@ -33,6 +33,7 @@ values are nurtured at the same time.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Overview%20GCE%20A-Level%20Curriculum.jpg">
 </div>
 <p>Overview of the GCE A-Level Curriculum</p>
+<hr>
 <h4>SUBJECT COMBINATIONS</h4>
 <p>We offer a wide range of subjects at H1 and H2 levels in different subject
 combinations which have been carefully aligned to the GCE 'A' Level curriculum
@@ -43,46 +44,24 @@ same time maintaining a broad exposure, by offering contrasting subjects,
 and building key knowledge skills via core subjects like General Paper
 and Project Work. Eligible students can also offer subjects at H3 level
 which present diverse learning opportunities for in-depth study.</p>
-<h4>SUBJECT COMBINATION CHOICES </h4>
+<h4>SUBJECT COMBINATION CHOICES</h4>
 <p><strong>Arts Stream</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<ul>
-<li>
-<p></p>
-<p><strong>The minimum enrolment of a particular subject combination should not be less than 15 students (with the exception of KI, Art and MEP); the college administration reserves the right not to start a class in such a situation.</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Arts_Stream_Subject_Combi.jpg">
+</div>
+<p><strong>Science Stream</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Science_Stream_Subject_Combi.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Subject_Combi_Legend.jpg">
+</div>
+<p></p>
+<p></p>
 <p>Please refer to the following document for more details on subject combinations:
-<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">JC1 Subject Combination (2025)</a>
+<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">JC1 Subject Combination (2026)</a>
 </p>
-</li>
-</ul>
 <p></p>
