@@ -32,18 +32,16 @@ values are nurtured at the same time.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" alt="Overview of the GCE A-Level Curriculum" src="/images/Academic/Curriculum%20Overview/Overview%20GCE%20A-Level%20Curriculum.jpg">
 </div>
-<p>Overview of the GCE A-Level Curriculum</p>
+<p style="text-align: center;">Overview of the GCE A-Level Curriculum</p>
 <hr>
-<h4>SUBJECT COMBINATIONS</h4>
-<p>We offer a wide range of subjects at H1 and H2 levels in different subject
-combinations which have been carefully aligned to the GCE 'A' Level curriculum
-to prepare students and allow them varied options for university courses.
-Our subject combinations allow students to pursue their areas of interest
-and to specialise in the domains of the Sciences or the Arts, but at the
-same time maintaining a broad exposure, by offering contrasting subjects,
-and building key knowledge skills via core subjects like General Paper
-and Project Work. Eligible students can also offer subjects at H3 level
-which present diverse learning opportunities for in-depth study.</p>
+
+
+<ul class="jekyllcodex_accordion">
+ <li>
+ <input type="checkbox" id="accordion1">
+  <label for="accordion1">SUBJECT COMBINATIONS </label>
+ <div>
+<p style="text-align: justify;">We offer a wide range of subjects at H1 and H2 levels in different subject combinations which have been carefully aligned to the GCE 'A' Level curriculum to prepare students and allow them varied options for university courses. Our subject combinations allow students to pursue their areas of interest and to specialise in the domains of the Sciences or the Arts, but at the same time maintaining a broad exposure, by offering contrasting subjects, and building key knowledge skills via core subjects like General Paper and Project Work. Eligible students can also offer subjects at H3 level which present diverse learning opportunities for in-depth study.</p>
 <h4>SUBJECT COMBINATION CHOICES</h4>
 <p><strong>Arts Stream</strong>
 </p>
@@ -62,6 +60,7 @@ which present diverse learning opportunities for in-depth study.</p>
 <p></p>
 <p></p>
 <p>Please refer to the following document for more details on subject combinations:
-<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">JC1 Subject Combination (2026)</a>
+<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf">JC1 Subject Combination (2026)</a>
 </p>
 <p></p>
+</div></li></ul>
