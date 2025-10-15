@@ -60,7 +60,7 @@ values are nurtured at the same time.</p>
 <p></p>
 <p></p>
 <p>Please refer to the following document for more details on subject combinations:
-<br><a href="/files/Academic/jc1%20subject%20combination%202025.pdf">JC1 Subject Combination (2026)</a>
+<br><a href="/files/Academic/jc1%20subject%20combination%202026.pdf">JC1 Subject Combination (2026)</a>
 </p>
 <p></p>
 </div></li></ul>
