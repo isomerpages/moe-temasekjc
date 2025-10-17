@@ -761,12 +761,7 @@ variant: markdown
 <td><a href="mailto:vijaya_lakshimi_rajaratanam@moe.edu.sg">vijaya_lakshimi_rajaratanam@moe.edu.sg</a></td>
   </tr>
 
-<tr>
-    <td>Mdm</td>
-    <td>Teoh Hee San</td>
-    <td>Teacher </td>
-<td><a href="mailto:">N.A.</a></td>
-  </tr>
+
 <tr>
     <td>Ms</td>
     <td>Irene Kwek</td>
