@@ -787,6 +787,12 @@ variant: markdown
     <td><a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a> </td>
   </tr>
 
+<tr>
+    <td>Mrs</td>
+    <td>Shirley Goh </td>
+    <td>Deputy Head / PE &amp; CCA </td>
+    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a> </td>
+  </tr>
 
   <tr>
     <td>Mr<br></td>
