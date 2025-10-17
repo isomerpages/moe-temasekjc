@@ -773,8 +773,14 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-
-  <tr>
+<tr>
+    <td>Mr</td>
+    <td>Irwan </td>
+    <td>HOD / PE &amp; CCA </td>
+    <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a> </td>
+  </tr>
+  
+<tr>
     <td>Ms</td>
     <td>Jonique Ang </td>
     <td>Deputy Head / PE &amp; CCA </td>
