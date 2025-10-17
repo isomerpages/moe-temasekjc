@@ -169,13 +169,19 @@ variant: markdown
     <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
   </tr>
 	 
-
+<tr>
+    <td>Ms<br></td>
+    <td>Sahana<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:sahana_devi_shanmuganathan@schools.gov.sg">sahana_devi_shanmuganathan@schools.gov.sg</a></td>
+  </tr>
 
 <tr>
     <td>Ms<br></td>
     <td>Niki Lee Xiuli<br></td>
     <td>Teacher<br></td>
-    <td><br></td>
+    <td>Economics<br></td>
     <td><a href="mailto:lee_xiuli@moe.edu.sg">lee_xiuli@moe.edu.sg</a></td>
   </tr>
 
@@ -451,6 +457,15 @@ variant: markdown
     <td>Teacher </td>
     <td><a href="mailto:shermin_chee@moe.edu.sg">shermin_chee@moe.edu.sg</a></td>
 </tr>	
+<tr>
+    <td>Ms</td>
+    <td>Valerie </td>
+    <td>Teacher </td>
+    <td><a href="mailto:Tan_Si_Ying_Valerie_A@schools.gov.sg">tan_si_ying_valerie_a@schools.gov.sg</a></td>
+</tr>	
+	
+	
+	
 	
 </tbody>
 </table>
@@ -752,7 +767,12 @@ variant: markdown
     <td>Teacher </td>
 <td><a href="mailto:">N.A.</a></td>
   </tr>
-	
+<tr>
+    <td>Ms</td>
+    <td>Irene Kwek</td>
+    <td>Teacher </td>
+<td><a href="mailto:kwek_ee_hui_irene@schools.gov.sg">kwek_ee_hui_irene@schools.gov.sg</a></td>
+  </tr>	
 	
 
 	
@@ -837,7 +857,12 @@ variant: markdown
     <td>Teacher </td>
     <td><a href="mailto:tan_ying_en@moe.edu.sg">tan_ying_en@moe.edu.sg</a></td>
   </tr>	
-	
+<tr>
+    <td>Mr </td>
+    <td>Adriel Thin</td>
+    <td>Teacher </td>
+    <td><a href="mailto:thin_jie_hao_adriel@schools.gov.sg">thin_jie_hao_adriel@schools.gov.sg</a></td>
+  </tr>		
 	
 	
 	
@@ -947,13 +972,7 @@ variant: markdown
     <td> Chemistry</td>
     <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
   </tr>
-   <tr>
-    <td>Mrs</td>
-    <td>Gay-Lin Wenjie </td>
-    <td>Deputy Head / Science (Biology) </td>
-    <td>Biology</td>
-    <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Wong Jee Pheng<br></td>
