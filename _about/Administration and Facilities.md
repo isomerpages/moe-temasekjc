@@ -19,11 +19,7 @@ variant: markdown
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Chinese Noodles</td>
-<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
-<td style="text-align: center;">With vegetarian options<br></td>
-</tr>
+
 <tr>
 <td style="text-align: center;">Halal Rice </td>
 	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
@@ -34,11 +30,7 @@ variant: markdown
 	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
-<tr>
-<td style="text-align: center;">Japanese Food </td>
-	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
-<td style="text-align: center;">With vegetarian options<br></td>
-</tr>
+
 	
 	
 	
