@@ -58,9 +58,9 @@ variant: markdown
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Loh_Woon_Yen.png" style="width:100px">Ms Loh Woon Yen
 <br>Member</td>
 	</tr>		
- <tr><td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Liu_Earnler.png" style="width:100px">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
+
 		
-  </tr>
+  
 </tbody>
 </table>
     </div>
