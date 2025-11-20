@@ -46,7 +46,7 @@ variant: markdown
 	
 <tr>
     <td>HOD / PE<br></td>
-    <td>Mr Irwan<br></td>
+    <td>Mr Irwan Wijaya<br></td>
     <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a><br></td>
   </tr>	
   <tr>
