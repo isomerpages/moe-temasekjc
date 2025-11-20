@@ -3,6 +3,7 @@ title: Humanities
 permalink: /academic/integrated-programme/enriched-curriculum/humanities/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
 # HUMANITIES
 
@@ -29,8 +30,8 @@ third_nav_title: Enriched Curriculum
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_1.png" style ="width:300px">Explore the factors that cause the rise and fall of societies through the custom-designed Cities of Pangaea browser-based game</td>
-    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_2.jpeg" style ="width:220px">Learn about the factors that drive colonialism through the V3 card game</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_1.png" style="width:300px">Explore the factors that cause the rise and fall of societies through the custom-designed Cities of Pangaea browser-based game</td>
+    <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Humanities/FH_picture_2.jpeg" style="width:220px">Learn about the factors that drive colonialism through the V3 card game</td>
   </tr>
 </tbody>
 </table>
@@ -86,7 +87,7 @@ third_nav_title: Enriched Curriculum
     </tbody>
    </table>
 			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Our students are given opportunities to learn from local and international writers through workshops, talks and seminars. We also organise learning journeys to watch theatre productions in order to enhance their understanding and appreciation of literature and the arts. Furthermore, we provide our students with various platforms to express themselves creatively. Students who are aspiring writers and who have a keen interest in Literature can take part in creative writing workshops and the Creative Arts Programme. We also focus on developing students’ research skills and encourage their participation in the Literature Seminar and the Humanities and Social Sciences Research Programme.</p>
-			<p style="text-align: justify;">To see more of what the IP Literature syllabus has to offer, check out the department website <a href="https://www.tjclangarts.com/" target="_blank">here</a>.</p>
+			
    </div>
 </li> 
   <li>
