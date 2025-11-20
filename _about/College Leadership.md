@@ -129,7 +129,7 @@ variant: markdown
   </tr>
   <tr>
     <td>HOD / Student Well-Being</td>
-    <td>Teo Chew Bee Joyce</td>
+    <td>Ms Joyce Teo</td>
     <td><a href="mailto:teo_chew_bee_joyce@moe.edu.sg">teo_chew_bee_joyce@moe.edu.sg</a></td>
   </tr>
   <tr>
