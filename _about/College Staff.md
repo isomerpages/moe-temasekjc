@@ -169,13 +169,7 @@ variant: markdown
     <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
   </tr>
 	 
-<tr>
-    <td>Ms<br></td>
-    <td>Sahana<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:sahana_devi_shanmuganathan@schools.gov.sg">sahana_devi_shanmuganathan@schools.gov.sg</a></td>
-  </tr>
+
 
 <tr>
     <td>Ms<br></td>
@@ -457,12 +451,7 @@ variant: markdown
     <td>Teacher </td>
     <td><a href="mailto:shermin_chee@moe.edu.sg">shermin_chee@moe.edu.sg</a></td>
 </tr>	
-<tr>
-    <td>Ms</td>
-    <td>Valerie </td>
-    <td>Teacher </td>
-    <td><a href="mailto:Tan_Si_Ying_Valerie_A@schools.gov.sg">tan_si_ying_valerie_a@schools.gov.sg</a></td>
-</tr>	
+
 	
 	
 	
