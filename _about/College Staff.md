@@ -1358,17 +1358,12 @@ variant: markdown
     <td>School Counsellor  </td>
     <td><a href="mailto:lim_jia_qi_jacqueline@moe.edu.sg">lim_jia_qi_jacqueline@moe.edu.sg</a> </td>
   </tr>
-<tr>
-    <td>Ms </td>
-    <td>Louisa Tan </td>
-    <td>School Counsellor  </td>
-    <td><a href="mailto:tan_toh_khin_louisa_a@moe.edu.sg">tan_toh_khin_louisa_a@moe.edu.sg</a> </td>
-  </tr>	
+
 	
 <tr>
     <td>Mr </td>
     <td>Abu Bakar </td>
-    <td>Learning Support Officer (SEN) </td>
+    <td>Learning Support Educator (SEN) </td>
     <td><a href="mailto:abu_bakar_agil@moe.edu.sg">abu_bakar_agil@moe.edu.sg</a> </td>
   </tr>
 	
