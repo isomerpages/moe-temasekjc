@@ -3,6 +3,7 @@ title: Language Arts
 permalink: /academic/integrated-programme/enriched-curriculum/language-arts/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
 # LANGUAGE ARTS
 
@@ -35,7 +36,7 @@ Our vision as a Language Arts department is to guide and empower our students to
 
 <p style="text-align: justify;">We organise enrichment programmes such as our Choral Speaking programme for IP1 students and Drama Adaptation workshops for our IP2 students. Students who are aspiring writers and who have a keen interest in writing can take part in creative writing competitions such as the Queen’s Commonwealth Essay Competition and Science Chronicles Competition. We also focus on developing students’ speaking and debating skills through encouraging them to take part in opportunities such as Plain English Speaking Award Competition and National Schools Literature Festival.</p>
 
-<p style="text-align: justify;">To find out more about the exciting Language Arts programme, please check out the department's website <a href="https://www.tjclangarts.com/" target="_blank">here</a>.</p>
+
 
 |   |   |
 |:-:|:-:|
