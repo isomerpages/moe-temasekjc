@@ -3,8 +3,8 @@ title: Mother Tongue Languages
 permalink: /academic/integrated-programme/enriched-curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
-
 # MOTHER TONGUE LANGUAGES
 
 <p style="text-align: justify;">Our department celebrates the diversity of languages and their intertwined rich cultures. We are committed to developing our students’ bilingualism and broadening their horizons in the study of these languages. By helping them grow in depth of thought and eloquence in oracy skills, we guide our students to be global citizens of the 21st Century world.</p>
@@ -55,12 +55,12 @@ third_nav_title: Enriched Curriculum
 </tbody>
 </table>
     
-<p><b>EXAMINATION SYLLABUSES</b><br><a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021" target="_blank">2021 O-Level Syllabus (Mother Tongue Languages)</a><br><a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2022" target="_blank">2022 O-Level Syllabus (Mother Tongue Languages)</a></p>
+<p><b>EXAMINATION SYLLABUSES</b><br><a href="https://www.seab.gov.sg/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2026/" target="_blank">2026 O-Level Syllabus (Mother Tongue Languages)</a><br></p>
     </div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">LITERATURE IN CHINESE (IP YEARs 3 & 4)</label>
+    <label for="accordion2">LITERATURE IN CHINESE (IP YEARs 3 &amp; 4)</label>
     <div>
 			<p style="text-align: justify;"> For students who show an aptitude in and passion for Chinese Language, we offer Literature in Chinese as a Humanities subject from IP3. We seek to develop students’ interest and foundation in appreciating literary works of various genres, and equip them with the necessary literary techniques required for literary analysis. We aim to enhance students’ mastery of the language and provide them with the capacity and confidence to continue learning literature at the JC level.</p>
 			<p style="text-align: justify;"><b>CURRICULUM</b><br>Literature in Chinese is a school-based subject which is non-examinable at the O-Level. Hence while we adapted the MOE syllabus as the foundation of our curriculum, we have also created time and space to expose students to literary genres beyond the syllabus, such as classical prose, poetry, novels and drama. Through analyzing texts from various genres, students sharpen their argumentative and analytical skills. We also provide students with opportunities for creative writing, to further sharpen their flair for the language.</p>
@@ -78,7 +78,7 @@ third_nav_title: Enriched Curriculum
   </tr>
 </tbody>
 </table>
-			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Students who offer Literature in Chinese are invited to join our two talent development programmes: <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#cl">IP Temasek Academy (Chinese Language)</a> and <a href="/academic/special-programmes/chinese-language-elective-programme">MOE-Secondary Chinese Language Elective Programme</a>. In these programmes, they are given opportunities to take on greater challenges and leadership roles, to apply the knowledge and skills in Chinese Language as student correspondents and student ambassadors and to share their passion for the language with their peers.</p>
+			<p style="text-align: justify;"><b>ENRICHMENT</b><br>Students who offer Literature in Chinese are invited to join our two talent development programmes:&nbsp;<a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#cl">IP Temasek Academy (Chinese Language)</a>&nbsp;and&nbsp;<a href="/academic/special-programmes/chinese-language-elective-programme">MOE-Secondary Chinese Language Elective Programme</a>. In these programmes, they are given opportunities to take on greater challenges and leadership roles, to apply the knowledge and skills in Chinese Language as student correspondents and student ambassadors and to share their passion for the language with their peers.</p>
 			<table>
 <thead>
   <tr>
