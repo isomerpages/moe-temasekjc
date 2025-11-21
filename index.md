@@ -20,7 +20,7 @@ sections:
           url: https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2025/
       variant: image
   - infobar:
-      title: IP 1 Admission Talk (For 2026 Intake)
+      title: IP 1 Admissions Talk (For 2026 Intake)
       subtitle: IP 1 Admissions Talk
       id: infobar
       description: Click on the link below
