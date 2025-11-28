@@ -25,7 +25,7 @@ sections:
       id: infobar
       description: Click on the link below to view
       button: Click here
-      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODgyNzJhMWYtNWZjNi00OTQ1LTgyNzUtNGYxMzE1NTkwOWQ2%40thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22c88afea2-7015-43aa-b2fe-0916d2dc3998%22%7d
+      url: /ip-1-admissions-talk-video/
   - infobar:
       title: DSA-JC Engagement Session (2026 Intake)
       id: infobar
