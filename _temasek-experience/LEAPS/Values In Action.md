@@ -20,103 +20,83 @@ with peers, and act with influence and impact.</p>
 reflection, anchored in our core competencies and learning outcomes. Our
 aim is to help every student grow with intention, compassion, and a readiness
 to make a positive difference.</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stage of Growth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Core Competency</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Outcomes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Perspective-taking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Understand community needs and practice seeing from others’ viewpoints</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaboration &amp; Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribute actively in guided service experiences</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Embracing Diversity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inclusivity Mindset</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Critically think of own assumptions and growing initiative through school-planned
-projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead with Purpose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Communication, Adaptive Thinking and Decision-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Communicate with peers to make responsible decisions, adapting to situation
-with relevant information through school-planned projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JC 1-2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocacy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applying core competencies to address complex social issues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Speaking up for causes in school / community, driving student-led initiatives
-with sustained impact, and positively influencing others</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+<table style="minWidth: 75px">
+</table><table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
+
+  <tbody><tr>
+    <th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">Level </th>
+    <th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">Stage of Growth</th>
+    <th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">Core Competency</th>
+    <th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">Learning Outcomes</th>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #333; padding: 8px 12px;">IP1</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Empathy</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Perspective-taking</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Understand community needs and practice seeing from others’ viewpoints</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #333; padding: 8px 12px;">IP2</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Contribution</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Collaboration &amp; Responsibility</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Contribute actively in guided service experiences</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #333; padding: 8px 12px;">IP3</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Embracing Diversity</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Inclusivity Mindset</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Critically think of own assumptions and growing initiative through school-planned projects</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #333; padding: 8px 12px;">IP4</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Lead with Purpose</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Communication, Adaptive Thinking and Decision-making</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Communicate with peers to make responsible decisions, adapting to situation with relevant information through school-planned projects</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #333; padding: 8px 12px;">JC1-2</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Advocacy</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Applying Core Competencies to Address Complex Social Issues</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">Speaking up for causes in school / community, driving student-led initiatives with sustained impact, and positively influencing others</td>
+  </tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p></p>
 
 <ul class="jekyllcodex_accordion">
