@@ -116,11 +116,7 @@ to make a positive difference.</p>
 </tbody>
 </table>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>CCA VIA</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4>CCA VIA</h4>
 <p>Every TJCian also participates in VIA through their CCA annually, building
 sustained partnerships to positively impact their chosen beneficiaries.
 Students keen to take on leadership roles, can also look forward to opportunities
@@ -128,13 +124,23 @@ as CCA VIA Representatives.</p>
 <p>CCAs will have the opportunity to showcase their VIA efforts during the
 annual Service Learning Fiesta in Term 3.</p>
 <p></p>
+<h4>Flagship VIA Programmes (JC)</h4>
+<p>DEFY Camp</p>
+<p>DEFY challenges JC1 students to push beyond their limits through leadership
+development and adventure.</p>
+<p>This signature programme culminates in an annual hike, where participants
+demonstrate resilience while contributing to the President's Challenge
+and community, embodying our vision of developing socially responsible
+leaders.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/LEAPS/VIA_1.png">
-</div>
-</div>
-</details>
-</div>
+<p>Temasek Overseas Outreach Programme (TOOP)</p>
+<p>The Overseas Outreach Programme (TOOP) offers students a unique opportunity
+to grow as leaders while making a meaningful impact on communities abroad.
+Through TOOP, students design and organize service-learning trips that
+respond directly to the needs of overseas beneficiaries. Along the way,
+they undergo training grounded in the Service-Learning model, ensuring
+their projects are purposeful and sustainable.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
