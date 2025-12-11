@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: LEAP
 ---
-<h3>VALUES IN ACTION </h3>
-<p><strong>At Temasek Junior College, we are uniquely positioned to nurture our students across a six-year learning journey. </strong>
+<h3>VALUES IN ACTION</h3>
+<p><strong>At Temasek Junior College, we are uniquely positioned to nurture our students across a six-year learning journey.</strong>
 </p>
 <p>During the <strong>Integrated Programme (IP1–4)</strong>, our focus is
 on cultivating empathy that leads to action. Students build strong foundations
