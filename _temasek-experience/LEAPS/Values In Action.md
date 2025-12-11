@@ -45,72 +45,75 @@ to make a positive difference.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>IP1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Perspective-taking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Understand community needs and practice seeing from others’ viewpoints</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>IP2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Contribution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Collaboration &amp; Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Contribute actively in guided service experiences</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IP3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Embracing Diversity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inclusivity Mindset</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Critically think of own assumptions and growing initiative through school-planned
+projects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IP4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead with Purpose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communication, Adaptive Thinking and Decision-making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communicate with peers to make responsible decisions, adapting to situation
+with relevant information through school-planned projects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JC 1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advocacy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applying core competencies to address complex social issues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speaking up for causes in school / community, driving student-led initiatives
+with sustained impact, and positively influencing others</p>
 </td>
 </tr>
 </tbody>
