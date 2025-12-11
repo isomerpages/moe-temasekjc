@@ -2,7 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Learning, Extension and Applications.md
       - Student Leadership Development/.keep
       - Student Leadership Development/Student Leadership Development.md
       - Student Leadership Development/Talent Development Programme.md
