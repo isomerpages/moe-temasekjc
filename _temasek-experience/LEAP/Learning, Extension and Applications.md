@@ -8,9 +8,9 @@ third_nav_title: LEAP
 <h4>Learning Extension and Application</h4>
 <p>LEAPs Team is dedicated to empower students to embrace lifelong learning,
 enhance 21st Century Competencies, and guide them in navigating an increasingly
-complex future with confidence. Through opportunities in (a) Values in
-Action and (b) SIL and SIG, students will gain focus on cultivating essential
-skills and care for the community, overall fostering their holistic development.</p>
+complex future with confidence. Through opportunities in <strong>(a) Values in Action and (b) SIL and SIG</strong>,
+students will gain focus on cultivating essential skills and care for the
+community, overall fostering their holistic development.</p>
 <p></p>
 <p></p>
 <p></p>
