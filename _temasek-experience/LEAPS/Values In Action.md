@@ -65,39 +65,9 @@ to make a positive difference.</p>
     <td style="border: 1px solid #333; padding: 8px 12px;">Applying Core Competencies to Address Complex Social Issues</td>
     <td style="border: 1px solid #333; padding: 8px 12px;">Speaking up for causes in school / community, driving student-led initiatives with sustained impact, and positively influencing others</td>
   </tr>
+</tbody>
+</table>
 
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p></p>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -108,8 +78,16 @@ to make a positive difference.</p>
 
 CCAs will have the opportunity to showcase their VIA efforts during the annual Service Learning Fiesta in Term 3.
 </p>
-	
-   </div>
+
+
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="30%" alt="LEAPS VIA" src="/images/Temasek%20Experience/LEAPS/VIA_1.png">
+
+</div>		
+			
+			
+			
+</div>
 	</li> 
   <li>
     <input type="checkbox" id="accordion2">
