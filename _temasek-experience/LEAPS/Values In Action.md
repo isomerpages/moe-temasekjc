@@ -129,6 +129,9 @@ as CCA VIA Representatives.</p>
 annual Service Learning Fiesta in Term 3.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/LEAPS/VIA_1.png">
+</div>
 </div>
 </details>
 </div>
