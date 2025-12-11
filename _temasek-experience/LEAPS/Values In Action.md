@@ -74,17 +74,15 @@ to make a positive difference.</p>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">CCA VIA</label>
     <div>
-<p style="text-align: justify;">Every TJCian also participates in VIA through their CCA annually, building sustained partnerships to positively impact their chosen beneficiaries. Students keen to take on leadership roles, can also look forward to opportunities as CCA VIA Representatives.<br>
+<p style="text-align: justify;">Every TJCian also participates in VIA through their CCA annually, building sustained partnerships to positively impact their chosen beneficiaries. Students keen to take on leadership roles, can also look forward to opportunities as CCA VIA Representatives.</p>
 
-CCAs will have the opportunity to showcase their VIA efforts during the annual Service Learning Fiesta in Term 3.
-</p>
+<p style="text-align: justify;">CCAs will have the opportunity to showcase their VIA efforts during the annual Service Learning Fiesta in Term 3.</p>
 
-
-<div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="30%" alt="LEAPS VIA" src="/images/Temasek%20Experience/LEAPS/VIA_1.png">
-
+<div style="text-align: center;">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/VIA_1.png">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/VIA_2.png">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/VIA_3.png">
 </div>		
-			
 			
 			
 </div>
@@ -96,8 +94,27 @@ CCAs will have the opportunity to showcase their VIA efforts during the annual S
 						<p style="text-align: justify;"><b>Defy Camp</b><br>DEFY challenges JC1 students to push beyond their limits through leadership development and adventure. 
 This signature programme culminates in an annual hike, where participants demonstrate resilience while contributing to the President's Challenge and community, embodying our vision of developing socially responsible leaders. 
 </p>
-			<p style="text-align: justify;"><b>Temasek Overseas Outreach Programme (TOOP)</b><br>The Overseas Outreach Programme (TOOP) offers students a unique opportunity to grow as leaders while making a meaningful impact on communities abroad. Through TOOP, students design and organize service-learning trips that respond directly to the needs of overseas beneficiaries. Along the way, they undergo training grounded in the Service-Learning model, ensuring their projects are purposeful and sustainable.</p>
-    </div>
+			
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="Defy Camp" src="/images/Temasek%20Experience/LEAPS/defy%20camp%201.jpg"></div>			
+<br>			
+<div style="text-align: center;">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/defy%20camp%202.jpg">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/defy%20camp%203.jpg">
+</div>
+
+<p style="text-align: justify;"><b>Temasek Overseas Outreach Programme (TOOP)</b><br>The Overseas Outreach Programme (TOOP) offers students a unique opportunity to grow as leaders while making a meaningful impact on communities abroad. Through TOOP, students design and organize service-learning trips that respond directly to the needs of overseas beneficiaries. Along the way, they undergo training grounded in the Service-Learning model, ensuring their projects are purposeful and sustainable.</p>
+
+<div style="text-align: center;">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/TOOP___1.jpg">
+  <img style="width:240px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/TOOP___2.jpg">
+  <img style="width:200px; display:inline-block;" src="/images/Temasek%20Experience/LEAPS/TOOP___3.jpg">
+</div>		
+
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" alt="Defy Camp" src="/images/Temasek%20Experience/LEAPS/TOOP___4.jpg"></div>		
+
+</div>
 	</li> 
 
 
