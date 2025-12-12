@@ -49,7 +49,7 @@ They are required to honour their commitment to the allocated DSA-Sec school
 for the entire duration of the programme.</p>
 <hr>
 <h4><strong>Application Period</strong></h4>
-<p>The application period is from <strong>18 December, 9am to 23 December 2024, 5pm.</strong>
+<p>The application period is from <strong>Friday, 19 December 2025, 9am (SGT) to Wednesday, 24 December 2025, 5pm (SGT).</strong>
 </p>
 <p>Late or incomplete application will not be considered. Only shortlisted
 applicants will be informed.</p>
@@ -76,7 +76,7 @@ for submission:</p>
 <hr>
 <h4><strong>How to Apply?</strong></h4>
 <p>Application is to be done <strong><u>strictly online</u></strong> via: 
-<a href="https://go.gov.sg/tjcip12025" target="_blank">https://go.gov.sg/tjcip12025</a>	
+<a href="https://go.gov.sg/tjcip1appeals2026" target="_blank">https://go.gov.sg/tjcip12025</a>	
 </p>
 
 
@@ -87,7 +87,7 @@ form personally.</p>
 <img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
-<p>Only successful applicants will be informed by <strong>31 December 2024.</strong>
+<p>Only successful applicants will be informed by <strong>31 December 2025.</strong>
 </p>
 <p>Your child should report to the posted secondary school when school reopens
 in January, even if you intend to appeal for a school transfer.</p>
