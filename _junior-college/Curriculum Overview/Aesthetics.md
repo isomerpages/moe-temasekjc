@@ -8,87 +8,16 @@ variant: tiptap
 <h1>AESTHETICS</h1>
 <p>Our Aesthetics programmes offer students the creative and academic platform
 to express their ideas through the various aesthetics mediums. The Aesthetics
-at Temasek Junior College comprises the subjects Art (JC1 and JC2) and
-the Music Elective Programme (IP1-JC2). Students will not only be trained
-to become competent in their various aesthetic disciplines, but will also
-be challenged to be critical, analytical, collaborative and creative thinkers.
-As students bring forth their abstract ideas to connect their inner world
-to the outer world of concrete reality, they will make a meaningful impact
-on our world, while learning the relevance of being human beings with an
-aesthetic sensibility.</p>
+at Temasek Junior College comprises the Music Elective Programme (IP1-JC2).
+Students will not only be trained to be competent, but will also be challenged
+to be critical, analytical, collaborative and creative thinkers. As students
+bring forth their abstract ideas to connect their inner world to the outer
+world of concrete reality, they will make a meaningful impact on our world,
+while learning the relevance of being human beings with an aesthetic sensibility.</p>
 <ul>
 <li>
-<p>ART</p>
-<p>The Art Programme at TJC is an artistic journey for passionate explorations,
-discoveries and sharing of artistic concepts and ideas. Art students will
-find their own artistic and creative inclinations, styles and techniques
-to express themselves in the most powerful way. Students will also discover
-and traverse through a journey of self-discovery, time management as well
-as creative and critical thinking.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Ngoh_Ki_Ern.png">
-</div>
-<p><sup>Student Work: Ngoh Ki Ern</sup>
+<p><strong>MUSIC</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Wen_Zi_Xuan_Sharon___1_.png">
-</div>
-<p><sup>Student Work: Wen Zi Xuan Sharon</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Academic/Curriculum Overview/Aesthetics/Tan_Qian_Xun.png">
-</div>
-<p><sup>Student work: Tan Qian Xun</sup>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Christalyn Tan Xin Hui" src="/images/Academic/Curriculum Overview/Aesthetics/Christalyn_Tan_Xin_Hui.png">
-</div>
-<p><sup>Student Work: Christalyn Tan Xin Hui</sup>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CURRICULUM</strong> 
-<br>Students will gain knowledge and potential application through the appreciation
-and understanding of various art forms in 2-dimensional or 3-dimensional
-and moving media. The SOVA component addresses and challenges students’
-visual literacy skills, studio, and coursework sessions reflect students’
-artistic journey, documenting the process that leads up to a final work
-of art.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Academic/Curriculum%20Overview/Aesthetics/Amanda%20Heng%20Artist%20Talk.jpg">
-</div>
-<p></p>
-<p><strong>SYLLABUS</strong> 
-<br>For more information on each subject, please refer to the subject syllabuses
-at <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/gce-a-level/school-candidates/</a>
-</p>
-<p></p>
-</li>
-<li>
-<p>MUSIC</p>
 <p>The <a href="/academic/special-programmes/music-elective-programme" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme (MEP)</a> at
 Temasek Junior College nurtures each student in their musical inclinations
 while developing them to be critical and creative thinkers, performers

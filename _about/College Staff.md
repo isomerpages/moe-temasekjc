@@ -23,10 +23,10 @@ variant: markdown
 <tbody>
   <tr>
     <td>Ms<br></td>
-    <td>Serene Tan<br></td>
+    <td>Caroline Sng<br></td>
     <td>HOD / Aesthetics<br></td>
-    <td></td>
-    <td><a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a><br></td>
+    <td>Aesthetics</td>
+    <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
 <tr>
     <td>Mr<br></td>
