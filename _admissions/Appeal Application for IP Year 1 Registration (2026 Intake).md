@@ -18,28 +18,24 @@ fair, transparent and objective.</p>
 to the above principles. Students appealing for admission to TJC <strong>must meet TJC’s actual COP in this year’s S1 Posting.</strong>
 </p>
 <p>The cut-off points (COP) for TJC this year are as follows:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CUT-OFF POINT</p>
-</th>
+
+<table style="minWidth: 75px">
+</table><table style="border-collapse: collapse; width: 30%; font-family: Arial, sans-serif;">
+
+<tbody><tr>
+<th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">CUT-OFF POINT</th>
 </tr>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p>AL8</p>
-</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">AL</td>	
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+
 </tbody>
 </table>
+
+
+
+<br>
 <blockquote>
 <p><em>Important Note:</em>
 </p>
