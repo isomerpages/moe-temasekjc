@@ -7,8 +7,8 @@ variant: markdown
 #### **A Heartiest Welcome to the Temasek Junior College Family!** ####
 
 
-<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by Wednesday, 24 December 2024, 5pm by submitting the online form, which is accessible via this link  <a href="https://go.gov.sg/ip1tjc2026" target="_blank">https://go.gov.sg/tjc-ip12025</a> or the following QR Code: <img style="width:200px;height:200px;" alt="QR Code for IP1 Registration" src="/images/Admissions/2025_IP1_Reg_Code.png">
-	
+<p style="text-align: justify;">Students who have been posted to TJC should complete the IP1 Online Registration by Wednesday, 24 December 2025, 5pm by submitting the online form, which is accessible via this link  <a href="https://go.gov.sg/ip1tjc2026" target="_blank">https://go.gov.sg/tjc-ip12026</a> or the following QR Code: <img style="width:200px;height:200px;" alt="QR Code for IP1 Registration" src="/images/Admissions/2026_IP1_Reg_Code.png">
+
 
 	
 	
@@ -26,19 +26,19 @@ All students who have been posted to TJC, including those who have been posted v
     <input type="checkbox" id="accordion1">
     <label for="accordion1">IP1 REGISTRATION FOLDER </label>
     <div>
-<p style="text-align: justify;">1. <a href="/files/Admissions/IP1%20Registration%202026/1__Instructions_for_Completing_the_IP1_Online_Registration_Exercise_2026.pdf">Instructions for Completing the IP1 Online Registration Exercise 2025</a>
+<p style="text-align: justify;">1. <a href="/files/Admissions/IP1%20Registration%202026/1__Instructions_for_Completing_the_IP1_Online_Registration_Exercise_2026.pdf">Instructions for Completing the IP1 Online Registration Exercise 2026</a>
 
 
-</p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202026/2__General_Info_for_Parents_2026.pdf">General Info 2025</a> 				
+</p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202026/2__General_Info_for_Parents_2026.pdf">General Info 2026</a> 				
 
 			
-</p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202026/3__IP1_Induction_Schedule_2026.pdf">IP1 Induction Schedule 2025</a>		
+</p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202026/3__IP1_Induction_Schedule_2026.pdf">IP1 Induction Schedule 2026</a>		
 
 			
 
 </p><p style="text-align: justify;">3b. <img alt="Students' Tshirt Guide" src="/images/3c__2024_IP1_Induction___Students__Tshirt_Guide.jpg">		
 			
-</p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202026/4__IP1_Booklist_2026__TJC_Bookshop_.pdf">Booklist 2025</a>
+</p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202026/4__IP1_Booklist_2026__TJC_Bookshop_.pdf">Booklist 2026</a>
 								
 			
 </p><p style="text-align: justify;">5. <a href="/files/Admissions/IP1%20Registration%202026/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms.pdf">Instructions for Purchasing of Textbooks and Uniforms</a>
@@ -55,7 +55,7 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">7b. <a href="https://drive.google.com/file/d/1m_i9HNE0q7yjb2bkAbir8EHesUMzyAL6/view?usp=sharing" target="_blank">IP MEP in TJC 2025 Publicity Video </a></p> 			
 
 			
-<p></p><p style="text-align: justify;">8. <a href="/files/Admissions/IP1%20Registration%202026/8__MOE_FAS_Yearly_Instructions_2026.pdf">MOE FAS Yearly Instructions </a>
+<p></p><p style="text-align: justify;">8. <a href="/files/Admissions/IP1%20Registration%202026/8__MOE_FAS_Yearly_Instructions_2026.pdf">MOE FAS Yearly Instructions 2026</a>
 	
 
 </p><p style="text-align: justify;">9. <a href="/files/Admissions/IP1%20Registration%202026/9a__GIRO_application_form__for_IP1_Welcome_Pack_.pdf">GIRO Application Form</a>
