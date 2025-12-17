@@ -4,7 +4,7 @@ permalink: /appeal-application-for-ip-year-1-registration-2026-intake/
 variant: markdown
 description: ""
 ---
-<h1>Appeal Application For IP Year 1 Registration (2025 Intake)</h1>
+<h1>Appeal Application For IP Year 1 Registration (2026 Intake)</h1>
 <p>MOE is committed to supporting holistic education and providing our students
 with multiple pathways and opportunities to pursue an education best suited
 to their needs and strengths, while remaining consistent with our key principles
@@ -49,7 +49,7 @@ They are required to honour their commitment to the allocated DSA-Sec school
 for the entire duration of the programme.</p>
 <hr>
 <h4><strong>Application Period</strong></h4>
-<p>The application period is from <strong>Friday, 19 December 2025, 9am (SGT) to Wednesday, 24 December 2025, 5pm (SGT).</strong>
+<p>The application period is from <strong>Friday, 19 December 2025, 9am (SGT) to Wednesday, 24 December 2025, 12pm (SGT).</strong>
 </p>
 <p>Late or incomplete application will not be considered. Only shortlisted
 applicants will be informed.</p>
@@ -76,7 +76,7 @@ for submission:</p>
 <hr>
 <h4><strong>How to Apply?</strong></h4>
 <p>Application is to be done <strong><u>strictly online</u></strong> via: 
-<a href="https://go.gov.sg/tjcip1appeals2026" target="_blank">https://go.gov.sg/tjcip12025</a>	
+<a href="https://go.gov.sg/tjcip1appeals2026" target="_blank">https://go.gov.sg/tjcip12026</a>	
 </p>
 
 
@@ -84,7 +84,7 @@ for submission:</p>
 form personally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2026_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
 <p>Only successful applicants will be informed by <strong>31 December 2025.</strong>
