@@ -44,15 +44,15 @@ All students who have been posted to TJC, including those who have been posted v
 </p><p style="text-align: justify;">5. <a href="/files/Admissions/IP1%20Registration%202026/5__Instructions_for_Purchasing_of_Textbooks_and_Uniforms.pdf">Instructions for Purchasing of Textbooks and Uniforms</a>
 
 			
-</p><p style="text-align: justify;">6a. <a href="/files/Admissions/IP1%20Registration%202025/6a__National_Digital_Literacy_Programme_2025.pdf"> Letter to Parents for PDLP Procurement </a>
+</p><p style="text-align: justify;">6a. <a href="/files/Admissions/IP1%20Registration%202026/6a__National_Digital_Literacy_Programme_2026.pdf">Letter to Parents for PDLP Procurement</a>
 	
-</p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202025/6b__Parent_Handbook_on_Learning_with_a_Personal_Learning_Device_2025.pdf">Parent Handbook on Learning with a Personal Learning Device 2025</a>
+</p><p style="text-align: justify;">6b. <a href="/files/Admissions/IP1%20Registration%202026/6b__Parent_Handbook__I__2026.pdf">Parent Handbook (I) on Learning with a Personal Learning Device 2026</a>
 			
-</p><p style="text-align: justify;">6c.  <a href="/files/Admissions/IP1%20Registration%202025/6c__IP1_NDLP_Slides_for_Parents.pdf">IP1 NDLP Slides for Parents</a>
+</p><p style="text-align: justify;">6c.  <a href="/files/Admissions/IP1%20Registration%202026/6c__Parent_Handbook__II__2026.pdf">Parent Handbook (II) on Learning with a Personal Learning Device 2026</a>
 	
-</p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202026/7a__Application_for_TJC_IP_Music_Elective_Programme_2026.pdf">Application for TJC IP Music Elective Programme 2025</a>
+</p><p style="text-align: justify;">7a. <a href="/files/Admissions/IP1%20Registration%202026/7a__Application_for_TJC_IP_Music_Elective_Programme_2026.pdf">Application for TJC IP Music Elective Programme 2026</a>
 
-</p><p style="text-align: justify;">7b. <a href="https://drive.google.com/file/d/1m_i9HNE0q7yjb2bkAbir8EHesUMzyAL6/view?usp=sharing" target="_blank">IP MEP in TJC 2025 Publicity Video </a></p> 			
+</p><p style="text-align: justify;">7b. <a href="https://go.gov.sg/mep2026tjc" target="_blank">IP MEP in TJC 2026 Publicity Video </a></p> 			
 
 			
 <p></p><p style="text-align: justify;">8. <a href="/files/Admissions/IP1%20Registration%202026/8__MOE_FAS_Yearly_Instructions_2026.pdf">MOE FAS Yearly Instructions 2026</a>
