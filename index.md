@@ -14,7 +14,7 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: IP Year 1 Registration (2026 Intake)
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-n-appeals-2026-intake/
+          url: https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-registration-2026-intake/
         - title: IP1 APPEALS 2026
           description: ""
           url: https://www.temasekjc.moe.edu.sg/appeal-application-for-ip-year-1-registration-2026-intake/
