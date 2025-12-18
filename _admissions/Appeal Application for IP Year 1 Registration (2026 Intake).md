@@ -1,10 +1,10 @@
 ---
-title: Appeal Application for IP Year 1 Registration (2025 Intake)
-permalink: /appeal-application-for-ip-year-1-registration-2025-intake/
+title: Appeal Application for IP Year 1 Registration (2026 Intake)
+permalink: /appeal-application-for-ip-year-1-registration-2026-intake/
 variant: markdown
 description: ""
 ---
-<h1>Appeal Application For IP Year 1 Registration (2025 Intake)</h1>
+<h1>Appeal Application For IP Year 1 Registration (2026 Intake)</h1>
 <p>MOE is committed to supporting holistic education and providing our students
 with multiple pathways and opportunities to pursue an education best suited
 to their needs and strengths, while remaining consistent with our key principles
@@ -18,28 +18,24 @@ fair, transparent and objective.</p>
 to the above principles. Students appealing for admission to TJC <strong>must meet TJC’s actual COP in this year’s S1 Posting.</strong>
 </p>
 <p>The cut-off points (COP) for TJC this year are as follows:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CUT-OFF POINT</p>
-</th>
+
+<table style="minWidth: 75px">
+</table><table style="border-collapse: collapse; width: 30%; font-family: Arial, sans-serif;">
+
+<tbody><tr>
+<th style="border: 1px solid #333; padding: 8px 12px; background-color: MediumSeaGreen; color: white;">CUT-OFF POINT</th>
 </tr>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p>AL8</p>
-</td>
+    <td style="border: 1px solid #333; padding: 8px 12px;">AL</td>	
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+
 </tbody>
 </table>
+
+
+
+<br>
 <blockquote>
 <p><em>Important Note:</em>
 </p>
@@ -49,7 +45,7 @@ They are required to honour their commitment to the allocated DSA-Sec school
 for the entire duration of the programme.</p>
 <hr>
 <h4><strong>Application Period</strong></h4>
-<p>The application period is from <strong>18 December, 9am to 23 December 2024, 5pm.</strong>
+<p>The application period is from <strong>Friday, 19 December 2025, 9am (SGT) to Wednesday, 24 December 2025, 12pm (SGT).</strong>
 </p>
 <p>Late or incomplete application will not be considered. Only shortlisted
 applicants will be informed.</p>
@@ -76,7 +72,7 @@ for submission:</p>
 <hr>
 <h4><strong>How to Apply?</strong></h4>
 <p>Application is to be done <strong><u>strictly online</u></strong> via: 
-<a href="https://go.gov.sg/tjcip12025" target="_blank">https://go.gov.sg/tjcip12025</a>	
+<a href="https://go.gov.sg/tjcip1appeals2026" target="_blank">https://go.gov.sg/tjcip12026</a>	
 </p>
 
 
@@ -84,10 +80,10 @@ for submission:</p>
 form personally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2025_IP1_Appeals_Code.png">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for IP1 Appeals" src="/images/Admissions/2026_IP1_Appeals_Code.png">
 </div>
 <h4><strong>After Application</strong></h4>
-<p>Only successful applicants will be informed by <strong>31 December 2024.</strong>
+<p>Only successful applicants will be informed by <strong>31 December 2025.</strong>
 </p>
 <p>Your child should report to the posted secondary school when school reopens
 in January, even if you intend to appeal for a school transfer.</p>

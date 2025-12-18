@@ -57,8 +57,8 @@ variant: markdown
 
   <tr>
     <td>HOD / Aesthetics<br></td>
-    <td>Ms Serene Tan<br></td>
-    <td><a href="mailto:tan_su_ling_serene@moe.edu.sg">tan_su_ling_serene@moe.edu.sg</a><br></td>
+    <td>Ms Caroline Sng<br></td>
+    <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / CCE <br></td>
