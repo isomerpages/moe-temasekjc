@@ -29,7 +29,8 @@ All students who have been posted to TJC, including those who have been posted v
 <p style="text-align: justify;">1. <a href="/files/Admissions/IP1%20Registration%202026/1__Instructions_for_Completing_the_IP1_Online_Registration_Exercise_2026.pdf">Instructions for Completing the IP1 Online Registration Exercise 2026</a>
 
 
-</p><p style="text-align: justify;">2. <a href="/files/Admissions/IP1%20Registration%202026/2__General_Info_2026.pdf">General Info 2026</a> 				
+</p><p style="text-align: justify;">2. <a href="">General Info 2026</a> 				
+
 			
 </p><p style="text-align: justify;">3a. <a href="/files/Admissions/IP1%20Registration%202026/3__IP1_Induction_Schedule_2026.pdf">IP1 Induction Schedule 2026</a>		
 
