@@ -35,7 +35,7 @@ All students who have been posted to TJC, including those who have been posted v
 
 			
 
-</p><p style="text-align: justify;">3b. <img alt="Students' Tshirt Guide" src="/images/3c__2024_IP1_Induction___Students__Tshirt_Guide.jpg">		
+		
 			
 </p><p style="text-align: justify;">4. <a href="/files/Admissions/IP1%20Registration%202026/4__IP1_Booklist_2026__TJC_Bookshop_.pdf">Booklist 2026</a>
 								
