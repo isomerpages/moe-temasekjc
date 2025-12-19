@@ -27,7 +27,7 @@ to the above principles. Students appealing for admission to TJC <strong>must me
 </tr>
 
 <tr>
-    <td style="border: 1px solid #333; padding: 8px 12px;">AL</td>	
+    <td style="border: 1px solid #333; padding: 8px 12px;">AL8</td>	
 </tr>
 
 </tbody>
