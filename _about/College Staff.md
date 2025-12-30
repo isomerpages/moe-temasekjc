@@ -313,12 +313,7 @@ variant: markdown
     <td>Teacher <br></td>
     <td><a href="mailto:pung_yuen_mei_evangeline@moe.edu.sg">pung_yuen_mei_evangeline@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Salama Noordin<br></td>
-    <td>Teacher <br></td>
-    <td><a href="mailto:salama_ishak@moe.edu.sg">salama_ishak@moe.edu.sg</a><br></td>
-  </tr>
+
   
 
  <tr>
