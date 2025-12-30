@@ -139,7 +139,7 @@ variant: markdown
   </tr>
   <tr>
     <td>School Staff Developer<br></td>
-    <td>Ms <br></td>
+    <td>Ms Joanne Tay<br></td>
     <td><a href="mailto:"></a></td>
   </tr>
 </tbody>
