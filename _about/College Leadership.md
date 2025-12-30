@@ -139,8 +139,8 @@ variant: markdown
   </tr>
   <tr>
     <td>School Staff Developer<br></td>
-    <td>Ms Lee Lin Hoon<br></td>
-    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a></td>
+    <td>Ms <br></td>
+    <td><a href="mailto:"></a></td>
   </tr>
 </tbody>
 </table>
