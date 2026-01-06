@@ -323,12 +323,7 @@ variant: markdown
     <td><a href="mailto:cheng_elim@moe.edu.sg">cheng_elim@moe.edu.sg</a><br></td>
   </tr>
 
-<tr>
-    <td>Ms<br></td>
-    <td>Jane Lin <br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:lin_luyuan_jane@moe.edu.sg">lin_luyuan_jane@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Peck Chee Siong<br></td>
@@ -507,12 +502,8 @@ variant: markdown
     <td>Deputy Head / Mathematics (JC)<br></td>
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mrs<br></td>
-    <td>Cindy Lim<br></td>
-    <td>Deputy Head / Mathematics (IP)<br></td>
-    <td><a href="mailto:tan_hui_hua_cindy@moe.edu.sg">tan_hui_hua_cindy@moe.edu.sg</a><br></td>
-  </tr>
+
+  
   <tr>
     <td>Mr<br></td>
     <td>Chew Yi Yang<br></td>
@@ -870,12 +861,7 @@ variant: markdown
     <td>HOD / LEAPs<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>
-	<tr>
-    <td> Ms</td>
-    <td>Anna Maria </td>
-    <td>Deputy Head / LEAPs (PW)</td>
-    <td><a href="mailto:anna_maria@moe.edu.sg">anna_maria@moe.edu.sg</a> </td>
-  </tr>
+
 <tr>
     <td>Ms<br></td>
     <td>Esther Mok<br></td>
@@ -1205,13 +1191,8 @@ variant: markdown
     <td>Administrative Executive<br></td>
     <td><a href="mailto:janet_peh@moe.edu.sg">janet_peh@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td> Ms </td>
-    <td>Sartha</td>
-    <td>Administrative Executive<br></td>
-    <td><a href="mailto:sartha_kanisha@moe.edu.sg">sartha_kanisha@moe.edu.sg</a> </td>
-  </tr>
-	  <tr>
+
+<tr>
     <td> Ms </td>
     <td>Peggy Tan</td>
     <td>Administrative Executive<br></td>
@@ -1226,7 +1207,7 @@ variant: markdown
   <tr>
     <td>Ms<br></td>
     <td>Yeo Pei Ling<br></td>
-    <td>Corporate Support Officer<br></td>
+    <td>Administrative Executive<br></td>
     <td><a href="mailto:yeo_pei_ling@moe.edu.sg">yeo_pei_ling@moe.edu.sg</a><br></td>
   </tr>
  
