@@ -2,6 +2,12 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Co Curricular Activities.md
+      - CCE/.keep
+      - CCE/CCE Programmes.md
+      - CCE/Sexuality Education (IP).md
+      - CCE/Sexuality Education (JC).md
+      - Education & Career Guidance.md
       - LEAPS/.keep
       - LEAPS/Learning, Extension and Applications.md
       - LEAPS/Values In Action.md
@@ -9,12 +15,6 @@ collections:
       - Student Leadership Development/.keep
       - Student Leadership Development/Student Leadership Development.md
       - Student Leadership Development/Talent Development Programme.md
-      - Co Curricular Activities.md
       - Students' Council.md
       - Student Well Being.md
-      - CCE/.keep
-      - CCE/CCE Programmes.md
-      - CCE/Sexuality Education (IP).md
-      - CCE/Sexuality Education (JC).md
-      - Education & Career Guidance.md
       - College Yearbooks.md

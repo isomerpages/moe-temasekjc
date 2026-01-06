@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: LEAPS
 ---
-<h4>Learning Extension and Application</h4>
+<h3>Learning Extension and Application</h3>
 <p>LEAPs Team is dedicated to empower students to embrace lifelong learning,
 enhance 21st Century Competencies, and guide them in navigating an increasingly
 complex future with confidence. Through opportunities in <strong>(a) Values in Action and (b) SIL and SIG</strong>,

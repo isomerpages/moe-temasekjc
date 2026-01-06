@@ -139,8 +139,8 @@ variant: markdown
   </tr>
   <tr>
     <td>School Staff Developer<br></td>
-    <td>Ms Lee Lin Hoon<br></td>
-    <td><a href="mailto:lee_lin_hoon@moe.edu.sg">lee_lin_hoon@moe.edu.sg</a></td>
+    <td>Ms Joanne Tay<br></td>
+    <td><a href="mailto:"></a></td>
   </tr>
 </tbody>
 </table>
@@ -227,11 +227,7 @@ variant: markdown
     <td>Mdm Yani </td>
     <td><a href="mailto:nuryani_suneh@moe.edu.sg">nuryani_suneh@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Deputy Head / Mathematics (IP)<br></td>
-    <td>Mrs Cindy Lim<br></td>
-    <td><a href="mailto:tan_hui_hua_cindy@moe.edu.sg">tan_hui_hua_cindy@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Deputy Head / Mathematics (JC)<br></td>
     <td>Mrs Goh Siew Choon<br></td>
@@ -250,13 +246,8 @@ variant: markdown
     <td>Mrs Shirley Goh</td>
     <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a></td>
   </tr>	
-  <tr>
-    <td>Deputy Head / Project Work </td>
-    <td>Ms Anna Maria  </td>
-    <td><a href="mailto:anna_maria@moe.edu.sg">anna_maria@moe.edu.sg</a> </td>
-  </tr>
-  <tr>
-    <td>Deputy Head / Science (Physics)<br></td>
+
+    <tr><td>Deputy Head / Science (Physics)<br></td>
     <td>Mr Wong Jee Pheng<br></td>
     <td><a href="mailto:wong_jee_pheng@moe.edu.sg">wong_jee_pheng@moe.edu.sg</a><br></td>
   </tr>
