@@ -37,7 +37,7 @@ variant: markdown
     <td><a href="mailto:fan_kai_teng@moe.edu.sg">fan_kai_teng@moe.edu.sg</a><br></td>
   </tr>
 	<tr>
-    <td>Dean (JC) <br>HOD / Humanities (JC)<br></td>
+    <td>Dean / Junior College<br></td>
     <td>Mr Jared Wong<br></td>
     <td><a href="mailto:wong_wei_ming_jared@moe.edu.sg">wong_wei_ming_jared@moe.edu.sg</a><br></td>
   </tr>
@@ -45,7 +45,7 @@ variant: markdown
 	
 	
 <tr>
-    <td>HOD / PE<br></td>
+    <td>HOD / PE &amp; CCA<br></td>
     <td>Mr Irwan Wijaya<br></td>
     <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a><br></td>
   </tr>	
@@ -75,11 +75,7 @@ variant: markdown
     <td>Ms Faye Tan<br></td>
     <td><a href="mailto:tan_siew_bin_faye@moe.edu.sg">tan_siew_bin_faye@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Humanities (IP)<br></td>
-    <td>Mr Vincent Foo<br></td>
-    <td><a href="mailto:foo_koon_tet@moe.edu.sg">foo_koon_tet@moe.edu.sg</a><br></td>
-  </tr>
+
   
   <tr>
     <td>HOD / ICT<br></td>
@@ -124,8 +120,8 @@ variant: markdown
   </tr>
   <tr>
     <td>HOD / Science (JC)<br></td>
-    <td>Ms Sim Hui Shan<br></td>
-    <td><a href="mailto:sim_hui_shan@moe.edu.sg">sim_hui_shan@moe.edu.sg</a><br></td>
+    <td>Ms Tng Miao Hui<br></td>
+    <td><a href="mailto:sim_hui_shan@moe.edu.sg"></a><br></td>
   </tr>
   <tr>
     <td>HOD / Student Well-Being</td>
@@ -154,7 +150,7 @@ variant: markdown
 <thead>
   <tr>
     <td>Deputy Dean / Integrated Programme<br></td>
-    <td>Miss Rebecca Wu<br></td>
+    <td>Ms Rebecca Wu<br></td>
     <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></td>
   </tr>
 </thead>
@@ -179,7 +175,7 @@ variant: markdown
   </tr>
 	
 	
-  <tr>
+ <tr>
     <td>Deputy Head / Student Well-Being<br></td>
     <td>Ms Tan Yi Jie<br></td>
     <td><a href="mailto:tan_yi_jie@moe.edu.sg">tan_yi_jie@moe.edu.sg</a><br></td>
@@ -195,11 +191,7 @@ variant: markdown
     <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
   </tr>
 
-<tr>
-    <td>Deputy Head / Biology  </td>
-    <td>Mrs Gay-Lin Wenjie  </td>
-    <td><a href="mailto:lin_wenjie_a@moe.edu.sg">lin_wenjie_a@moe.edu.sg</a> </td>
-  </tr>
+
 	
   <tr>
     <td>Deputy Head / Economics<br></td>
@@ -236,18 +228,18 @@ variant: markdown
 
 
   <tr>
-    <td>Deputy Head / Physical Education &amp; CCA <br></td>
+    <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Ms Jonique Ang</td>
     <td><a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a></td>
   </tr>
 
  <tr>
-    <td>Deputy Head / Physical Education &amp; CCA <br></td>
+    <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Mrs Shirley Goh</td>
     <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a></td>
   </tr>	
 
-    <tr><td>Deputy Head / Science (Physics)<br></td>
+ <tr><td>Deputy Head / Science (Physics)<br></td>
     <td>Mr Wong Jee Pheng<br></td>
     <td><a href="mailto:wong_jee_pheng@moe.edu.sg">wong_jee_pheng@moe.edu.sg</a><br></td>
   </tr>
