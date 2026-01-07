@@ -228,13 +228,13 @@ variant: markdown
 
 
   <tr>
-    <td>Deputy Head / Physical Education &amp; CCA <br></td>
+    <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Ms Jonique Ang</td>
     <td><a href="mailto:ang_yam_hui_jonique@moe.edu.sg">ang_yam_hui_jonique@moe.edu.sg</a></td>
   </tr>
 
  <tr>
-    <td>Deputy Head / Physical Education &amp; CCA <br></td>
+    <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Mrs Shirley Goh</td>
     <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a></td>
   </tr>	
