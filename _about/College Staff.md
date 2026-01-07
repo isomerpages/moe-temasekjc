@@ -140,11 +140,18 @@ variant: markdown
 <tr>
     <td>Ms<br></td>
     <td>Christabelle Soh<br></td>
-    <td>Subject Head / LEAPS<br></td>
+    <td>Deputy Head / LEAPS<br></td>
     <td><br></td>
     <td><a href="mailto:rui_yang_koh@moe.edu.sg"></a><br></td>
   </tr>
-
+ <tr>
+    <td>Ms </td>
+    <td>Lim Xiao Qi </td>
+    <td>Deputy Head / Student Leadership </td>
+    <td></td>
+    <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+  </tr>	
+	
 <tr>
     <td>Ms<br></td>
     <td>Kat Kar Hwee<br></td>
@@ -244,13 +251,7 @@ variant: markdown
     <td> </td>
     <td><a href="mailto:khairul_anwar_ali@moe.edu.sg">khairul_anwar_ali@moe.edu.sg</a> </td>
   </tr>	
- <tr>
-    <td>Ms </td>
-    <td>Lim Xiao Qi </td>
-    <td>Subject Head / Student Leadership </td>
-    <td></td>
-    <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
-  </tr>	
+
 	
   <tr>
     <td>Mr </td>
@@ -1110,13 +1111,8 @@ variant: markdown
     <td>Chemistry<br></td>
     <td><a href="mailto:tan_minyi_shawn@moe.edu.sg">tan_minyi_shawn@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Mr<br></td>
-    <td>Tearle Cheng<br></td>
-    <td>Teacher<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:cheng_boon_wah_tearle@moe.edu.sg">cheng_boon_wah_tearle@moe.edu.sg</a><br></td>
-  </tr>
+
+  
  <tr>
     <td>Mr<br></td>
     <td>Ivan Sum<br></td>
