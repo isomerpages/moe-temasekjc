@@ -948,7 +948,7 @@ variant: markdown
     <td>Joyce Teo </td>
     <td>HOD / Student Well-Being </td>
     <td>Chemistry </td>
-    <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a> </td>
+    <td><a href="mailto:teo_chew_bee_joyce@moe.edu.sg">teo_chew_bee_joyce@moe.edu.sg</a> </td>
   </tr> 
 
 <tr>
