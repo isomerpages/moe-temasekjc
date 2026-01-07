@@ -150,7 +150,7 @@ variant: markdown
 <thead>
   <tr>
     <td>Deputy Dean / Integrated Programme<br></td>
-    <td>Miss Rebecca Wu<br></td>
+    <td>Ms Rebecca Wu<br></td>
     <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a><br></td>
   </tr>
 </thead>
