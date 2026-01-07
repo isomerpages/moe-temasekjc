@@ -124,8 +124,8 @@ variant: markdown
   </tr>
   <tr>
     <td>HOD / Science (JC)<br></td>
-    <td>Ms Sim Hui Shan<br></td>
-    <td><a href="mailto:sim_hui_shan@moe.edu.sg">sim_hui_shan@moe.edu.sg</a><br></td>
+    <td>Ms Tng Miao Hui<br></td>
+    <td><a href="mailto:sim_hui_shan@moe.edu.sg"></a><br></td>
   </tr>
   <tr>
     <td>HOD / Student Well-Being</td>
