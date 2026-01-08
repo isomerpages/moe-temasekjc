@@ -273,7 +273,7 @@ variant: markdown
     <td><a href="mailto:leong_chou_keen@moe.edu.sg">leong_chou_keen@moe.edu.sg</a><br></td>
   </tr>
 
-	 <tr>
+<tr>
     <td>Mrs</td>
     <td>Chiam Shi Yun</td>
     <td>Teacher </td>
@@ -889,7 +889,7 @@ variant: markdown
 <tr>
     <td>Ms<br></td>
     <td>Christabelle Soh<br></td>
-    <td>Deputy Head / LEAPS<br></td>
+    <td>Deputy Head / LEAPs<br></td>
     <td>Project Work<br></td>
     <td><a href="mailto:soh_ning_en_christabelle@moe.edu.sg">soh_ning_en_christabelle@moe.edu.sg</a><br></td>
   </tr>
@@ -906,7 +906,7 @@ variant: markdown
     <td>Lorraine Chng<br></td>
     <td>Teacher<br></td>
     <td>Project Work<br></td>
-    <td><a href="mailto:yvonne_lau_jie_ling@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:lorraine_chng@moe.edu.sg">lorraine_chng@moe.edu.sg</a><br></td>
   </tr>
  <tr>
     <td>Ms<br></td>
