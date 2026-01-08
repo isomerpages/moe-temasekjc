@@ -241,7 +241,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Ms</td>
-    <td>Wu Xiuyun Rebecca </td>
+    <td>Rebecca Wu</td>
     <td>Deputy Dean / Integrated Programme</td>
     <td>Geography </td>
     <td><a href="mailto:wu_xiuyun_rebecca@moe.edu.sg">wu_xiuyun_rebecca@moe.edu.sg</a> </td>
@@ -523,8 +523,8 @@ variant: markdown
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
    <tr>
-    <td>Ms<br></td>
-    <td>Ting Siew Choon<br></td>
+    <td>Mrs<br></td>
+    <td>Goh Siew Choon<br></td>
     <td>Deputy Head / Mathematics (JC)<br></td>
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
@@ -858,6 +858,7 @@ variant: markdown
   <tr>
     <th colspan="2">Name<br></th>
     <th>Designation<br></th>
+   <th>Unit<br></th>
     <th>Email<br></th>
   </tr>
 </thead>
@@ -867,6 +868,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Jolene Zhou<br></td>
     <td>HOD / LEAPs<br></td>
+    <td>Project Work<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>
 
@@ -874,6 +876,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Esther Mok<br></td>
     <td>Deputy Head / LEAPs<br></td>
+    <td>Physical Education<br></td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a><br></td>
   </tr>	
 
@@ -881,6 +884,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Christabelle Soh<br></td>
     <td>Deputy Head / LEAPS<br></td>
+    <td>Project Work<br></td>
     <td><a href="mailto:soh_ning_en_christabelle@moe.edu.sg">soh_ning_en_christabelle@moe.edu.sg</a><br></td>
   </tr>
 
@@ -888,12 +892,14 @@ variant: markdown
     <td>Ms</td>
     <td>Mariya binte Ahmad</td>
     <td>Teacher </td>
+    <td>Project Work<br></td>
     <td><a href="mailto:mariya_ahmad@moe.edu.sg">mariya_ahmad@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Ms<br></td>
     <td>Noraziah binte Abdul Aziz<br></td>
     <td>Teacher<br></td>
+    <td>Project Work &amp; History<br></td>
     <td><a href="mailto:noraziah_abdul_aziz@moe.edu.sg">noraziah_abdul_aziz@moe.edu.sg</a></td>
   </tr>
 
@@ -901,6 +907,7 @@ variant: markdown
     <td>Mrs<br></td>
     <td>Lorraine Chng<br></td>
     <td>Teacher<br></td>
+    <td>Project Work<br></td>
     <td><a href="mailto:yvonne_lau_jie_ling@moe.edu.sg"></a><br></td>
   </tr>
 	
