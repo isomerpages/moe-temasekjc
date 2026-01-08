@@ -35,21 +35,26 @@ variant: markdown
     <td>Music<br></td>
     <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a></td>
   </tr>	
-	
-	
+<tr>
+    <td>Ms<br></td>
+    <td>Abigail Sim<br></td>
+    <td>Teacher<br></td>
+    <td>Aesthetics<br></td>
+    <td><a href="mailto:abigail_sim_shin_yi@moe.edu.sg">abigail_sim_shin_yi@moe.edu.sg</a></td>
+  </tr>		
+<tr>
+    <td>Ms<br></td>
+    <td>Liau Shu Juan<br></td>
+    <td>Teacher<br></td>
+    <td>Art<br></td>
+    <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
+  </tr>	
   <tr>
     <td>Mdm<br></td>
     <td>Nurhuda <br></td>
     <td>Teacher<br></td>
     <td>Art<br></td>
     <td><a href="mailto:nurhuda_mohamed_khamis@moe.edu.sg">nurhuda_mohamed_khamis@moe.edu.sg</a><br></td>
-  </tr>
-	  <tr>
-    <td>Ms<br></td>
-    <td>Liau Shu Juan<br></td>
-    <td>Teacher<br></td>
-    <td>Art<br></td>
-    <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
   </tr>
  <tr>
     <td>Dr<br></td>
@@ -58,8 +63,6 @@ variant: markdown
     <td>Music<br></td>
     <td><a href="mailto:laycock_eng_yeow_gary@moe.edu.sg">laycock_eng_yeow_gary@moe.edu.sg</a><br></td>
   </tr>
-
-
 <tr>
     <td>Ms<br></td>
     <td>Tan Jeng Suan<br></td>
@@ -67,13 +70,7 @@ variant: markdown
     <td>Music<br></td>
     <td><a href="mailto:tan_jeng_suan@moe.edu.sg">tan_jeng_suan@moe.edu.sg</a></td>
   </tr>
-	<tr>
-    <td>Ms<br></td>
-    <td>Abigail Sim<br></td>
-    <td>Teacher<br></td>
-    <td>Aesthetics<br></td>
-    <td><a href="mailto:abigail_sim_shin_yi@moe.edu.sg">abigail_sim_shin_yi@moe.edu.sg</a></td>
-  </tr>	
+
 	
 	
 	
@@ -146,15 +143,36 @@ variant: markdown
     <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
   </tr>	
 	
+
 <tr>
+    <td>Ms<br></td>
+    <td>Chew Yng Kit<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:chew_yng_kit@moe.edu.sg">chew_yng_kit@moe.edu.sg</a></td>
+  </tr>
+<tr><td>Mr</td>
+    <td>Eugene Loh</td>
+    <td>Teacher </td>
+    <td>Economics</td>
+    <td><a href="mailto:peh_shi_yun@moe.edu.sg"></a></td>
+  </tr>	
+<tr>
+</tr><tr>
     <td>Ms<br></td>
     <td>Kat Kar Hwee<br></td>
     <td>Senior Teacher<br></td>
     <td>Economics<br></td>
     <td><a href="mailto:kat_kar_hwee@moe.edu.sg">kat_kar_hwee@moe.edu.sg</a></td>
   </tr>
-	
-  
+<tr>
+    <td>Ms<br></td>
+    <td>Niki Lee Xiuli<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:lee_xiuli@moe.edu.sg">lee_xiuli@moe.edu.sg</a></td>
+  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Julian Chang<br></td>
@@ -178,30 +196,12 @@ variant: markdown
     <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
   </tr>
 	 
-<tr>
-    <td>Ms<br></td>
-    <td>Chew Yng Kit<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:chew_yng_kit@moe.edu.sg">chew_yng_kit@moe.edu.sg</a></td>
-  </tr>
-	<tr>
 
-</tr><tr>
-    <td>Ms<br></td>
-    <td>Niki Lee Xiuli<br></td>
-    <td>Teacher<br></td>
-    <td>Economics<br></td>
-    <td><a href="mailto:lee_xiuli@moe.edu.sg">lee_xiuli@moe.edu.sg</a></td>
-  </tr>
-	<tr>
 
-<td>Mr</td>
-    <td>Eugene Loh</td>
-    <td>Teacher </td>
-    <td>Economics</td>
-    <td><a href="mailto:peh_shi_yun@moe.edu.sg"></a></td>
-  </tr>	
+
+
+
+
 
 	
 	
