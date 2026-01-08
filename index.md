@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/JCOH26_banner_update_version_1200X450.png
+      background: /images/tjc_open_house_1200x630.png
       key_highlights:
         - title: Heritage Website
           description: ""
@@ -18,7 +18,7 @@ sections:
         - title: IP1 APPEALS 2026
           description: ""
           url: https://www.temasekjc.moe.edu.sg/appeal-application-for-ip-year-1-registration-2026-intake/
-      variant: center
+      variant: image
   - infobar:
       title: IP 1 Admissions Talk (For 2026 Intake)
       subtitle: IP 1 Admissions Talk Video
