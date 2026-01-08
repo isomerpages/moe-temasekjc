@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/JC_OH26_banner_final.png
+      background: /images/JCOH26_banner_update_version_1200X450.png
       key_highlights:
         - title: Heritage Website
           description: ""
