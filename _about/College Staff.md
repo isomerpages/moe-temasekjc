@@ -136,7 +136,7 @@ variant: markdown
     <td>Lim Xiao Qi </td>
     <td>Deputy Head / Talent Development &amp; Scholarships </td>
     <td>Geography</td>
-    <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:xiao_qi_lim@moe.edu.sg">xiao_qi_lim@moe.edu.sg</a><br></td>
   </tr>	
 	
 <tr>
@@ -150,7 +150,7 @@ variant: markdown
     <td>Eugene Loh</td>
     <td>Teacher </td>
     <td>Economics</td>
-    <td><a href="mailto:peh_shi_yun@moe.edu.sg"></a></td>
+    <td><a href="mailto:loh_jun_lai_eugene@moe.edu.sg">loh_jun_lai_eugene@moe.edu.sg</a></td>
   </tr>	
 <tr>
 </tr><tr>
