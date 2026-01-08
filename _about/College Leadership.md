@@ -185,7 +185,14 @@ variant: markdown
     <td>Ms Priscilla Chong </td>
     <td><a href="mailto:chong_soo_hui_priscilla@moe.edu.sg">chong_soo_hui_priscilla@moe.edu.sg</a> </td>
   </tr>
-  <tr>
+<tr>
+    <td>Deputy Head /  Student Leadership<br></td>
+    <td>Ms Jean Chong Jing Ting<br></td>
+    <td><a href="mailto:jean_chong_jing_ting@moe.edu.sg">jean_chong_jing_ting@moe.edu.sg</a><br></td>
+</tr>  
+
+
+<tr>
     <td>Deputy Head / Chemistry </td>
     <td>Ms Liew Shuxian </td>
     <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
@@ -255,6 +262,19 @@ variant: markdown
     <td>Ms Esther Mok </td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a></td>
   </tr>
+<tr>
+    <td>Deputy Head / LEAPS<br></td>
+    <td>Ms Christabelle Soh<br></td>
+    <td><a href="mailto:soh_ning_en_christabelle@moe.edu.sg">soh_ning_en_christabelle@moe.edu.sg</a><br></td>
+</tr>
+ <tr>
+    <td>Deputy Head / Talent Development &amp; Scholarships </td>
+    <td>Ms Lim Xiao Qi </td>
+ <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+  </tr>
+
+
+
 </tbody>
 </table>
     </div>
