@@ -18,7 +18,7 @@ sections:
         - title: IP1 APPEALS 2026
           description: ""
           url: https://www.temasekjc.moe.edu.sg/appeal-application-for-ip-year-1-registration-2026-intake/
-      variant: image
+      variant: center
   - infobar:
       title: IP 1 Admissions Talk (For 2026 Intake)
       subtitle: IP 1 Admissions Talk Video
