@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tjc_open_house_1200x630.png
+      background: /images/JCOH26_banner_update_version_1200X450.png
       key_highlights:
         - title: Heritage Website
           description: ""
