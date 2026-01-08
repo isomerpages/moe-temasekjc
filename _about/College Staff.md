@@ -784,7 +784,7 @@ variant: markdown
 <tbody>
 <tr>
     <td>Mr</td>
-    <td>Irwan </td>
+    <td>Irwan Wijaya </td>
     <td>HOD / PE &amp; CCA </td>
     <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a> </td>
   </tr>
@@ -899,7 +899,7 @@ variant: markdown
 
 <tr>
     <td>Mrs<br></td>
-    <td>Bernard Chng<br></td>
+    <td>Lorraine Chng<br></td>
     <td>Teacher<br></td>
     <td><a href="mailto:yvonne_lau_jie_ling@moe.edu.sg"></a><br></td>
   </tr>
@@ -947,7 +947,7 @@ variant: markdown
     <td>Ms </td>
     <td>Joyce Teo </td>
     <td>HOD / Student Well-Being </td>
-    <td>Chemistry </td>
+    <td>Biology </td>
     <td><a href="mailto:teo_chew_bee_joyce@moe.edu.sg">teo_chew_bee_joyce@moe.edu.sg</a> </td>
   </tr> 
 
@@ -989,32 +989,34 @@ variant: markdown
     <td><a href="mailto:jean_chong_jing_ting@moe.edu.sg">jean_chong_jing_ting@moe.edu.sg</a><br></td>
   </tr>
 
+<tr>
+    <td>Ms </td>
+    <td>Ivy Liew </td>
+    <td>Deputy Dean / Integrated Programme </td>
+    <td>Biology </td>
+    <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
+  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Alan Varella<br></td>
-    <td>Lead Teacher /<br>Physics</td>
+    <td>Lead Teacher</td>
     <td>Physics<br></td>
     <td><a href="mailto:varella_alan_joseph@moe.edu.sg">varella_alan_joseph@moe.edu.sg</a><br></td>
   </tr>
 
-  <tr>
-    <td>Mrs<br></td>
-    <td>Aileen Lim<br></td>
-    <td>Teacher / Chemistry<br></td>
-    <td>Chemistry<br></td>
-    <td><a href="mailto:nam_aileen@moe.edu.sg">nam_aileen@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mrs<br></td>
     <td>Jismyl Lam<br></td>
-    <td>Senior Teacher / Biology<br></td>
+    <td>Senior Teacher<br></td>
     <td>Biology<br></td>
     <td><a href="mailto:ang_lai_neo_jismyl@moe.edu.sg">ang_lai_neo_jismyl@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td> Mr</td>
     <td>Tan Seng Kwang </td>
-    <td>Senior Teacher / Physics </td>
+    <td>Senior Teacher</td>
     <td> Physics</td>
     <td><a href="mailto:tan_seng_kwang@moe.edu.sg">tan_seng_kwang@moe.edu.sg</a> </td>
   </tr>
@@ -1025,14 +1027,14 @@ variant: markdown
     <td>Biology</td>
     <td><a href="mailto:daniel_yee@moe.edu.sg">daniel_yee@moe.edu.sg</a> </td>
   </tr>
- 
   <tr>
-    <td>Ms </td>
-    <td>Ivy Liew </td>
-    <td>Teacher  </td>
-    <td> Biology </td>
-    <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
-  </tr>
+    <td>Mrs<br></td>
+    <td>Aileen Lim<br></td>
+    <td>Teacher<br></td>
+    <td>Chemistry<br></td>
+    <td><a href="mailto:nam_aileen@moe.edu.sg">nam_aileen@moe.edu.sg</a><br></td>
+  </tr> 
+
 
   <tr>
     <td>Mr </td>
