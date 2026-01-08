@@ -255,6 +255,19 @@ variant: markdown
     <td>Ms Esther Mok </td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a></td>
   </tr>
+<tr>
+    <td>Deputy Head / LEAPS<br></td>
+    <td>Ms Christabelle Soh<br></td>
+    <td><a href="mailto:soh_ning_en_christabelle@moe.edu.sg">soh_ning_en_christabelle@moe.edu.sg</a><br></td>
+</tr>
+ <tr>
+    <td>Deputy Head / Talent Development &amp; Scholarships </td>
+    <td>Ms Lim Xiao Qi </td>
+ <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+  </tr>
+
+
+
 </tbody>
 </table>
     </div>
