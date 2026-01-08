@@ -748,8 +748,7 @@ variant: markdown
     <td>Teacher</td>
     <td><a href="mailto:zhang_jiao@moe.edu.sg">zhang_jiao@moe.edu.sg</a></td>
   </tr>
-
-	<tr>
+<tr>
     <td>Mdm</td>
     <td>Santha</td>
     <td>Teacher</td>
@@ -1124,7 +1123,13 @@ variant: markdown
     <td>Physics<br></td>
     <td><a href="mailto:varella_alan_joseph@moe.edu.sg">varella_alan_joseph@moe.edu.sg</a><br></td>
   </tr>
-
+<tr>
+    <td> Mr</td>
+    <td>Tan Seng Kwang </td>
+    <td>Senior Teacher</td>
+    <td> Physics</td>
+    <td><a href="mailto:tan_seng_kwang@moe.edu.sg">tan_seng_kwang@moe.edu.sg</a> </td>
+  </tr> 
  <tr>
     <td>Mr<br></td>
     <td>Ivan Sum<br></td>
@@ -1167,13 +1172,7 @@ variant: markdown
     <td>Physics<br></td>
     <td><a href="mailto:neo_kian_siah@moe.edu.sg">neo_kian_siah@moe.edu.sg</a><br></td>
   </tr>
-<tr>
-    <td> Mr</td>
-    <td>Tan Seng Kwang </td>
-    <td>Senior Teacher</td>
-    <td> Physics</td>
-    <td><a href="mailto:tan_seng_kwang@moe.edu.sg">tan_seng_kwang@moe.edu.sg</a> </td>
-  </tr> 
+
 
 	
 
