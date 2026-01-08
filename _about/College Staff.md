@@ -1279,7 +1279,12 @@ variant: markdown
 	
 	
 	
-	
+<tr>
+    <td>Ms </td>
+    <td>Syakila</td>
+    <td>Operations Executive Officer</td>
+    <td><a href="mailto:nurul_syakila_buhari@moe.edu.sg">nurul_syakila_buhari@moe.edu.sg</a> </td>
+  </tr>	
   <tr>
     <td>Mr </td>
     <td>Ricky Cheong</td>
