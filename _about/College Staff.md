@@ -864,7 +864,6 @@ variant: markdown
   <tr>
     <th colspan="2">Name<br></th>
     <th>Designation<br></th>
-   <th>Unit<br></th>
     <th>Email<br></th>
   </tr>
 </thead>
@@ -874,23 +873,20 @@ variant: markdown
     <td>Ms<br></td>
     <td>Jolene Zhou<br></td>
     <td>HOD / LEAPs<br></td>
-    <td>Project Work<br></td>
     <td><a href="mailto:zhou_xuanyi@moe.edu.sg">zhou_xuanyi@moe.edu.sg</a><br></td>
   </tr>
 
 <tr>
     <td>Ms<br></td>
     <td>Esther Mok<br></td>
-    <td>Deputy Head / LEAPs<br></td>
-    <td>Physical Education<br></td>
+    <td>Deputy Head <br>/ LEAPs (VIA)<br></td>
     <td><a href="mailto:mok_yuerong_esther@moe.edu.sg">mok_yuerong_esther@moe.edu.sg</a><br></td>
   </tr>	
 
 <tr>
     <td>Ms<br></td>
     <td>Christabelle Soh<br></td>
-    <td>Deputy Head / LEAPs<br></td>
-    <td>Project Work<br></td>
+    <td>Deputy Head <br>/ LEAPs (PW)<br></td>
     <td><a href="mailto:soh_ning_en_christabelle@moe.edu.sg">soh_ning_en_christabelle@moe.edu.sg</a><br></td>
   </tr>
 
@@ -898,21 +894,18 @@ variant: markdown
     <td>Ms</td>
     <td>Mariya binte Ahmad</td>
     <td>Teacher </td>
-    <td>Project Work<br></td>
     <td><a href="mailto:mariya_ahmad@moe.edu.sg">mariya_ahmad@moe.edu.sg</a></td>
   </tr>
  <tr>
     <td>Mrs<br></td>
     <td>Lorraine Chng<br></td>
     <td>Teacher<br></td>
-    <td>Project Work<br></td>
     <td><a href="mailto:lorraine_chng@moe.edu.sg">lorraine_chng@moe.edu.sg</a><br></td>
   </tr>
  <tr>
     <td>Ms<br></td>
     <td>Noraziah binte Abdul Aziz<br></td>
     <td>Teacher<br></td>
-    <td>Project Work &amp; History<br></td>
     <td><a href="mailto:noraziah_abdul_aziz@moe.edu.sg">noraziah_abdul_aziz@moe.edu.sg</a></td>
   </tr>
 
