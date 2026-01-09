@@ -47,7 +47,7 @@ variant: markdown
 <tr>
     <td>HOD / PE &amp; CCA<br></td>
     <td>Mr Irwan Wijaya<br></td>
-    <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a><br></td>
+    <td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">irwan_wijaya_zainal@moe.edu.sg</a><br></td>
   </tr>	
   <tr>
     <td>HOD / Total Curriculum<br></td>
