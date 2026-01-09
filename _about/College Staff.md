@@ -947,11 +947,11 @@ variant: markdown
     <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
   </tr> 
 <tr>
-    <td>Ms<br></td>
-    <td>Tng Miao Hui<br></td>
+    <td>Mrs<br></td>
+    <td>Gan Miao Hui<br></td>
     <td>HOD / Science (JC)<br></td>
     <td>Chemistry<br></td>
-    <td><a href="mailto:sim_hui_shan@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:tng_miaohui@moe.edu.sg">tng_miaohui@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr </td>
