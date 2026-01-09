@@ -679,7 +679,7 @@ variant: markdown
     <td>Ms</td>
     <td>Irene Kwek</td>
     <td>Teacher </td>
-<td><a href="mailto:kwek_ee_hui_irene@schools.gov.sg">kwek_ee_hui_irene@schools.gov.sg</a></td>
+<td><a href="mailto:kwek_ee_hui_irene@moe.edu.sg">kwek_ee_hui_irene@moe.edu.sg</a></td>
   </tr>	
 <tr>
     <td>Ms</td>
