@@ -3,15 +3,16 @@ title: Science
 permalink: /academic/integrated-programme/enriched-curriculum/science/
 description: ""
 third_nav_title: Enriched Curriculum
+variant: markdown
 ---
 # SCIENCE
 
 Aligned to TJC’s ACE outcomes, the IP Science Curriculum aims to nurture our students to become:
 
-*   Critical & Inventive Thinkers;
-*   Self-directed & Reflective Learners;
-*   Caring & Collaborative Contributors; and
-*   Effective & Ethical Communicators.
+*   Critical &amp; Inventive Thinkers;
+*   Self-directed &amp; Reflective Learners;
+*   Caring &amp; Collaborative Contributors; and
+*   Effective &amp; Ethical Communicators.
 
 
 We develop our curriculum based on two main guiding principles:
@@ -39,7 +40,7 @@ We develop our curriculum based on two main guiding principles:
     <input type="checkbox" id="accordion1">
     <label for="accordion1">SCIENCES AT TJC</label>
     <div>
-			<p style="text-align: justify;">In Years 1 and 2, students take Green Science, a subject that integrates the three sciences – Biology, Chemistry and Physics with a focus on the Environment, Energy and Sustainability. From Year 3, students can choose to offer the triple science combination (Biology, Chemistry & Physics) or the double science combination (Physics & Chemistry; or Biology & Chemistry).</p>
+			<p style="text-align: justify;">In Years 1 and 2, students take Green Science, a subject that integrates the three sciences – Biology, Chemistry and Physics with a focus on the Environment, Energy and Sustainability. From Year 3, students can choose to offer the triple science combination (Biology, Chemistry &amp; Physics) or the double science combination (Physics &amp; Chemistry; or Biology &amp; Chemistry).</p>
 			<table>
 <thead>
   <tr>
@@ -66,7 +67,7 @@ We develop our curriculum based on two main guiding principles:
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/Academic/Enriched%20Curriculum/Science/IP2%20STEM%20Programme%20Vertical%20Farming.jpeg" style="width:100%">IP2 students working on their vertical farming project as part of the STEM Programme</td>
-    <td style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MSr8XdTR4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works </td>
+    <td style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MSr8XdTR4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>Watch one of our IP4 Physics students explain the scientific concepts behind how a DC motor boat works </td>
   </tr>
 </tbody>
 </table>
@@ -76,7 +77,7 @@ We develop our curriculum based on two main guiding principles:
     <input type="checkbox" id="accordion2">
     <label for="accordion2">SCIENCE THROUGH ENRICHMENT PROGRAMME (STEP)</label>
     <div>
-			<p style="text-align: justify;">The IP Science Through Enrichment Programme (STEP) comprises three tiers where Tier 1 involves the entire cohort, Tier 2 focuses on selected students with aptitude and interest and finally Tier 3 which caters to our science talents through <a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#sci">Temasek Academy (Science)</a>.</p>
+			<p style="text-align: justify;">The IP Science Through Enrichment Programme (STEP) comprises three tiers where Tier 1 involves the entire cohort, Tier 2 focuses on selected students with aptitude and interest and finally Tier 3 which caters to our science talents through&nbsp;<a href="/academic/integrated-programme/enriched-curriculum/temasek-academy#sci">Temasek Academy (Science)</a>.</p>
 			<img src="/images/Academic/Enriched%20Curriculum/Science/STEP.png" style="width:80%">
 			<p style="text-align: justify;">Based on Renzulli’s Enrichment Triad Model, all students are exposed to myriad opportunities:</p>
 			<ul>
@@ -85,7 +86,13 @@ We develop our curriculum based on two main guiding principles:
    <li><p style="text-align: justify;">Type III Enrichment experiences are academic investigations and projects focusing on a topic or problem of personal interest, while pursuing ‘self-selected’ areas (within guideline topics) for advanced content acquisition and process training in which students assume the role of first-hand inquirers.</p></li>
 			</ul>
 			<p style="text-align: justify;">IP Year 1 to Year 4 students can participate in many enrichment programmes ranging from internally designed programmes to external programmes offered at national and international levels. Students are closely mentored by our teachers as they prepare for these competitions.</p>
-			<p style="text-align: center;"><b><U>Programmes & Platforms</u></b><br>*THINK© Challenge | Marine Debris (Microplastics) Programme | PET Rocket Programme |<br>Flight Programme | Microbial Fuel Cell Programme | Sustainability Investigative Research |<br>Crystal Growing Programme | National Crystal Growing Competition | National Science Challenge | Genetically Modified Advisory Committee Students’ Challenge | Chem.Comm Challenge|<br>Science Chronicles | Singapore Junior Biology Olympiad (SJBO) | Singapore Junior Chemistry Olympiad (SJChO) | Singapore Junior Physics Olympiad (SJPO) | Sembcorp Marine Green Wave Environmental Care Competition | Clean Tech Competition | Singapore Amazing Flying Machine Competition | Youth Science Ambassador Programme | Science Mentorship Programme (SMP) |<br>Nanyang Research Programme (NRP Junior) | Research and Development Experience Programme (R&DEP) |Youth Defence Scientist Programme (YDSP) World of Science | YDSP Research Programme | YDSP Science and Technology Camp | EZ\*ASTAR Science Fair Competition |<br>Youth Science Conference |Singapore Science and Engineering Fair (SSEF) |<br>International Science Youth Forum (ISYF) | International Biomedical Quiz |<br>International CB Paul Science Quiz | International Sci-Teens Challenge | Overseas Science Expedition</p>
+			<p style="text-align: center;"><b><u>Programmes &amp; Platforms</u></b>
+<br>*THINK© Challenge | Flight Programme | Microbial Fuel Cell Programme | Sustainability Investigative Research |
+<br>Crystal Growing Programme | National Crystal Growing Competition | National Science Challenge <br>Tan Kah Kee Young Inventors Award | Genetically Modified Advisory Committee Students’ Challenge 
+<br>Singapore Junior Biology Olympiad (SJBO) | Singapore Junior Chemistry Olympiad (SJChO) | Singapore Junior Physics Olympiad (SJPO)
+<br> Singapore Amazing Flying Machine Competition |  Science Mentorship Programme (SMP) |<br>Nanyang Research Programme (NRP Junior) | A*STAR Research Exposure Programme (REP) | Science Centre's Research &amp; Development Programme (RDP)
+<br>Youth Defence Scientist Programme (YDSP) World of Science | YDSP Research Programme | YDSP Science and Technology Camp
+<br> Singapore Science and Engineering Fair (SSEF) | International Science Youth Forum (ISYF) <br>International Biomedical Quiz | STEM Trip</p>
 			<center><b>*THINK© Challenge is organised by Temasek Academy (Science) and sponsored by</b></center>
 			<img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%20Sponsors.png" style="width:80%">
 			<table>
@@ -96,13 +103,10 @@ We develop our curriculum based on two main guiding principles:
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td><img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%20pic1.jpg" style="width:250px"></td>
-    <td><img src="/images/Academic/Enriched%20Curriculum/Science/THINK%20Challenge%202.jpg" style="width:300px"></td>
-  </tr>
+  
 </tbody>
 </table>
-			<center>Our students facilitating the 2019 THINK© Challenge that saw participants from numerous primary schools across Singapore</center>
-    </div>
+
+</div>
 	</li> 
 	</ul>
