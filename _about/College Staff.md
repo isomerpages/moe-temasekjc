@@ -797,7 +797,7 @@ variant: markdown
     <td>Mr</td>
     <td>Irwan Wijaya </td>
     <td>HOD / PE &amp; CCA </td>
-    <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a> </td>
+    <td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">irwan_wijaya_zainal@moe.edu.sg</a> </td>
   </tr>
   
 <tr>
@@ -811,13 +811,13 @@ variant: markdown
     <td>Mrs</td>
     <td>Shirley Goh </td>
     <td>Deputy Head / PE &amp; CCA </td>
-    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a> </td>
+    <td><a href="mailto:Teo_Yew_Ing_Shirley@moe.edu.sg">Teo_Yew_Ing_Shirley@moe.edu.sg</a> </td>
   </tr>
 <tr>
     <td>Mr </td>
     <td>Adriel Thin</td>
     <td>Teacher </td>
-    <td><a href="mailto:thin_jie_hao_adriel@schools.gov.sg">thin_jie_hao_adriel@schools.gov.sg</a></td>
+    <td><a href="mailto:thin_jie_hao_adriel@moe.edu.sg">thin_jie_hao_adriel@moe.edu.sg</a></td>
   </tr>	
   <tr>
     <td>Mr </td>
