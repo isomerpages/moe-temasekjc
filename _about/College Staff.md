@@ -136,7 +136,7 @@ variant: markdown
     <td>Lim Xiao Qi </td>
     <td>Deputy Head / Talent Development &amp; Scholarships </td>
     <td>Geography</td>
-    <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:xiao_qi_lim@moe.edu.sg">xiao_qi_lim@moe.edu.sg</a><br></td>
   </tr>	
 	
 <tr>
@@ -150,7 +150,7 @@ variant: markdown
     <td>Eugene Loh</td>
     <td>Teacher </td>
     <td>Economics</td>
-    <td><a href="mailto:peh_shi_yun@moe.edu.sg"></a></td>
+    <td><a href="mailto:loh_jun_lai_eugene@moe.edu.sg">loh_jun_lai_eugene@moe.edu.sg</a></td>
   </tr>	
 <tr>
 </tr><tr>
@@ -555,6 +555,13 @@ variant: markdown
   </tr>
 
 
+<tr>
+    <td>Ms<br></td>
+    <td>Joanne Tay<br></td>
+    <td>Teacher <br></td>
+    <td><a href="mailto:Joanne_Tay@moe.edu.sg">joanne_tay@moe.edu.sg</a></td>
+  </tr>
+
   <tr>
     <td>Mr<br></td>
     <td>Kevin Ng<br></td>
@@ -672,7 +679,7 @@ variant: markdown
     <td>Ms</td>
     <td>Irene Kwek</td>
     <td>Teacher </td>
-<td><a href="mailto:kwek_ee_hui_irene@schools.gov.sg">kwek_ee_hui_irene@schools.gov.sg</a></td>
+<td><a href="mailto:kwek_ee_hui_irene@moe.edu.sg">kwek_ee_hui_irene@moe.edu.sg</a></td>
   </tr>	
 <tr>
     <td>Ms</td>
@@ -790,7 +797,7 @@ variant: markdown
     <td>Mr</td>
     <td>Irwan Wijaya </td>
     <td>HOD / PE &amp; CCA </td>
-    <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a> </td>
+    <td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">irwan_wijaya_zainal@moe.edu.sg</a> </td>
   </tr>
   
 <tr>
@@ -804,13 +811,13 @@ variant: markdown
     <td>Mrs</td>
     <td>Shirley Goh </td>
     <td>Deputy Head / PE &amp; CCA </td>
-    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a> </td>
+    <td><a href="mailto:Teo_Yew_Ing_Shirley@moe.edu.sg">Teo_Yew_Ing_Shirley@moe.edu.sg</a> </td>
   </tr>
 <tr>
     <td>Mr </td>
     <td>Adriel Thin</td>
     <td>Teacher </td>
-    <td><a href="mailto:thin_jie_hao_adriel@schools.gov.sg">thin_jie_hao_adriel@schools.gov.sg</a></td>
+    <td><a href="mailto:thin_jie_hao_adriel@moe.edu.sg">thin_jie_hao_adriel@moe.edu.sg</a></td>
   </tr>	
   <tr>
     <td>Mr </td>
@@ -940,11 +947,11 @@ variant: markdown
     <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
   </tr> 
 <tr>
-    <td>Ms<br></td>
-    <td>Tng Miao Hui<br></td>
+    <td>Mrs<br></td>
+    <td>Gan Miao Hui<br></td>
     <td>HOD / Science (JC)<br></td>
     <td>Chemistry<br></td>
-    <td><a href="mailto:sim_hui_shan@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:tng_miaohui@moe.edu.sg">tng_miaohui@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Mr </td>
@@ -1279,7 +1286,12 @@ variant: markdown
 	
 	
 	
-	
+<tr>
+    <td>Ms </td>
+    <td>Syakila</td>
+    <td>Operations Executive Officer</td>
+    <td><a href="mailto:nurul_syakila_buhari@moe.edu.sg">nurul_syakila_buhari@moe.edu.sg</a> </td>
+  </tr>	
   <tr>
     <td>Mr </td>
     <td>Ricky Cheong</td>

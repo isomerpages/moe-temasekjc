@@ -47,7 +47,7 @@ variant: markdown
 <tr>
     <td>HOD / PE &amp; CCA<br></td>
     <td>Mr Irwan Wijaya<br></td>
-    <td><a href="mailto:irwan_wijaya_zainal@schools.gov.sg">irwan_wijaya_zainal@schools.gov.sg</a><br></td>
+    <td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">irwan_wijaya_zainal@moe.edu.sg</a><br></td>
   </tr>	
   <tr>
     <td>HOD / Total Curriculum<br></td>
@@ -120,8 +120,8 @@ variant: markdown
   </tr>
   <tr>
     <td>HOD / Science (JC)<br></td>
-    <td>Ms Tng Miao Hui<br></td>
-    <td><a href="mailto:sim_hui_shan@moe.edu.sg"></a><br></td>
+    <td>Mrs Gan Miao Hui<br></td>
+    <td><a href="mailto:tng_miaohui@moe.edu.sg">tng_miaohui@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>HOD / Student Well-Being</td>
@@ -136,7 +136,7 @@ variant: markdown
   <tr>
     <td>School Staff Developer<br></td>
     <td>Ms Joanne Tay<br></td>
-    <td><a href="mailto:"></a></td>
+    <td><a href="mailto:Joanne_Tay@moe.edu.sg">joanne_tay@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
