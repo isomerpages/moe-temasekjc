@@ -24,7 +24,7 @@ variant: markdown
   <tr>
     <td>Ms<br></td>
     <td>Caroline Sng<br></td>
-    <td>HOD / Aesthetics<br></td>
+    <td>HOD / Language Arts &amp; English Literature and Aesthetics<br></td>
     <td>Aesthetics</td>
     <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
@@ -371,12 +371,7 @@ variant: markdown
 		</tr>
 
 
-<tr>
-    <td>Ms</td>
-    <td>Weers Nicole Alexandra </td>
-    <td>Teacher </td>
-    <td><a href="mailto:weers_nicole_alexandra@moe.edu.sg">weers_nicole_alexandra@moe.edu.sg</a></td>
-</tr>	
+
 	
 	
 </tbody>
@@ -400,7 +395,7 @@ variant: markdown
   <tr>
     <td>Ms<br></td>
     <td>Caroline Sng<br></td>
-    <td>HOD / Language Arts &amp; English Literature<br></td>
+    <td>HOD / Language Arts &amp; English Literature and Aesthetics<br></td>
     <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
 
