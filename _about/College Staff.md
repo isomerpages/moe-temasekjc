@@ -514,18 +514,19 @@ variant: markdown
     <td>HOD / ICT<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
-   <tr>
-    <td>Mrs<br></td>
-    <td>Goh Siew Choon<br></td>
-    <td>Deputy Head / Mathematics (JC)<br></td>
-    <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
-  </tr>
 <tr>
     <td>Mr<br></td>
     <td>Chew Yi Yang<br></td>
     <td>Deputy Head / ICT<br></td>
     <td><a href="mailto:chew_yi_yang@moe.edu.sg">chew_yi_yang@moe.edu.sg</a><br></td>
+  </tr> 
+<tr>
+    <td>Mrs<br></td>
+    <td>Goh Siew Choon<br></td>
+    <td>Deputy Head / Mathematics (JC)<br></td>
+    <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
+
 <tr>
     <td>Mrs<br></td>
     <td>Tan Chiu Jin<br></td>
