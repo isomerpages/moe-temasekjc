@@ -430,7 +430,7 @@ variant: markdown
     <td>Ms</td>
     <td>Anuthama</td>
     <td>Teacher </td>
-    <td><a href="mailto:maryam_mohamed_mokhtar@moe.edu.sg"></a></td>
+    <td><a href="mailto:anuthama_a@moe.edu.sg">anuthama_a@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td>Ms</td>
@@ -514,18 +514,19 @@ variant: markdown
     <td>HOD / ICT<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
-   <tr>
-    <td>Mrs<br></td>
-    <td>Goh Siew Choon<br></td>
-    <td>Deputy Head / Mathematics (JC)<br></td>
-    <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
-  </tr>
 <tr>
     <td>Mr<br></td>
     <td>Chew Yi Yang<br></td>
     <td>Deputy Head / ICT<br></td>
     <td><a href="mailto:chew_yi_yang@moe.edu.sg">chew_yi_yang@moe.edu.sg</a><br></td>
+  </tr> 
+<tr>
+    <td>Mrs<br></td>
+    <td>Goh Siew Choon<br></td>
+    <td>Deputy Head / Mathematics (JC)<br></td>
+    <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
+
 <tr>
     <td>Mrs<br></td>
     <td>Tan Chiu Jin<br></td>
@@ -941,6 +942,7 @@ variant: markdown
     <td>Biology </td>
     <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
   </tr> 
+
 <tr>
     <td>Mrs<br></td>
     <td>Gan Miao Hui<br></td>
@@ -955,7 +957,7 @@ variant: markdown
     <td>Chemistry </td>
     <td><a href="mailto:low_kian_seh@moe.edu.sg">low_kian_seh@moe.edu.sg</a> </td>
   </tr>
-   <tr>
+<tr>
     <td>Ms </td>
     <td>Joyce Teo </td>
     <td>HOD / Student Well-Being </td>
@@ -964,28 +966,13 @@ variant: markdown
   </tr> 
 
 <tr>
-    <td> Ms</td>
-    <td>Kok Hui Ching</td>
-    <td>Deputy Head / Science (IP) </td>
-    <td>Physics </td>
-    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a> </td>
+    <td>Ms<br></td>
+    <td>Jean Chong Jing Ting<br></td>
+    <td>Deputy Head /  Student Leadership<br></td>
+    <td>Biology<br></td>
+    <td><a href="mailto:jean_chong_jing_ting@moe.edu.sg">jean_chong_jing_ting@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td> Ms</td>
-    <td>Liew Shuxian </td>
-    <td>Deputy Head / Science (JC)</td>
-    <td> Chemistry</td>
-    <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
-  </tr>
-
-  <tr>
-    <td>Mr<br></td>
-    <td>Wong Jee Pheng<br></td>
-    <td>Deputy Head / Science (JC) </td>
-    <td>Physics<br></td>
-    <td><a href="mailto:wong_jee_pheng@moe.edu.sg">wong_jee_pheng@moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
+<tr>
     <td>Ms<br></td>
     <td>Tan Yi Jie<br></td>
     <td>Deputy Head /  Student Well-Being<br></td>
@@ -994,12 +981,29 @@ variant: markdown
   </tr>
 
   <tr>
-    <td>Ms<br></td>
-    <td>Jean Chong Jing Ting<br></td>
-    <td>Deputy Head /  Student Leadership<br></td>
-    <td>Biology<br></td>
-    <td><a href="mailto:jean_chong_jing_ting@moe.edu.sg">jean_chong_jing_ting@moe.edu.sg</a><br></td>
+    <td> Ms</td>
+    <td>Liew Shuxian </td>
+    <td>Deputy Head / Science (JC)</td>
+    <td> Chemistry</td>
+    <td><a href="mailto:liew_shuxian@moe.edu.sg">liew_shuxian@moe.edu.sg</a> </td>
   </tr>
+<tr>
+    <td> Ms</td>
+    <td>Kok Hui Ching</td>
+    <td>Deputy Head / Science (IP) </td>
+    <td>Physics </td>
+    <td><a href="mailto:kok_hui_ching@moe.edu.sg">kok_hui_ching@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td>Mr<br></td>
+    <td>Wong Jee Pheng<br></td>
+    <td>Deputy Head / Science (JC) </td>
+    <td>Physics<br></td>
+    <td><a href="mailto:wong_jee_pheng@moe.edu.sg">wong_jee_pheng@moe.edu.sg</a><br></td>
+  </tr>
+
+
+
 
 	
 
