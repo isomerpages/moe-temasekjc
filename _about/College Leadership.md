@@ -239,7 +239,7 @@ variant: markdown
  <tr>
     <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Mrs Shirley Goh</td>
-    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a></td>
+    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">teo_yew_ing_shirley@moe.edu.sg</a></td>
   </tr>	
 
  <tr><td>Deputy Head / Science (Physics)<br></td>
@@ -266,7 +266,7 @@ variant: markdown
  <tr>
     <td>Deputy Head / Talent Development &amp; Scholarships </td>
     <td>Ms Lim Xiao Qi </td>
- <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+ <td><a href="mailto:xiao_qi_lim@moe.edu.sg">xiao_qi_lim@moe.edu.sg</a><br></td>
   </tr>
 
 
