@@ -56,7 +56,7 @@ variant: markdown
   </tr>
 
   <tr>
-    <td>HOD / Aesthetics<br></td>
+    <td>HOD / Language Arts &amp; English Literature and Aesthetics<br></td>
     <td>Ms Caroline Sng<br></td>
     <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
@@ -82,11 +82,7 @@ variant: markdown
     <td>Mr Lau Wee Lip Jonathan<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Language Arts &amp; English Literature<br></td>
-    <td>Ms Caroline Sng<br></td>
-    <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
-  </tr>
+ 
   <tr>
     <td>HOD / Mathematics (IP)<br></td>
     <td>Mr Marcus Goh<br></td>
@@ -243,7 +239,7 @@ variant: markdown
  <tr>
     <td>Deputy Head / PE &amp; CCA <br></td>
     <td>Mrs Shirley Goh</td>
-    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">Teo_Yew_Ing_Shirley@schools.gov.sg</a></td>
+    <td><a href="mailto:Teo_Yew_Ing_Shirley@schools.gov.sg">teo_yew_ing_shirley@moe.edu.sg</a></td>
   </tr>	
 
  <tr><td>Deputy Head / Science (Physics)<br></td>
@@ -270,7 +266,7 @@ variant: markdown
  <tr>
     <td>Deputy Head / Talent Development &amp; Scholarships </td>
     <td>Ms Lim Xiao Qi </td>
- <td><a href="mailto:chee_yao_rong_brendon@moe.edu.sg"></a><br></td>
+ <td><a href="mailto:xiao_qi_lim@moe.edu.sg">xiao_qi_lim@moe.edu.sg</a><br></td>
   </tr>
 
 
