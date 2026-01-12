@@ -56,7 +56,7 @@ variant: markdown
   </tr>
 
   <tr>
-    <td>HOD / Aesthetics<br></td>
+    <td>HOD / Language Arts &amp; English Literature and Aesthetics<br></td>
     <td>Ms Caroline Sng<br></td>
     <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
   </tr>
@@ -82,11 +82,7 @@ variant: markdown
     <td>Mr Lau Wee Lip Jonathan<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>HOD / Language Arts &amp; English Literature<br></td>
-    <td>Ms Caroline Sng<br></td>
-    <td><a href="mailto:sng_ming_hui_caroline@moe.edu.sg">sng_ming_hui_caroline@moe.edu.sg</a><br></td>
-  </tr>
+ 
   <tr>
     <td>HOD / Mathematics (IP)<br></td>
     <td>Mr Marcus Goh<br></td>
