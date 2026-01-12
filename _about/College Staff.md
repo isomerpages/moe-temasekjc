@@ -1316,7 +1316,7 @@ variant: markdown
     <td>Mdm<br></td>
     <td>Loi<br></td>
     <td>Operations Support Officer<br></td>
-    <td><a href="mailto:ee_cheong_wah@moe.edu.sg"></a><br></td>
+    <td><a href="">NIL</a><br></td>
   </tr>
 
  <tr>
@@ -1401,7 +1401,7 @@ variant: markdown
     <td>Mdm<br></td>
     <td>Arinah<br></td>
     <td>STEM Instructor </td>
-    <td><a href="mailto:tang_lee_fa@moe.edu.sg"></a><br></td>
+    <td><a href="">NIL</a><br></td>
   </tr>
 <tr><td>Ms<br></td>
     <td>Lim Ting<br></td>
@@ -1431,14 +1431,14 @@ variant: markdown
     <td>Ms</td>
     <td>Zarina</td>
     <td>STEM Instructor </td>
-    <td><a href="mailto:peng_chai_tin@moe.edu.sg"></a><br></td>
+    <td><a href="">NIL</a><br></td>
   </tr>
 
 <tr>
     <td>Mr<br></td>
     <td>Hairul Fazree<br></td>
     <td>Library Officer</td>
-    <td><a href="mailto:tang_lee_fa@moe.edu.sg"></a><br></td>
+    <td><a href="mailto:hairul_fazree_sardi@moe.edu.sg">hairul_fazree_sardi@moe.edu.sg</a><br></td>
   </tr>
 
 
