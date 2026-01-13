@@ -1372,7 +1372,7 @@ variant: markdown
     <td>Ms </td>
     <td>Toh Ling Ling </td>
     <td>School Counsellor  </td>
-    <td><a href="mailto:lim_jia_qi_jacqueline@moe.edu.sg"></a> </td>
+    <td><a href="mailto:toh_ling_ling_a@moe.edu.sg">toh_ling_ling_a@moe.edu.sg</a> </td>
   </tr>
 	
 <tr>
@@ -1405,7 +1405,7 @@ variant: markdown
     <td>Mdm<br></td>
     <td>Arinah<br></td>
     <td>STEM Instructor </td>
-    <td><a href="">NIL</a><br></td>
+    <td><a href="siti_arinah_abdul_rahman@moe.edu.sg">siti_arinah_abdul_rahman@moe.edu.sg</a><br></td>
   </tr>
 <tr><td>Ms<br></td>
     <td>Lim Ting<br></td>
@@ -1435,7 +1435,7 @@ variant: markdown
     <td>Ms</td>
     <td>Zarina</td>
     <td>STEM Instructor </td>
-    <td><a href="">NIL</a><br></td>
+    <td><a href="mailto:zarina_mohamed_yusof@moe.edus.g">zarina_mohamed_yusof@moe.edus.g</a><br></td>
   </tr>
 
 <tr>
