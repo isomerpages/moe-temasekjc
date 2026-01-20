@@ -13,4 +13,5 @@ variant: markdown
 *   <a href="https://sites.google.com/temasekjc.moe.edu.sg/think-challenge/home" target="_blank">THINK© Challenge</a>
 *   <a href="https://ecg.temasekjc.moe.edu.sg/" target="_blank">ECG@TJC</a>
 *   <a href="https://sites.google.com/moe.edu.sg/tjc-student-ict-guide/home" target="_blank">ICT Guide for Parents and Students</a>
-*   <a href="/files/GPA_Insurance_for_Students__Year_2025_.pdf" target="_blank">GPA Insurance Plan for Students 2025</a>
+*   <a href="/files/GPA_Insurance_Plan_for_Students_2026.pdf" target="_blank">GPA Insurance Plan for Students 2026</a>
+* <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">GPA Insurance Claim Submission Portal for Students</a>
