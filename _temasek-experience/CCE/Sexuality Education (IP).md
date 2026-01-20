@@ -784,18 +784,22 @@ alignment with our beliefs</p>
 </li>
 </ul>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:&nbsp;</p>
-<p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide Secondary
+3 students with accurate information on STIs, HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -872,15 +876,15 @@ of assertiveness and responsible decision-making</p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p></p>
-<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form via Parents’ Gateway. This form will be communicated
-to parents at the start of the year and is also downloadable <strong><a href="/files/Temasek Experience/Sex_Ed_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here.</a></strong> The
-completed form is to be submitted by 31/01/2025.</p>
+<p>11. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <strong><a href="/files/Temasek Experience/Sex_Ed_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here.</a></strong> The
+completed form is to be submitted by <strong>31/01/2026</strong>.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form via Parent’s Gateway. This form will be communicated
-to parents at the start of the year and is also downloadable <strong><a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here.</a></strong> The
-completed form is to be submitted by 31/01/2025.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <strong><a href="/files/Temasek Experience/eTeens_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here.</a></strong> The
+completed form is to be submitted by <strong>31/01/2026.</strong>
+</p>
 <p>13. Parents can contact the school at 6442 8066 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p></p>
