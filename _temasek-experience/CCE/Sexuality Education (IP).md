@@ -63,14 +63,14 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 <ul>
 <li>
-<p><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
@@ -109,7 +109,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 <li>
 <p>LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</p>
-<p><strong>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <blockquote>
 <p><strong>IP1</strong>
@@ -262,7 +262,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 2 Week 9&nbsp;</strong>
+<p><strong>Term 2 Week 8&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 1 Week 7</strong>
+<p><strong>Term 1 Week 8</strong>
 </p>
 </td>
 </tr>
@@ -382,7 +382,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 2 Week 8&nbsp;</strong>
+<p><strong>Term 2 Week 6&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -416,7 +416,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 3 Week 2&nbsp;</strong>
+<p><strong>Term 3 Week 3&nbsp;</strong>
 </p>
 </td>
 </tr>
