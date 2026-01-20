@@ -109,6 +109,15 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 <li>
 <p>LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</p>
+</li>
+</ul>
+<p><strong>At Temasek Junior College, the following Sexuality Education lessons will be taught in 2026:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/CCE/Sex_Ed_for_IP1.png">
+</div>
+<p></p>
+<p></p>
 <p><strong>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <blockquote>
@@ -781,8 +790,6 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:&nbsp;</p>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
