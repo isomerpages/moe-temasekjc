@@ -151,7 +151,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <p></p>
 <p></p>
-<h4><em><u>eTeens</u></em><u> Programme:&nbsp;</u></h4>
+<h4><strong><em>eTeens</em> Programme:&nbsp;</strong></h4>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
 3 students with accurate information on STIs, HIV and protection from a
