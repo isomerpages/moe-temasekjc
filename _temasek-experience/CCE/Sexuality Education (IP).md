@@ -10,6 +10,7 @@ variant: tiptap
 <ul>
 <li>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS (SECONDARY</strong>)</p>
+<p></p>
 <ol>
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -56,29 +57,25 @@ ones.</p>
 <p></p>
 </li>
 </ol>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
 </li>
 </ul>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 <p></p>
-<ul>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
-<ol>
-<li>
-<p>Sexuality Education is delivered in a holistic manner through the school
+<p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-</li>
-<li>
-<p>The subjects that incorporate topics on sexuality include:
+<p>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
-<br>b. Character and Citizenship Education (CCE)</p>
-</li>
-</ol>
+<br>b. Character and Citizenship Education (CCE)
+<br>
+</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <ol start="3">
 <li>
@@ -106,7 +103,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 </li>
-</ul>
+</ol>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</strong>
@@ -154,43 +151,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </details>
 </div>
 <p></p>
-<ul>
-<li>
-<p><strong>At Temasek Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
-</p>
-</li>
-</ul>
-<blockquote>
-<h4><strong>IP1</strong></h4>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sex Ed for IP1" src="/images/Temasek Experience/CCE/Sex_Ed_for_IP1.png">
-</div>
-<blockquote>
-<h3><strong>IP2</strong></h3>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sex Ed for IP2" src="/images/Temasek Experience/CCE/sex ed for ip2_copy.png">
-</div>
-<blockquote>
-<p><strong>IP3</strong>
-</p>
-</blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sex Ed for IP3" src="/images/Temasek Experience/CCE/sex ed for ip3_copy.png">
-</div>
-<blockquote>
-<p><strong>IP4</strong>
-</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sex Ed for IP4" src="/images/Temasek Experience/CCE/sex ed for ip4.png">
-</div>
-<p></p>
-<p></p>
-<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:&nbsp;</p>
+<h4><em><u>eTeens</u></em><u> Programme:&nbsp;</u></h4>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
 3 students with accurate information on STIs, HIV and protection from a
@@ -249,7 +211,7 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also available <a href="/files/Temasek Experience/Sex_Ed_Opt_out_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong>31/01/2026.</strong> 
+The completed form is to be submitted by <strong>31/01/2026.</strong>
 </p>
 <p></p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme </strong>need
