@@ -93,14 +93,9 @@ the main focus on relationships.</p>
 <p><strong>At Temasek Junior College, the following</strong>  <strong>Sexuality Education lessons will be taught in JC in&nbsp;<u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>PRE-U YEAR 1 / IP YEAR 5</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sex Ed Prog for JC1" src="/images/Temasek Experience/CCE/Sex_Ed_for_JC1.png">
 </div>
-<p><strong>PRE-U YEAR 2 / IP YEAR 6</strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sex Ed Prog for JC2" src="/images/Temasek Experience/CCE/Sex_Ed_for_JC2.jpg">
