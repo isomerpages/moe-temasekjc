@@ -62,10 +62,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
-</p>
+<h4><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -101,8 +98,6 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-</li>
-</ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</strong>
