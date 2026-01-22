@@ -96,24 +96,20 @@ the main focus on relationships.</p>
 <p><strong>PRE-U YEAR 1 / IP YEAR 5</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sex Ed Prog for JC1" src="/images/Temasek Experience/CCE/Sex_Ed_for_JC1.png">
+</div>
 <p><strong>PRE-U YEAR 2 / IP YEAR 6</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sex Ed Prog for JC2" src="/images/Temasek Experience/CCE/Sex_Ed_for_JC2.jpg">
+</div>
 </div>
 </details>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 <h4><strong><em>eTeens</em> Programme (for JC1)</strong></h4>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
@@ -137,9 +133,10 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <p></p>
 <p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in&nbsp;<u>2026</u>:</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eTeens Prog for JC" src="/images/Temasek Experience/CCE/eTeens_Prog_for_JC.jpg">
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
