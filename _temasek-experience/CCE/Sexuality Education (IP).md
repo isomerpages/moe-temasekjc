@@ -62,7 +62,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>OVERVIEW OF TEMASEK JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
@@ -77,7 +77,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <br>
 </p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
-<ol start="3">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
@@ -93,7 +93,6 @@ ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p></p>
 </li>
 <li>
 <p>Through the Sexuality Education lessons, secondary students will have
@@ -103,7 +102,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 </li>
-</ol>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>LESSON SCHEDULE (IP YEAR 1 TO IP YEAR 4)</strong>
@@ -170,34 +169,9 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Temasek Junior College, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eteens Programme for IP" src="/images/Temasek Experience/CCE/eteens_prog_IP.jpg">
 </div>
-<p>
-<br>
-</p>
-<p></p>
-<ul>
-<li>
-<p><strong>INFORMATION FOR PARENTS</strong>
-</p>
-</li>
-</ul>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="/files/Temasek Experience/Sex_Ed_Opt_out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here.</a> The
-completed form is to be submitted by <strong>31/01/2026</strong>.</p>
-<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="/files/Temasek Experience/eTeens_Opt_out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here.</a> The
-completed form is to be submitted by <strong>31/01/2026.</strong>
-</p>
-<p>13. Parents can contact the school at 6442 8066 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
