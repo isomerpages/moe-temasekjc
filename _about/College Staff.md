@@ -1256,24 +1256,15 @@ variant: markdown
     <td>Corporate Support Officer</td>
     <td><a href="mailto:anna_ang_li_mei@moe.edu.sg">anna_ang_li_mei@moe.edu.sg</a> </td>
   </tr>
-	<tr>
-    <td>Ms </td>
-    <td>Linda Koh</td>
-    <td>Corporate Support Officer</td>
-    <td><a href="mailto:koh_seok_tin_linda_a@moe.edu.sg">koh_seok_tin_linda_a@moe.edu.sg</a> </td>
-  </tr>
+
+  
 	<tr>
     <td>Mdm </td>
     <td>Faridah </td>
     <td>Corporate Support Officer</td>
     <td><a href="mailto:faridah_shukor@moe.edu.sg">faridah_shukor@moe.edu.sg</a> </td>
   </tr>
-	 <tr>
-    <td>Ms </td>
-    <td>Doreen Ng</td>
-    <td>Corporate Support Officer</td>
-    <td><a href="mailto:doreen_ng_pei_shi@moe.edu.sg">doreen_ng_pei_shi@moe.edu.sg</a> </td>
-  </tr>
+
 <tr>
     <td>Ms </td>
     <td>Ann Zhong</td>
