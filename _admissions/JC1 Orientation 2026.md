@@ -75,7 +75,7 @@ times/dates. Cash and Paynow payment options are available.</p>
 and conditions.&nbsp;</p>
 <p>Students should purchase the uniforms in accordance with the College Uniform
 Policy. A sum of $140 should be prepared.</p>
-<p><strong><em>Students are STRONGLY ENCOURAGED to purchase all uniform items in school from 4th Feb to 6th Feb as sales arrangement on these days cater to the mass JC1 cohort.</em></strong> 
+<p><strong><em>Students are STRONGLY ENCOURAGED to purchase all uniform items in school from 4th Feb to 6th Feb as sales arrangement on these days cater to the mass JC1 cohort.</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -105,80 +105,61 @@ for your child/ward.</p>
 <p>Kindly <a href="https://form.gov.sg/6972c6d9d31fe2ad6c58535c" rel="noopener nofollow" target="_blank">RSVP HERE</a> or
 via the QR code below to indicate your attendance:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="QR Code for JC1 Orientation 2026" src="/images/Admissions/QR_Code_for_JC1_Orientation_2026.png">
+</div>
 <h2><strong><u>Appeals</u></strong></h2>
 <p>
-<br>Please click <a href="https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>Please click <a href="https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2026/" rel="noopener nofollow" target="_blank">here</a> for
 more information on appealing to TJC or to another JC.</p>
 <p></p>
 <h2><strong><u>Special Aptitude Selections</u></strong></h2>
-<h4><strong>H2 Art aptitude test</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>No pre-requisites are required.</p>
-</li>
-<li>
-<p>Both IP and JAE students are welcome</p>
-</li>
-<li>
-<p>Bring your own stationaries/ art materials</p>
-</li>
-<li>
-<p>Bring a phone camera or DSLR, and (if you have) a digital tablet with
-stylus pen using any pre-installed app like Photoshop, Procreate, Krita,
-etc.&nbsp;</p>
-</li>
-<li>
-<p>Show us your existing artworks (either digitally or through your physical
-copies)</p>
-</li>
-<li>
-<p>All are welcome!</p>
-</li>
-</ul>
-<p>Scan the QR code to register your interest here or click on the following
-link: <a href="https://forms.moe.edu.sg/forms/oZwzGe" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZwzGe</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/H2_Art_QR_Code.png">
-</div>
-<p>Report to the art room at Block B 107b for the aptitude test at 2.00pm
-on 6 Feb 2025. Interviews will be conducted from 4.00pm to 6.30pm in slots.
-You may go straight to the art room if you could not register in time.&nbsp;</p>
 <h4><strong>H2 Music</strong></h4>
 <p>If you are intending to offer Music as a H2 subject at TJC, you must fill
-in the following form: <a href="https://form.gov.sg/67369fad92e81e4b79027994" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67369fad92e81e4b79027994</a> and
-submit it by Tuesday 4 February 2025, 2300 hours.</p>
+in the following form: <a href="https://form.gov.sg/696f017f13157b46da4e5ed0" rel="noopener nofollow" target="_blank">https://form.gov.sg/696f017f13157b46da4e5ed0</a> and
+submit it by <strong><u>Tuesday, 3 February 2026, 2300 hours.</u></strong>
+</p>
 <p>To be considered as a candidate for Music at H2 Level, you must turn up
-for both the practical and written tests.</p>
+for <strong><u>both the practical and written tests.</u></strong>
+</p>
 <p></p>
 <p>Details are as follows:</p>
 <p>Individually scheduled practical auditions lasting about half an hour
-each will be scheduled on Thursday, 6 February or Friday, 7 February. If
-you have signed up accurately and by the stipulated deadline, you can check
-your specific practical audition timing outside J206 (MEP1) from 1.00 pm
-on Wednesday, 5 February. J206 (MEP1) is situated at the second level of
-Block J near the Auditorium.</p>
-<p>Wait outside J206 (MEP1) at least 5 minutes before your scheduled practical
-audition date and time. Please note that requests for change in practical
-audition timings and dates will not be entertained.</p>
-<p>A 2-hour written test will take place on Thursday, 6 February at J206
-(MEP1) from 1400 to 1600 hrs. Please wait outside J206 (MEP1) at least
-5 minutes before the test with your earpiece and writing stationery. There
-is no alternative timing for this written test.</p>
-<p>Please note that walk-ins are not allowed. Inaccurate formfilling or late
-submission would also invalidate your application.</p>
+each will be scheduled on <strong>Thursday, 5 February 2026 or Friday, 6 February 2026.</strong>
+</p>
+<p>If you have signed up accurately and by the stipulated deadline, you can
+check your specific practical audition timing outside <strong>J206 (MEP1)</strong> from
+1:00 pm on <strong>Wednesday, 4 February</strong>. J206 (MEP1) is situated
+at the second level of Block J near the Auditorium. Wait outside J206 (MEP1)
+at least 5 minutes before your scheduled practical audition date and time.</p>
+<p>Please note that requests for change in practical audition timings and
+dates will not be entertained.</p>
+<p>A 2-hour written test will take place on <strong>Thursday, 5 February at J206 (MEP1)</strong> from <strong>1400 to 1600 hrs.</strong>
+</p>
+<p>Please wait outside <strong>J206 (MEP1)</strong> at least 5 minutes before
+the test with your earpiece and writing stationery. There is no alternative
+timing for this written test.</p>
+<p>Please note that walk-ins are <strong><u>not allowed</u></strong>. Inaccurate
+formfilling or late submission would also invalidate your application.</p>
 <p></p>
 <h4><strong>H2 Knowledge and Inquiry</strong></h4>
-<p>Please note there will be a KI sample lesson and aptitude test from 2pm
-to 3.30pm at Wee Heng Tin Seminar Room on 6 Feb 2025. There will be interviews
-on 7 Feb 2025 for shortlisted students who will be informed separately.</p>
+<p>Please note there will be a KI sample lesson and aptitude test from <strong>2pm to 3:30pm</strong> at <strong>G301</strong> on <strong>Thursday, 5 Feb 2026</strong>.</p>
+<p>There will be interviews on<strong> Friday, 6 Feb 2026 </strong>for shortlisted
+students who will be informed separately.</p>
+<p></p>
 <p></p>
 <h4><strong>H2 Computing</strong></h4>
-<p>Please note there will be a H2 Computing Aptitude Selection Test from
-3.00pm to 4.30pm on 7 Feb 2025. The venue is the Auditorium.</p>
+<p>Please note there will be a H2 Computing Aptitude Selection Test from <strong>3.00pm to 4.30pm on Friday, 6 Feb 2026.</strong>
+</p>
+<p><strong>This is a written test. No prior coding experience is required.</strong>
+</p>
+<p><strong>All interested JC1 students are welcomed.</strong>
+</p>
+<p>The venue is the Auditorium.</p>
+<p></p>
 <h4><strong>H2 Further Mathematics</strong></h4>
-<p>Please note there will be a H2 Further Mathematics Selection Test on 6
-Feb 2025 from 2.00pm to 3.30pm. The venue is LT4. Students should bring
-their writing pen (black/blue). A scientific calculator is allowed but
-not necessary. Writing paper and O level formula list will be provided.</p>
+<p>Please note there will be a H2 Further Mathematics Selection Test on <strong>Thursday, 5 Feb 2026</strong> from <strong>2.00pm to 3.30pm.</strong> The
+venue is <strong>LT4</strong>. Students should bring their writing pen (black/blue).
+A scientific calculator is allowed but not necessary. Writing paper and
+O level formula list will be provided.</p>
 <p></p>
