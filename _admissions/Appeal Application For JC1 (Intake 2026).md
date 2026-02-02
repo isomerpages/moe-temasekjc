@@ -4,7 +4,7 @@ permalink: /admissions/appeal-application-for-jc1-intake-2026/
 description: ""
 variant: tiptap
 ---
-<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 20256) IS NOW OPEN</h1>
+<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2026) IS NOW OPEN</h1>
 <p>Appeal Application for admission to JC1 (Intake 2026) commences from <strong>Tuesday, 3 February 2026 9am to Monday, 9 February 2026 4pm, Singapore time.</strong>
 </p>
 <p>Late submissions <strong><u>will not be accepted</u></strong>. Please ensure
@@ -61,7 +61,7 @@ Arts Stream is 8.</p>
 The application form should take approximately 20 minutes to complete.</p>
 </li>
 <li>
-<p>Please ensure your form is completely filled up with accurate information.</p>
+<p>Please ensure your form is completely filled up with <strong>accurate information</strong>.</p>
 </li>
 <li>
 <p>After completing all the sections in the online application form, please
@@ -73,7 +73,7 @@ the online form.</p>
 <h4>Please upload the following supporting documents:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 GCE O-Level Exam Result Slip&nbsp;</p>
+<p>2025 GCE O-Level Exam Result Slip&nbsp;</p>
 </li>
 <li>
 <p>Verification Slip (JAE Registration)</p>
