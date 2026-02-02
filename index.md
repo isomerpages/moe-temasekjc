@@ -12,10 +12,10 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
-        - title: JC Orientation (2026 Intake)
+        - title: JC1 Orientation (2026 Intake)
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/
-        - title: JC APPEALS 2026
+          url: https://www.temasekjc.moe.edu.sg/admissions/permalink/jc-orientation/
+        - title: JC1 APPEALS 2026
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2026/
       variant: image
