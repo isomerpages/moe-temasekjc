@@ -16,8 +16,8 @@ that all applications are submitted within the stipulated period.</p>
 will be considered.&nbsp;</p>
 </li>
 <li>
-<p>The COP in year 2025 for our Science Stream is 7, and the COP for our
-Arts Stream is 8.</p>
+<p>The COP in year 2026 for our Science Stream is 7, and the COP for our
+Arts Stream is 7.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -47,7 +47,7 @@ Arts Stream is 8.</p>
 <p>ARTS (code: 32A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 </tr>
 </tbody>
