@@ -16,7 +16,8 @@ that all applications are submitted within the stipulated period.</p>
 will be considered.&nbsp;</p>
 </li>
 <li>
-<p></p>
+<p>The COP in year 2025 for our Science Stream is 7, and the COP for our
+Arts Stream is 8.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
