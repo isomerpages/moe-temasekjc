@@ -33,7 +33,7 @@ school with valid reasons must contact the General Office at 64428066 by <strong
 confirm acceptance of their place.</p>
 </li>
 </ul>
-<h3><strong><u>What to Bring on Wednesday,  4 Feb 2026</u></strong></h3>
+<h3><strong><u>What to Bring on Wednesday, 4 Feb 2026</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Stationery and writing materials</p>
@@ -140,7 +140,7 @@ dates will not be entertained.</p>
 the test with your earpiece and writing stationery. There is no alternative
 timing for this written test.</p>
 <p>Please note that walk-ins are <strong><u>not allowed</u></strong>. Inaccurate
-formfilling or late submission would also invalidate your application.</p>
+form filling or late submission would also invalidate your application.</p>
 <p></p>
 <h4><strong>H2 Knowledge and Inquiry</strong></h4>
 <p>Please note there will be a KI sample lesson and aptitude test from <strong>2pm to 3:30pm</strong> at <strong>G301</strong> on <strong>Thursday, 5 Feb 2026</strong>.</p>
@@ -149,7 +149,7 @@ students who will be informed separately.</p>
 <p></p>
 <p></p>
 <h4><strong>H2 Computing</strong></h4>
-<p>Please note there will be a H2 Computing Aptitude Selection Test from <strong>3.00pm to 4.30pm on Friday, 6 Feb 2026.</strong>
+<p>Please note there will be a H2 Computing Aptitude Selection Test from <strong>3:00pm to 4:30pm on Friday, 6 Feb 2026.</strong>
 </p>
 <p><strong>This is a written test. No prior coding experience is required.</strong>
 </p>
@@ -158,7 +158,7 @@ students who will be informed separately.</p>
 <p>The venue is the Auditorium.</p>
 <p></p>
 <h4><strong>H2 Further Mathematics</strong></h4>
-<p>Please note there will be a H2 Further Mathematics Selection Test on <strong>Thursday, 5 Feb 2026</strong> from <strong>2.00pm to 3.30pm.</strong> The
+<p>Please note there will be a H2 Further Mathematics Selection Test on <strong>Thursday, 5 Feb 2026</strong> from <strong>2:00pm to 3:30pm.</strong> The
 venue is <strong>LT4</strong>. Students should bring their writing pen (black/blue).
 A scientific calculator is allowed but not necessary. Writing paper and
 O level formula list will be provided.</p>
