@@ -33,7 +33,7 @@ school with valid reasons must contact the General Office at 64428066 by <strong
 confirm acceptance of their place.</p>
 </li>
 </ul>
-<h3><strong><u>What to Bring on 4 Feb 2026</u></strong></h3>
+<h3><strong><u>What to Bring on Wednesday,  4 Feb 2026</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Stationery and writing materials</p>
@@ -49,8 +49,8 @@ confirm acceptance of their place.</p>
 </p>
 <h3><strong><u>How Can I Prepare for Orientation?</u></strong></h3>
 <p>Please visit our Orientation Padlet <a href="https://for.edu.sg/tjcohana2026" rel="noopener nofollow" target="_blank">https://for.edu.sg/tjcohana2026</a> regularly.</p>
-<p>All relevant information pertaining to the orientation will be hosted
-on the Padlet.</p>
+<p>All relevant administrative information and schedule pertaining to the
+orientation will be hosted on the Padlet.</p>
 <h3><strong><u>Purchase of School Uniforms</u></strong></h3>
 <p>Students will be allocated timings to purchase uniforms at the following
 times/dates. Cash and Paynow payment options are available.</p>
@@ -87,7 +87,7 @@ Policy. A sum of $140 should be prepared.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_30_145917.png">
 </div>
 <p></p>
-<p>The College House T shirt will also be available for purchase from 4<sup>th</sup> –
+<p>The College House T-shirt will also be available for purchase from 4<sup>th</sup> –
 6<sup>th</sup> Feb. Students will be informed of their Houses when they
 report on <strong>Wednesday, 4<sup>th</sup> Feb 2026.</strong>
 </p>
@@ -96,7 +96,7 @@ report on <strong>Wednesday, 4<sup>th</sup> Feb 2026.</strong>
 share with you more about the JC curriculum as well as the TJC experience
 for your child/ward.</p>
 <p><strong>Date: Friday, 6<sup>th</sup> February 2026 </strong>
-<br><strong>Time: 5.30pm – 7.00pm </strong>
+<br><strong>Time: 5:30pm – 7:00pm </strong>
 <br><strong>Venue: Auditorium, Temasek Junior College, 2 Tampines Avenue 9 S529564</strong>
 </p>
 <p>Limited parking is available on campus on a first-come-first-serve basis.</p>
@@ -128,10 +128,10 @@ for <strong><u>both the practical and written tests.</u></strong>
 each will be scheduled on <strong>Thursday, 5 February 2026 or Friday, 6 February 2026.</strong>
 </p>
 <p>If you have signed up accurately and by the stipulated deadline, you can
-check your specific practical audition timing outside <strong>J206 (MEP1)</strong> from
-1:00 pm on <strong>Wednesday, 4 February</strong>. J206 (MEP1) is situated
-at the second level of Block J near the Auditorium. Wait outside J206 (MEP1)
-at least 5 minutes before your scheduled practical audition date and time.</p>
+check your specific practical audition timing outside <strong>J206 (MEP1)</strong> from <strong>1:00 pm on</strong>  <strong>Wednesday, 4 February</strong>.
+J206 (MEP1) is situated at the second level of Block J near the Auditorium.
+Wait outside J206 (MEP1) at least 5 minutes before your scheduled practical
+audition date and time.</p>
 <p>Please note that requests for change in practical audition timings and
 dates will not be entertained.</p>
 <p>A 2-hour written test will take place on <strong>Thursday, 5 February at J206 (MEP1)</strong> from <strong>1400 to 1600 hrs.</strong>
