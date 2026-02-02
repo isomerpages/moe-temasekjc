@@ -1,11 +1,11 @@
 ---
-title: Appeal Application For JC1 (Intake 2025)
-permalink: /admissions/appeal-application-for-jc1-intake-2025/
+title: Appeal Application For JC1 (Intake 2026)
+permalink: /admissions/appeal-application-for-jc1-intake-2026/
 description: ""
 variant: tiptap
 ---
-<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2025) IS NOW OPEN</h1>
-<p>Appeal Application for admission to JC1 (Intake 2025) commences from <strong>Tuesday, 4 February 2025 9am to Friday, 7 February 2025 4pm, Singapore time.</strong>
+<h1>APPEAL APPLICATION FOR ADMISSION TO JC1 (INTAKE 2026) IS NOW OPEN</h1>
+<p>Appeal Application for admission to JC1 (Intake 2026) commences from <strong>Tuesday, 3 February 2026 9am to Monday, 9 February 2026 4pm, Singapore time.</strong>
 </p>
 <p>Late submissions <strong><u>will not be accepted</u></strong>. Please ensure
 that all applications are submitted within the stipulated period.</p>
@@ -61,6 +61,9 @@ Arts Stream is 8.</p>
 The application form should take approximately 20 minutes to complete.</p>
 </li>
 <li>
+<p>Please ensure your form is completely filled up with <strong>accurate information</strong>.</p>
+</li>
+<li>
 <p>After completing all the sections in the online application form, please
 click on the <strong>"Submit My Application Now</strong>" button to submit
 the online form.</p>
@@ -70,7 +73,7 @@ the online form.</p>
 <h4>Please upload the following supporting documents:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 GCE O-Level Exam Result Slip&nbsp;</p>
+<p>2025 GCE O-Level Exam Result Slip&nbsp;</p>
 </li>
 <li>
 <p>Verification Slip (JAE Registration)</p>
@@ -122,12 +125,13 @@ non-selection.</p>
 <h4>4) Outcome of Application</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Only successful applicants</strong> will be notified by <strong>Monday, 10 February 2025, 5pm.</strong>
+<p><strong>Only successful applicants</strong> will be notified by <strong>Monday, 9 February 2026, 5pm.</strong>
 </p>
 </li>
 </ul>
-<p>Students must accept the offer within the stipulated timeframe. If the
-offer is not accepted within the given timeframe, the offer will be rescinded.</p>
+<p>Students must accept the offer within the stated deadline on their appeal
+offer letter. If the offer is not accepted by stated deadline, the offer
+will lapse.</p>
 <h3>CONTACT US</h3>
 <p>If you have any general enquiries regarding the Appeal Application, please
 contact the TJC General Office at&nbsp;64428066&nbsp;during office hours
