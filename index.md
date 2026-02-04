@@ -19,13 +19,15 @@ sections:
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2026/
       variant: image
-  - infobar:
-      title: IP 1 Admissions Talk (For 2026 Intake)
-      subtitle: IP 1 Admissions Talk Video
-      id: infobar
-      description: Click on the link below to view
-      button: Click here
-      url: /ip-1-admissions-talk-video/
+  - infopic:
+      title: JC1 Orientation 2026
+      subtitle: "OHANA: JOURNEY TOGETHER"
+      id: infopic
+      description: 4TH TO 13TH FEBRUARY 2026
+      button: CLICK HERE FOR MORE INFO
+      url: https://www.temasekjc.moe.edu.sg/admissions/jc-orientation/
+      image: /images/Ohana_CDO_designs__1_.png
+      alt: Image alt text
   - infobar:
       title: DSA-JC Engagement Session (2026 Intake)
       id: infobar
@@ -44,13 +46,6 @@ sections:
       url: /admissions/jc-year-1-dsa-jc
       image: /images/jp-pic.jpg
       alt: Image alt text
-  - infopic:
-      title: HIGHLIGHTS
-      button: More Highlights
-      url: /admissions/permalink/ipadmissionstalk/
-      image: /images/2022 IP Admissions Talk Thumbnail.png
-      alt: Image alt text
-      description: IP ADMISSIONS TALK (FOR 2024 INTAKE)
   - infopic:
       title: "Virtual 360° Tour: Bedok Campus"
       subtitle: DOWN MEMORY LANE...
