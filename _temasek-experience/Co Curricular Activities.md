@@ -42,7 +42,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;" width="196">Chinese Drama<br>Choir<br>Drama Club<br>Guitar Ensemble<br>Indian Cultural Society<br>Malay Cultural Club<br>Modern Dance<br>String Ensemble<br>Symphonic Band</td>
-<td style="text-align: center;" width="198">Badminton<br>Basketball<br>Bowling<br>Floorball (Boys)<br>Football (Boys)<br>Netball<br>Outdoor Adventure Club<br>Shooting<br>Table Tennis<br>Taekwondo<br>Tennis<br>Volleyball</td>
+<td style="text-align: center;" width="198">Badminton<br>Basketball<br>Bowling<br>Floorball (Boys)<br>Football (Boys)<br>Netball<br>Outdoor Adventure Club<br>Shooting<br>Table Tennis<br>Taekwondo<br>Volleyball</td>
 <td style="text-align: center;" width="214">Debate<br>Infocomm Club<br>Leo Club<br>Students’ Council</td>
 </tr>
 </tbody>
