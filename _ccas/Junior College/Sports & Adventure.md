@@ -209,27 +209,9 @@ variant: markdown
 </table>
     </div>
 	</li> 
-		  <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">TENNIS</label>
-    <div>
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="/images/Temasek%20Experience/Sports%20&amp;%20Adventure/Tennis%20Thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mr Esther Wang</p><p><b>Email</b><br>wang_yingjie_esther@moe.edu.sg</p></td>
-  </tr>
-</tbody>
-</table>
-    </div>
-	</li> 
-		  <li>
+
+
+<li>
     <input type="checkbox" id="accordion13">
     <label for="accordion13">VOLLEYBALL</label>
     <div>
