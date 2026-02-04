@@ -50,7 +50,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Choir%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Tan Zhen Zhi</p><p><b>Email</b><br>tan_zhen_zhi_a@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +142,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/MCS.png" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Ms Elina Abdul Rashid</p><p><b>Email</b><br>elina_abdul_rashid@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mdm Haslinda</p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -164,7 +164,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/Modern%20Dance%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mdm Haslinda</p><p><b>Email</b><br>haslinda_ali@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Ms Chen Ying</p><p><b>Email</b><br>chen_ying@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Cultural%20&amp;%20Performing%20Arts/String%20Ensemble%20thumbnail.jpg" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mdm Lin Luyuan Jane</p><p><b>Email</b><br>lin_luyuan_jane@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Dr Gary Laycock</p><p><b>Email</b><br>laycock_eng_yeow_gary@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
