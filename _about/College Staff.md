@@ -555,7 +555,7 @@ variant: markdown
     <td>Ms<br></td>
     <td>Joanne Tay<br></td>
     <td>Teacher <br></td>
-    <td><a href="mailto:Joanne_Tay@moe.edu.sg">joanne_tay@moe.edu.sg</a></td>
+    <td><a href="mailto:tay_chiew_hsia_joanne@moe.edu.sg">tay_chiew_hsia_joanne@moe.edu.sg</a></td>
   </tr>
 
   <tr>
