@@ -21,15 +21,11 @@ variant: markdown
 <tbody>
 
 <tr>
-<td style="text-align: center;">Halal Rice </td>
-	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
+<td style="text-align: center;">Halal Rice and Noodles</td>
+	<td style="text-align: center;"><b>20 March 2026, 5pm <br>(Friday)</b></td>
 <td style="text-align: center;">With vegetarian options<br></td>
 </tr>
-<tr>
-<td style="text-align: center;">Halal Noodles </td>
-	<td style="text-align: center;"><b>31 October 2025, 5pm <br>(Friday)</b></td>
-<td style="text-align: center;">With vegetarian options<br></td>
-</tr>
+
 
 	
 	
@@ -73,13 +69,13 @@ variant: markdown
 
 * Possess catering experience or experience operating in a school environment.
 
-<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Friday, 31 October 2025, 5pm.</b></p>
+<p style="text-align: justify;"> 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office at 2 Tampines Avenue 9, Singapore 529564 by <b>Friday, 20 March 2026, 5pm.</b></p>
 
 * Contact No: 6442 8066
 
-* Email: sartha_kanisha@schools.gov.sg
+* Email: tan_puay_jee_peggy@schools.gov.sg
 
-* Contact Person: Ms Sartha Kanisha
+* Contact Person: Ms Peggy Tan
 
 <p style="text-align: justify;"><b><u>How to Get Here</u></b></p>
 
