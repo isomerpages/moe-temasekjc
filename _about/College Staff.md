@@ -1258,7 +1258,7 @@ variant: markdown
   </tr>
 
   
-	<tr>
+<tr>
     <td>Mdm </td>
     <td>Faridah </td>
     <td>Corporate Support Officer</td>
@@ -1422,12 +1422,7 @@ variant: markdown
     <td>STEM Instructor </td>
     <td><a href="mailto:peng_chai_tin@moe.edu.sg">peng_chai_tin@moe.edu.sg</a><br></td>
   </tr>    
-  <tr>
-    <td>Ms</td>
-    <td>Zarina</td>
-    <td>STEM Instructor </td>
-    <td><a href="mailto:zarina_mohamed_yusof@moe.edus.g">zarina_mohamed_yusof@moe.edus.g</a><br></td>
-  </tr>
+
 
 <tr>
     <td>Mr<br></td>
