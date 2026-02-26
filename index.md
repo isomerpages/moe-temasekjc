@@ -12,12 +12,12 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
+        - title: College Yearbook 2025
+          description: ""
+          url: https://drive.google.com/file/d/1dPtYw2Y5bOqhaxk_mxs1Cl1Xx8g3baSP/view?usp=sharing
         - title: JC1 Orientation (2026 Intake)
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/jc-orientation/
-        - title: College Yearbook 2025
-          description: ""
-          url: ""
       variant: image
   - infopic:
       title: JC1 Orientation 2026
