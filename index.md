@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_CNY.png
+      background: /images/TJC_generic_1.png
       key_highlights:
         - title: Heritage Website
           description: ""
