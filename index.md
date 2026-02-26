@@ -15,9 +15,9 @@ sections:
         - title: JC1 Orientation (2026 Intake)
           description: ""
           url: https://www.temasekjc.moe.edu.sg/admissions/jc-orientation/
-        - title: JC1 APPEALS 2026
+        - title: College Yearbook 2025
           description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/appeal-application-for-jc1-intake-2026/
+          url: ""
       variant: image
   - infopic:
       title: JC1 Orientation 2026
