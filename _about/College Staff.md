@@ -1321,12 +1321,7 @@ variant: markdown
     <td><a href="">NIL</a><br></td>
   </tr>
 
- <tr>
-    <td>Mdm<br></td>
-    <td>Fatmah <br></td>
-    <td>Operations Support Officer<br>(IP Science Lab)</td>
-    <td><a href="mailto:fatmah_salim@moe.edu.sg">fatmah_salim@moe.edu.sg</a><br></td>
-  </tr>
+
   <tr>
     <td>Mdm<br></td>
     <td>Hamedah <br></td>
