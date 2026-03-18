@@ -183,13 +183,7 @@ variant: markdown
     <td><a href="mailto:hasim_hasan@moe.edu.sg">hasim_hasan@moe.edu.sg</a><br></td>
   </tr>
 
-  <tr>
-    <td>Ms<br></td>
-    <td>Nicolette Teo<br></td>
-    <td>Teacher<br></td>
-    <td>History<br></td>
-    <td><a href="mailto:teo_yen_ling_nicolette@moe.edu.sg">teo_yen_ling_nicolette@moe.edu.sg</a></td>
-  </tr>
+
 	 
 
 
@@ -1171,7 +1165,14 @@ variant: markdown
     <td>Physics<br></td>
     <td><a href="mailto:neo_kian_siah@moe.edu.sg">neo_kian_siah@moe.edu.sg</a><br></td>
   </tr>
-
+  
+<tr>
+    <td>Mrs<br></td>
+    <td>Cyrene Cheong<br></td>
+    <td>Teacher<br></td>
+    <td>Physics<br></td>
+    <td><a href="mailto:tan_hwee_lynn_cyrene_a@moe.edu.sg">tan_hwee_lynn_cyrene_a@moe.edu.sg</a><br></td>
+  </tr>
 
 	
 
@@ -1271,7 +1272,13 @@ variant: markdown
     <td>Corporate Support Officer</td>
     <td><a href="mailto:zhong_anwei_a@moe.edu.sg">zhong_anwei_a@moe.edu.sg</a> </td>
   </tr>	
-	
+
+<tr>
+    <td>Mdm </td>
+    <td>Aisha</td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:aisha_bee_mohamed_ali@moe.edu.sg">aisha_bee_mohamed_ali@moe.edu.sg</a> </td>
+  </tr>		
 	
 	
 	
