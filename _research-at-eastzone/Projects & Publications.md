@@ -39,11 +39,8 @@ For Monographs V and VI (2017 and 2019 publications), you need to login
 into OPAL to view them online. Please contact the Centre Administrator
 (Email: moe_researchez@moe.edu.sg) if you are interested in borrowing these
 books.</p>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&amp;gid=10464&amp;func=view" rel="noopener noreferrer nofollow" target="_blank">EZ Research Monograph Vol VI, 2019</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Research@EastZone/Projects%20&amp;%20Publications/EZ%20Research%20Monograph%20Vol%20V%202017%20Abstract.pdf" rel="noopener noreferrer nofollow" target="_blank">EZ Research Monograph Vol V, 2017</a>
 </p>
