@@ -12,28 +12,22 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
+        - title: DSA (Secondary) for 2027 IP1 Intake
+          description: ""
+          url: meet.google.com/jop-nedh-gci
         - title: College Yearbook 2025
           description: ""
           url: https://drive.google.com/file/d/1dPtYw2Y5bOqhaxk_mxs1Cl1Xx8g3baSP/view?usp=sharing
-        - title: JC1 Orientation (2026 Intake)
-          description: ""
-          url: https://www.temasekjc.moe.edu.sg/admissions/jc-orientation/
       variant: image
   - infopic:
-      title: JC1 Orientation 2026
-      subtitle: "OHANA: JOURNEY TOGETHER"
+      title: Direct School Admission (Secondary) for 2027 IP1 Intake
+      subtitle: JOIN US VIA GOOGLE MEET!
       id: infopic
-      description: 4TH TO 13TH FEBRUARY 2026
-      button: CLICK HERE FOR MORE INFO
-      url: https://www.temasekjc.moe.edu.sg/admissions/jc-orientation/
-      image: /images/Ohana_CDO_designs__1_.png
+      description: ENGAGEMENT SESSION ON 30 APRIL, 4 PM VIA
+      button: CLICK HERE TO JOIN
+      url: meet.google.com/jop-nedh-gci
+      image: /images/Secondary.png
       alt: Image alt text
-  - infobar:
-      title: DSA-JC Engagement Session (2026 Intake)
-      id: infobar
-      button: CLICK HERE
-      url: /jc-dsa-engagement-videos/
-      subtitle: DSA JC Engagement Videos
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
