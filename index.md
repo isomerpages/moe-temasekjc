@@ -14,7 +14,7 @@ sections:
           url: https://www.memoriesoftj.com/
         - title: DSA (Secondary) for 2027 IP1 Intake
           description: ""
-          url: ""
+          url: https://meet.google.com/jop-nedh-gci
         - title: College Yearbook 2025
           description: ""
           url: https://drive.google.com/file/d/1dPtYw2Y5bOqhaxk_mxs1Cl1Xx8g3baSP/view?usp=sharing
