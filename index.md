@@ -27,7 +27,7 @@ sections:
         is NOT REQUIRED. Kindly click the link below on the day itself to join
         the Google Meet."
       button: CLICK HERE TO JOIN
-      url: meet.google.com/jop-nedh-gci
+      url: https://meet.google.com/jop-nedh-gci
       image: /images/Secondary.png
       alt: Image alt text
   - infopic:
