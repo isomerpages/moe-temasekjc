@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - IP 1 Admissions Talk Video.md
-      - DSA JC Engagement Videos.md
       - JC1 Orientation 2026.md
       - Appeal Application For JC1 (Intake 2026).md
       - IP Year 1 Registration (2026 Intake).md
@@ -11,5 +10,6 @@ collections:
       - IP Year 1 (DSA Sec).md
       - IP Year 3.md
       - JC Year 1 (DSA JC).md
+      - DSA JC Engagement Videos.md
       - Returning Singaporeans & International Students.md
       - Scholarships & Awards.md
