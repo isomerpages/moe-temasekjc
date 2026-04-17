@@ -5,54 +5,35 @@ description: ""
 variant: markdown
 ---
 <h1>IP YEAR 1 (DSA-SEC)</h1>
-<h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2026) IS NOW OPEN!</strong></h3>
-<h4><center>Application for DSA-Sec Exercise 2025 commences from:</center></h4>
+<h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO IP YEAR 1 (INTAKE 2027) IS NOW OPEN!</strong></h3>
+<h4><center>Application for DSA-Sec Exercise 2026 commences from:</center></h4>
 <p></p>
-<p></p><center><strong>7 May 2025 (11am, Singapore time) to <br>3 June 2025 (3pm, Singapore time)</strong></center>
+<p></p><center><strong>6 May 2026 (11am, Singapore time) to <br>2 June 2026 (4:30pm, Singapore time)</strong></center>
 <p></p>
 <p></p>
 <p>
-<br><strong>For Admission to TJC Integrated Programme (IP) Year 1 in 2026</strong>
+<br><strong>For Admission to TJC Integrated Programme (IP) Year 1 in 2027</strong>
 </p>
-<p>If you are a Primary 6 student who is talented either academically, musically
-or in sports, or who possesses strong leadership qualities, TJC’s Integrated
-Programme is the place for you! TJC is anchored in a strong tradition of
-academic excellence and service to the community and country. Our distinctive
-Integrated Programme is designed to nurture the talents of every student,
-with student-centric programmes that will enable you to imagine possibilities,
-aim for higher goals, and reach your fullest potential.</p>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the <em>potential</em> of the applicants.</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school for the duration of the 6-year
-Integrated Programme and participate in the activities related to the talent
-they are selected for from year 1-4.</p>
+<p>If you are a Primary 6 student who is talented either academically, musically or in sports, or who possesses strong leadership qualities, TJC’s Integrated Programme is the place for you! TJC is anchored in a strong tradition of academic excellence and service to the community and country. Our distinctive Integrated Programme is designed to nurture the talents of every student, with student-centric programmes that will enable you to imagine possibilities, aim for higher goals, and reach your fullest potential.</p>
+
+<p>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the <em>potential</em> of the applicants.</p>
+<p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+
+<p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme and participate in the activities related to the talent they are selected for from year 1-4. </p>
 
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">TALENT AREAS </label>
+    <label for="accordion1">TALENT AREAS FOR DSA-SEC EXERCISE 2026</label>
     <div>
-			<p style="text-align: justify;">All talent areas offered by TJC, together with selection criteria and
-selection process, are detailed below.</p>
+			<p style="text-align: justify;">All talent areas offered by TJC for 2026 (for the 2027 IP1 batch), together with selection criteria and selection process, are detailed below.</p>
 		
 <p style="text-align: justify;"></p><p><strong>Academic</strong></p>
 
 <p></p>
-<p>We welcome students who show a strong passion for their chosen academic
-area and who want to nurture their talent to their highest potential in
-TJC.</p>
-<p>Students who enrol through any of our 4 academic talent areas will join
-our Talent Development Programme and our pinnacle academic enrichment programme,
-Temasek Academy. This programme develops students’ intellectual abilities
-beyond the typical curriculum and exposes students to a wide range of opportunities
-that allows their talents to flourish.</p>
+<p>We welcome students who show a strong passion for their chosen academic area and who want to nurture their talent to their highest potential in TJC. </p>
+<p>Students who enrol through any of our 4 academic talent areas will join our Talent Development Programme and our pinnacle academic enrichment programme, Temasek Academy. This programme develops students’ intellectual abilities beyond the standard curriculum and exposes students to a wide range of opportunities that allows their talents to flourish.  </p>
 <p></p>
 		
 	
@@ -73,7 +54,7 @@ that allows their talents to flourish.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>● Chinese Language
+<p>● Chinese Language*
 <br>● English Language
 <br>● Mathematics
 <br>● Science</p>
@@ -88,22 +69,27 @@ that allows their talents to flourish.</p>
 <td rowspan="1" colspan="1">
 <p>• All shortlisted applicants must sit for an <strong>individual written selection test.</strong>
 <br>
-<br>• This will focus on knowledge and skills in the talent area, some part
-of which might extend beyond the regular school curriculum.
+<br>• This will focus on knowledge and skills in the talent area, some parts of which might extend beyond the regular school curriculum.
 <br>
 <br>• Applicants who are further shortlisted will attend an <strong>interview.</strong> 
 <br>
-</p>
-</td>
+</p></td>
 </tr>
 </tbody>
 </table>
+			<p>*Students who enrol through <b>DSA-Chinese Language</b> will need to:
+<br>1. Take up Chinese Literature as one of their examinable subjects at IP3 &amp; IP4
+<br>2. Join Chinese Language Elective Programme at Secondary Level (CLEP-Sec) at IP3 &amp; IP4.
+
+For more details on CLEP-Sec, please refer to the following website:
+https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec 
+</p>	
+<p></p>
+
 <p><strong>Music Elective Programme</strong>
 </p>
-<p>We invite all skilled and passionate musicians to be a part of our strong
-musical tradition through our established Music Elective Programme (MEP).</p>
-<p>Students who enrol through DSA-Music will need to fulfil the following
-two conditions:
+<p>We invite all skilled and passionate musicians to be a part of our strong musical tradition through our established Music Elective Programme (MEP). </p>
+<p>Students who enrol through DSA-Music will need to:
 <br>1. join the MEP and take up Music <u>as one of their examinable</u> subjects
 <br>2. join one of the Music-related Performing Arts CCAs in TJC.</p>
 <p>IP MEP is a <strong>four-year commitment and is an examinable subject.</strong> The
@@ -129,17 +115,12 @@ instrument in the programme.</p>
 <p>Music Elective Programme (MEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Selection is based on students’ knowledge of musical concepts and skills
-covered in the primary school Music syllabus.
+<p>● Selection is based on students’ knowledge of musical concepts and skills covered in the primary school Music syllabus.
 <br>
-<br>● Students need to be competent in performance skills (for example, display
-basic fluency and sound fundamental techniques) that can be developed through
-music CCAs or through other musical experiences.</p>
+<br>● Students need to be competent in performance skills (for example, display basic fluency and sound fundamental techniques) that can be developed through music CCAs or through other musical experiences </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In your online application via MOE’s DSA-Sec portal, applicants are to
-state your music background or relevant skill sets (if any) as accompanying
-information.
+<p>In your online application via MOE’s DSA-Sec portal, applicants are to state your music background or relevant skill sets (if any) as accompanying information. 
 <br>
 <br>All shortlisted applicants for MEP must go through a <strong>Selection Exercise</strong>,
 which comprises:
@@ -159,10 +140,9 @@ audition to:
 <br>
 <br>Ms Abigail Sim (abigail_sim_shin_yi@moe.edu.sg)
 <br><em>and</em>
-<br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg)
+<br>Mr Marcus Tay (tay_hiong_kiat_marcus@moe.edu.sg)
 <br>
-<br>Applicants may submit supporting documents of relevant musical qualifications,
-engagements and/or achievements (non-school-based), if any.
+<br>Applicants may submit supporting documents of relevant musical qualifications, engagements and/or achievements (non-school-based), if any. 
 <br>
 <br>Applicants who are further shortlisted will attend an <strong>interview.</strong>
 </p>
@@ -172,11 +152,8 @@ engagements and/or achievements (non-school-based), if any.
 </table>
 <p><strong>Performing Arts - Concert Band</strong>
 </p>
-<p>We invite all skilled and passionate musicians to be a part of our strong
-musical and performance tradition in TJC.</p>
-<p>Students who enrol through DSA-Concert Band <strong>will join the <u>Symphonic Band CCA</u></strong> in
-TJC. The instrument/s used during the audition will be their instrument/s
-allocated in the Symphonic Band.</p>
+<p>We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.</p>
+<p>Students who enrol through DSA-Concert Band <strong>will join the <u>Symphonic Band CCA</u></strong> in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. .</p>
 <p></p>
 <table style="minWidth: 75px">
 </table><table border="1">
@@ -196,12 +173,9 @@ allocated in the Symphonic Band.</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Ability to play any of the following symphonic band instruments: flute,
-oboe, clarinet, saxophone, bassoon, trumpet, French horn, trombone, euphonium,
-tuba or any symphonic band percussion instruments.
+<p>● Ability to play any of the following symphonic band instruments: flute, oboe, clarinet, saxophone, bassoon, trumpet, French horn, trombone, euphonium, tuba or any symphonic band percussion instruments.
 <br>
-<br>● Symphonic band percussion instruments include the snare drum, timpani
-and mallet percussion instruments like the xylophone, glockenspiel etc. <u>Drum set/kit will not be considered.</u> 
+<br>● Symphonic band percussion instruments include the snare drum, timpani and mallet percussion instruments like the xylophone, glockenspiel etc.  <u>Drum set/kit will not be considered.</u> 
 <br>
 <br>● Very good CCA records
 <br>
@@ -214,8 +188,7 @@ which comprises:
 <br>● An audition, which also consists of sight reading and a short interview.
 <br>
 <br>For the audition, applicants are to:
-<br>● Prepare two contrasting pieces on a symphonic band instrument, or instruments;
-of a total of not more than 5 minutes.
+<br>● Prepare two contrasting pieces on a symphonic band instrument, or instruments; of a total of not more than 5 minutes.
 <br>
 <br>Applicants are to submit via email:
 <br>● music scores of their audition repertoire at least <strong>2 working days <u>before</u></strong> the
@@ -225,8 +198,7 @@ audition to:
 <br><em>and</em>
 <br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg)
 <br>
-<br>Applicants may include relevant non-school-based achievements and/or engagements
-in their online application in MOE’s DSA-Sec portal.
+<br>Applicants may include relevant non-school-based achievements and/or engagements in their online application in MOE’s DSA-Sec portal.
 <br>
 <br>Applicants who are further shortlisted will attend an <strong>interview.</strong>
 </p>
@@ -236,12 +208,8 @@ in their online application in MOE’s DSA-Sec portal.
 </table>
 <p><strong>Sports</strong>
 </p>
-<p>We welcome students who have shown strong sporting talent and ability,
-and who are excited to achieve even greater heights with Team Temasek.</p>
-<p>Students who <strong>enrol through DSA-Sports <u>will join the CCA of their respective sport.</u></strong> They
-will undergo rigorous training to develop them to their fullest potential,
-including opportunities to represent the school at sporting competitions
-at the Zonal / National level and international exposure where appropriate.</p>
+<p>We welcome students who have shown strong sporting talent and ability, and who are excited to achieve even greater heights with Team Temasek.</p>
+<p>Students who <strong>enrol through DSA-Sports <u>will join the CCA of their respective sport.</u></strong> They will undergo rigorous training to develop them to their fullest potential, including opportunities to represent the school at sporting competitions at the Zonal / National level and international exposure where appropriate. </p>
 <table style="minWidth: 75px">
 </table><table border="1">
 <tbody><tr>
@@ -297,10 +265,9 @@ at the Zonal / National level and international exposure where appropriate.</p>
 <br>
 <br>The trial will consist of:
 <br>1. Demonstration of relevant poomsae patterns and kicks, followed by a
-short interview
+short interview.
 <br>
-<br>Applicants may include relevant non-school-based achievements and/or engagements
-in their online application in MOE’s DSA-Sec portal.
+<br>Applicants may include relevant non-school-based achievements and/or engagements in their online application in MOE’s DSA-Sec portal.
 <br>
 <br>Applicants who are further shortlisted will attend an <strong>interview.</strong>
 </p>
@@ -321,19 +288,9 @@ in their online application in MOE’s DSA-Sec portal.
 </table>
 <p><strong>Leadership</strong>
 </p>
-<p>TJC nurtures leaders of the future who are passionate and purposeful in
-what they do, in line with our College motto “For College, For Nation”.
-If you have strong leadership potential, let TJC shape you into a leader
-who will make a positive difference to the College, your community and
-our country.</p>
-<p>Students who enrol through DSA-Sec (Leadership) will have the opportunity
-to partake in various leadership platforms and will be assigned development
-opportunities to hone their public speaking and communication skills, as
-well as to grow their leadership competencies. DSA-Leadership students
-will also be mentored by their seniors and teachers throughout their journey
-in TJC. Students will also be expected to take up leadership positions
-in their class or CCA levels, and to run for the Students' Council in IP
-Year 2.</p>
+<p>TJC nurtures leaders of the future who are passionate and purposeful in what they do, in line with our College motto “For College, For Nation”. If you have strong leadership potential, let TJC shape you into a leader who will make a positive difference to the College, your community and our country. </p>
+
+<p>Students who enrol through DSA-Sec (Leadership) will have the opportunity to partake in various leadership platforms and will be assigned development opportunities to hone their public speaking and communication skills, as well as to grow their leadership competencies. DSA-Leadership students will also be mentored by their seniors and teachers throughout their journey in TJC. Students will also be expected to take up leadership positions in their class or CCA levels, and to run for the Students' Council in IP Year 2.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -358,11 +315,7 @@ Year 2.</p>
 <p>Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Applicants should be exemplary role models who have demonstrated excellent
-leadership skills and potential to contribute to the College through their
-experiences in key leadership positions in primary school (Executive Committee
-member in the Prefectorial Board/Students’ Council or equivalent, CCA leader
-etc) <strong>OR</strong> have led projects that have impacted the community.
+<p>● Applicants should be exemplary role models who have demonstrated excellent leadership skills and potential to contribute to the College through their experiences in key leadership positions in primary school (Executive Committee member in the Prefectorial Board/Students’ Council or equivalent, CCA leader etc) <strong>OR</strong> have led projects that have impacted the community. 
 <br>
 <br>
 </p>
@@ -370,8 +323,7 @@ etc) <strong>OR</strong> have led projects that have impacted the community.
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will attend an <strong>interview.</strong>
 <br>
-<br>● Applicants may include non-school-based achievements in their online
-application in MOE’s DSA-Sec portal.</p>
+<br>● Applicants may include non-school-based achievements in their online application in MOE’s DSA-Sec portal.</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +351,7 @@ application in MOE’s DSA-Sec portal.</p>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">APPLICATION PROCESS </label>
 <div>
-<p style="text-align: justify;"><strong>The Application Period is from 11.00 a.m. on 7 May 2025 to 3.00 p.m. on 3 June 2025.</strong></p>	
+<p style="text-align: justify;"><strong>The Application Period is from 11.00 a.m. on 6 May 2026 to 4.30 p.m. on 2 June 2026.</strong></p>	
 For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
 <br>
 <br>Please note the following:<p></p>
@@ -409,27 +361,20 @@ For more details, please refer to: <strong><a href="http://www.moe.gov.sg/dsa-se
 </p>
 </li>
 <li>
-<p>Each choice consists of a secondary school and a talent area offered by
-that secondary school.</p>
+<p>Each choice consists of a secondary school and a talent area offered by that secondary school.</p>
 </li>
 <li>
-<p>Of the three choices, an applicant may use a <u>maximum of two choices</u> to
-apply to the same school, for two different talent areas of that school.</p>
+<p>Of the three choices, an applicant may use a <u>maximum of two choices</u> to apply to the same school, for two different talent areas of that school.</p>
 </li>
 </ul>
 <p><strong>Candidates Not Studying in Mainstream Schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Candidates (<em>Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR))</em> who
-are not studying in MOE mainstream schools, are required to apply for a
-Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec
-Portal. Please refer to <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+<p>Candidates <em>(Overseas Applicants and International Students including Singaporean Citizens (SC) and Singapore Permanent Residents (PR)) </em> who are not studying in MOE mainstream schools, are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please refer to <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 </li>
 <li>
-<p>International students (IS) who are not studying in MOE mainstream schools
-are also required to take the AEIS (Admissions Exercise for International
-Students) test before applying for DSA. Refer to <a href="https://www.moe.gov.sg/international-students/aeis/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis/</a> apply
+<p>International students (IS) who are not studying in MOE mainstream schools are also required to take the AEIS (Admissions Exercise for International Students) test before applying for DSA. Refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis/apply </a>
 for details.</p>
 </li>
 </ul>
@@ -437,12 +382,10 @@ for details.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants will receive notification from Temasek Junior College from
-4 July to the end of July 2025, if they are shortlisted for the DSA selection
-process.</p>
+<p>Applicants will receive notification from Temasek Junior College from 3 July to the end of July 2026, if they are shortlisted for the DSA selection process.</p>
 </li>
 <li>
-<p>The selection tests/auditions/trials will be held from <strong>9 July to 7 Aug 2025.</strong>
+<p>The selection tests/auditions/trials will be held from <strong>8 July to 7 Aug 2026.</strong>
 </p>
 </li>
 <li>
@@ -455,20 +398,18 @@ for a selection test/audition/trial.</p>
 </li>
 <li>
 <p><u>Applicants who are </u><em><u>further shortlisted</u></em> after these
-selection tests/auditions/trials will be invited to attend an <strong>interview in July to August 2025.</strong>
+selection tests/auditions/trials will be invited to attend an <strong>interview in July to August 2026.</strong>
 </p>
 </li>
 <li>
-<p>You will be notified directly through the contact details in your application
-form. Please ensure that your contact details are accurate.</p>
+<p>You will be notified directly through the contact details in your application form. Please ensure that your contact details are accurate. </p>
 </li>
 </ul>
 <p><strong>Outcome of Application</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All applicants will be notified of the outcome of their application via
-email <strong>between 25 August and 4 September 2025.</strong>
+<p>All applicants will receive their application outcome via email <strong>between 17 and 28 August 2026.</strong>
 </p>
 </li>
 </ul>
@@ -496,26 +437,21 @@ email <strong>between 25 August and 4 September 2025.</strong>
 	<p style="text-align: justify;"><b>Points to note: </b></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The General Ability Test (GAT) is not used as part of our selection process
-for the Direct School Admission Exercise. Applicants do not need to register
-for the GAT.</p>
+<p>The General Ability Test (GAT) is not used as part of our selection process for the Direct School Admission Exercise. Applicants do not need to register for the GAT.</p>
 </li>
 <li>
-<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to participate
-in the annual Secondary 1 Posting Exercise to opt for secondary schools.</p>
+<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools. </p>
 </li>
 <li>
-<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to transfer
-to another school after the release of the PSLE results. Students who are
-successfully admitted to the school via DSA <strong>are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme</strong>,
-and <strong>participate in the activities related to the talent they are selected for from year 1-4.</strong>
+<p>Successful DSA-Sec students are <strong><u>NOT</u></strong> allowed to transfer to another school after the release of the PSLE results. Students who are successfully admitted to the school via DSA <strong>are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme</strong>
+and <strong>participate in the activities related to the talent they are selected for from year 1-4. </strong>
 </p>
 </li>
 <li>
 <p>The College</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>reserves the right not to reveal the results or reasons for non-selection.</p>
+<p>reserves the right not to reveal the results or reasons for non-selection. </p>
 </li>
 <li>
 <p>will not provide the application outcome over the telephone.</p>
@@ -530,11 +466,10 @@ and <strong>participate in the activities related to the talent they are selecte
 on the website if you have further queries.</p>
 </li>
 <li>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-</li>
+<p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+</li><li>
+<p>Do note that Temasek Junior College is <b>currently located at a temporary site, 2 Tampines Avenue 9, Singapore 529564,</b> due to upgrading. It will move back to its <b>permanent location at 22 Bedok South Road, Singapore 469278, in December 2027.</b></p></li>	
+
 </ul>			
 			
 			
@@ -565,14 +500,15 @@ contact:</p>
 </p>
 
 <p>• MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
-Ms Serene Tan <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
+Mr Marcus Tay <a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hiong_kiat_marcus@moe.edu.sg</a>
 </p>
 
 <p>• Concert Band: Mr Daniel Yee <a href="mailto:daniel_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_yee@moe.edu.sg</a> &amp; Ms Tan
 Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jeng_suan@moe.edu.sg</a>
 </p>
 
-<p>• Badminton: Mrs Evelyn Lim <a href="mailto:ng_ee_lin_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lin_evelyn@moe.edu.sg</a>
+<p>• Badminton: Mrs Evelyn Lim <a href="mailto:ng_ee_lin_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lin_evelyn@moe.edu.sg</a> &amp; Mr Adriel Thin
+<a href="mailto:thin_jie_hao_adriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thin_jie_hao_adriel@moe.edu.sg</a>
 </p>
 
 <p>• Basketball: Mr Danny Wong <a href="mailto:wong_kok_wye_danny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_wye_danny@moe.edu.sg</a>
@@ -590,3 +526,76 @@ Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nof
 <p>For any enquiries on the <strong>DSA Application,</strong> please contact
 the TJC General Office at 6442 8066 during office hours or email: <strong><a href="mailto:registrar@tjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">registrar@tjc.edu.sg</a></strong>
 </p></div></li></ul>
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">REVIEW OF TALENT AREAS FOR 2027 DSA EXERCISE (For 2028 IP1 BATCH)</label>
+    <div>
+			<p style="text-align: justify;">On a yearly basis, TJC reviews our DSA areas based on our focus areas and other considerations including strategic factors to better focus on diverse talents that may not be captured through academic assessments. </p>
+
+<p>As part of the 2026 review, TJC will be doing the following for the 2027 DSA exercise (i.e. for the 2028 IP1 batch):
+<br>1.	<b>removing the DSA-English, DSA-Mathematics, DSA-Science talent areas from the 2027 DSA exercise</b> (i.e., for the 2028 IP1 batch)
+<br>2.	keeping DSA-Chinese Language and DSA-Music Elective Programme (MEP) as TJC is one of the 9 Chinese Language Elective Programme at Secondary Level (CLEP-Sec) schools and one of the 10 MEP-Sec schools so we can continue to nurture students with aptitude and keen interest in Chinese Language and develop musically inclined students. 
+<br>3.	No change to the current suite of other Talent Areas for DSA application as listed on school website.
+<br>4.	The respective lists of DSA talent areas for 2026 and for 2027 (projected) are as follows:
+
+
+	
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody></tbody>
+</table>
+
+<table cellspacing="0" cellpadding="5" border="1">
+<tbody>
+<tr>
+<th bgcolor="Yellow">
+<p>2026 DSA (for 2027 IP1 students)</p>
+</th>
+<th bgcolor="Yellow">
+<p>2027 DSA (for 2028 IP1 students)</p>
+</th>
+</tr>
+
+<tr>
+<td>
+1. Badminton<br>
+2. Basketball<br>
+3. Bowling<br>
+4. Concert Band<br>
+5. Taekwondo<br>
+6. Leadership<br>
+7. Music Elective Programme (MEP)<br>
+8. Chinese Language<br>
+9. English Language<br>
+10. Mathematics<br>
+11. Science
+</td>
+
+<td>
+1. Badminton<br>
+2. Basketball<br>
+3. Bowling<br>
+4. Concert Band<br>
+5. Taekwondo<br>
+6. Leadership<br>
+7. Music Elective Programme (MEP)<br>
+8. Chinese Language<br><br>
+</td>
+</tr>
+
+<tr>
+<td><p>&nbsp;</p></td>
+<td><p>&nbsp;</p></td>
+</tr>
+
+</tbody>
+</table>
+	
+</p></div></li>
+</ul>
