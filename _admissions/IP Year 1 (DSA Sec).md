@@ -542,29 +542,20 @@ the TJC General Office at 6442 8066 during office hours or email: <strong><a hre
 
 
 	
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody></tbody>
-</table>
-
-<table cellspacing="0" cellpadding="5" border="1">
+<table width="60%" cellspacing="0" cellpadding="6" border="1">
 <tbody>
+
 <tr>
 <th bgcolor="Yellow">
-<p>2026 DSA (for 2027 IP1 students)</p>
+2026 DSA (for 2027 IP1 students)
 </th>
 <th bgcolor="Yellow">
-<p>2027 DSA (for 2028 IP1 students)</p>
+2027 DSA (for 2028 IP1 students)
 </th>
 </tr>
 
 <tr>
-<td>
-<p>
+<td valign="top">
 1. Badminton<br>
 2. Basketball<br>
 3. Bowling<br>
@@ -576,11 +567,9 @@ the TJC General Office at 6442 8066 during office hours or email: <strong><a hre
 9. English Language<br>
 10. Mathematics<br>
 11. Science
-</p>
 </td>
 
-<td>
-<p>
+<td valign="top">
 1. Badminton<br>
 2. Basketball<br>
 3. Bowling<br>
@@ -589,13 +578,12 @@ the TJC General Office at 6442 8066 during office hours or email: <strong><a hre
 6. Leadership<br>
 7. Music Elective Programme (MEP)<br>
 8. Chinese Language<br><br>
-</p>
 </td>
 </tr>
 
 <tr>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 
 </tbody>
