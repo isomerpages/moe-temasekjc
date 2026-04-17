@@ -540,64 +540,66 @@ the TJC General Office at 6442 8066 during office hours or email: <strong><a hre
 <br>3.	No change to the current suite of other Talent Areas for DSA application as listed on school website.
 <br>4.	The respective lists of DSA talent areas for 2026 and for 2027 (projected) are as follows:
 
+
+	
 <table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
 <col>
 </colgroup>
-<tbody></tbody></table><table border="1">
-<tbody><tr>
+<tbody></tbody>
+</table>
+
+<table cellspacing="0" cellpadding="5" border="1">
+<tbody>
+<tr>
 <th bgcolor="Yellow">
 <p>2026 DSA (for 2027 IP1 students)</p>
 </th>
 <th bgcolor="Yellow">
 <p>2027 DSA (for 2028 IP1 students)</p>
-</th>	
-
+</th>
 </tr>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p>1.	Badminton
-<br>2.	Basketball 
-<br>3.	Bowling
-<br>4.	Concert Band
-<br>5.	Taekwondo
-<br>6.	Leadership
-<br>7.	Music Elective Programme (MEP)
-<br>8.	Chinese Language
-<br>9.	English Language
-<br>10.	Mathematics
-<br>11.	Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.	Badminton
-<br>2.	Basketball 
-<br>3.	Bowling
-<br>4.	Concert Band
-<br>5.	Taekwondo
-<br>6.	Leadership
-<br>7.	Music Elective Programme (MEP)
-<br>8.	Chinese Language 
-<br>
-<br>
+<td>
+<p>
+1. Badminton<br>
+2. Basketball<br>
+3. Bowling<br>
+4. Concert Band<br>
+5. Taekwondo<br>
+6. Leadership<br>
+7. Music Elective Programme (MEP)<br>
+8. Chinese Language<br>
+9. English Language<br>
+10. Mathematics<br>
+11. Science
 </p>
 </td>
 
-
+<td>
+<p>
+1. Badminton<br>
+2. Basketball<br>
+3. Bowling<br>
+4. Concert Band<br>
+5. Taekwondo<br>
+6. Leadership<br>
+7. Music Elective Programme (MEP)<br>
+8. Chinese Language<br><br>
+</p>
+</td>
 </tr>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-
-
+<td><p>&nbsp;</p></td>
+<td><p>&nbsp;</p></td>
 </tr>
+
 </tbody>
-</table>	
+</table>
 	
 </p></div></li>
 </ul>
