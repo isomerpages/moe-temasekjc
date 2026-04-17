@@ -115,9 +115,9 @@ areas:</p>
 <td rowspan="1" colspan="1">
 <p>▪ Achievements related to the relevant performing arts / sports</p>
 <p>▪ Academic performance (eg. WA &amp; EOY results) from Sec 3 to 4 / 5</p>
-<p>▪ Shortlisted applicants will be notified via e-mail / telephone call
-to attend an in-person selection trial and interview which will be conducted
-from <strong>19 May to 25 July 2025</strong>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person selection trial and interview which will be
+conducted from <strong>11 May to 13 July 2026</strong>
 </p>
 <p>▪ Successful applicants through DSA (Performing Arts / Sports) are expected
 to join and commit to the relevant Performing Arts or Sports CCA respectively
