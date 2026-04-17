@@ -4,8 +4,8 @@ permalink: /admissions/jc-year-1-dsa-jc/
 description: ""
 variant: tiptap
 ---
-<h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2026)</strong></h3>
-<p>The application for the DSA-JC Exercise (2025) will commence from <strong>7 May 2025 to 30 Jun 2025 (5:00 pm, Singapore time).</strong>
+<h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2027)</strong></h3>
+<p>The application for the DSA-JC Exercise (2026) will commence from <strong>6 May 2026 to 28 Jun 2026 (5:00 pm, Singapore time).</strong>
 </p>
 <p>If you are sitting for the GCE 'O' Level examinations at the end of this
 year and possess talents in the humanities, music, performing arts, sports,
@@ -13,14 +13,14 @@ or have strong leadership qualities - TJC is the place for you to consider
 for your Junior College years! In TJC, we help every TJCian develop holistically
 and fulfil their potential through our robust curriculum and student development
 programmes.</p>
-<p>Please click <a href="https://dsa.tjc.edu.sg" rel="noopener nofollow" target="_blank">HERE</a> to
+<p>Please click <a href="https://go.gov.sg/tjcdsajc2026" rel="noopener nofollow" target="_blank">HERE</a> to
 apply.</p>
 <p></p>
 <h4><strong>About DSA-JC</strong></h4>
 <p>The Direct School Admission (DSA) scheme provides students with the opportunity
 to seek admission to a Junior College (JC), based on a diverse range of
 specific academic and non-academic achievements and talents that they can
-demonstrate beyond the GCE O-Level Examination. S4E / S5NA O-Level students
+demonstrate beyond the GCE O-Level examination. S4E / S5NA O-Level students
 seeking admission to a JC can consider applying through DSA-JC based on
 your achievements and talents. You can also apply through the Joint Admissions
 Exercise (JAE) after the release of your GCE O-level results if you cannot
@@ -30,26 +30,23 @@ decide at this juncture.</p>
 </p>
 <p></p>
 <h4><strong>DSA-JC ENGAGEMENT SESSION</strong></h4>
-<p>The College will be conducting a DSA-JC engagement session for interested
-students (via MS Teams) on <strong>15 May 2025</strong> (Thursday) at <strong>4pm</strong>.
-Please find the details of the engagement session below:</p>
-<p>You may click on this <a href="https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_ZmE0MWIwYmUtYjdiZS00ZmVlLWEzZmUtNTk0OWFkYTM2NzVi@thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22815a6667-2d25-43ac-88e8-6a13e390ee79%22%7d&amp;anon=true&amp;deeplinkId=867f4dde-ea6b-4d7c-a172-a9deff316c45" rel="noopener nofollow" target="_blank">link</a>,
-OR</p>
-<p>If you have the Microsoft Teams App, here are the details to enter:
-<br>Meeting ID: 411 669 005 691 7
-<br>Passcode: T9wV6w6L</p>
+<p>The college will be conducting a DSA-JC engagement session for interested
+students (via <strong>Google Meet</strong>) on <strong>Thursday, 14 May 2026 at 4pm (SGT).</strong>
+</p>
+<p>The details of the engagement session will be updated soon.</p>
+<p></p>
 <p></p>
 <h4><strong>ADMISSION CRITERIA</strong></h4>
 <p>You are eligible if you are currently a Secondary 4 (Express) and Secondary
-5 (Normal Academic) student in our mainstream schools. You can apply through
-the following DSA domains:</p>
+5 (Normal) student in our mainstream schools. You can apply through the
+following DSA domains:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA – Performing Arts</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese Drama, Choir, Concert Band, English Drama, Guitar Ensemble, Modern
-Dance, String Ensemble</p>
+<p>Choir, Concert Band, Guitar Ensemble, Modern Dance, String Ensemble, Chinese
+Drama, English Drama</p>
 </li>
 </ul>
 </li>
@@ -95,13 +92,13 @@ areas:</p>
 <p></p>
 <p><strong>CCA - Performing Arts</strong>
 </p>
-<p>1. Chinese Drama
-<br>2. Choir
-<br>3. Concert Band
-<br>4. English Drama
-<br>5. Guitar Ensemble
-<br>6. Modern Dance
-<br>7. String Ensemble</p>
+<p>1. Choir
+<br>2. Concert Band
+<br>3. Guitar Ensemble
+<br>4. Modern Dance
+<br>5. String Ensemble
+<br>6. Chinese Drama
+<br>7. English Drama</p>
 <p></p>
 <p><strong>CCA - Sports</strong>
 </p>
