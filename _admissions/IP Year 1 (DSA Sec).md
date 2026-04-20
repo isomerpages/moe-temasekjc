@@ -43,7 +43,7 @@ variant: markdown
 </tbody></table><table border="1">
 <tbody><tr>
 <th bgcolor="MediumSeaGreen">
-<p>TALENT AREA</p>
+<p>TALENT AREA </p>
 </th>
 <th bgcolor="MediumSeaGreen">
 <p>SELECTION CRITERIA</p>
@@ -56,7 +56,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>● Chinese Language*
 <br>● English Language
-<br>● Mathematics
+<br>● Mathematics   
 <br>● Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ variant: markdown
 </tbody>
 </table>
 			<p>*Students who enrol through <b>DSA-Chinese Language</b> will need to:
-<br>1. Take up Chinese Literature as one of their examinable subjects at IP3 &amp; IP4
+<br>1. Take up Chinese Literature <u>as one of their examinable subjects</u> at IP3 &amp; IP4
 <br>2. Join Chinese Language Elective Programme at Secondary Level (CLEP-Sec) at IP3 &amp; IP4.
 
 For more details on CLEP-Sec, please refer to the following website:
@@ -153,7 +153,7 @@ audition to:
 <p><strong>Performing Arts - Concert Band</strong>
 </p>
 <p>We invite all skilled and passionate musicians to be a part of our strong musical and performance tradition in TJC.</p>
-<p>Students who enrol through DSA-Concert Band <strong>will join the <u>Symphonic Band CCA</u></strong> in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band. .</p>
+<p>Students who enrol through DSA-Concert Band <strong>will join the <u>Symphonic Band CCA</u></strong> in TJC. The instrument/s used during the audition will be their instrument/s allocated in the Symphonic Band.</p>
 <p></p>
 <table style="minWidth: 75px">
 </table><table border="1">
@@ -231,7 +231,7 @@ audition to:
 <br>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Very good CCA records
+<p>● Very good CCA records relevant to the talent area
 <br>● Participation and prior experience in relevant talent areas
 <br>● Demonstrate ability and skills relevant to the talent area</p>
 </td>
