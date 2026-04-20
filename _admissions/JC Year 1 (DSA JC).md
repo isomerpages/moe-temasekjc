@@ -139,7 +139,7 @@ Festival.</p>
 <p>▪ We also value experience in MOE’s secondary school Talent Development
 Programmes (TDP) such as the Geography/History TDP, and MOE’s Creative
 Arts Programme (CAP). Research experience in the Humanities (e.g. in MOE’s
-Humanities and Social Science Research Programmes) is also highly valued.</p>
+Humanities and Social Science Research Programmes) are also highly valued.</p>
 <p>▪ Applicants should be well read on national and global issues and have
 a strong personal voice.</p>
 <p>▪ More details of the Temasek Humanities Programme can be found here:
@@ -154,8 +154,8 @@ can include national/international Humanities-related competitions and
 programmes</p>
 <p></p>
 <p>▪ Summary of leadership experience</p>
-<p>▪ Shortlisted applicants will be notified via e-mail / telephone call
-to attend an in-person interview which will be conducted from <strong>19 May to 25 July 2025</strong>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
 </p>
 <p>▪ Successful applicants will be expected to apply for the MOE Humanities
 Scholarship and will be placed in the Temasek Humanities Programme</p>
@@ -166,16 +166,14 @@ Scholarship and will be placed in the Temasek Humanities Programme</p>
 <td rowspan="1" colspan="1">
 <p><strong>Leadership Excellence</strong>
 </p>
-<p>▪ We are looking for applicants who have demonstrated excellent leadership
-competencies and possess the potential to have a positive impact to TJC
-through their future contributions to the College.</p>
-<p>▪ Applicants should have held key leadership positions in their Secondary
-School Students' Council, Prefectorial Board, Uniformed Groups, other CCAs
-etc. Applicants who have made positive contributions and impact beyond
-their school will also be considered.</p>
-<p>▪ Most importantly, applicants should be excellent role models to their
-peers and possess positive personal values which are in line with our College
-values.</p>
+<p>▪ We are looking for applicants with excellent leadership skills and are
+role models for their peers.</p>
+<p>▪ Students who have held key leadership positions in the Students' Council,
+Prefectorial Board, Uniformed Groups or equivalent leadership groups will
+be preferred.</p>
+<p>▪ We are also looking for students who have outstanding achievements/contributions
+in leadership platforms. This could include outstanding results in various
+national / international competitions; leading community events etc.</p>
 <p>▪ Students who enrol through DSA-JC (Leadership) will have the opportunity
 to partake in various leadership platforms and will be assigned development
 opportunities to hone their public speaking and communication skills. DSA-Leadership
@@ -184,15 +182,15 @@ their journey in TJC.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>▪ Demonstration of leadership competencies and positive role modelling
-through prior experiences in secondary school or in the community</p>
+<p>▪ Achievements related to leadership involvement. This can include national
+/ international competitions; community events etc.</p>
 <p>▪ Academic performance from Sec 3 to 4 / 5</p>
 <p></p>
-<p>▪ Shortlisted applicants will be notified via e-mail / telephone call
-to attend an in-person interview which will be conducted from <strong>19 May to 25 July 2025</strong>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
 </p>
-<p>▪ Successful applicants will be expected to take up a leadership role
-in the TJC Students’ Council or equivalent leadership platforms.</p>
+<p>▪ Successful applicants will be expected to run for the TJC Students’
+Council.&nbsp;</p>
 <p></p>
 </td>
 </tr>
@@ -201,16 +199,16 @@ in the TJC Students’ Council or equivalent leadership platforms.</p>
 <p><strong>Music Elective Programme (MEP)</strong>
 </p>
 <p>▪ Students with strong musical interest and aptitude will have opportunities
-to hone their musical skills with well-equipped music facilities, and engage
+to hone their musical skills with well-equipped music facilities and engage
 in authentic learning platforms with distinguished TJC MEP alumni, local
 and foreign practitioners from renowned institutions and organisations
-as part of the TJC Visiting Artists’ Series.</p>
-<p>▪ The students will deepen their overall musicianship and develop essential
-21st-Century skills in music technology and sound recording through our
-robust programmes.</p>
-<p>▪ Successful applicants through DSA (MEP) must take MEP / the Music subject
-as a GCE A-level Examination subject, <strong>and </strong>join one of the
-Music Performing Arts CCA from JC1 to JC2.</p>
+as part of the TJC Visiting Artists’ Series. The students will deepen their
+overall musicianship and develop essential 21st-Century skills in music
+technology and sound recording through our robust programmes.</p>
+<p>▪ Successful applicants through DSA (MEP) must take MEP as a GCE A-level
+examination subject and join one of the Music Performing Arts CCA from
+JC1 to JC2.</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +222,7 @@ or international level</p>
 <p>Applicants should submit evidence of the above, together with other supporting
 documents as stated on the college website</p>
 <p>▪ Shortlisted applicants will be notified via e-mail and / or telephone
-to attend an in-person selection test and interview from <strong>19 May to 25 July 2025</strong>
+to attend an in-person selection test and interview from <strong>11 May to 13 July 2026</strong>
 </p>
 <p></p>
 </td>
@@ -232,17 +230,14 @@ to attend an in-person selection test and interview from <strong>19 May to 25 Ju
 </tbody>
 </table>
 <p></p>
-<p>Please note that Temasek JC is part of DSA-JC Phase 1.</p>
-<p>Applicants will receive notification from the school<strong> by 25 July if they are shortlisted</strong> for
-the trials/audition/interview for our school’s JC Direct School Admission
-(JC-DSA) selection.</p>
 <p></p>
 <h4><strong>APPLICATION PROCESS</strong></h4>
 <p><strong>1) Application Period</strong>
 </p>
-<p>Application opens on <u>7 May 2025</u>, and closes on <strong>Monday, 30 Jun 2025, (5.00 pm, Singapore time).</strong>
+<p>Application opens on <strong>Wednesday, <u>6 May 2026</u>,</strong> and
+closes on <strong>Friday, <u>26 Jun 2026</u>, (5.00 pm, Singapore time).</strong> 
 </p>
-<p>Please click <a href="https://dsa.tjc.edu.sg" rel="noopener nofollow" target="_blank">HERE</a> to
+<p>Please click <a href="https://go.gov.sg/tjcdsajc2026" rel="noopener nofollow" target="_blank">HERE</a> to
 apply.</p>
 <p><strong>2) Supporting Documents</strong>
 </p>
@@ -250,7 +245,7 @@ apply.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 3</strong> academic results slips (including CA/WA/EOY)</p>
+<p><strong>Sec 3</strong> academic results slips</p>
 </li>
 <li>
 <p><strong>Sec 4</strong> academic results slips (Till the latest available;
@@ -267,12 +262,10 @@ are applying to)</p>
 </ul>
 <p><strong>3) Selection / Interview &amp; Outcome Details</strong>
 </p>
-<p><strong>Only shortlisted applicants</strong> will be notified via e-mail
-/ telephone to attend in-person interview sessions/selection tests/trials,
-which will take place between <strong>19 May and 25 July 2025.</strong>
-</p>
-<p>All shortlisted applicants who have participated in the Phase 1 selection
-tests / trials will be informed of the outcome between <strong>30 July and 12 August 2025.</strong> 
+<p>Only shortlisted applicants will be notified via e-mail / telephone to
+attend in-person interview sessions/selection tests between <strong>11 May and 13 July 2026</strong>.</p>
+<p>All applicants will be notified of the outcome of their application via
+e-mail by <strong>14 August 2026.&nbsp;</strong>
 <br>
 </p>
 <h4><strong>Important Points</strong></h4>
@@ -292,23 +285,22 @@ DSA commitment without valid reason may be required to transfer out to
 another school.</p>
 <p>● The College will not release detailed results of the selection tests
 and interviews. The College also reserves the right not to reveal the results
-or reasons for non-selection. The College will not be able to provide the
-application results over the phone.</p>
+or reasons for non-selection.&nbsp;The College will not be able to provide
+the application results over the phone.&nbsp;</p>
 <p>● Please refer to MOE's website at <a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a> for more information.
 You are encouraged to read the Frequently Asked Questions (FAQs) provided
 at the website.</p>
 <p>● Parents and students are encouraged to choose schools wisely based on
 the students' aptitudes and strengths, taking into consideration the range
-of programmes offered in various schools.</p>
+of programmes offered in various schools.&nbsp;</p>
 <h4><strong>CONTACT US</strong></h4>
 <p>If you have any enquiries regarding the DSA application, please contact
 the following:</p>
 <p>● <strong>Performing Arts CCAs</strong> 
-<br>Ms Serene Tan - <a href="mailto:tan_su_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@moe.edu.sg</a>
+<br>Mr Irwan Wijaya Zainal – <a href="mailto:irwan_wijaya_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_wijaya_zainal@moe.edu.sg</a>
 </p>
 <p>● <strong>Sports CCAs</strong> 
-<br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
-<br>Ms Jonique Ang - <a href="mailto:ang_yam_hui_jonique@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yam_hui_jonique@moe.edu.sg</a>
+<br>Mr Irwan Wijaya Zainal – <a href="mailto:irwan_wijaya_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_wijaya_zainal@moe.edu.sg</a>
 </p>
 <p>● <strong>Humanities Programme</strong>
 <br>Ms Caroline Sng – <a href="mailto:sng_ming_hui_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_ming_hui_caroline@moe.edu.sg</a>
@@ -317,7 +309,7 @@ the following:</p>
 <br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
 </p>
 <p>● <strong>Music Elective Programm</strong>e
-<br>Dr Gary Laycock – <a href="mailto:laycock_eng_yeow_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laycock_eng_yeow_gary@moe.edu.sg</a>
+<br>Mr Marcus Tay - <a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hiong_kiat_marcus@moe.edu.sg</a>
 </p>
 <p>If you have any general enquiries regarding the DSA-JC application, please
 contact the TJC General Office at 64428066 during office hours or email:
