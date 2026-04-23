@@ -1,8 +1,9 @@
 ---
-title: JC Year 1 (DSA JC)
-permalink: /admissions/jc-year-1-dsa-jc/
-description: ""
+title: JC DSA
+permalink: /jc-dsa/
 variant: tiptap
+description: ""
+third_nav_title: Announcements
 ---
 <h3><strong>APPLICATION FOR DIRECT SCHOOL ADMISSION TO JC1 (INTAKE 2027)</strong></h3>
 <p>The application for the DSA-JC Exercise (2026) will commence from <strong>6 May 2026 to 28 Jun 2026 (5:00 pm, Singapore time).</strong>
@@ -71,14 +72,18 @@ Netball <strong>(Girls)</strong>, Shooting, Taekwondo, Volleyball <strong>(Girls
 </li>
 </ul>
 <p></p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>DSA Domains</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection Requirements</p>
 </th>
 </tr>
 <tr>
@@ -108,6 +113,19 @@ areas:</p>
 <br>8. Taekwondo
 <br>9. Volleyball (Girls)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>▪ Achievements related to the relevant performing arts / sports</p>
+<p>▪ Academic performance (eg. WA &amp; EOY results) from Sec 3 to 4 / 5</p>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person selection trial and interview which will be
+conducted from <strong>11 May to 13 July 2026</strong>
+</p>
+<p>▪ Successful applicants through DSA (Performing Arts / Sports) are expected
+to join and commit to the relevant Performing Arts or Sports CCA respectively
+for 2 years <strong>from JC1 to JC2</strong>
+</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,6 +148,20 @@ a strong personal voice.</p>
 </p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>▪ Consistently strong academic performance from Sec 3 to 4 / 5</p>
+<p>▪ Achievements and stretch experiences related to the Humanities. This
+can include national/international Humanities-related competitions and
+programmes</p>
+<p></p>
+<p>▪ Summary of leadership experience</p>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
+</p>
+<p>▪ Successful applicants will be expected to apply for the MOE Humanities
+Scholarship and will be placed in the Temasek Humanities Programme</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,6 +182,18 @@ students will also be mentored by their seniors and teachers throughout
 their journey in TJC.</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>▪ Achievements related to leadership involvement. This can include national
+/ international competitions; community events etc.</p>
+<p>▪ Academic performance from Sec 3 to 4 / 5</p>
+<p></p>
+<p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
+call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
+</p>
+<p>▪ Successful applicants will be expected to run for the TJC Students’
+Council.&nbsp;</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -166,6 +210,21 @@ technology and sound recording through our robust programmes.</p>
 examination subject and join one of the Music Performing Arts CCA from
 JC1 to JC2.</p>
 <p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should demonstrate passion and strong achievement in music
+through <u>one or more</u> of the following:</p>
+<p>▪ Distinctions in O Level Music or Higher Music in internal secondary
+school examinations</p>
+<p>▪ Musical leadership roles in CCA (eg. student conductor, section leader)</p>
+<p>▪ Achievements in musical domains (eg. performing, composing) at a national
+or international level</p>
+<p>Applicants should submit evidence of the above, together with other supporting
+documents as stated on the college website</p>
+<p>▪ Shortlisted applicants will be notified via e-mail and / or telephone
+to attend an in-person selection test and interview from <strong>11 May to 13 July 2026</strong>
+</p>
 <p></p>
 </td>
 </tr>
@@ -208,7 +267,6 @@ are applying to)</p>
 attend in-person interview sessions/selection tests between <strong>11 May and 13 July 2026</strong>.</p>
 <p>All applicants will be notified of the outcome of their application via
 e-mail by <strong>14 August 2026.&nbsp;</strong>
-<br>
 </p>
 <h4><strong>Important Points</strong></h4>
 <p>● Before the end of the Offer Stage, we will make Confirmed Offers to

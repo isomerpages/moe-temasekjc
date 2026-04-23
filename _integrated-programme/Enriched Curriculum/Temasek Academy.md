@@ -29,10 +29,18 @@ variant: markdown
 </center>
 	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TALA_2.jpg" style="width:80%;">
 			<center>Our students at a writing workshop run by Singlit station with Singaporean writer, Mr Daryl Yam</center>
- 
-  </div>
+
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: <a href="https://sites.google.com/moe.edu.sg/tjctala/homepage">TA(LA)</a> </p>	
+	
+</div>
 	</li> 
-  <li>
+  
+	
+	
+	
+	
+	
+<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">HUMANITIES</label>
     <div>
@@ -57,9 +65,17 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-    </div>
-	</li> 
-  <li>
+
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: <a href="https://sites.google.com/students.edu.sg/temasekacademyhumanities/home">TA(HU)</a> </p>			
+</div>
+</li> 
+  
+	
+
+	
+	
+	
+<li>
     <input type="checkbox" id="accordion3">
 		<label for="accordion3">CHINESE LANGUAGE</label>
     <div>
@@ -91,9 +107,22 @@ variant: markdown
  </tr>
 </tbody>
 </table>
-    </div>
-	</li> 
-  <li>
+			
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: <a href="https://sites.google.com/moe.edu.sg/tjc-tacl/%E9%A6%96%E9%A0%81">TA(CL)</a> </p>			
+			
+</div>
+</li> 
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">MATHEMATICS</label>
     <div>
@@ -101,11 +130,23 @@ variant: markdown
 			
 <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/Temasek_Academy__maths_.jpg" style="width:80%;"> 
 	
-			
-<p style="text-align: justify;"></p>
-    </div>
-	</li> 
-	<li>
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: <a href="https://sites.google.com/students.edu.sg/tjc-temasek-academy-math/home">TA(MA)</a> </p>	
+
+</div>
+</li> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">SCIENCE</label>
     <div>
@@ -148,6 +189,8 @@ variant: markdown
 
 <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/THINK%20Challenge%20Sponsors.png" style="width:85%;">
 
- </div>
-	</li> 
-	</ul>
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: <a href="https://sites.google.com/moe.edu.sg/tjcipscience">TA(SC)</a> </p>				
+			
+</div>
+</li> 
+</ul>
