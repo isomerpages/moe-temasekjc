@@ -29,7 +29,11 @@ variant: markdown
 </center>
 	   <img src="/images/Academic/Enriched%20Curriculum/Temasek%20Academy/TALA_2.jpg" style="width:80%;">
 			<center>Our students at a writing workshop run by Singlit station with Singaporean writer, Mr Daryl Yam</center>
- 
+
+<p style="text-align: justify;">For more information on what students can look forward to in the TA programme, visit their website: https://sites.google.com/moe.edu.sg/tjcipscience </p>	
+	
+	
+	
   </div>
 	</li> 
   <li>
