@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - JC DSA.md
       - Archive.md
       - Announcements/.keep
       - Announcements/Important Information for JC1 Students.md
