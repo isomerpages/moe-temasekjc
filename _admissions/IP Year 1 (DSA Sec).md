@@ -138,7 +138,7 @@ with a duration of 5 minutes in total.
 <br>Applicants are to email music scores of the audition repertoire at least <strong>2 working days <u>before</u></strong> the
 audition to:
 <br>
-<br>Ms Abigail Sim (abigail_sim_shin_yi@moe.edu.sg)
+<br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg)
 <br><em>and</em>
 <br>Mr Marcus Tay (tay_hiong_kiat_marcus@moe.edu.sg)
 <br>
@@ -499,7 +499,8 @@ contact:</p>
 <p>• Science: Mr Low Kian Seh <a href="mailto:low_kian_seh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kian_seh@moe.edu.sg</a>
 </p>
 
-<p>• MEP: Ms Abigail Sim <a href="mailto:abigail_sim_shin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_sim_shin_yi@moe.edu.sg</a> &amp;
+<p>• MEP: Ms Tan
+Jeng Suan <a href="mailto:tan_jeng_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jeng_suan@moe.edu.sg</a> &amp;
 Mr Marcus Tay <a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hiong_kiat_marcus@moe.edu.sg</a>
 </p>
 
