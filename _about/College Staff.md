@@ -49,13 +49,7 @@ variant: markdown
     <td>Art<br></td>
     <td><a href="mailto:liau_shu_juan@moe.edu.sg">liau_shu_juan@moe.edu.sg</a><br></td>
   </tr>	
-  <tr>
-    <td>Mdm<br></td>
-    <td>Nurhuda <br></td>
-    <td>Teacher<br></td>
-    <td>Art<br></td>
-    <td><a href="mailto:nurhuda_mohamed_khamis@moe.edu.sg">nurhuda_mohamed_khamis@moe.edu.sg</a><br></td>
-  </tr>
+  
  <tr>
     <td>Dr<br></td>
     <td>Gary Laycock<br></td>
