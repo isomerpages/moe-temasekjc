@@ -19,9 +19,9 @@ Our vision as a Language Arts department is to guide and empower our students to
 
 <p style="text-align: justify;">Language Arts focuses on a detailed analysis of literary and non-literary texts as well as essential comprehension and essay-writing skills. Students also work on projects that emphasise inter-disciplinary learning as students adapt literary texts, work on independent research, and hone their language skills through a range of creative contexts. Our Language Arts syllabus is aligned with MOE’s national English Language Syllabus 2020 and extends beyond the syllabus to stretch our students’ learning. </p>
 
-|   |   |
+|   |   | 
 |:-:|:-:|
-| <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP1_Blackout%20poem.png" style="width:200px">Digital art work and blackout poem created by an IP1 student  |  <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IP2_MOV%20adaptation.jpeg" style="width:120px">An adaptation of The Merchant of Venice by our IP2 students in 2019  |
+| <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IPLA_Poetry_1.png" style="width:200px">Poetry written by our 2025 IP1 students.  |  <img src="/images/Academic/Enriched%20Curriculum/Language%20Arts/IPLA_Poetry_2.png" style="width:120px">  |
 
 <p style="text-align: justify;">The Language Arts syllabus is designed to facilitate spiral progression in language learning and highlight connections to real-world issues. Please see the table below for a description of the focus areas for each level:</p>
 
