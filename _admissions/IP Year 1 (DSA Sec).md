@@ -133,7 +133,7 @@ with a duration of 5 minutes in total.
 <br>
 <br>For any enquires, please email: <br>Ms Tan Jeng Suan (tan_jeng_suan@moe.edu.sg) and <br>Mr Marcus Tay (tay_hiong_kiat_marcus@moe.edu.sg).
 
-Applicants who are further shortlisted will attend an <strong>interview.</strong>
+<br>Applicants who are further shortlisted will attend an <strong>interview.</strong>
 </p>
 </td>
 </tr>
