@@ -21,13 +21,8 @@ sections:
       variant: image
   - infopic:
       title: Direct School Admission (Secondary) for 2027 IP1 Intake
-      subtitle: JOIN US VIA GOOGLE MEET!
       id: infopic
-      description: "ENGAGEMENT SESSION ON 30 APRIL, 4PM: Please note that registration
-        is NOT REQUIRED. Kindly click the link below on the day itself to join
-        the Google Meet."
-      button: CLICK HERE TO JOIN
-      url: https://meet.google.com/jop-nedh-gci
+      description: Engagement Video Coming Soon!
       image: /images/Secondary.png
       alt: Image alt text
   - infopic:
