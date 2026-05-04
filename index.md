@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: JUNIOR COLLEGE
       button: Admissions (JC Year 1)
-      url: /admissions/jc-year-1-dsa-jc
+      url: https://www.temasekjc.moe.edu.sg/jc-year-1-dsa-jc/
       image: /images/jp-pic.jpg
       alt: Image alt text
   - infopic:
