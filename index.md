@@ -22,9 +22,11 @@ sections:
   - infopic:
       title: Direct School Admission (Secondary) for 2027 IP1 Intake
       id: infopic
-      description: Engagement Video Coming Soon!
+      description: To View Engagement Video
       image: /images/Secondary.png
       alt: Image alt text
+      button: Click here
+      url: /ip-dsa-engagement-talks/
   - infopic:
       title: INTEGRATED  PROGRAMME
       button: Admissions (IP Year 1)
