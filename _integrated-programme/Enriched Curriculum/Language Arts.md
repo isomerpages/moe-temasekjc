@@ -46,7 +46,7 @@ beyond the syllabus to stretch our students’ learning.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Academic/Enriched Curriculum/Language Arts/IPLA_Poetry_1.png">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/Academic/Enriched Curriculum/Language Arts/IPLA_Poetry_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -58,7 +58,7 @@ beyond the syllabus to stretch our students’ learning.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Enriched Curriculum/Language Arts/IPLA_Poetry_3.png">
+<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Academic/Enriched Curriculum/Language Arts/IPLA_Poetry_3.png">
 </div>
 </th>
 </tr>
