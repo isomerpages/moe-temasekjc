@@ -39,11 +39,11 @@ Move from Bedok to Tampines, as well as the 2026 Pre-University Seminar.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Student_Leaders_Investiture_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Student_Leaders_Investiture_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Student_Leaders_Investiture_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Student_Leaders_Investiture_2.png">
 </div>
 <p></p>
 </td>
@@ -89,7 +89,7 @@ Move from Bedok to Tampines, as well as the 2026 Pre-University Seminar.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Welcome_Message.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Welcome_Message.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,7 +135,7 @@ in chalk, for the incoming IP1s and JC1 students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Welcome_Ceremony.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Welcome_Ceremony.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,7 @@ on the first day of Orientation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Amphitheatre.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Amphitheatre.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ on the first day of Orientation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/NDP.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/NDP.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +271,7 @@ on the first day of Orientation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/NDP_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/NDP_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +317,7 @@ and songs.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Induction_Camp.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Induction_Camp.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,7 +363,7 @@ Council Induction Camp, held in March each year.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Tikis.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Tikis.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,11 +409,11 @@ unique various Orientation Groups (OGs).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/House_Weapons_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/House_Weapons_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/House_Weapons_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/House_Weapons_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -458,7 +458,7 @@ unique various Orientation Groups (OGs).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Cheerleading.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Cheerleading.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -504,7 +504,7 @@ across the four Houses.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Orientation.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Orientation.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,7 +549,7 @@ across the four Houses.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Orientation_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Orientation_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,7 +595,7 @@ for a photo.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Induction.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Temasek Experience/Student Council/Induction.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
