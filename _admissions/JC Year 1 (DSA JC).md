@@ -33,7 +33,10 @@ decide at this juncture.</p>
 <p>The college will be conducting a DSA-JC engagement session for interested
 students (via <strong>Google Meet</strong>) on <strong>Thursday, 14 May 2026 at 4pm (SGT).</strong>
 </p>
-<p>The details of the engagement session will be updated soon.</p>
+<h4><strong>VIA GOOGLE MEET<br>MEETING CODE</strong>: <a href="" rel="noopener nofollow" target="_blank">meet.google.com/gyn-ummv-qwj </a></h4>
+<p><strong>Note that registration is not required – simply join us on 14 May via the Google Meet!</strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <h4><strong>ADMISSION CRITERIA</strong></h4>
@@ -117,7 +120,7 @@ areas:</p>
 <p>▪ Academic performance (eg. WA &amp; EOY results) from Sec 3 to 4 / 5</p>
 <p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
 call to attend an in-person selection trial and interview which will be
-conducted from <strong>11 May to 13 July 2026</strong>
+conducted from <strong>29 Jun to 28 July 2026</strong>
 </p>
 <p>▪ Successful applicants through DSA (Performing Arts / Sports) are expected
 to join and commit to the relevant Performing Arts or Sports CCA respectively
@@ -155,7 +158,7 @@ programmes</p>
 <p></p>
 <p>▪ Summary of leadership experience</p>
 <p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
-call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
+call to attend an in-person interview which will be conducted from <strong>29 Jun to 28 July 2026</strong>
 </p>
 <p>▪ Successful applicants will be expected to apply for the MOE Humanities
 Scholarship and will be placed in the Temasek Humanities Programme</p>
@@ -187,7 +190,7 @@ their journey in TJC.</p>
 <p>▪ Academic performance from Sec 3 to 4 / 5</p>
 <p></p>
 <p>▪ <u>Shortlisted applicants</u> will be notified via e-mail / telephone
-call to attend an in-person interview which will be conducted from <strong>11 May to 13 July 2026</strong>
+call to attend an in-person interview which will be conducted from <strong>29 Jun to 28 July 2026</strong>
 </p>
 <p>▪ Successful applicants will be expected to run for the TJC Students’
 Council.&nbsp;</p>
@@ -222,7 +225,7 @@ or international level</p>
 <p>Applicants should submit evidence of the above, together with other supporting
 documents as stated on the college website</p>
 <p>▪ Shortlisted applicants will be notified via e-mail and / or telephone
-to attend an in-person selection test and interview from <strong>11 May to 13 July 2026</strong>
+to attend an in-person selection test and interview from <strong>29 Jun to 28 July 2026</strong>
 </p>
 <p></p>
 </td>
@@ -235,7 +238,7 @@ to attend an in-person selection test and interview from <strong>11 May to 13 Ju
 <p><strong>1) Application Period</strong>
 </p>
 <p>Application opens on <strong>Wednesday, <u>6 May 2026</u>,</strong> and
-closes on <strong>Friday, <u>26 Jun 2026</u>, (5.00 pm, Singapore time).</strong>
+closes on <strong>Sunday, <u>28 Jun 2026</u>, (5.00 pm, Singapore time).</strong>
 </p>
 <p>Please click <a href="https://go.gov.sg/tjcdsajc2026" rel="noopener nofollow" target="_blank">HERE</a> to
 apply.</p>
@@ -263,7 +266,7 @@ are applying to)</p>
 <p><strong>3) Selection / Interview &amp; Outcome Details</strong>
 </p>
 <p>Only shortlisted applicants will be notified via e-mail / telephone to
-attend in-person interview sessions/selection tests between <strong>11 May and 13 July 2026</strong>.</p>
+attend in-person interview sessions/selection tests between <strong>29 Jun to 28 July 2026</strong>.</p>
 <p>All applicants will be notified of the outcome of their application via
 e-mail by <strong>14 August 2026.&nbsp;</strong>
 </p>
