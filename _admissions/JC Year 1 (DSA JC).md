@@ -33,7 +33,7 @@ decide at this juncture.</p>
 <p>The college will be conducting a DSA-JC engagement session for interested
 students (via <strong>Google Meet</strong>) on <strong>Thursday, 14 May 2026 at 4pm (SGT).</strong>
 </p>
-<h4><strong>VIA GOOGLE MEET<br>MEETING CODE</strong>: <a href="" rel="noopener nofollow" target="_blank">meet.google.com/gyn-ummv-qwj </a></h4>
+<h4><strong>VIA GOOGLE MEET<br>MEETING CODE</strong>: <a href="" rel="noopener nofollow" target="_blank">meet.google.com/gyn-ummv-qwj</a></h4>
 <p><strong>Note that registration is not required – simply join us on 14 May via the Google Meet!</strong>
 </p>
 <p></p>
@@ -80,6 +80,14 @@ Netball <strong>(Girls)</strong>, Shooting, Taekwondo, Volleyball <strong>(Girls
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>DSA Domains</p>
@@ -227,6 +235,14 @@ documents as stated on the college website</p>
 <p>▪ Shortlisted applicants will be notified via e-mail and / or telephone
 to attend an in-person selection test and interview from <strong>29 Jun to 28 July 2026</strong>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
