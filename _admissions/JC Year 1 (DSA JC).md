@@ -34,7 +34,7 @@ decide at this juncture.</p>
 students (via <strong>Google Meet</strong>) on <strong>Thursday, 14 May 2026 at 4pm (SGT).</strong>
 </p>
 <p><strong>VIA GOOGLE MEET</strong>
-<br><strong>MEETING CODE:</strong>  <a href="" rel="noopener nofollow" target="_blank">meet.google.com/gyn-ummv-qwj </a>
+<br><strong>MEETING CODE:</strong>  <a href="" rel="noopener nofollow" target="_blank">meet.google.com/gyn-ummv-qwj</a>
 </p>
 <p><strong>Note that registration is not required – simply join us on 14 May via the Google Meet!</strong>
 </p>
