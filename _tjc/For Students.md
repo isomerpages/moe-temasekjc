@@ -1,5 +1,5 @@
 ---
-title: Students
+title: For Students
 permalink: /tjc/students/
 description: ""
 variant: markdown

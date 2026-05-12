@@ -2,8 +2,8 @@ collections:
   tjc:
     output: true
     order:
-      - Students.md
-      - Staff.md
-      - Parents.md
+      - For Students.md
+      - For Staff.md
+      - For Parents.md
       - Alumni.md
       - Contact Us.md

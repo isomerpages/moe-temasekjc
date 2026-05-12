@@ -1,5 +1,5 @@
 ---
-title: Parents
+title: For Parents
 permalink: /tjc/parents/
 description: ""
 variant: markdown
