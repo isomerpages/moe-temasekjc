@@ -12,10 +12,23 @@ sections:
         - title: Heritage Website
           description: ""
           url: https://www.memoriesoftj.com/
+        - title: Direct School Admission (JC) Engagement Session
+          description: CLICK TO JOIN THE MEET
+          url: meet.google.com/gyn-ummv-qwj
         - title: College Yearbook 2025
           description: ""
           url: https://drive.google.com/file/d/1dPtYw2Y5bOqhaxk_mxs1Cl1Xx8g3baSP/view?usp=sharing
       variant: image
+  - infopic:
+      title: Direct School Admission (JC) for 2027 intake
+      subtitle: ENGAGEMENT SESSION
+      id: infopic
+      description: "Join our Engagement Session by clicking the link below on 14
+        May!  NOTE: No registration is required"
+      button: Click here to join the session
+      url: meet.google.com/gyn-ummv-qwj
+      image: /images/JC_IG_2.png
+      alt: Image alt text
   - infopic:
       title: Direct School Admission (Secondary) for 2027 IP1 Intake
       id: infopic
