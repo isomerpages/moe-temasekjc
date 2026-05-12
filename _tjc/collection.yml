@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
-      - Staff.md
+      - For Staff.md
       - Parents.md
       - Alumni.md
       - Contact Us.md
