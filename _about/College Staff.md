@@ -515,12 +515,7 @@ variant: markdown
     <td><a href="mailto:ting_siew_choon@moe.edu.sg">ting_siew_choon@moe.edu.sg</a><br></td>
   </tr>
 
-<tr>
-    <td>Mrs<br></td>
-    <td>Tan Chiu Jin<br></td>
-    <td>Lead Teacher / Mathematics<br></td>
-    <td><a href="mailto:yeo_chiu_jin@moe.edu.sg">yeo_chiu_jin@moe.edu.sg</a><br></td>
-  </tr>
+
 
 
   
@@ -727,12 +722,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:soodikkodutthal_ganesan@moe.edu.sg">soodikkodutthal_ganesan@moe.edu.sg</a><br></td>
   </tr>
-<tr>
-    <td>Ms</td>
-    <td>Zhang Hao</td>
-    <td>Teacher</td>
-    <td><a href="mailto:zhang_hao@moe.edu.sg">zhang_hao@moe.edu.sg</a></td>
-  </tr>  
+ 
 <tr>
     <td>Ms</td>
     <td>Zhang Jiao</td>
