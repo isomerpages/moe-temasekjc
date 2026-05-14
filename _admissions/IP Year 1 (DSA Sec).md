@@ -87,6 +87,8 @@ https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec
 <br>
 Taking Chinese Literature at IP3 and IP4 supports students to continue to strengthen their linguistic proficiency while developing critical thinking, interpretive skills and an appreciation of literary works. This academic exposure strengthens their ability to engage with the language at a higher level.
 
+<br>
+<br>
 In addition, participation in the Chinese Language Elective Programme (Sec) at IP3 and IP4 provides an enriched learning experience beyond the curriculum where students take a deeper dive into Chinese language, culture and contemporary issues through interactive activities, research projects and external engagements.
 			
 			
