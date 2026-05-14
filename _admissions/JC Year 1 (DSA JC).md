@@ -327,7 +327,7 @@ the following:</p>
 <br>Mr Han Songguang - <a href="mailto:han_song_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_song_guang@moe.edu.sg</a>
 </p>
 <p>● <strong>Music Elective Programm</strong>e
-<br>Mr Marcus Tay - <a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hiong_kiat_marcus@moe.edu.sg</a>
+<br>Dr Gary Laycock - <a href="laycock_eng_yeow_gary@moe.edu.sg" rel="noopener nofollow" target="_blank">laycock_eng_yeow_gary@moe.edu.sg</a>
 </p>
 <p>If you have any general enquiries regarding the DSA-JC application, please
 contact the TJC General Office at 64428066 during office hours or email:
