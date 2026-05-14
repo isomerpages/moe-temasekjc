@@ -26,7 +26,7 @@ sections:
       description: "Join our Engagement Session by clicking the link below on 14
         May!  NOTE: No registration is required"
       button: Click here to join the session
-      url: meet.google.com/gyn-ummv-qwj
+      url: https://meet.google.com/gyn-ummv-qwj
       image: /images/JC_IG_2.png
       alt: Image alt text
   - infopic:
