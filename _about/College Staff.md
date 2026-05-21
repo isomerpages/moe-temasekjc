@@ -35,13 +35,7 @@ variant: markdown
     <td>Music<br></td>
     <td><a href="mailto:tay_hiong_kiat_marcus@moe.edu.sg">tay_hiong_kiat_marcus@moe.edu.sg</a></td>
   </tr>	
-<tr>
-    <td>Ms<br></td>
-    <td>Abigail Sim<br></td>
-    <td>Teacher<br></td>
-    <td>Aesthetics<br></td>
-    <td><a href="mailto:abigail_sim_shin_yi@moe.edu.sg">abigail_sim_shin_yi@moe.edu.sg</a></td>
-  </tr>		
+		
 <tr>
     <td>Ms<br></td>
     <td>Liau Shu Juan<br></td>
