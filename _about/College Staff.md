@@ -1327,9 +1327,9 @@ variant: markdown
     <td><a href="mailto:irene_ng_ee_yen@schools.gov.sg">irene_ng_ee_yen@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Miss</td>
+    <td>Ms</td>
     <td>Danyel Ong Wei </td>
-    <td>School Counsellor </td>
+    <td>Senior School Counsellor </td>
     <td><a href="mailto:danyel_ong_wei@moe.edu.sg">danyel_ong_wei@moe.edu.sg</a></td>
   </tr>
   
