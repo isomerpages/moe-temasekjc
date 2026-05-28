@@ -1329,7 +1329,7 @@ variant: markdown
   <tr>
     <td>Ms</td>
     <td>Danyel Ong Wei </td>
-    <td>Senior School Counsellor </td>
+    <td>School Counsellor </td>
     <td><a href="mailto:danyel_ong_wei@moe.edu.sg">danyel_ong_wei@moe.edu.sg</a></td>
   </tr>
   
