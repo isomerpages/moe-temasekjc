@@ -1257,7 +1257,15 @@ variant: markdown
     <td>Corporate Support Officer</td>
     <td><a href="mailto:aisha_bee_mohamed_ali@moe.edu.sg">aisha_bee_mohamed_ali@moe.edu.sg</a> </td>
   </tr>		
-	
+
+<tr>
+    <td>Ms </td>
+    <td>Ng Soi Cheng</td>
+    <td>Corporate Support Officer</td>
+    <td><a href="mailto:ng_soi_cheng@moe.edu.sg">ng_soi_cheng@moe.edu.sg</a> </td>
+  </tr>		
+
+
 	
 	
 	
@@ -1339,12 +1347,7 @@ variant: markdown
     <td>School Counsellor  </td>
     <td><a href="mailto:lim_jia_qi_jacqueline@moe.edu.sg">lim_jia_qi_jacqueline@moe.edu.sg</a> </td>
   </tr>
-<tr>
-    <td>Ms </td>
-    <td>Toh Ling Ling </td>
-    <td>School Counsellor  </td>
-    <td><a href="mailto:toh_ling_ling_a@moe.edu.sg">toh_ling_ling_a@moe.edu.sg</a> </td>
-  </tr>
+
 	
 <tr>
     <td>Mr </td>
@@ -1395,15 +1398,24 @@ variant: markdown
     <td>STEM Instructor </td>
     <td><a href="mailto:nur_ayuni_sudirmaji@moe.edu.sg">nur_ayuni_sudirmaji@moe.edu.sg</a></td>
   </tr>
+
 <tr>
-  </tr><tr>
     <td>Ms</td>
     <td>Peng Chai Tin </td>
     <td>STEM Instructor </td>
     <td><a href="mailto:peng_chai_tin@moe.edu.sg">peng_chai_tin@moe.edu.sg</a><br></td>
   </tr>    
 
+<tr>
+    <td>Mr</td>
+    <td>Irmady Khalid</td>
+    <td>STEM Instructor </td>
+    <td><a href="mailto:irmady_khalid@moe.edu.sg">irmady_khalid@moe.edu.sg</a><br></td>
+  </tr>    
 
+
+
+	
 <tr>
     <td>Mr<br></td>
     <td>Hairul Fazree<br></td>
