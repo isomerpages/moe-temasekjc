@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/tjc-student-hub/home" rel="noopener noreferrer nofollow" target="_blank">Student Hub </a>
+<p><a href="https://sites.google.com/moe.edu.sg/tjc-student-hub/home" rel="noopener noreferrer nofollow" target="_blank">Student Hub</a>
 </p>
 </li>
 </ul>
