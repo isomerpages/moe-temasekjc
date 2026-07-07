@@ -148,6 +148,13 @@ variant: markdown
     <td>Economics<br></td>
     <td><a href="mailto:kat_kar_hwee@moe.edu.sg">kat_kar_hwee@moe.edu.sg</a></td>
   </tr>
+  <tr>
+    <td>Miss<br></td>
+    <td>Linda Teo<br></td>
+    <td>Teacher<br></td>
+    <td>Economics<br></td>
+    <td><a href="mailto:teo_yan_ni_linda_a@moe.edu.sg">teo_yan_ni_linda_a@moe.edu.sg</a><br></td>
+  </tr>	
 <tr>
     <td>Ms<br></td>
     <td>Niki Lee Xiuli<br></td>
@@ -165,6 +172,13 @@ variant: markdown
   </tr>
   <tr>
     <td>Mr<br></td>
+    <td>Cherng Yang<br></td>
+    <td>Teacher<br></td>
+    <td>History<br></td>
+    <td><a href="mailto:lam_cherng_yang@moe.edu.sg">lam_cherng_yang@moe.edu.sg</a><br></td>
+  </tr>  
+<tr>
+    <td>Mr<br></td>
     <td>Hasim Hasan<br></td>
     <td>Teacher<br></td>
     <td>History<br></td>
@@ -172,7 +186,9 @@ variant: markdown
   </tr>
 
 
-	 
+	
+	
+	
 
 
 
@@ -910,11 +926,18 @@ variant: markdown
  <tr>
     <td>Ms </td>
     <td>Ivy Liew </td>
-    <td>Deputy Dean / Integrated Programme </td>
+    <td>Deputy Dean / Integrated Programme (IP)</td>
     <td>Biology </td>
     <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a> </td>
   </tr> 
-
+ <tr>
+    <td>Mr </td>
+    <td>Adrian Yang </td>
+    <td>Deputy Dean / Junior College (JC) </td>
+    <td>Physics </td>
+    <td><a href="mailto:yang_weizheng_adrian@moe.edu.sg">yang_weizheng_adrian@moe.edu.sg</a> </td>
+  </tr>
+	
 <tr>
     <td>Mrs<br></td>
     <td>Gan Miao Hui<br></td>
@@ -1032,7 +1055,14 @@ variant: markdown
     <td>Chemistry<br></td>
     <td><a href="mailto:nam_aileen@moe.edu.sg">nam_aileen@moe.edu.sg</a><br></td>
   </tr> 
-<tr>
+  <tr>
+    <td>Dr<br></td>
+    <td>Gary Ding<br></td>
+    <td>Teacher<br></td>
+    <td>Chemistry<br></td>
+    <td><a href="mailto:ding_chi_ying_gary@moe.edu.sg">ding_chi_ying_gary@moe.edu.sg</a><br></td>
+  </tr> 
+	<tr>
     <td>Ms<br></td>
     <td>Elling Lee<br></td>
     <td>Teacher<br></td>
@@ -1306,7 +1336,13 @@ variant: markdown
     <td>Operations Support Officer<br></td>
     <td><a href="">NIL</a><br></td>
   </tr>
-
+<tr>
+    <td>Mr<br></td>
+    <td>Rifaei<br></td>
+    <td>Operations Support Officer<br></td>
+    <td><a href="">NIL</a><br></td>
+  </tr>
+	
 
   <tr>
     <td>Mdm<br></td>
@@ -1326,6 +1362,13 @@ variant: markdown
     <td>Operations Support Officer<br>(JC Science Lab)</td>
     <td><a href="">NIL</a><br></td>
   </tr>	
+<tr>
+    <td>Mdm<br></td>
+    <td>Kwan<br></td>
+    <td>Operations Support Officer<br>(IP Science Lab)</td>
+    <td><a href="">NIL</a><br></td>
+  </tr>	
+	
 	
 	
   <tr>
@@ -1337,7 +1380,7 @@ variant: markdown
   <tr>
     <td>Ms</td>
     <td>Danyel Ong Wei </td>
-    <td>School Counsellor </td>
+    <td>Senior School Counsellor </td>
     <td><a href="mailto:danyel_ong_wei@moe.edu.sg">danyel_ong_wei@moe.edu.sg</a></td>
   </tr>
   
