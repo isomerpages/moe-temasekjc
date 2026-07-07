@@ -35,8 +35,8 @@ variant: markdown
 <tbody>
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Mr%20Lee%20Suen%20Ming%20Photo%20Member.jpg" style="width:100px">Mr Lee Suen Ming<br>Chairman</td>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Member</td>
-<td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/edmund%20twohill.jpg" style="width:100px">Mr Edmund Twohill<br>Member</td>    
+    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Vice-Chairperson</td>
+<td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/edmund%20twohill.jpg" style="width:100px">Mr Edmund Twohill<br>Vice-Chairperson</td>    
   </tr>
   <tr>
   <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Liu_Earnler.png" style="width:85px">Mr Liu Earnler<br> Honorary Secretary<br>Principal of Temasek JC</td>
@@ -49,19 +49,16 @@ variant: markdown
   <tr>
     <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/maureen%20tseng.jpg" style="width:100px">Ms Maureen Tseng<br>Member</td>
 <td style="text-align: center;">		
-		</td><td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/edmund%20twohill.jpg" style="width:100px">Mr Edmund Twohill<br>Member</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/linda%20heng.jpeg" style="width:100px">Ms Linda Heng<br>Member</td>
-<td style="text-align: center;">
-    </td><td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Prof%20David%20Tan%20Photo%20Member.jpg" style="width:100px">Prof David Tan<br>Member</td>
+		</td><td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Prof%20David%20Tan%20Photo%20Member.jpg" style="width:100px">Prof David Tan<br>Member</td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Khairul_Anwar.png" style="width:100px">Mr Khairul Anwar<br>Member</td>
 <td style="text-align: center;">
     </td><td style="text-align: center;"><img src="/images/About/College%20Advisory%20Committee/Loh_Woon_Yen.png" style="width:100px">Ms Loh Woon Yen
 <br>Member</td>
-	</tr>		
+  </tr>
+
+	
 
 		
   
