@@ -44,7 +44,7 @@ variant: markdown
     <div>
 			<p style="text-align: justify;">1.  On-line Application Form</p>
 			<p style="text-align: justify;">Interested students are to submit the online application form and relevant supporting documents as indicated below, to the College by <b>Friday, 16 October 2026 (12.00pm, Singapore time)</b>. Application received by fax and/or email as well as late applications will <b><u>NOT</u></b> be considered.</p>
-			<p style="text-align: justify;">Click on this&nbsp;<a href="Returning Singaporeans &amp; International Students (Intake 2027) - https://form.gov.sg/6a45f26e1f00c45d5759f43a" target="_blank">link</a>&nbsp;to proceed with the online&nbsp;application. The application form should take approximately 20 minutes to&nbsp;complete.</p>
+			<p style="text-align: justify;">Click on this&nbsp;<a href="https://form.gov.sg/6a45f26e1f00c45d5759f43a" target="_blank">link</a>&nbsp;to proceed with the online&nbsp;application. The application form should take approximately 20 minutes to&nbsp;complete.</p>
 			<p style="text-align: justify;">2. <u>Supporting Documents</u> (Please pdf and upload as one file, size limit 7MB)</p>
 			<ul>
 				<li>Copy of Applicant’s Passport/ Student’s Pass/ NRIC (where applicable)</li>
