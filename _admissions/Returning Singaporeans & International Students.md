@@ -8,7 +8,7 @@ variant: markdown
 
 <h5>APPLICATION FOR ADMISSION OF RETURNING SINGAPOREAN (RS) &amp; INTERNATIONAL STUDENTS (IS) JC YEAR 1 - INTAKE 2027</h5>
 
-<p style="text-align: justify;"></p><center><b>Applications for RS and IS Intake 2026 will commence from: <br>9 July 2026 to 16 October 2026</b></center>
+<p style="text-align: justify;"></p><center><b>Applications for RS and IS Intake 2027 will commence from: <br>9 July 2026 to 16 October 2026</b></center>
 
 
 <p style="text-align: justify;">Admission of into mainstream schools is subject to availability of school vacancies, the student meeting the school’s admission criteria and the student’s successful application of a Student’s Pass (STP) from the Immigration &amp; Checkpoints Authority (ICA), if necessary.&nbsp;</p>
