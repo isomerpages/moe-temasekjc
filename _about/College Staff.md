@@ -1418,12 +1418,7 @@ variant: markdown
 
 
 
-<tr>
-    <td>Mdm<br></td>
-    <td>Arinah<br></td>
-    <td>STEM Instructor </td>
-    <td><a href="siti_arinah_abdul_rahman@moe.edu.sg">siti_arinah_abdul_rahman@moe.edu.sg</a><br></td>
-  </tr>
+
 <tr><td>Ms<br></td>
     <td>Lim Ting<br></td>
     <td>STEM Instructor </td>
