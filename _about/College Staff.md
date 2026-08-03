@@ -299,7 +299,13 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
+<tr>
+    <td>Ms<br></td>
+    <td>Sasha Kaur Dhillon<br></td>
+    <td>Deputy Dean/ Junior College (JC) <br></td>
+    <td><a href="mailto:sasha_kaur_dhillon@moe.edu.sg">sasha_kaur_dhillon@moe.edu.sg</a></td>
+		</tr> 
+<tr>
     <td>Ms<br></td>
     <td>Faye Tan<br></td>
     <td>HOD /<br>English Language</td>
@@ -361,12 +367,7 @@ variant: markdown
     <td>Teacher<br></td>
     <td><a href="mailto:samuel_liu_yi_xiang@moe.edu.sg">samuel_liu_yi_xiang@moe.edu.sg</a><br></td>
   </tr>
-  <tr>
-    <td>Ms<br></td>
-    <td>Sasha Kaur Dhillon<br></td>
-    <td>Teacher<br></td>
-    <td><a href="mailto:sasha_kaur_dhillon@moe.edu.sg">sasha_kaur_dhillon@moe.edu.sg</a></td>
-		</tr>
+
 
 
 
@@ -509,13 +510,20 @@ variant: markdown
   <tr>
     <td>Mr<br></td>
     <td>Jonathan Lau<br></td>
-    <td>HOD / ICT<br></td>
+    <td>HOD / Technology for Learning (1)<br></td>
     <td><a href="mailto:lau_wee_lip_jonathan@moe.edu.sg">lau_wee_lip_jonathan@moe.edu.sg</a><br></td>
   </tr>
 <tr>
     <td>Mr<br></td>
+    <td>Goh Ching Tard <br></td>
+    <td>HOD/ Technology for Learning (2)<br></td>
+    <td><a href="mailto:goh_ching_tard@moe.edu.sg">goh_ching_tard@moe.edu.sg</a><br></td>
+  </tr>
+	
+<tr>
+    <td>Mr<br></td>
     <td>Chew Yi Yang<br></td>
-    <td>Deputy Head / ICT<br></td>
+    <td>Deputy Head / Technology for Learning<br></td>
     <td><a href="mailto:chew_yi_yang@moe.edu.sg">chew_yi_yang@moe.edu.sg</a><br></td>
   </tr> 
 <tr>
