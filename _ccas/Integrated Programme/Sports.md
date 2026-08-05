@@ -22,8 +22,8 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Temasek%20Experience/Sports/Badminton.png" style="width:307px"></td>
-		<td><p><b>Teacher I/C</b><br>Mrs Gay-Lin Wenjie
-</p><p><b>Email</b><br>lin_wenjie_a@moe.edu.sg</p></td>
+		<td><p><b>Teacher I/C</b><br>Mrs Evelyn
+</p><p><b>Email</b><br>ng_ee_lin_evelyn@moe.edu.sg</p></td>
   </tr>
 </tbody>
 </table>
