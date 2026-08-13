@@ -162,7 +162,21 @@ variant: markdown
     <td>Ms Ivy Liew <br></td>
     <td><a href="mailto:ivy_liew_wei_xin@moe.edu.sg">ivy_liew_wei_xin@moe.edu.sg</a><br></td>
   </tr>
-	
+
+
+<tr>
+    <td>Deputy Dean / Junior College (JC) <br></td>
+    <td>Ms Sasha Kaur Dhillon <br></td>
+    <td><a href="mailto:sasha_kaur_dhillon@moe.edu.sg">sasha_kaur_dhillon@moe.edu.sg</a><br></td>
+  </tr>	
+<tr>
+    <td>Deputy Dean / Junior College (JC) <br></td>
+    <td>Mr Adrian Yang <br></td>
+    <td><a href="mailto:yang_weizheng_adrian@moe.edu.sg">yang_weizheng_adrian@moe.edu.sg</a><br></td>
+  </tr>	
+
+
+
   <tr>
     <td>Deputy Head / CCE <br></td>
     <td>Mr Koh Rui Yang<br></td>
